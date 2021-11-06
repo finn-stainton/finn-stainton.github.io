@@ -19,7 +19,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/
+      link: https://www.linkedin.com/in/finn-stainton-202525214
     - icon: fontawesome/brands/github
       link: https://github.com/finn-stainton
 copyright: Copyright &copy; 2021 Finn Stainton
