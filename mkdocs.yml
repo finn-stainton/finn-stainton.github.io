@@ -1,0 +1,25 @@
+site_name: Finn Stainton
+theme:
+  name: material
+  palette: 
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - toc.integrate
+plugins:
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/finn-stainton-202525214
+    - icon: fontawesome/brands/github
+      link: https://github.com/finn-stainton
+copyright: Copyright &copy; 2021 Finn Stainton
