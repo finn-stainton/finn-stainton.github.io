@@ -33,7 +33,6 @@ theme:
     - toc.integrate
 plugins:
   - search
-  - git-revision-date-localized
 extra:
   social:
     - icon: fontawesome/brands/linkedin
