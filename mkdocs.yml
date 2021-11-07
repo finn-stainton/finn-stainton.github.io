@@ -9,13 +9,13 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: cyan
+      primary: black
       accent: cyan
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: cyan
+      primary: black
       accent: cyan
       toggle:
         icon: material/weather-sunny
@@ -25,7 +25,7 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    logo: logo
+    logo: import_contacts
   features:
     - navigation.instant
     - navigation.tabs
