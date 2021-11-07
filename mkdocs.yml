@@ -25,7 +25,7 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    logo: material/import_contacts
+    logo: material/library
   features:
     - navigation.instant
     - navigation.tabs
