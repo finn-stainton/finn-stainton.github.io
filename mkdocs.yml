@@ -9,16 +9,16 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: cyan
+      accent: cyan
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: red
-      accent: red
+      primary: cyan
+      accent: cyan
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to light mode
   font:
     text: Roboto
@@ -33,13 +33,14 @@ theme:
     - toc.integrate
 plugins:
   - search
+  - git-revision-date-localized
 extra:
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/finn-stainton-202525214
     - icon: fontawesome/brands/github
       link: https://github.com/finn-stainton
-copyright: Copyright &copy; 2021 Finn Stainton. I cannot guarantee all content will be free of errors or copyright protections. 
+copyright: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. I cannot guarantee all content will be free of errors or copyright protections. 
 
 # nav:
 #   - Home:

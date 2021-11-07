@@ -7,7 +7,7 @@ Hi There! I'm Finn Stainton and you have some how landed in my Working Notes, Ra
 1. Knowledge, which are my attempt to remember learnings from university, books and hands on work of a specific area.
 2. Projects, which are write ups of personal projects
 3. Thoughts, which are working notes on long-term ideas and general happenings
-4. Misc, which as the name implies, don't fit else where. They are mainly tear downs and reviews.
+4. Misc, which as the name implies, don't fit else where. They are mainly tear downs, repairs and reviews.
 
 ## About
 
