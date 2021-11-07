@@ -10,13 +10,11 @@ theme:
   palette:
     - scheme: default
       primary: black
-      accent: cyan
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       primary: black
-      accent: cyan
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -40,6 +38,10 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/finn-stainton
 copyright: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. I cannot guarantee all content will be free of errors or copyright protections. 
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji 
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 # nav:
 #   - Home:
