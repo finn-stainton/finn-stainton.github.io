@@ -1,3 +1,5 @@
+# Electronics
+
 Fundamentals of analogue electronics, which includes semiconductor physics, PN junctions, diodes, bipolar junction transistors, junction field effect transistors, Metal Oxide Semiconductor Field Effect Transistors, and their application in linear and nonlinear circuits.
 
 1. Analyse electronic circuits using Nodal analysis and Thevenin’s Theorem
@@ -27,5 +29,7 @@ Fundamentals of analogue electronics, which includes semiconductor physics, PN j
 - Nonlinear operational amplifier
 
 - Linear and switch mode power supply design
+
+## Books
 
 A.P.Malvino and D.J.Bates, "Electronic Principles". McGraw-Hill.

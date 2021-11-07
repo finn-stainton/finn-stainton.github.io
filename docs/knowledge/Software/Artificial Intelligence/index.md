@@ -1,1 +1,1 @@
-[[Computer Science]]
+# Artificial Intelligence
