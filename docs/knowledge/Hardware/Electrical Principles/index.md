@@ -1,4 +1,4 @@
-# Electrical Priciples
+# Electrical Principles
 
 - State and apply the first principles of electrostatics. (Range: Coulombs Law, Gauses’ Law, Capacitance derivation, Concept of electric field
 -Solve DC circuit problems using fundamental circuit theorems (Range: Laws of Ohm and Kirchoff, Theorems of Thevenin and Norton. Superposition)
