@@ -20,11 +20,13 @@
 ## Lists
 
 Associated Functions: 
+
 Associated Predicates: 
 
 ## Sets
 
 Associated Functions: 
+
 Associated Predicates: 
 
 ## Tables
