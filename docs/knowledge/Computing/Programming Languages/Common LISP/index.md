@@ -1,4 +1,14 @@
-# LISP
+# Common LISP
+
+### Notes from:
+
+- COMMON LISP: A Gentle Introduction to Symbolic Computation, David S. Touretzky
+
+### Tools Used:
+- Emacs
+- Common Lisp Steel 
+- Slime
+
 
 ### Numbers
 
@@ -18,27 +28,17 @@
 
 ### Predicates
 
-### NUMBERP
 
-### SYMBOLP
-
-### ZEROP
-
-### ODDP
-
-### EVENP
-
-### EQUAL
 
 ### EQ
 
 ### EQL
 
-### EQUALP
+
 
 ### HALF
 
-### ONEMOREP
+
 
 ### NOT
 
@@ -51,10 +51,6 @@
 ### XOR
 
 ### DEFUN
-
-### Lists
-
-### Con Cells
 
 ### LENGTH
 
@@ -101,28 +97,36 @@ Returns the $n^{th}$ successibe cdr of a list.
 
 0 -> the lists
 to many -> end of the con cell i.e. NIL
-`(nthcdr 0 '(a b c)) => (a b c)`
-`(nthcdr 1 '(a b c)) => (b c)`
-`(nthcdr 2 '(a b c)) => (c)`
-`(nthcdr 3 '(a b c)) => NIL`
+```lisp
+(nthcdr 0 '(a b c)) => (a b c)
+(nthcdr 1 '(a b c)) => (b c)
+(nthcdr 2 '(a b c)) => (c)
+(nthcdr 3 '(a b c)) => NIL
+```
 
 ### NTH
 Takes the **car** of the **nthcdr** of a list
-`(nth 0 '(a b c) => a`
-`(nth 1 '(a b c) => b`
-`(nth 2 '(a b c) => c`
-`(nth 3 '(a b c) => nil`
+```lisp
+(nth 0 '(a b c) => a
+(nth 1 '(a b c) => b
+(nth 2 '(a b c) => c
+(nth 3 '(a b c) => nil
+```
 
 ### LAST
 Returns the last con cell of a list
-`(last '(all is forgiven)) => (forgiven)`
-`(last '(a b c . d)) => (c . d)`
-`(last '(rosebud) =>`
-`(last '((a b c))) => `
+```lisp
+(last '(all is forgiven)) => (forgiven)
+(last '(a b c . d)) => (c . d)
+(last '(rosebud) =>
+(last '((a b c))) =>  
+```
 
 ### REMOVE
 removes an item from a list (normally all occurrences). Returns a new list without the members
-`(remove 'a '(b a n a n a)) => (b n n)`
+```lisp
+(remove 'a '(b a n a n a)) => (b n n)
+```
 
 is **Nondestructive**, Doesn't change any variable. Builts new chain of con cells
 
@@ -130,75 +134,9 @@ is **Nondestructive**, Doesn't change any variable. Builts new chain of con cell
 - unordered (order doesn't matter)
 - items appear only once
 - 
-### MEMEBER
-- Predicate, 
-- checks whether an item is a member of a list. 
-- Returns a sublist starting from the occurrence of the member being checked. Otherwise NIL. 
-- NEVER returns T
-`(member 'a '(b a n d)) => (a n d)`
 
 
-### UNION
-- takes to sets
-- returns a list of items which appear in *ether* set
-`> (union '(finger hand arm) '(toe finger foot leg))`
-`(FINGER HAND ARM TOE FOOT LEG)`
-- union with nil returns only the non-nil set (no NIL element)
-- a set union with itself returns itself (no duplicate elements)
-```lisp
-(defun add-vowels(L)
-	(union '(a e i o u) L)))
-```
 
-### INTERSECTION
-- takes two sets
-- returns a list of items appearing in *both* sets
-- or NIL if no items appear in both
-`(intersection ’(fred john mary) ’(sue mary fred)) => 
-(FRED MARY)`
-- intersection with nil is nil
-- set intersection with itself is all the elements of itself
-```lisp
-(defun contains-article-p(L)
-	(intersection '(and a the) L2))
-```
-
-### SET-DIFFERENCE
-- takes two sets
-- returns the remaining elements of the first set after elements which appear in the second set have been removed
-- not symmetric function (swapping set can have different outcomes)
-`> (set-difference '(alpha bravo charlie delta) '(bravo charlie)))`
-`(ALPHA DELTA)`
-
-### SUBSETP
-- returns T if one set is contained in another
-`(subsetp '(a i) '(a e i o u)) ⇒ t`
-`(subsetp '(a x) '(a e i o u)) ⇒ nil`
-
-### Tables
-- Also known as an association list (a-list)
-- Is a List of Lists
-- Each list is called an **entry**
-	- Car is the key
-```lisp 
-(setf words
-    ’((one un) 
-	  (two deux)
-      (three trois)
-      (four quatre)
-      (five cinq)))
-```
-### ASSOC
-- look up's an entry in a table given it's key
-- returns the entry (list) (have to use 'second' to get the *value*)
-`(assoc 'three words) => (three trois)`
-
-### RASSOC 
-- Reverse Assoc
-- look up's an element given the cdr of it (*value*)
-- table must be a list of dotted pairs `(cow . moo)`
-- `(rassoc '(moo) table)`
-- Returns as soon as it finds a match
 
 ### Tree
 
