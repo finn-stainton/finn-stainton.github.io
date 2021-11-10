@@ -28,7 +28,7 @@ theme:
     - navigation.instant
     - navigation.tabs
     # - navigation.indexes
-    - toc.integrate
+    - navigation.sections
 plugins:
   - search
 extra:
@@ -39,9 +39,13 @@ extra:
       link: https://github.com/finn-stainton
 copyright: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. I cannot guarantee all content will be free of errors or copyright protections. 
 markdown_extensions:
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji 
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.superfences 
+  - footnotes
+  - attr_list
+  - md_in_html
+
+
 
 # nav:
 #   - Home:

@@ -1,0 +1,1 @@
+All clocks suffer from clockdrift. Trying to synchroize clocks involves the transmission of of a message, which itself introduces inaccuracies sinse the tansit time is usally quite variable. 
