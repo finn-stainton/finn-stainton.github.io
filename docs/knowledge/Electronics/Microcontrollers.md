@@ -1,6 +1,6 @@
 # Microcontrollers
 
-1. Apply high-level (C) programming language in the development of microcontroller softwareat the register level.
+## 
 2. Design applications using the on-board input/output systems to communicate with and control external devices.
 3. Interface microcontrollers with common analogue and digital I/O devices.
 4. Use a microcontroller development platform with an in-circuit emulator
