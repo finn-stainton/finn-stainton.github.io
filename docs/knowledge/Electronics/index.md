@@ -4,22 +4,39 @@
 
 ## Analog Electronics
 
-- Nodal analysis
-- Thevenin’s Theorem
-- Semiconductor fundamentals
-- Diodes
-- Transistors
-- Transistor amplifiers
-- Transfer function, frequency response
+- [DC Circuits]()
+- [RC Circuits]()
+- [Nodal analysis]()
+- [Thevenin’s Theorem]()
+- [Semiconductor fundamentals]()
+- [Diodes]()
+- [Transistors]()
+- [Transistor amplifiers]()
+ <!-- Transfer function, frequency response -->
 - [Operational Amplifiers](./Opamps.md)
-- Power Supplies
+- Voltage Regulators
+- MOSFET Switchs
+- [Power Supplies](./Power Supplies.md)
 
 ## Digital Electronics
-- Combinational Logic Circuits
-- Flip-Flops
-- Sequential Circuits
-- Counters
-- Microcontrollers
+
+- [Combinational Logic Circuits]()
+- [Flip-Flops]()
+- [Sequential Circuits]()
+- [Counters]()
+- [Programmable Logic Devices (PLD)]()
+- [Memory]()
+
+## Microcontrollers
+
+- I/O
+- Interrupts
+- ADC
+- DAC
+- Serial Buses
+- Data Tables
+
+## Reference Tables
 
 ## Resources
 
