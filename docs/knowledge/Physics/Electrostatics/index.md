@@ -18,14 +18,14 @@
 ## Static electricity 
 ## Triboelectricity
 
- Coulombs Law 
+Coulombs Law 
 Gauses’ Law 
 Capacitance derivation 
 Concept of electric field
- Ohms Laws
- Kirchoff Laws
- Thevenin Theorem 
- Norton Theorem
+Ohms Laws
+Kirchoff Laws
+Thevenin Theorem 
+Norton Theorem
 
 
 ## See also

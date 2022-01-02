@@ -13,10 +13,10 @@
 - [Transistors]()
 - [Transistor amplifiers]()
  <!-- Transfer function, frequency response -->
-- [Operational Amplifiers](./Opamps.md)
+- [Operational Amplifiers]()
 - Voltage Regulators
 - MOSFET Switchs
-- [Power Supplies](./Power Supplies.md)
+- [Power Supplies]()
 
 ## Digital Electronics
 
@@ -29,12 +29,12 @@
 
 ## Microcontrollers
 
-- I/O
-- Interrupts
-- ADC
-- DAC
-- Serial Buses
-- Data Tables
+- [I/O]()
+- [Interrupts]
+- [ADC]()
+- [DAC]()
+- [Serial Buses]()
+- [Data Tables]()
 
 ## Reference Tables
 
