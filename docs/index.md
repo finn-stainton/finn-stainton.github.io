@@ -6,13 +6,13 @@ hide:
 
 # Welcome
 
-Hi There! I'm Finn Stainton and you have some how landed in my Working Notes, Ramblings, Ideas and Half Complete Project write ups. This website is inspired by “working with their garage door up,” mentality of being open with my current problems I'm pondering.
+Hi There! I'm Finn Stainton and you have some how landed in my working notes, ramblings, ideas and half complete project write ups. This website is inspired by   *working with the garage door up*, mentality of being open with my current problems I'm pondering.
 
-These notes are broken up into four categories
+This site is broken up into four categories, being
 
-1. [Knowledge](https://finn-stainton.github.io/knowledge), which are my attempt to remember learnings from university, books and hands on work of a specific area.
+1. [Knowledge](https://finn-stainton.github.io/knowledge), which are my attempt to  categorise learnings from university, books, videos and hands on work of a specific area.
 2. [Projects](https://finn-stainton.github.io/projects), which are write ups of personal projects
-3. [Thoughts](https://finn-stainton.github.io/thoughts), which are working notes on long-term ideas, articles and general happenings
+3. [Notes](https://finn-stainton.github.io/Notes), which are working notes on ideas/ problems, articles and general happenings
 4. [Misc](https://finn-stainton.github.io/misc), which as the name implies, don't fit else where. They are mainly tear downs, repairs and reviews.
 
 ## About

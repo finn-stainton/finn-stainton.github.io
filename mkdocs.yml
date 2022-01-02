@@ -5,6 +5,8 @@ site_author: Finn Stainton
 site_description: >-
   Personal Website
 
+repo_url: https://github.com/finn-stainton/finn-stainton.github.io
+repo_name: finn-stainton.github.io
 theme:
   name: material
   palette:
@@ -31,6 +33,7 @@ theme:
     # - navigation.sections
 plugins:
   - search
+  - git-revision-date
 extra:
   social:
     - icon: fontawesome/brands/linkedin
