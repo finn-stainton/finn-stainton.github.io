@@ -6,18 +6,34 @@ hide:
 
 # Welcome
 
-Hi There! I'm Finn Stainton and you have some how landed in my working notes, ramblings, ideas and half complete project write ups. This website is inspired by   *working with the garage door up*, mentality of being open with my current problems I'm pondering.
+Hi There! I'm Finn Stainton and you have some how landed in my second brain, working notes, ideas and unfinished project write ups. This website is inspired by   *working with the garage door up*, mentality of being open with my current problems I'm pondering.
 
-This site is broken up into four categories, being
+This site has two main categories, being:
 
-1. [Knowledge](https://finn-stainton.github.io/knowledge), which are my attempt to  categorise learnings from university, books, videos and hands on work of a specific area.
-2. [Projects](https://finn-stainton.github.io/projects), which are write ups of personal projects
-3. [Notes](https://finn-stainton.github.io/Notes), which are working notes on ideas/ problems, articles and general happenings
-4. [Misc](https://finn-stainton.github.io/misc), which as the name implies, don't fit else where. They are mainly tear downs, repairs and reviews.
+## [Projects](https://finn-stainton.github.io/Projects)
+Which is anywhere in the project lifecycle from ideas to write ups, project management to developer logs and everything inbetween of personal projects.
+
+!!! note
+
+    Posting notes to each project page is behid due to this webpage being new.
+
+## [Second Brain](https://finn-stainton.github.io/Second-Brain)
+Which is a collection of my learnings and discoveries of subjects I am interested in. It is aimed as a personal wiki/ knowledge base and is not intended to be a primary source. The best way to find content is to use the search bar above.
+
+!!! warning  "FYI"
+
+    Content in the Second Brain lags behid my current knowledge. Entries in the Second Brain may be incomplete, I may not have completed an entry or covered all material on the subject matter in an entry. An empty entry shows my intention of learning/ writing about a subject.  
+   
+## [Thoughts](https://finn-stainton.github.io/Thoughts)
+Which are working notes on ideas/ problems, articles and general happenings
 
 ## About
 
-Let me introduce myself, I'm a recently graduated software(Bachelor of Computer & Information Sciences)/ hobbyist hardware adventurer. Interested in creating life-enhancing software and being a great team member. Hobbies include electronics and hitting the trail.
+Let me introduce myself, I'm a recently graduated software/ hobbyist hardware adventurer. Interested in creating life-enhancing software and being a great team member. Hobbies include electronics and hitting the trail.
+
+### Education
+Bachelor of Computer & Information Sciences, Auckland University of Technology
+
 
 ## Skills
 
