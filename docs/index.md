@@ -8,7 +8,7 @@ hide:
 
 Hi There! I'm Finn Stainton and you have some how landed in my second brain, working notes, ideas and unfinished project write ups. This website is inspired by   *working with the garage door up*, mentality of being open with my current problems I'm pondering.
 
-This site has two main categories, being:
+This site has three main categories, being:
 
 ## [Projects](https://finn-stainton.github.io/Projects)
 Which is anywhere in the project lifecycle from ideas to write ups, project management to developer logs and everything inbetween of personal projects.
@@ -22,22 +22,24 @@ Which is a collection of my learnings and discoveries of subjects I am intereste
 
 !!! warning  "FYI"
 
-    Content in the Second Brain lags behid my current knowledge. Entries in the Second Brain may be incomplete, I may not have completed an entry or covered all material on the subject matter in an entry. An empty entry shows my intention of learning/ writing about a subject.  
+    Content in the Second Brain lags behid my current knowledge. Entries in the Second Brain may be incomplete, non-existent (currently) or they don't cover all material on a subject matter in an entry. An empty entry shows my intention of learning/ writing about a subject.  
    
 ## [Thoughts](https://finn-stainton.github.io/Thoughts)
-Which are working notes on ideas/ problems, articles and general happenings
+Which are working notes on ideas/ problems, articles and general happenings.
 
-## About
+---
+
+# About
 
 Let me introduce myself, I'm a recently graduated software/ hobbyist hardware adventurer. Interested in creating life-enhancing software and being a great team member. Hobbies include electronics and hitting the trail.
 
-### Education
-Bachelor of Computer & Information Sciences, Auckland University of Technology
+## Education
 
-
+- Bachelor of Computer & Information Sciences, Auckland University of Technology
+  
 ## Skills
 
-If you want to know about my skills, see my [Knowledge](https://finn-stainton.github.io/knowledge) and [Projects](https://finn-stainton.github.io/projects) sections or please visit my [Linkedin](https://www.linkedin.com/in/finn-stainton-202525214).
+If you want to know about my skills, see my [Second Brain](https://finn-stainton.github.io/Second-Brain) and [Projects](https://finn-stainton.github.io/Projects) sections or please visit my [Linkedin](https://www.linkedin.com/in/finn-stainton-202525214).
 
 ## Contact
 
