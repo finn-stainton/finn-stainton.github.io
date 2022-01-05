@@ -2,7 +2,7 @@
 hide:
   - navigation
 ---
-# Blog
+# Journal
 
 ## New Website, Nov 7, 2021
 
