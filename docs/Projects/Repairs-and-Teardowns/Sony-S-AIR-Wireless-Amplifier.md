@@ -1,4 +1,4 @@
-# S-AIR
+# Sony S-AIR Wireless Amplifier
 
 I came across this Sony S-AIR Amplifier while at the local waste recycling shop and thought it may be of interest. I had never heard of "S-AIR" before so was intrigued. 
 

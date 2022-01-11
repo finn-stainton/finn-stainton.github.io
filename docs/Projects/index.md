@@ -10,4 +10,4 @@ The main aim is to record learnings  throughout the lifespan of the project with
 
 !!! note
 
-    Posting notes to each project page is behid due to this webpage being new.
+    Most project write ups are empty due to this webpage being recently set up. Sorry for the inconvenience.
