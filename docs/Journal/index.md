@@ -11,6 +11,8 @@ Graduated from AUT with a Bachelor of Computer & Information Sciences, Double Ma
 
 The papers I enjoyed the most were the "hands on" development like Software Development Practice, where our team created a React app for people to find flats and flatmates, [check it out here](https://github.com/SDP-Flinder/flinder)
 
+Here is a table of the skills I learnt from each paper(ongoing).
+
 | Paper | Skills | Paper | Skills | Paper | Skills |
 | --- | --- | --- | --- | --- | --- |
 | Algorithm Design and Analysis |  | Applied Human Computer Interaction |  | Appiled Communication |  |  
