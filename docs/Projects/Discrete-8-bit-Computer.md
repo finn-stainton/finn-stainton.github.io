@@ -2,14 +2,14 @@
 
 Starting in 2018 after watching Ben Eater's videos on an 8-bit breadboard computer which sparked my interest in digital logic design. 
 
-<figure markdown> 
+<!-- <figure markdown> 
   ![Dummy image](https://dummyimage.com/600x400/){ width="300" }
   <figcaption>Image caption</figcaption>
-</figure>
+</figure> -->
 
 Eater’s design was itself based on the purely academic SAP-1. 
 
-## First Iteration
+## First Design
 The original plan was to copy Eater's design with a few improvements. These
 improvement where as follows:
 
@@ -29,8 +29,8 @@ instruction set, hardware registers only come in iterations of four, therefore t
 store five bits, you’ll need an eight bit instruction register. So then why be limited
 to five bits? This lead me to the Second Iteration.
 
-## Second Iteration
+<!-- ## Second Iteration
 
 ## Current Status
 
-![Version Five Block Diagram](./8-bit_5.png)
+![Version Five Block Diagram](./8-bit_5.png) -->
