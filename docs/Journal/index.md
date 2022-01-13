@@ -24,6 +24,12 @@ Here is a table of the skills I learnt from each paper(ongoing).
 | Programming 2 | `Java`, `OOP` | Programming Languages |  | R&D Project |  
 | Software Development Practice |  | Theory of Computation |  |
 
+## Mailbag: Pico, STM32 & MSP430, Nov 24, 2021
+
+---
+
+Received my order of a Raspberry Pi Pico, two ST Nucleo boards and a TI LaunchPad. Interested in learning about ARM development for these boards.
+
 ## New Website, Nov 7, 2021
 
 ---
