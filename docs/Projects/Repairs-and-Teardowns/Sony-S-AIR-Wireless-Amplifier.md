@@ -10,7 +10,7 @@ Taking a look at the device it is 205mm wide by 210mm deep and 55mm tall. It has
 
 ## Internals
 
-![PCBS](IMG_1105.JPG)
+<!-- ![PCBS](IMG_1105.JPG) -->
 
 On the Main PCB, near the Card Edge Connector. There is a silkscreen label with the following:
 

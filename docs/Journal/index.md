@@ -4,25 +4,24 @@ hide:
 ---
 # Journal
 
-## Graduated 🎉, Dec 20, 2021
+!!! important "📌 Graduated 🎉, Dec 20, 2021"
 
----
-Graduated from AUT with a Bachelor of Computer & Information Sciences, Double Major in Computer Science and Software Development. 
+    Graduated from AUT with a Bachelor of Computer & Information Sciences, Double Major in Computer Science and Software Development. 
 
-The papers I enjoyed the most were the "hands on" development like Software Development Practice, where our team created a React app for people to find flats and flatmates, [check it out here](https://github.com/SDP-Flinder/flinder)
+    The papers I enjoyed the most were the "hands on" development like Software Development Practice, where our team created a React app for people to find flats and flatmates, [check it out here](https://github.com/SDP-Flinder/flinder)
 
-Here is a table of the skills I learnt from each paper(ongoing).
+    Here is a table of the skills I learnt from each paper(ongoing).
 
-| Paper | Skills | Paper | Skills | Paper | Skills |
-| --- | --- | --- | --- | --- | --- |
-| Algorithm Design and Analysis |  | Applied Human Computer Interaction |  | Appiled Communication |  |  
-| Algebra and Discrete Mathematics |  | Computer Network Principles |  | Computing Technology in Society |  |
-| Contemporary Issues in Software Engineering  |  | Data and Process Modelling |  | Data Structures and Algorithms |  |
-| Distributed and Mobile Systems |  | Enterprise Systems |  | Foundations of IT Infrastructure | |
-| IT Project Management |  | Logical Database Design |  | Logic and Discrete Structures |  |
-| Operating Systems |  | Program Design and Construction |  | Programming 1 | `C Programming` |  |
-| Programming 2 | `Java`, `OOP` | Programming Languages |  | R&D Project |  
-| Software Development Practice |  | Theory of Computation |  |
+    | Paper | Skills | Paper | Skills | Paper | Skills |
+    | --- | --- | --- | --- | --- | --- |
+    | Algorithm Design and Analysis |  | Applied Human Computer Interaction |  | Appiled Communication |  |  
+    | Algebra and Discrete Mathematics |  | Computer Network Principles |  | Computing Technology in Society |  |
+    | Contemporary Issues in Software Engineering  |  | Data and Process Modelling |  | Data Structures and Algorithms |  |
+    | Distributed and Mobile Systems |  | Enterprise Systems |  | Foundations of IT Infrastructure | |
+    | IT Project Management |  | Logical Database Design |  | Logic and Discrete Structures |  |
+    | Operating Systems |  | Program Design and Construction |  | Programming 1 | `C Programming` |  |
+    | Programming 2 | `Java`, `OOP` | Programming Languages |  | R&D Project |  
+    | Software Development Practice |  | Theory of Computation |  |
 
 ## Mailbag: Pico, STM32 & MSP430, Nov 24, 2021
 

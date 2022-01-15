@@ -53,11 +53,11 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences 
   - footnotes
-  - attr_list
-  - md_in_html
   - admonition
   - pymdownx.details
   - tables
+  - attr_list
+  - md_in_html
 
 # nav:
 #   - Home:
