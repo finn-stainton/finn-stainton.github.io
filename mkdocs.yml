@@ -4,16 +4,15 @@ site_url: https://finn-stainton.github.io/
 site_author: Finn Stainton
 site_description: >-
   Welcome to my second brain, working notes, ideas and on-going project write ups. 
-  This website is inspired by <i>working with the garage door up</i> mentality of being open with the current state projects, knowledge and problems I'm pondering.
+  This website is inspired by <i>working with the garage door up</i> mentality of being open with the current state of projects, knowledge and problems I'm pondering.
 
 repo_url: https://github.com/finn-stainton/finn-stainton.github.io
 repo_name: finn-stainton.github.io
 
 copyright: >-
-  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-  <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
-  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-  Creative Commons Attribution 4.0 International License</a>. I cannot guarantee all content will be free of errors or copyright protections. 
+  Work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+  Creative Commons Attribution 4.0 International License</a>, except where otherwise noted.<br/>
+  I cannot guarantee all content will be free of errors or copyright protections. 
 
 theme:
   name: material
@@ -77,3 +76,5 @@ markdown_extensions:
 #   - Misc:
 #     - misc/index.md
 
+# <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+  # <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />

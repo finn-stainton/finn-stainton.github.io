@@ -1,5 +1,27 @@
 # Flinder (Flatmate Finder React App)
 
-## Background
-
 This was a university project from Software Development Practice paper. 
+
+## Features
+
+## Tech Stack
+
+### Front-end
+
+React
+
+### Back-end
+
+Express.js
+
+### Database
+
+MongoDB
+
+Mongoose
+
+### Integration and Delivery
+
+TravisCI
+
+Heroku

@@ -4,10 +4,10 @@ hide:
 ---
 # Projects
 
-This section contains a mixture of Personal and University Projects, Experiments, Labs, Repairs, Tutorials and Teardowns.
+This section contains a mixture of Personal and University Projects, Experiments, Labs, Repairs, Tutorials and Teardown's.
 
-The main aim is to record learnings  throughout the lifespan of the project with other recordings being anywhere from ideas to write ups, project management to developer logs and everything inbetween.
+The main aim is to record learnings  throughout the lifespan of the project with other recordings being anywhere from ideas to write ups, project management to developer logs and everything in between.
 
-!!! note
+!!! warning  "FYI"
 
-    Most project write ups are empty due to this webpage being recently set up. Sorry for the inconvenience.
+    Project write-ups/ documentation is ongoing
