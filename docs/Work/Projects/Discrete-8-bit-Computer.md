@@ -1,9 +1,5 @@
 # Discrete 8-bit Computer
 
-## Useful Resources
-
-- [https://dangrie158.github.io/SAP-1/](https://dangrie158.github.io/SAP-1/)
-
 ## Hardware Blocks 
 
 ### Control Unit
@@ -97,3 +93,11 @@
 **JSUB: **
 
 **RET: **
+
+## Useful Resources
+
+- [https://dangrie158.github.io/SAP-1/](https://dangrie158.github.io/SAP-1/)
+
+## Other Systems
+
+- Gigatron

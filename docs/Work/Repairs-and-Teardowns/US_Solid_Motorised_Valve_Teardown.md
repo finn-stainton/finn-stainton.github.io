@@ -43,9 +43,5 @@ Power is supplied to the buck converter by external switching of a power source 
 </figure>
 
 
-
-
-
-
 [^1]: US Solid. (2019). About us. Retrieved from US Solid: [https://ussolid.com/about-us/](https://ussolid.com/about-us/)
 [^2]: Unsure on value
