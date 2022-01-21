@@ -1,8 +1,8 @@
 # Worker Down System
 
-Aim: Reducing the response time of first responders to trapped and injured workers.
+**Aim**: To reduce the response time of first responders to trapped and injured workers.
 
-Constraints: 
+**Constraints**: 
 
 - System shouldn't solely rely on GPS.
 

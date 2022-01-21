@@ -10,4 +10,4 @@ The main aim is to record learnings throughout the lifespan of the project with 
 
 !!! warning  "FYI"
 
-    Project write-ups/ documentation is ongoing
+    Project write-ups/ documentation is ongoing due to the website being recently setup. 

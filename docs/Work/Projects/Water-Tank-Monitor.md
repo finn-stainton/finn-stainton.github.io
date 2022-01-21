@@ -35,15 +35,23 @@ The main aim of the project was to remotely monitor the water level in multiple 
 
 I decided to go with the pressure transducer...
 
-### Node
+### Field Client
 
-### Transmission
+This system will use an **Arduino Uno** as
 
-### Gateway
+### Transmission (LoRa)
+
+MQTT  publishes every 15 minutes. 
+
+### Gateway/ Broker
+
+
 
 ### API
 
-### User
+
+
+### User Client
 
 Given that 
 
@@ -65,5 +73,25 @@ I decided to go with the Motorised Ball Valve...
 !!! note ""
 
     See my teardown of it [here](../Projects/Repairs-and-Teardowns/US_Solid_Motorised_Valve_Teardown.md)
+
+### Field Client
+
+As the Motorised Ball Valve is of a three wire type, it's controlled with "Open", "Close" and "Ground" wires. Its stated input is 9-12vdc
+
+### Transmission
+
+Subscribed
+
+### Gateway / Broker
+
+
+
+### API
+
+
+
+### User Client
+
+
 
 ## Installation
