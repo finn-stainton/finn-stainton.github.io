@@ -72,7 +72,7 @@ I decided to go with the Motorised Ball Valve...
 
 !!! note ""
 
-    See my teardown of it [here](../Projects/Repairs-and-Teardowns/US_Solid_Motorised_Valve_Teardown.md)
+    See my teardown of it [here](../Repairs-and-Teardowns/US_Solid_Motorised_Valve_Teardown.md)
 
 ### Field Client
 

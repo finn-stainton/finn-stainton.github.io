@@ -4,10 +4,10 @@ Teardown of U.S. Solid USS-MSV00020 (1-inch, 25 mm NPT) purchased from Amazon. U
 
 **Who/ what is US Solid:** “Founded in 2011 U.S. Solid is new generation manufacturer of precision laboratory cuvettes, laboratory material and equipment. U.S. Solid is founded by four PhD. students with extensive experience in spectroscopy techniques but also mechanical and chemical engineering. We came to a conclusion that the today’s market is saturated with questionable quality, high cost and above all expensive laboratory equipment.”[^1] 
 
-If you navigate amazon for motorised valves there appears to be multiple companies producing the same valve. When searching the model number given by multiple companies, it leads to Tonheflow (www.motorized-valve.com) as the original manufactures of the valves, which US Solid also sell. On inspection of the top plastic cover, it has a deeper blue colour which may indicate that it has been replaced with a US Solid branded cover. 
+If you navigate amazon for motorised valves there appears to be multiple companies producing the same valve. When searching the model number given by multiple companies, it leads to [Tonhe flow](www.motorized-valve.com) as the original manufactures of the valves, which US Solid also sell. On inspection of the top plastic cover, it has a deeper blue colour which may indicate that it has been replaced with a US Solid branded cover. 
 
 !!! warning ""
-    I am not claiming US Solid do resell Tonheflow. Just the possibly
+    I am not claiming US Solid do resell Tonhe flow. Just the possibly
 
 **Claimed Stats:**
 
@@ -35,12 +35,12 @@ There are three variants, that being; two, three and five wire versions. The fol
 
 ![Valve PCB](assets/Motorised_Valve_PCB.jpg){ align=right }
 
-Power is supplied to the buck converter by external switching of a power source through ether Open/Ground or Close/Ground. Once a voltage is applied to the circuit, power is diverted off the open or close lines through a diode to a junction (6D Figure 3). This then passes through a 0.5A[^2] resettable fuse and across the top of a diode, varistor and polarised capacitor then into Vcc of the MC3463A IC. 
+Power is supplied to a MC3463A (which is setup as a buck converter) through a double diode junction between the "Open" and "Close". This then passes through a 0.5A[^2] resettable fuse and across the top of a diode, varistor and polarised capacitor... 
 
-<figure markdown>
+<!-- <figure markdown> -->
   ![Electrical Schematic](assets/Motorised_Valve_OEM.jpg)
-  <figcaption>Figure 3</figcaption>
-</figure>
+  <!-- <figcaption>Figure 3</figcaption>
+</figure> -->
 
 
 [^1]: US Solid. (2019). About us. Retrieved from US Solid: [https://ussolid.com/about-us/](https://ussolid.com/about-us/)
