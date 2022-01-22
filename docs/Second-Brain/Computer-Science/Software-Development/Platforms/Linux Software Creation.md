@@ -1,1 +1,0 @@
-# Linux Software Creation

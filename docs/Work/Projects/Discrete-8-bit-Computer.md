@@ -1,6 +1,6 @@
 # Discrete 8-bit Computer
 
-## Hardware Blocks 
+## Hardware Blocks
 
 ### Control Unit
 

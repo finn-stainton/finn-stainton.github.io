@@ -1,1 +1,0 @@
-An Interface is a 
