@@ -13,6 +13,8 @@ This is a collection of my learnings and discoveries from subjects I am interest
 
 ## Future Roadmap
 
+These are some of the parent subject I am currently looking into writing about
+
 ### Computer Science
 
 - Algorithms and Data Structures
@@ -30,7 +32,19 @@ This is a collection of my learnings and discoveries from subjects I am interest
 - Computer Architecture
     - Instruction Set Architecture
     - Microarchitecture
-    - Logic design
+      - Arithmetic Logic Unit
+      - Floating-point Logic Unit
+      - Control Unit
+    - Von Neumann Architecture
+    - Harvard Architecture
+    - Bus
+      - l2C
+      - Serial Peripheral Interface
+      - PCIe
+      - Controller Area Network
+      - RS-232
+      - RS-485
+      - USB
 - Computer Graphics
     - 2D Graphics
     - Rendering
@@ -80,9 +94,31 @@ This is a collection of my learnings and discoveries from subjects I am interest
     - Compiler Construction
     - Run-time Systems
 - Software Development
-    - Programming Languages
+    - Programming Languages and Frameworks
         - Assembly
         - C
+        - C#
+        - C++
+        - CSS
+        - Go
+        - HTML
+        - Java
+        - JavaScript
+        - LaTeX
+        - Lisp
+        - Node.js
+        - PHP
+        - Prolog
+        - Python
+        - Racket
+        - React.js
+        - Swift
+        - TypeScript
+    - Methods and Practices
+        - Scrum
+        - Agile
+        - KanBan
+        - DevOps
     - Software Requirements
     - Software Design
         - Considerations
@@ -90,31 +126,89 @@ This is a collection of my learnings and discoveries from subjects I am interest
         - Patterns
     - Software Construction
     - Software Testing
+        - Unit
+        - Integration
+        - System
+        - End-to-End
     - Software Deployment/Operation
     - Software Maintenance
     - Tools
+        - Git
+        - Docker
 - Theory of Computation
     - Automata Theory
     - Formal Language Theory
-    - Computability Theory9
+    - Computability Theory
     - Computational Complexity Theory
     - Models of Computation
 
 ### Electronics
 
 - Analog Electronics
+    - DC Circuits
+    - Diodes
+    - Nodal Analysis
+    - Operational Amplifiers
+    - Power Suppliers
+    - RC Circuits
+    - Semiconductor Fundamentals
+    - Thevenins Theorem
+    - Transistors
+    - Voltage Regulators
 - Digital Electronics
-    - Microcontrollers
+    - Combinatorial Logic Circuits
+    - Counters
+    - Flip-flops
+    - Memory
+    - Programmable Logic Devices
+    - Sequential Circuits
+- Microcontrollers
+    - Analog to Digital Converters
+    - Digital to Analog Converters
+    - Input/ Output
+    - Interrupts
 - Radio Electronics
-- Tools
+- Tools and Measurement
+    - Oscilloscope
+    - Function/ Signal Generator
 
 ### Engineering and Manufacture
 
+- Surveying
+
 ### Mathematics
+
+- Algebra
+- Calculus
+- Discrete
+- Geometry
+- Logic
+- Number Theory
+- Set Theory
+- Statistics
 
 ### Natural Sciences
 
+- Physics
+    - Mechanics
+    - Modern
+    - Wave
+- Chemistry
+    - Organic
+    - Inorganic
+- Biology
+
 ### Project/ Product Management
 
-### Literacy
+- PMI
+
+### Literacy and Organisation
+
 - Technical Writing
+- Bullet Journaling
+
+### Arts
+
+- Design
+- Lighting
+- Photography
