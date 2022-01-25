@@ -4,11 +4,11 @@ hide:
 ---
 # Second Brain
 
-This is a collection of my learnings and discoveries from subjects I am interested in. It is aimed as a personal wiki/ knowledge base and is not intended to be a primary source. The best way to find content is to use the search bar above.
+This is a collection of my learnings and discoveries from subjects I am interested in. It is aimed as a personal wiki/ knowledge base and is not intended to be a primary source. 
 
 !!! warning  "FYI"
 
-    Content in the Second Brain lags behind my current knowledge. Entries in the Second Brain may be incomplete, non-existent (currently) or they don't cover all material on a subject matter. An empty entry shows my intention of learning/ writing 
+    Content in the Second Brain lags behind my current knowledge. Entries in the Second Brain may be incomplete (work in progress), non-existent (currently) or they don't cover all material on a subject matter. An empty entry shows my intention of learning/ writing 
     about a subject. 
 
 ## Future Roadmap
@@ -32,19 +32,19 @@ These are some of the parent subject I am currently looking into writing about
 - Computer Architecture
     - Instruction Set Architecture
     - Microarchitecture
-      - Arithmetic Logic Unit
-      - Floating-point Logic Unit
-      - Control Unit
+        - Arithmetic Logic Unit
+        - Floating-point Logic Unit
+        - Control Unit
     - Von Neumann Architecture
     - Harvard Architecture
     - Bus
-      - l2C
-      - Serial Peripheral Interface
-      - PCIe
-      - Controller Area Network
-      - RS-232
-      - RS-485
-      - USB
+        - l2C
+        - Serial Peripheral Interface
+        - PCIe
+        - Controller Area Network
+        - RS-232
+        - RS-485
+        - USB
 - Computer Graphics
     - 2D Graphics
     - Rendering
@@ -53,6 +53,12 @@ These are some of the parent subject I am currently looking into writing about
     - Links
     - Nodes
     - Protocols
+        - Internet Protocol Suite
+        - IEEE 802
+        - Ethernet
+        - Wireless LAN
+        - Cellular
+        - MQTT
     - Routing
     - Geographic
     - Scope
