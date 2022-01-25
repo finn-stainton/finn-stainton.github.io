@@ -46,7 +46,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/finn-stainton-202525214
+      link: https://www.linkedin.com/in/finn-stainton
     - icon: fontawesome/brands/github
       link: https://github.com/finn-stainton
 
@@ -59,6 +59,13 @@ markdown_extensions:
   - tables
   - attr_list
   - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 # nav:
 #   - Home:
 #     - index.md
