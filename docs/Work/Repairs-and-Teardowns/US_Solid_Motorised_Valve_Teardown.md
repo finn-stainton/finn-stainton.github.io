@@ -4,7 +4,7 @@ Teardown of U.S. Solid USS-MSV00020 (1-inch, 25 mm NPT) purchased from Amazon. U
 
 **Who/ what is US Solid:** “Founded in 2011 U.S. Solid is new generation manufacturer of precision laboratory cuvettes, laboratory material and equipment. U.S. Solid is founded by four PhD. students with extensive experience in spectroscopy techniques but also mechanical and chemical engineering. We came to a conclusion that the today’s market is saturated with questionable quality, high cost and above all expensive laboratory equipment.”[^1] 
 
-If you navigate amazon for motorised valves there appears to be multiple companies producing the same valve. When searching the model number given by multiple companies, it leads to [Tonhe flow](www.motorized-valve.com) as the original manufactures of the valves, which US Solid also sell. On inspection of the top plastic cover, it has a deeper blue colour which may indicate that it has been replaced with a US Solid branded cover. 
+If you navigate amazon for motorised valves there appears to be multiple companies producing the same valve. When searching the model number given by multiple companies, it leads to [Tonhe flow](http://www.motorized-valve.com) as the original manufactures of the valves, which US Solid also sell. On inspection of the top plastic cover, it has a deeper blue colour which may indicate that it has been replaced with a US Solid branded cover. 
 
 !!! warning ""
     I am not claiming US Solid do resell Tonhe flow. Just the possibly

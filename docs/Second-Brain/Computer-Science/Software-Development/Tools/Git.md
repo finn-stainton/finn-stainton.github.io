@@ -26,13 +26,71 @@ Is a Version Control System which records changes to a file(s) over time.
 3. Commit, which stores files in staging area in a permanent snapshot
 
 
+## Getting Started
+
+## Create
+
+```
+git init
+```
+Initialise a new git repository inside a directory
+```
+git remote add origin [url]
+```
+Specifies a remote repository for the local repository
+```
+git clone [url]
+```
+Clone a repository
+
+## Synchronize
+
+```
+git fetch
+```
+
+```
+git merge
+```
+
+```
+git push
+```
+
+```
+git pull
+```
+
+## Branch
+
+```
+git branch [branch-name]
+```
+Create a new branch
+```
+git switch -c [branch]
+```
+
+```
+git merge [branch]
+```
+
+```
+git branch -d [branch-name]
+```
+
+## Change
+
+## Configure
+
+## GitFlow
 
 
 ## Resources/ Bib.
 
 - [Git Reference Manual](https://git-scm.com/docs)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
-- [GitHub Cheat Sheet](https://github.github.com/training-kit/)
+- [GitHub Git Cheat Sheet](https://github.github.com/training-kit/)
 
 ## Fun
 
