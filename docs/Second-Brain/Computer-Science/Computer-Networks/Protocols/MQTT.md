@@ -4,7 +4,7 @@ Is a lightweight publish/ subscribe transport layer protocol designed for messag
 
 ## Architecture
 
-![MQTT Architecture](../Networking/assests/mqtt-publish-subscribe.png)
+![MQTT Architecture](../assests/mqtt-publish-subscribe.png)
 
 MQTT.org
 

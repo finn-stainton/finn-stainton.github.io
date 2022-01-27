@@ -41,7 +41,7 @@ Express.js
 
 #### Testing
 
-Used [TDD](../../Second-Brain/Computer-Science/Software-Development/Methods/TDD.md) by developing a HTTP assertion test with [Supertest](https://www.npmjs.com/package/supertest). Then developed the Express.js code to make the test succeed. Repeated with more assertion tests for new a existing routes.
+Used [TDD](../../Second-Brain/Computer-Science/Software-Development/Methods-and-Practices/TDD.md) by developing a HTTP assertion test with [Supertest](https://www.npmjs.com/package/supertest). Then developed the Express.js code to make the test succeed. Repeated with more assertion tests for new a existing routes.
 
 ---
 

@@ -18,7 +18,7 @@ Initiated from Ben Eater's Design
 | 1MHz Clock              | 1   |
 | Push buttons            | 5   |
 | 1K ohm resistor         | 2   |
-| 10 uF cemramic Capactor | 4   |
+| 10 uF ceramic Capacitor | 4   |
 
 ## BreadBoard
 
