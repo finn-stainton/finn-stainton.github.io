@@ -46,7 +46,7 @@ Three systems connected by one network
 ### Wireless Local Positioning System
 
 !!! quote
-    "A wireless local positioning system (WLPS) is a positioning system that functions in global positioning system (GPS)‐denied environments and/or when the GPS is jammed. It allows single‐node localization through roundtrip time‐of‐arrival estimation and direction‐of‐arrival (DOA) estimation via antenna arrays. This chapter discusses the details and the implementation of WLPSs. It explains the implementation of WLPS via direct‐sequence code division multiple access system (DS‐CDMA) that allows high‐performance detection and localization in urban areas by exploiting path diversity. The chapter also discusses the implementation of beamforming and DOA techniques via WLPS antenna arrays. It explores the design stages of WLPS, which provides designers with a good example of the design stages of a radio prototype. The chapter depicts how the cyclostationary property inherent in the transmission signal of WLPS can be used to improve the detection and the localization performance."  
+    "A wireless local positioning system (WLPS) is a positioning system that functions in global positioning system (GPS)‐denied environments and/or when the GPS is jammed. It allows single‐node localization through roundtrip time‐of‐arrival estimation and direction‐of‐arrival (DOA) estimation via antenna arrays.
     Wireless Local Positioning Systems [https://doi.org/10.1002/9781119434610.ch34](https://doi.org/10.1002/9781119434610.ch34)
 
 

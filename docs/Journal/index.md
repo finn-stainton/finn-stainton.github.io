@@ -4,8 +4,6 @@ hide:
 ---
 # Journal
 
-<< Check out what I am currently working on
-
 ## 📌 Graduated 🎉, Dec 20, 2021
 
 Graduated from AUT with a Bachelor of Computer & Information Sciences, Double Major in Computer Science and Software Development. 

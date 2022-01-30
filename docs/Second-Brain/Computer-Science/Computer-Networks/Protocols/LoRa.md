@@ -10,6 +10,17 @@ Is a spread spectrum modulation technique derived from chirp spread spectrum (CS
 
 ### Chirp Spread Spectrum
 
+## Duty cycle
+
+## Link budget
+
+## Fresnel zone
+
+## EIRP 
+
+## ERP
+
+
 ## Resources
 
 - [Semtech](https://www.semtech.com/lora/what-is-lora)

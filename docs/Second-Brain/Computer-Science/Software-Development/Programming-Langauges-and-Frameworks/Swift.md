@@ -2,7 +2,14 @@
 
 ## Resources
 
-[Swift Book](https://docs.swift.org/swift-book/)
+- [Swift Book](https://docs.swift.org/swift-book/)
+- [Download](https://www.swift.org/download)
+
+## Getting Started
+
+## Noteworthy
+
+<!-- 
 
 ## Basics
 
@@ -24,7 +31,11 @@ let pi: Double = 3 + 0.14159
 ```
 Nearly all characters can be used as names except reserved word (without a backtick)
 
-Constant's values can not be changed after being set.
+Constant's values can not be changed after being set (Immutable).
+
+Must be initialised unless it optional value
+
+? = nil
 
 ### Types
 
@@ -46,7 +57,7 @@ Constant's values can not be changed after being set.
 
 Swift is *type-safe* language and performs *type checks*  during compiling and flags any errors from mismatched types. 
 
-#### Literals
+#### Numeral Literals
 
 - `decimal`with no prefix
 - `binary` with `0b` prefix
@@ -78,3 +89,25 @@ End of a multiline */
 Are not needed at end of line but are available. (Are needed where multiple statements are on a single line.)
 
 
+Memory Safety
+
+LLVM
+
+Automatic Reference counter
+
+optional chaining
+
+
+## Functions
+
+named arguments
+
+positonal arguments
+
+_ name: String
+
+## Condianal
+
+## Loops
+
+## Classes -->

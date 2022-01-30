@@ -1,8 +1,13 @@
-# Scrum (Software Development)
+# Scrum
+
+Scrum is a framework used by teams to help collaboration by implementing the principles of [Agile](Agile.md) in a concrete set of roles, activities and practices.
+
+<figure markdown>
+  ![Electrical Schematic](assets/agile-scrum-lifecycle-diagram.png)
+  <figcaption>Scrum lifecycle, Microsoft</figcaption>
+</figure>
 
 ## Roles
-
----
 
 ### Product Owner
 
@@ -10,7 +15,7 @@
 - Maximise the value of the product by being the **single authority** responsible for deciding which **features** and **functionality** to build and there order.
 - They are the central leadership and bridge between stakeholders and the Development Team
 - The whole team advises the Product Owner
-- Responsible for the success/failure of the product
+- Responsible for the success or failure of the product
 - Product Owner is NOT a "Project Manager"
 
 ### Scrum Master
@@ -32,15 +37,23 @@
 
 ## Activities
 
----
+### Sprint Planning
+
+#### Definition of Done (DoD)
+
+Is decided upon before a sprint, ether shared across many stories or specifically defined for unique stories. "Done" should mean that the feature is shippable to the customer and meets all required tests (acceptance, unit, system, etc.). The Product Owner officially *"Accepts"* Done features from the team during the Sprint Review.
 
 ### Sprint
 
-### Sprint Planning
-
-### Daily Scrum Meeting (Standup)
+A sprint is a fixed length of around 2-4 weeks where a team works to complete a set number of work. 
 
 ### Sprint Execution
+
+Scrum does not specify how the team should execute work. However normally designated developers of a user story take one at a time from the **'Sprint Backlog'** into an **'In Progress'** column. Here they perform low level design, coding and initial testing to meet the DoD. When the develop believes the DoD has been meet, they move the story into the **'In Testing'** column. The designated tester of a user story then either uses existing tests and/ or new tests with a variation of methods to discern whether it meets the DoD, if so, it will then be moved into the **'Done'** column.
+
+#### Daily Scrum Meeting (Standup)
+
+This is a daily meeting limited to fifteen minutes. Team members usually stand to keep it short. They talk about progress since the previous meeting, there plans for today and anything impeding there progress.
 
 ### Sprint Review
 
@@ -50,13 +63,43 @@
 
 ## Artifacts
 
----
-
 ### User Stories
+
+#### MoSCoW
+
+- Must have
+- Should have
+- Could have
+- Would have
+
+#### Story Points
+
+Fibonacci Number Sequence - 1, 2, 3, 5, 
+
+#### INVEST Analysis
+
+- Independent
+- Negotiable
+- Value
+- Estimable
+- Small
+- Testable
 
 ### Product Backlog
 
 ### Sprint Backlog
 
-### Potentially Shippable Product
+### Sprint Burndown
 
+Is a graph containing user story points on the y axis and days on the x axis. It maps the total remaining user story points per day with an 'ideal burndown' which is a linear reduction in remaining user story points to zero. The aim is to keep 'actual burndown' as close to or below the ideal burndown and serves as a visual tool for the team to track progress.
+
+### Potentially Shippable Product/ Increment
+
+Velocity
+
+## Resources/ Bib.
+
+- [Scrum.org](https://www.scrum.org/)
+- [ScrumAlliance.org](https://www.scrumalliance.org/)
+- [Atlassian Agile Coach, Scrum](https://www.atlassian.com/agile/scrum)
+- [Microsoft](https://docs.microsoft.com/en-us/devops/plan/what-is-scrum)

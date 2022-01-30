@@ -1,6 +1,12 @@
-# FreeRTOS with Raspberry Pi Pico
+# FreeRTOS 
 
-## Setup
+
+
+## with Raspberry Pi Pico
+
+---
+
+### Setup
 
 Open terminal and navigate to a director you want to create the project under, then run the following:
 
@@ -39,11 +45,12 @@ cd ../
 
 ```
 
-## 
+---
+
+## Resources
 
 [FreeRTOS API Reference](https://freertos.org/a00106.html)
 
----
 
 ## Further Reading
 
@@ -51,7 +58,6 @@ cd ../
 
 [Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
----
 
 !!! cite
     [Learn Embedded Systems (2022)](https://learnembeddedsystems.co.uk/freertos-on-rp2040-boards-pi-pico-etc-using-vscode)

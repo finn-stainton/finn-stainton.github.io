@@ -1,5 +1,11 @@
 # Common LISP
 
+## Resources
+
+## Getting Started
+
+## Noteworthy
+
 ### Notes from:
 
 - COMMON LISP: A Gentle Introduction to Symbolic Computation, David S. Touretzky

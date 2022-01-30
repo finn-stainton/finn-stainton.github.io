@@ -28,6 +28,9 @@ Is a Version Control System which records changes to a file(s) over time.
 
 ## Getting Started
 
+- [Macintosh Download](https://git-scm.com/download/mac)
+- [Windows Download](https://git-scm.com/download/win)
+
 ## Create
 
 ```
@@ -61,6 +64,12 @@ git push
 git pull
 ```
 
+## Info
+
+```
+git diff
+```
+
 ## Branch
 
 ```
@@ -83,8 +92,24 @@ git branch -d [branch-name]
 
 ## Configure
 
+```
+git config --global user.name "Name"
+```
+
+```
+git config --global user.email "email"
+```
+
 ## GitFlow
 
+
+
+1. Production (main)
+2. Integration of the "next release" (develop)
+3. Feature
+4. Bugfix
+5. release
+6. support
 
 ## Resources/ Bib.
 
