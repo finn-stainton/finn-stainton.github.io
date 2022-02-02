@@ -1,8 +1,6 @@
 # Flinder (Flatmate Finder React App)
 
-Flinder is a social media app that helps you find your ideal flatmate based on their personality and living preferences. Either you can be a Flatee (a person who looks for a flat to stay in), or a Flat (a person looking for a flatmate to fill in the spot).
-
-This was a university project from Software Development Practice paper of which I gained an A- grade.
+Flinder is a social media app that helps you find your ideal flatmate based on their personality and living preferences. Either you can be a Flatee (a person who looks for a flat to stay in), or a Flat (a person looking for a flatmate to fill in the spot). This was a university project from Software Development Practice paper of which I gained an A- grade. Have a read below then check out the [code](https://www.github.com/finn-stainton/flinder)
 
 ## Features
 
@@ -38,6 +36,9 @@ Decided to use a RESTful API with the possibility of changing front-end client.
 Express.js
 
 #### Routes/ Endpoints
+
+- Authenication/
+    - login: 
 
 #### Testing
 

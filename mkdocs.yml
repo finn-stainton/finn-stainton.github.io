@@ -67,23 +67,40 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 # nav:
 #   - Home:
 #     - index.md
-#   - Knowledge:
-#     - knowledge/index.md
-#     - Software: 
-#       - knowledge/Software/index.md
-#     - Hardware: 
-#       - knowledge/Hardware/index.md
-#     - Mathematics: 
-#       - knowledge/Mathematics/index.md
+#   - Second Brain:
+#     - Second-Brain/index.md
+#     - Software Engineering: 
+#       - Second-Brain/Software-Engineering/index.md
+#     - Algorithms and-Data-Structures: 
+#       - Second Brain/ADS/index.md
+#     - Computer Architecture: 
+#       - Second-Brain/Computer-Architecture/index.md
+#     - Mathematical Foundations for Computer Science: 
+#       - Second-Brain/Mathematical-Foundations/index.md
+#     - Programming Language Theory: 
+#       - Second-Brain/Computer-Architecture/index.md
+#     - Theory of Computation: 
+#       - Second-Brain/Computer-Architecture/index.md
+#     - Databases: 
+#       - Second-Brain/Computer-Architecture/index.md
+#     - Distributed Systems: 
+#       - Second-Brain/Computer-Architecture/index.md
+#     - Artificial Intelligence: 
+#       - Second-Brain/Computer-Architecture/index.md
+#     - Communication and Security: 
+#       - Second-Brain/Computer-Architecture/index.md
+#     - Computer Graphics: 
+#       - Second-Brain/Computer-Architecture/index.md
+#     - Scientific Computing: 
+#       - Second-Brain/Computer-Architecture/index.md
 #   - Project:
-#     - projects/index.md
-#   - Thoughts:
-#     - thoughts/index.md
-#   - Misc:
-#     - misc/index.md
+#     - Projects/index.md
+#   - Journal:
+#     - Journal/index.md
 
 # <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
   # <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />

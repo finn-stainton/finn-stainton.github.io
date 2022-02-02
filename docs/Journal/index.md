@@ -8,7 +8,7 @@ hide:
 
 Graduated from AUT with a Bachelor of Computer & Information Sciences, Double Major in Computer Science and Software Development. 
 
-The papers I enjoyed the most were the "hands on" development like Software Development Practice, where our team created a Full-Stack React app for people to find flats and flatmates, [check it out here](https://github.com/SDP-Flinder/flinder)
+The papers I enjoyed the most were the "hands on" development like Software Development Practice, where our team created a Full-Stack React app for people to find flats and flatmates, [check it out here](../Projects/Flinder.md)
 
 Here is a table of the skills I learnt from each paper.
 
@@ -25,8 +25,6 @@ Here is a table of the skills I learnt from each paper.
 | Logic and Discrete Structures | `Combinatorics`, `Graphs`, `Trees`, `Logic`  , `Proofs` | Operating Systems | `Concurrency`,  `Java`, `CLI`, `Bash`, `Memory Management`, `File System`, `CPU Scheduling`| 
 | Program Design and Construction | `Code Smells`, `Code Refactoring`, `Java` | Programming 1 | `C Programming`, `Types`, `Loops`, `Recursion`, `Malloc`, `Pointers` |
 | Theory of Computation | `Automata`, `Grammars`, `Turing Machines`, | 
-
----
 
 ## Current Reading List
 
