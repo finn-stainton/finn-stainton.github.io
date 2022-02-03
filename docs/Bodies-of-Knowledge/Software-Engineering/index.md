@@ -152,31 +152,20 @@ system, including tools for requirements tracking, design modeling, implementati
 testing. [Familiarity]
 6. Demonstrate the capability to use software tools in support of the development of a software product of
 medium size. [Usage]
-SE/Requirements Engineering
-[1 Core-Tier1 hour; 3 Core-Tier2 hours]
-The purpose of requirements engineering is to develop a common understanding of the needs,
-priorities, and constraints relevant to a software system. Many software failures arise from an
-incomplete understanding of requirements for the software to be developed or inadequate
-management of those requirements.
-Specifications of requirements range in formality from completely informal (e.g., spoken) to
-rigorously mathematical (e.g., written in a formal specification language such as Z or first-order
-logic). In practice, successful software engineering efforts use requirements specifications to
-reduce ambiguity and improve the consistency and completeness of the development team’s
-understanding of the vision of the intended software. Plan-driven approaches tend to produce
-formal documents with numbered requirements. Agile approaches tend to favor less formal
-specifications that include user stories, use cases, and test cases
+
+## SE/Requirements Engineering
+
+The purpose of requirements engineering is to develop a common understanding of the needs, priorities, and constraints relevant to a software system. Many software failures arise from an incomplete understanding of requirements for the software to be developed or inadequate management of those requirements. Specifications of requirements range in formality from completely informal (e.g., spoken) to rigorously mathematical (e.g., written in a formal specification language such as Z or first-order logic). In practice, successful software engineering efforts use requirements specifications to reduce ambiguity and improve the consistency and completeness of the development team’s understanding of the vision of the intended software. Plan-driven approaches tend to produce formal documents with numbered requirements. Agile approaches tend to favor less formal specifications that include user stories, use cases, and test cases
 
 **Topics**:
 
 - Describing functional requirements using, for example, use cases or users stories
 - Properties of requirements including consistency, validity, completeness, and feasibility
-
 - Software requirements elicitation
 - Describing system data using, for example, class diagrams or entity-relationship diagrams
 - Non-functional requirements and their relationship to software quality (cross-reference IAS/Secure
 Software Engineering)
 - Evaluation and use of requirements specifications
-
 - Requirements analysis modeling techniques
 - Acceptability of certainty / uncertainty considerations regarding software / system behavior
 - Prototyping
@@ -226,9 +215,9 @@ pipes-and-filters)
 - Application frameworks
 - Middleware: the object-oriented paradigm within middleware, object request brokers and marshalling, transaction processing monitors, workflow systems
 - Principles of secure design and coding (cross-reference IAS/Principles of Secure Design)
-    o Principle of least privilege
-    o Principle of fail-safe defaults
-    o Principle of psychological acceptability
+    - Principle of least privilege
+    - Principle of fail-safe defaults
+    - Principle of psychological acceptability
 
 **Learning Outcomes**:
 
@@ -397,8 +386,10 @@ The topics listed below have a strong dependency on core material from the Discr
 - Tools in support of formal methods
 
 **Learning Outcomes**:
+
 1. Describe the role formal specification and analysis techniques can play in the development of complex software and compare their use as validation and verification techniques with testing. [Familiarity]
 2. Apply formal specification and analysis techniques to software designs and programs with low complexity. [Usage]
 3. Explain the potential benefits and drawbacks of using formal specification languages. [Familiarity]
 4. Create and evaluate program assertions for a variety of behaviors ranging from simple through complex. [Usage]
 5. Using a common formal specification language, formulate the specification of a simple software system and derive examples of test cases from the specification. [Usage]
+   

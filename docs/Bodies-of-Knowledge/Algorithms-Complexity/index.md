@@ -1,6 +1,6 @@
 # Algorithms and Complexity (AL)
 
-## AL/Fundamental Data Structures and Algorithms
+## [AL/Fundamental Data Structures and Algorithms](Fundamental-Data-Structures-Algorithms.md)
 
 **Topics**:
 
@@ -81,8 +81,7 @@ programming time, maintainability, and the use of application-specific patterns 
 5. List and contrast standard complexity classes. [Familiarity]
 6. Perform empirical studies to validate hypotheses about runtime stemming from mathematical analysis. Run algorithms on input of various sizes and compare performance. [Assessment]
 7. Give examples that illustrate time-space trade-offs of algorithms. [Familiarity]
-8. Use big O notation formally to give asymptotic upper bounds on time and space complexity of algorithms.
-[Usage]
+8. Use big O notation formally to give asymptotic upper bounds on time and space complexity of algorithms. [Usage]
 9. Use big O notation formally to give expected case bounds on time complexity of algorithms. [Usage]
 10. Explain the use of big omega, big theta, and little o notation to describe the amount of work done by an algorithm. [Familiarity]
 11. Use recurrence relations to determine the time complexity of recursively defined algorithms. [Usage]
@@ -109,6 +108,7 @@ matching)
 - Online algorithms and competitive analysis
 
 **Learning Outcomes**:
+
 1. Understand the mapping of real-world problems to algorithmic solutions (e.g., as graph problems, linear
 programs, etc.). [Assessment]
 2. Select and apply advanced algorithmic techniques (e.g., randomization, approximation) to solve real
@@ -147,6 +147,7 @@ problems. [Assessment]
 - Reduction Techniques
 
 **Learning Outcomes**:
+
 1. Define the classes P and NP. (Also appears in AL/Basic Automata, Computability, and Complexity).[Familiarity]
 2. Define the P-space class and its relation to the EXP class. [Familiarity]
 3. Explain the significance of NP-completeness. (Also appears in AL/Basic Automata, Computability, and Complexity). [Familiarity]
@@ -156,6 +157,7 @@ problems. [Assessment]
 ## AL/Advanced Automata Theory and Computability:
 
 **Topics**:
+
 - Sets and languages
     - Regular languages
     - Review of deterministic finite automata (DFAs)
@@ -178,6 +180,7 @@ problems. [Assessment]
 - Implications of uncomputability
 
 **Learning Outcomes**:
+
 1. Determine a language’s place in the Chomsky hierarchy (regular, context-free, recursively enumerable). [Assessment]
 2. Convert among equivalently powerful notations for a language, including among DFAs, NFAs, and regular expressions, and between PDAs and CFGs. [Usage]
 3. Explain the Church-Turing thesis and its significance. [Familiarity]
