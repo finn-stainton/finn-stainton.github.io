@@ -38,7 +38,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
-    # - navigation.indexes
+    - navigation.indexes
     # - navigation.sections
 plugins:
   - search

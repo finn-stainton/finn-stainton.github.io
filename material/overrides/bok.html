@@ -1,0 +1,346 @@
+{#-
+    This file was automatically generated - do not edit
+  -#}
+  {% extends "base.html" %}
+  {% block extrahead %}
+  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"> -->
+
+  <link href="https://getbootstrap.com/docs/5.0/examples/features/features.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ 'overrides/assets/stylesheets/bootstrap.css' | url }}">
+  {% endblock %}
+  {% block announce %}{% endblock %}
+  {% block scripts %}
+    {{ super() }}
+    <script src="{{ 'overrides/assets/javascripts/bundle.337c27cf.min.js' | url }}"></script>
+  {% endblock %}
+  {% block tabs %}
+  {{ super() }}
+
+  <div class="container px-4 py-5" id="custom-cards">
+    <p>This is a collection of master body of Knowledge areas based off <a href="https://www.acm.org/binaries/content/assets/education/cs2013_web_final.pdf">ACM Computer Science Curricula 2013</a></p>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+        <div class="col">
+            <a href="{{ 'Courses/Algorithms-Complexity' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('assets/tree.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2 >Algorithms and Complexity</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class="badge bg-light text-dark">Sorting</span>
+                            <span class="badge bg-light text-dark">Searching</span>
+                            <span class="badge bg-light text-dark">Analysis</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <div class="col">
+            <a href="{{ 'Courses/Software-Engineering' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('assets/c.png');">
+                <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                    <h2>Software Engineering</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class="badge bg-light text-dark">Programming</span>
+                            <span class="badge bg-light text-dark">Practices</span>
+                            <span class="badge bg-light text-dark">Tools</span>
+                        </li>
+                        </ul>-->
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="col">
+            <a href="{{ 'Courses/Discrete-Structures' | url }}">    
+            <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-3.jpg');">
+                <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                    <h2>Discrete Structures</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class="badge bg-light text-dark">Discrete</span></a>
+                            <span class="badge bg-light text-dark">Graph Theory</span>
+                            <span class="badge bg-light text-dark">Logic</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+        <div class="col">
+            <a href="{{ 'Courses/Computer-Architecture' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-1.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Computer Architecture and Organization</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class="badge bg-light text-dark">Operating Systems</span>
+                            <span class="badge bg-light text-dark">ISA</span>
+                            <span class="badge bg-light text-dark">Microarchitecture</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+  
+        <div class="col">
+            <a href="{{ 'Courses/Software-Development-Fundamentals' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-2.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Software Development Fundamentals</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class="badge bg-light text-dark">Compilers</span>
+                            <span class=" badge bg-light text-dark">Formal Semantics</span>
+                            <span class="badge bg-light text-dark">Type Theory</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+  
+        <div class="col">
+            <a href="{{ 'Courses/Programming-Languages' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-3.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Programming Languages</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class=" badge bg-light text-dark">Automata</span>
+                            <span class=" badge bg-light text-dark">Models of Computation</span>
+                            <span class="badge bg-light text-dark">Formal Languages</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+      </div>
+
+      <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+        <div class="col">
+            <a href="{{ 'Projects/Operating-Systems' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-1.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Operating Systems</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class=" badge bg-light text-dark">Analog</span>
+                            <span class=" badge bg-light text-dark">Digital</span>
+                            <span class="badge bg-light text-dark">Microcontrollers</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+  
+        <div class="col">
+            <a href="{{ 'Courses/Information-Management' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-2.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Information Management</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class=" badge bg-light text-dark">SQL</span>
+                            <span class=" badge bg-light text-dark">Paradigms</span>
+                            <span class="badge bg-light text-dark">Design</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+  
+        <div class="col">
+            <a href="{{ 'Courses/Parallel-Distributed' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-3.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Parallel and Distributed Systems</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class=" badge bg-light text-dark">Algorithms</span>
+                            <span class=" badge bg-light text-dark">Objects</span>
+                            <span class="badge bg-light text-dark">Messaging</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+      </div>
+
+      <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+        <div class="col">
+            <a href="{{ 'Courses/Computational-Sciences' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-1.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Computational Sciences</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class=" badge bg-light text-dark">Deep Learning</span>
+                            <span class=" badge bg-light text-dark">Computer Vision</span>
+                            <span class="badge bg-danager">Empty</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+  
+        <div class="col">
+            <a href="{{ 'Courses/Human-Computer-Interaction' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-2.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Human Computer Interaction</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class=" badge bg-light text-dark">Networks</span>
+                            <span class=" badge bg-light text-dark">Cryptography</span>
+                            <span class="badge bg-light text-dark">In Progress</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+  
+        <div class="col">
+            <a href="{{ 'Courses/Graphics-Visualization' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-3.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Graphics and Visualization</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class=" badge bg-light text-dark">2D</span>
+                            <span class=" badge bg-light text-dark">3D</span>
+                            <span class="badge bg-light text-dark">In Progress</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+      </div>
+
+      <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+        <div class="col">
+            <a href="{{ 'Courses/System-Fundamentals' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-1.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>System Fundamentals</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class=" badge bg-light text-dark"></span>
+                            <span class=" badge bg-light text-dark"></span>
+                            <span class="badge bg-light text-dark"></span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+  
+        <div class="col">
+            <a href="{{ 'Courses/Information-Assurance-Security' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-2.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Information Assurance and Security</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class=" badge bg-light text-dark">Algebra</span>
+                            <span class=" badge bg-light text-dark">Calculus</span>
+                            <span class="badge bg-light text-dark">In Progress</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+  
+        <div class="col">
+            <a href="{{ 'Courses/Platform-Development' | url }}">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-3.jpg');">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2 >Platform-based Development</h2>
+                        <!-- <ul class="d-flex list-unstyled mt-auto">
+                        <li class="me-auto">
+                            <span class=" badge bg-light text-dark">Mechanics</span>
+                            <span class=" badge bg-light text-dark">Modern</span>
+                            <span class="badge bg-light text-dark">In Progress</span>
+                        </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </a>
+        </div>
+    
+    </div>
+
+        <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+            <div class="col">
+                <a href="{{ 'Courses/Intelligent-Systems' | url }}">
+                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-1.jpg');">
+                        <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                            <h2>Intelligent Systems</h2>
+                            <!-- <ul class="d-flex list-unstyled mt-auto">
+                            <li class="me-auto">
+                                <span class=" badge bg-light text-dark"></span>
+                                <span class=" badge bg-light text-dark"></span>
+                                <span class="badge bg-light text-dark"></span>
+                            </li>
+                            </ul> -->
+                        </div>
+                    </div>
+                </a>
+            </div>
+      
+            <div class="col">
+                <a href="{{ 'Courses/Networking-Communication' | url }}">
+                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-2.jpg');">
+                        <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                            <h2>Networking and Communication</h2>
+                            <!-- <ul class="d-flex list-unstyled mt-auto">
+                            <li class="me-auto">
+                                <span class=" badge bg-light text-dark">Algebra</span>
+                                <span class=" badge bg-light text-dark">Calculus</span>
+                                <span class="badge bg-light text-dark">In Progress</span>
+                            </li>
+                            </ul> -->
+                        </div>
+                    </div>
+                </a>
+            </div>
+      
+            <div class="col">
+                <a href="{{ 'Courses/Social-Professional' | url }}">
+                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('unsplash-photo-3.jpg');">
+                        <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                            <h2 >Social Issues and Professional Practice</h2>
+                            <!-- <ul class="d-flex list-unstyled mt-auto">
+                            <li class="me-auto">
+                                <span class=" badge bg-light text-dark">Mechanics</span>
+                                <span class=" badge bg-light text-dark">Modern</span>
+                                <span class="badge bg-light text-dark">In Progress</span>
+                            </li>
+                            </ul> -->
+                        </div>
+                    </div>
+                </a>
+            </div>
+      </div>
+
+  </div>
+{% endblock %}
+{% block content %}{% endblock %}
+{% block footer %}{% endblock %}
+  
+  
+  
