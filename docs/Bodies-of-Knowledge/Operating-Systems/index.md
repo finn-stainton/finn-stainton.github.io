@@ -14,15 +14,18 @@ Distributed Systems includes parallelism fundamentals; and and Information Assur
 Security includes forensics and security issues in depth. Many courses in Operating Systems
 will draw material from across these knowledge areas.
 
-## ## OS/Overview of Operating Systems
+## OS/Overview of Operating Systems
 
 **Topics**:
+
 - Role and purpose of the operating system
 - Functionality of a typical operating system
 - Mechanisms to support client-server models, hand-held devices
 - Design issues (efficiency, robustness, flexibility, portability, security, compatibility)
 - Influences of security, networking, multimedia, windowing systems
+
 **Learning Outcomes**:
+
 1. Explain the objectives and functions of modern operating systems. [Familiarity]
 2. Analyze the tradeoffs inherent in operating system design. [Usage]
 3. Describe the functions of a contemporary operating system with respect to convenience, efficiency, and the
@@ -31,9 +34,11 @@ ability to evolve. [Familiarity]
 operating systems. [Familiarity]
 5. Identify potential threats to operating systems and the security features design to guard against them.
 [Familiarity]
+
 ## OS/Operating System Principles
 
 **Topics**:
+
 - Structuring methods (monolithic, layered, modular, micro-kernel models)
 - Abstractions, processes, and resources
 - Concepts of application program interfaces (APIs)
@@ -41,7 +46,9 @@ operating systems. [Familiarity]
 - Device organization
 - Interrupts: methods and implementations
 - Concept of user/system state and protection, transition to kernel mode
+
 **Learning Outcomes**:
+
 1. Explain the concept of a logical layer. [Familiarity]
 2. Explain the benefits of building abstract layers in hierarchical fashion. [Familiarity]
 3. Describe the value of APIs and middleware. [Assessment]
