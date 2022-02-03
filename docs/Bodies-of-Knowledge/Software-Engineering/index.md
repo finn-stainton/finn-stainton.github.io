@@ -12,7 +12,7 @@ years. For instance, the use of contracts, with requires and ensure clauses and 
 one good practice that has become more common. Software development, which can involve an
 individual developer or a team or teams of developers, requires choosing the most appropriate
 tools, methods, and approaches for a given development environment.
-
+<!-- 
 Students and instructors need to understand the impacts of specialization on software engineering
 approaches. For example, specialized systems include:
 
@@ -34,9 +34,9 @@ Another division of the practices of software engineering is between those conce
 
 In general, students can best learn to apply much of the material defined in the Sofware Engineering KA by participating in a project. Such projects should require students to work on a team to develop a software system through as much of its lifecycle as is possible. Much of software engineering is devoted to effective communication among team members and stakeholders. Utilizing project teams, projects can be sufficiently challenging to require students to use effective software engineering techniques and to develop and practice their communication skills. While organizing and running effective projects within the academic framework can be challenging, the best way to learn to apply software engineering theory and knowledge is in the practical environment of a project. The minimum hours specified for some knowledge units in this document may appear insufficient to accomplish associated application- level learning outcomes. It should be understood that these outcomes are to be achieved through project experience that may even occur later in the curriculum than when the topics within the knowledge unit are introduced.
 
-Further, there is increasing evidence that students learn to apply software engineering principles more effectively through an iterative approach, where students have the opportunity to work through a development cycle, assess their work, and then apply the knowledge gained through their assessment to another development cycle. Agile and iterative lifecycle models inherently afford such opportunities. Software lifecycle terminology in this document is based on that used in earlier sources, such as the Software Engineering Body of Knowledge (SWEBOK) and the ACM/IEEE-CS Software Engineering 2004 Curriculum Guidelines (SE2004). While some terms were originally defined in the context of plan-driven development processes, they are treated here as generic, and thus equally applicable to agile processes
+Further, there is increasing evidence that students learn to apply software engineering principles more effectively through an iterative approach, where students have the opportunity to work through a development cycle, assess their work, and then apply the knowledge gained through their assessment to another development cycle. Agile and iterative lifecycle models inherently afford such opportunities. Software lifecycle terminology in this document is based on that used in earlier sources, such as the Software Engineering Body of Knowledge (SWEBOK) and the ACM/IEEE-CS Software Engineering 2004 Curriculum Guidelines (SE2004). While some terms were originally defined in the context of plan-driven development processes, they are treated here as generic, and thus equally applicable to agile processes -->
 
-## SE/Software Processes
+## [SE/Software Processes](Software-Processes.md)
 
 **Topics**:
 
@@ -68,7 +68,7 @@ ISO9000. [Assessment]
 13. Describe several process metrics for assessing and controlling a project. [Familiarity]
 14. Use project metrics to describe the current state of a project. [Usage]
 
-## SE/Software Project Management
+## [SE/Software Project Management](Software-Project-Management.md)
 
 **Topics**:
 
@@ -98,7 +98,7 @@ and process
     - Risk tolerance (e.g., risk-adverse, risk-neutral, risk-seeking)
     - Risk planning
 - System-wide approach to risk including hazards associated with tools
-- 
+
 **Learning Outcomes**:
 
 1. Discuss common behaviors that contribute to the effective functioning of a team. [Familiarity]
@@ -128,7 +128,7 @@ and process
 24. Conduct a cost/benefit analysis for a risk mitigation approach. [Usage]
 25. Identify and analyze some of the risks for an entire system that arise from aspects other than the software. [Usage]
 
-## SE/Tools and Environments
+## [SE/Tools and Environments](Tools-Environments.md)
 
 **Topics**:
 
@@ -139,6 +139,7 @@ and process
 - Programming environments that automate parts of program construction processes (e.g., automated builds)
     - Continuous integration
 - Tool integration concepts and mechanisms
+  
 **Learning Outcomes**:
 
 1. Describe the difference between centralized and distributed software configuration management.
@@ -153,7 +154,7 @@ testing. [Familiarity]
 6. Demonstrate the capability to use software tools in support of the development of a software product of
 medium size. [Usage]
 
-## SE/Requirements Engineering
+## [SE/Requirements Engineering](Requirements-Engineering.md)
 
 The purpose of requirements engineering is to develop a common understanding of the needs, priorities, and constraints relevant to a software system. Many software failures arise from an incomplete understanding of requirements for the software to be developed or inadequate management of those requirements. Specifications of requirements range in formality from completely informal (e.g., spoken) to rigorously mathematical (e.g., written in a formal specification language such as Z or first-order logic). In practice, successful software engineering efforts use requirements specifications to reduce ambiguity and improve the consistency and completeness of the development team’s understanding of the vision of the intended software. Plan-driven approaches tend to produce formal documents with numbered requirements. Agile approaches tend to favor less formal specifications that include user stories, use cases, and test cases
 
@@ -192,7 +193,7 @@ benefits and risks associated with each. [Familiarity]
 12. Create a prototype of a software system to mitigate risk in requirements. [Usage]
 13. Differentiate between forward and backward tracing and explain their roles in the requirements validation process. [Familiarity]
 
-## SE/Software Design
+## [SE/Software Design](Software-Design.md)
 
 **Topics**:
 
@@ -245,7 +246,7 @@ pipes-and-filters)
 22. Refactor an existing software implementation to improve some aspect of its design. [Usage]
 23. State and apply the principles of least privilege and fail-safe defaults. [Familiarity]
 
-## SE/Software Construction
+## [SE/Software Construction](Software Construction.md)
 
 **Topics**:
 
@@ -280,7 +281,7 @@ properties such as reliability, efficiency, and robustness. [Familiarity]
 8. Rewrite a simple program to remove common vulnerabilities, such as buffer overflows, integer overflows and race conditions. [Usage]
 9. Write a software component that performs some non-trivial task and is resilient to input and run-time errors. [Usage]
 
-## SE/Software Verification and Validation
+## [SE/Software Verification and Validation](Software-Verification-Validation.md)
 
 **Topics**:
 
@@ -324,7 +325,7 @@ acceptance). [Familiarity]
 16. Estimate the number of faults in a small software application based on fault density and fault seeding. [Usage]
 17. Conduct an inspection or review of software source code for a small or medium sized software project. [Usage]
 
-## SE/Software Evolution
+## [SE/Software Evolution](Software-Evolution.md)
 
 **Topics**:
 
@@ -372,7 +373,7 @@ acceptance). [Familiarity]
 6. Identify methods that will lead to the realization of a software architecture that achieves a specified level of reliability. [Usage]
 7. Identify ways to apply redundancy to achieve fault tolerance for a medium-sized application. [Usage]
 
-## SE/Formal Methods
+## [SE/Formal Methods](Formal-Methods.md)
 
 The topics listed below have a strong dependency on core material from the Discrete Structures (DS) Knowledge Area, particularly knowledge units DS/Functions Relations and Sets, DS/Basic Logic and DS/Proof Techniques.
 

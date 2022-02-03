@@ -125,6 +125,7 @@ units.
 - Documentation and program style
 
 **Learning Outcomes**:
+
 1. Trace the execution of a variety of code segments and write summaries of their computations. [Assessment]
 2. Explain why the creation of correct program components is important in the production of high-quality software. [Familiarity]
 3. Identify common coding errors that lead to insecure programs (e.g., buffer overflows, memory leaks, malicious code) and apply strategies for avoiding such errors. [Usage]
