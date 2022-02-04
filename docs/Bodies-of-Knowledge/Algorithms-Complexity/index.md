@@ -1,62 +1,6 @@
 # Algorithms and Complexity (AL)
 
-## [AL/Fundamental Data Structures and Algorithms](Fundamental-Data-Structures-Algorithms.md)
-
-**Topics**:
-
-- Simple numerical algorithms, such as computing the average of a list of numbers, finding the min, max, and mode in a list, approximating the square root of a number, or finding the greatest common divisor
-- Sequential and binary search algorithms
-- Worst case quadratic sorting algorithms (selection, insertion)
-- Worst or average case O(N log N) sorting algorithms (quicksort, heapsort, mergesort)
-- Hash tables, including strategies for avoiding and resolving collisions
-- Binary search trees
-    - Common operations on binary search trees such as select min, max, insert, delete, iterate over tree
-- Graphs and graph algorithms
-    - Representations of graphs (e.g., adjacency list, adjacency matrix)
-    - Depth- and breadth-first traversals
-- Heaps
-- Graphs and graph algorithms
-    - Shortest-path algorithms (Dijkstra’s and Floyd’s algorithms)
-    - Minimum spanning tree (Prim’s and Kruskal’s algorithms)
-- Pattern matching and string/text algorithms (e.g., substring matching, regular expression matching, longest
-common subsequence algorithms)
-
-## AL/Algorithmic Strategies
-
-**Learning Outcomes**:
-
-1. Implement basic numerical algorithms. [Usage]
-2. Implement simple search algorithms and explain the differences in their time complexities. [Assessment]
-3. Be able to implement common quadratic and O(N log N) sorting algorithms. [Usage]
-4. Describe the implementation of hash tables, including collision avoidance and resolution. [Familiarity]
-5. Discuss the runtime and memory efficiency of principal algorithms for sorting, searching, and hashing. [Familiarity]
-6. Discuss factors other than computational efficiency that influence the choice of algorithms, such as
-programming time, maintainability, and the use of application-specific patterns in the input data. [Familiarity]
-7. Explain how tree balance affects the efficiency of various binary search tree operations. [Familiarity]
-8. Solve problems using fundamental graph algorithms, including depth-first and breadth-first search. [Usage]
-
-
-**Topics:**
-
-- Brute-force algorithms
-- Greedy algorithms
-- Divide-and-conquer (cross-reference SDF/Algorithms and Design/Problem-solving strategies)
-- Recursive backtracking
-- Dynamic Programming
-- Branch-and-bound
-- Heuristics
-- Reduction: transform-and-conquer
-
-**Learning Outcomes:**
-
-1. For each of the strategies (brute-force, greedy, divide-and-conquer, recursive backtracking, and dynamic programming), identify a practical example to which it would apply. [Familiarity]
-2. Use a greedy approach to solve an appropriate problem and determine if the greedy rule chosen leads to an optimal solution. [Assessment]
-3. Use a divide-and-conquer algorithm to solve an appropriate problem. [Usage]
-4. Use recursive backtracking to solve a problem such as navigating a maze. [Usage]
-5. Use dynamic programming to solve an appropriate problem. [Usage]
-6. Determine an appropriate algorithmic approach to a problem. [Assessment]
-
-## AL/Basic Analysis
+## [AL/Basic Analysis](Basic-Analysis.md)
 
 **Topics**:
 
@@ -86,6 +30,62 @@ programming time, maintainability, and the use of application-specific patterns 
 10. Explain the use of big omega, big theta, and little o notation to describe the amount of work done by an algorithm. [Familiarity]
 11. Use recurrence relations to determine the time complexity of recursively defined algorithms. [Usage]
 12. Solve elementary recurrence relations, e.g., using some form of a Master Theorem. [Usage]
+
+
+## [AL/Algorithmic Strategies](Algorithmic-Strategies.md)
+
+**Topics:**
+
+- Brute-force algorithms
+- Greedy algorithms
+- Divide-and-conquer (cross-reference SDF/Algorithms and Design/Problem-solving strategies)
+- Recursive backtracking
+- Dynamic Programming
+- Branch-and-bound
+- Heuristics
+- Reduction: transform-and-conquer
+
+**Learning Outcomes:**
+
+1. For each of the strategies (brute-force, greedy, divide-and-conquer, recursive backtracking, and dynamic programming), identify a practical example to which it would apply. [Familiarity]
+2. Use a greedy approach to solve an appropriate problem and determine if the greedy rule chosen leads to an optimal solution. [Assessment]
+3. Use a divide-and-conquer algorithm to solve an appropriate problem. [Usage]
+4. Use recursive backtracking to solve a problem such as navigating a maze. [Usage]
+5. Use dynamic programming to solve an appropriate problem. [Usage]
+6. Determine an appropriate algorithmic approach to a problem. [Assessment]
+
+## [AL/Fundamental Data Structures and Algorithms](Fundamental-Data-Structures-Algorithms.md)
+
+**Topics**:
+
+- Simple numerical algorithms, such as computing the average of a list of numbers, finding the min, max, and mode in a list, approximating the square root of a number, or finding the greatest common divisor
+- Sequential and binary search algorithms
+- Worst case quadratic sorting algorithms (selection, insertion)
+- Worst or average case O(N log N) sorting algorithms (quicksort, heapsort, mergesort)
+- Hash tables, including strategies for avoiding and resolving collisions
+- Binary search trees
+    - Common operations on binary search trees such as select min, max, insert, delete, iterate over tree
+- Graphs and graph algorithms
+    - Representations of graphs (e.g., adjacency list, adjacency matrix)
+    - Depth- and breadth-first traversals
+- Heaps
+- Graphs and graph algorithms
+    - Shortest-path algorithms (Dijkstra’s and Floyd’s algorithms)
+    - Minimum spanning tree (Prim’s and Kruskal’s algorithms)
+- Pattern matching and string/text algorithms (e.g., substring matching, regular expression matching, longest
+common subsequence algorithms)
+
+**Learning Outcomes**:
+
+1. Implement basic numerical algorithms. [Usage]
+2. Implement simple search algorithms and explain the differences in their time complexities. [Assessment]
+3. Be able to implement common quadratic and O(N log N) sorting algorithms. [Usage]
+4. Describe the implementation of hash tables, including collision avoidance and resolution. [Familiarity]
+5. Discuss the runtime and memory efficiency of principal algorithms for sorting, searching, and hashing. [Familiarity]
+6. Discuss factors other than computational efficiency that influence the choice of algorithms, such as
+programming time, maintainability, and the use of application-specific patterns in the input data. [Familiarity]
+7. Explain how tree balance affects the efficiency of various binary search tree operations. [Familiarity]
+8. Solve problems using fundamental graph algorithms, including depth-first and breadth-first search. [Usage]
 
 ## AL/Advanced Data Structures Algorithms and Analysis
 

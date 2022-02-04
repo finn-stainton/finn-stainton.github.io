@@ -1,8 +1,16 @@
 # AL/Fundamental Data Structures and Algorithms
 
-## Simple numerical algorithms, 
+## Simple numerical algorithms
 
-such as computing the average of a list of numbers, finding the min, max, and mode in a list, approximating the square root of a number, or finding the greatest common divisor
+**List Operations**
+e.g. [1,3,2,7,4,2,5,6]
+
+- averaging
+- min
+- max
+- mode
+- square root of a number (approximate)
+- greatest common divisor
 
 ## Search algorithms
 
@@ -14,14 +22,17 @@ such as computing the average of a list of numbers, finding the min, max, and mo
 
 **Worst case quadratic** 
 
-- selection
-- insertion
+### Selection Sort
+
+### Insertion Sort
   
 **Worst or average case O(N log N)** 
 
-- quicksort, 
-- heapsort, 
-- mergesort
+### Quicksort
+
+### Heapsort
+
+### Mergesort
 
 ## Hash tables
 
@@ -29,9 +40,13 @@ including strategies for avoiding and resolving collisions
 
 ## Binary search trees
 
-### operations 
+**Operations** 
 
-select min, max, insert, delete, iterate over tree
+- min
+- max
+- insert
+- delete
+- iterate over tree
 
 ## Heaps
 
@@ -39,25 +54,31 @@ select min, max, insert, delete, iterate over tree
 
 ### Representations of graphs 
 
-- adjacency list
-- adjacency matrix)
+- Adjacency list
+  
+- Adjacency matrix
 
 ### Depth-first traversal 
 
-### breadth-first traversal
+### Breadth-first traversal
 
 ### Shortest-path algorithms 
 
-- Dijkstra’s
-- Floyd’s algorithms)
+#### Dijkstra’s algorithm
+
+#### Floyd’s algorithm
 
 ### Minimum spanning tree 
 
-- Prim’s algorithms
-- Kruskal’s algorithms
+#### Prim’s algorithm
+#### Kruskal’s algorithm
 
-## Pattern matching and string/text algorithms 
+## Pattern matching 
+
+## String/text algorithms 
 
 - substring matching algorithms, 
 - regular expression matching algorithms, 
 - longest common subsequence algorithms
+
+## Resources/ Bib.

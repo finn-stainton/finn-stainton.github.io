@@ -1,4 +1,4 @@
 ---
 template: overrides/bok.html
-title: Body of Knowledge
+title: Bodies of Knowledge
 ---
