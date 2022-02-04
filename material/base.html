@@ -34,6 +34,7 @@
       {% endif %}
     {% endblock %}
     {% block styles %}
+      <link rel="stylesheet" href="{{ 'overrides/assets/stylesheets/features.css' | url }}">
       <link rel="stylesheet" href="{{ 'assets/stylesheets/main.bb3983ee.min.css' | url }}">
       {% if config.theme.palette %}
         {% set palette = config.theme.palette %}
