@@ -50,24 +50,6 @@ Further, there is increasing evidence that students learn to apply software engi
 - Software process capability maturity models
 - Software process measurements
 
-**Learning Outcomes**:
-
-1. Describe how software can interact with and participate in various systems including information management, embedded, process control, and communications systems. [Familiarity]
-2. Describe the relative advantages and disadvantages among several major process models (e.g., waterfall, iterative, and agile). [Familiarity]
-3. Describe the different practices that are key components of various process models. [Familiarity]
-4. Differentiate among the phases of software development. [Familiarity]
-5. Describe how programming in the large differs from individual efforts with respect to understanding a large code base, code reading, understanding builds, and understanding context of changes. [Familiarity]
-6. Explain the concept of a software lifecycle and provide an example, illustrating its phases including the deliverables that are produced. [Familiarity]
-7. Compare several common process models with respect to their value for development of particular classes of software systems taking into account issues such as requirement stability, size, and non-functional characteristics. [Usage]
-8. Define software quality and describe the role of quality assurance activities in the software process. [Familiarity]
-9. Describe the intent and fundamental similarities among process improvement approaches. [Familiarity]
-10. Compare several process improvement models such as CMM, CMMI, CQI, Plan-Do-Check-Act, or
-ISO9000. [Assessment]
-11. Assess a development effort and recommend potential changes by participating in process improvement (using a model such as PSP) or engaging in a project retrospective. [Usage]
-12. Explain the role of process maturity models in process improvement. [Familiarity]
-13. Describe several process metrics for assessing and controlling a project. [Familiarity]
-14. Use project metrics to describe the current state of a project. [Usage]
-
 ## [SE/Software Project Management](Software-Project-Management.md)
 
 **Topics**:
@@ -99,35 +81,6 @@ and process
     - Risk planning
 - System-wide approach to risk including hazards associated with tools
 
-**Learning Outcomes**:
-
-1. Discuss common behaviors that contribute to the effective functioning of a team. [Familiarity]
-2. Create and follow an agenda for a team meeting. [Usage]
-3. Identify and justify necessary roles in a software development team. [Usage]
-4. Understand the sources, hazards, and potential benefits of team conflict. [Usage]
-5. Apply a conflict resolution strategy in a team setting. [Usage]
-6. Use an ad hoc method to estimate software development effort (e.g., time) and compare to actual effort required. [Usage]
-7. List several examples of software risks. [Familiarity]
-8. Describe the impact of risk in a software development lifecycle. [Familiarity]
-9. Describe different categories of risk in software systems. [Familiarity]
-10. Demonstrate through involvement in a team project the central elements of team building and team management. [Usage]
-11. Describe how the choice of process model affects team organizational structures and decision-making processes. [Familiarity]
-12. Create a team by identifying appropriate roles and assigning roles to team members. [Usage]
-13. Assess and provide feedback to teams and individuals on their performance in a team setting. [Usage]
-14. Using a particular software process, describe the aspects of a project that need to be planned and monitored,
-(e.g., estimates of size and effort, a schedule, resource allocation, configuration control, change management, and project risk identification and management). [Familiarity]
-15. Track the progress of some stage in a project using appropriate project metrics. [Usage]
-16. Compare simple software size and cost estimation techniques. [Usage]
-17. Use a project management tool to assist in the assignment and tracking of tasks in a software development project. [Usage]
-18. Describe the impact of risk tolerance on the software development process. [Assessment]
-19. Identify risks and describe approaches to managing risk (avoidance, acceptance, transference, mitigation), and characterize the strengths and shortcomings of each. [Familiarity]
-20. Explain how risk affects decisions in the software development process. [Usage]
-21. Identify security risks for a software system. [Usage]
-22. Demonstrate a systematic approach to the task of identifying hazards and risks in a particular situation. [Usage]
-23. Apply the basic principles of risk management in a variety of simple scenarios including a security situation. [Usage]
-24. Conduct a cost/benefit analysis for a risk mitigation approach. [Usage]
-25. Identify and analyze some of the risks for an entire system that arise from aspects other than the software. [Usage]
-
 ## [SE/Tools and Environments](Tools-Environments.md)
 
 **Topics**:
@@ -139,20 +92,6 @@ and process
 - Programming environments that automate parts of program construction processes (e.g., automated builds)
     - Continuous integration
 - Tool integration concepts and mechanisms
-  
-**Learning Outcomes**:
-
-1. Describe the difference between centralized and distributed software configuration management.
-[Familiarity]
-2. Describe how version control can be used to help manage software release management. [Familiarity]
-3. Identify configuration items and use a source code control tool in a small team-based project. [Usage]
-4. Describe how available static and dynamic test tools can be integrated into the software development
-environment. [Familiarity]
-5. Describe the issues that are important in selecting a set of tools for the development of a particular software
-system, including tools for requirements tracking, design modeling, implementation, build automation, and
-testing. [Familiarity]
-6. Demonstrate the capability to use software tools in support of the development of a software product of
-medium size. [Usage]
 
 ## [SE/Requirements Engineering](Requirements-Engineering.md)
 
@@ -174,24 +113,6 @@ Software Engineering)
 - Requirements specification
 - Requirements validation
 - Requirements tracing
-
-**Learning Outcomes**:
-
-1. List the key components of a use case or similar description of some behavior that is required for a system. [Familiarity]
-2. Describe how the requirements engineering process supports the elicitation and validation of behavioral requirements. [Familiarity]
-3. Interpret a given requirements model for a simple software system. [Familiarity]
-4. Describe the fundamental challenges of and common techniques used for requirements elicitation. [Familiarity]
-5. List the key components of a data model (e.g., class diagrams or ER diagrams). [Familiarity]
-6. Identify both functional and non-functional requirements in a given requirements specification for a software system. [Usage]
-7. Conduct a review of a set of software requirements to determine the quality of the requirements with respect to the characteristics of good requirements. [Usage]
-8. Apply key elements and common methods for elicitation and analysis to produce a set of software
-requirements for a medium-sized software system. [Usage]
-9. Compare the plan-driven and agile approaches to requirements specification and validation and describe the
-benefits and risks associated with each. [Familiarity]
-10. Use a common, non-formal method to model and specify the requirements for a medium-size software system. [Usage]
-11. Translate into natural language a software requirements specification (e.g., a software component contract) written in a formal specification language. [Usage]
-12. Create a prototype of a software system to mitigate risk in requirements. [Usage]
-13. Differentiate between forward and backward tracing and explain their roles in the requirements validation process. [Familiarity]
 
 ## [SE/Software Design](Software-Design.md)
 
@@ -220,32 +141,6 @@ pipes-and-filters)
     - Principle of fail-safe defaults
     - Principle of psychological acceptability
 
-**Learning Outcomes**:
-
-1. Articulate design principles including separation of concerns, information hiding, coupling and cohesion, and encapsulation. [Familiarity]
-2. Use a design paradigm to design a simple software system, and explain how system design principles have been applied in this design. [Usage]
-3. Construct models of the design of a simple software system that are appropriate for the paradigm used to design it. [Usage]
-4. Within the context of a single design paradigm, describe one or more design patterns that could be applicable to the design of a simple software system. [Familiarity]
-5. For a simple system suitable for a given scenario, discuss and select an appropriate design paradigm. [Usage]
-6. Create appropriate models for the structure and behavior of software products from their requirements specifications. [Usage]
-7. Explain the relationships between the requirements for a software product and its design, using appropriate models. [Assessment]
-8. For the design of a simple software system within the context of a single design paradigm, describe the software architecture of that system. [Familiarity]
-9. Given a high-level design, identify the software architecture by differentiating among common software architectures such as 3-tier, pipe-and-filter, and client-server. [Familiarity]
-10. Investigate the impact of software architectures selection on the design of a simple system. [Assessment]
-11. Apply simple examples of patterns in a software design. [Usage]
-12. Describe a form of refactoring and discuss when it may be applicable. [Familiarity]
-13. Select suitable components for use in the design of a software product. [Usage]
-14. Explain how suitable components might need to be adapted for use in the design of a software product. [Familiarity]
-15. Design a contract for a typical small software component for use in a given system. [Usage]
-16. Discuss and select appropriate software architecture for a simple system suitable for a given scenario. [Usage]
-17. Apply models for internal and external qualities in designing software components to achieve an acceptable tradeoff between conflicting quality aspects. [Usage]
-18. Analyze a software design from the perspective of a significant internal quality attribute. [Assessment]
-19. Analyze a software design from the perspective of a significant external quality attribute. [Assessment]
-20. Explain the role of objects in middleware systems and the relationship with components. [Familiarity]
-21. Apply component-oriented approaches to the design of a range of software, such as using components for concurrency and transactions, for reliable communication services, for database interaction including services for remote query and database management, or for secure communication and access. [Usage]
-22. Refactor an existing software implementation to improve some aspect of its design. [Usage]
-23. State and apply the principles of least privilege and fail-safe defaults. [Familiarity]
-
 ## [SE/Software Construction](Software Construction.md)
 
 **Topics**:
@@ -267,19 +162,6 @@ IAS/Defensive Programming; SDF/Development Methods)
     - Checking input
     - Assuming success and correctness
     - Validating assumptions
-
-**Learning Outcomes**:
-
-1. Describe techniques, coding idioms and mechanisms for implementing designs to achieve desired
-properties such as reliability, efficiency, and robustness. [Familiarity]
-2. Build robust code using exception handling mechanisms. [Usage]
-3. Describe secure coding and defensive coding practices. [Familiarity]
-4. Select and use a defined coding standard in a small software project. [Usage]
-5. Compare and contrast integration strategies including top-down, bottom-up, and sandwich integration. [Familiarity]
-6. Describe the process of analyzing and implementing changes to code base developed for a specific project. [Familiarity]
-7. Describe the process of analyzing and implementing changes to a large existing code base. [Familiarity]
-8. Rewrite a simple program to remove common vulnerabilities, such as buffer overflows, integer overflows and race conditions. [Usage]
-9. Write a software component that performs some non-trivial task and is resilient to input and run-time errors. [Usage]
 
 ## [SE/Software Verification and Validation](Software-Verification-Validation.md)
 
@@ -304,27 +186,6 @@ specification (cross-reference IAS/Secure Software Engineering)
 - Fault logging, fault tracking and technical support for such activities
 - Fault estimation and testing termination including defect seeding
 
-**Learning Outcomes**:
-
-1. Distinguish between program validation and verification. [Familiarity]
-2. Describe the role that tools can play in the validation of software. [Familiarity]
-3. Undertake, as part of a team activity, an inspection of a medium-size code segment. [Usage]
-4. Describe and distinguish among the different types and levels of testing (unit, integration, systems, and
-acceptance). [Familiarity]
-5. Describe techniques for identifying significant test cases for integration, regression and system testing. [Familiarity]
-6. Create and document a set of tests for a medium-size code segment. [Usage]
-7. Describe how to select good regression tests and automate them. [Familiarity]
-8. Use a defect tracking tool to manage software defects in a small software project. [Usage]
-9. Discuss the limitations of testing in a particular domain. [Familiarity]
-10. Evaluate a test suite for a medium-size code segment. [Usage]
-11. Compare static and dynamic approaches to verification. [Familiarity]
-12. Identify the fundamental principles of test-driven development methods and explain the role of automated testing in these methods. [Familiarity]
-13. Discuss the issues involving the testing of object-oriented software. [Usage]
-14. Describe techniques for the verification and validation of non-code artifacts. [Familiarity]
-15. Describe approaches for fault estimation. [Familiarity]
-16. Estimate the number of faults in a small software application based on fault density and fault seeding. [Usage]
-17. Conduct an inspection or review of software source code for a small or medium sized software project. [Usage]
-
 ## [SE/Software Evolution](Software-Evolution.md)
 
 **Topics**:
@@ -335,23 +196,14 @@ acceptance). [Familiarity]
     - Refactoring
 - Software evolution
 - Characteristics of maintainable software
-- Reengineering systems
+- Re-engineering systems
 - Software reuse
     - Code segments
     - Libraries and frameworks
     - Components
     - Product lines
 
-**Learning Outcomes**:
-
-1. Identify the principal issues associated with software evolution and explain their impact on the software lifecycle. [Familiarity]
-2. Estimate the impact of a change request to an existing product of medium size. [Usage]
-3. Use refactoring in the process of modifying a software component. [Usage]
-4. Discuss the challenges of evolving systems in a changing environment. [Familiarity]
-5. Outline the process of regression testing and its role in release management. [Familiarity]
-6. Discuss the advantages and disadvantages of different types of software reuse. [Familiarity]
-
-## SE/Software Reliability
+## [SE/Software Reliability](Software-Reliability.md)
 
 **Topics**:
 
@@ -362,16 +214,6 @@ acceptance). [Familiarity]
 - Software fault tolerance techniques and models
 - Software reliability engineering practices
 - Measurement-based analysis of software reliability
-
-**Learning Outcomes**:
-
-1. Explain the problems that exist in achieving very high levels of reliability. [Familiarity]
-2. Describe how software reliability contributes to system reliability. [Familiarity]
-3. List approaches to minimizing faults that can be applied at each stage of the software lifecycle. [Familiarity]
-4. Compare the characteristics of three different reliability modeling approaches. [Familiarity]
-5. Demonstrate the ability to apply multiple methods to develop reliability estimates for a software system. [Usage]
-6. Identify methods that will lead to the realization of a software architecture that achieves a specified level of reliability. [Usage]
-7. Identify ways to apply redundancy to achieve fault tolerance for a medium-sized application. [Usage]
 
 ## [SE/Formal Methods](Formal-Methods.md)
 
@@ -385,12 +227,3 @@ The topics listed below have a strong dependency on core material from the Discr
     - Model checkers
     - Model finders
 - Tools in support of formal methods
-
-**Learning Outcomes**:
-
-1. Describe the role formal specification and analysis techniques can play in the development of complex software and compare their use as validation and verification techniques with testing. [Familiarity]
-2. Apply formal specification and analysis techniques to software designs and programs with low complexity. [Usage]
-3. Explain the potential benefits and drawbacks of using formal specification languages. [Familiarity]
-4. Create and evaluate program assertions for a variety of behaviors ranging from simple through complex. [Usage]
-5. Using a common formal specification language, formulate the specification of a simple software system and derive examples of test cases from the specification. [Usage]
-   

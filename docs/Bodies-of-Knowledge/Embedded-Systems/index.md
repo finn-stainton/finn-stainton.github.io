@@ -156,4 +156,192 @@ sleep/hibernate modes, peripheral system enable/disable, and clock frequency man
 - Describe interconnect and networking options for SoCs, including Network-on-Chip architectures.
 - Contrast performance, power, and flexibility tradeoffs for hard core versus software CPUs found in Field Programmable Gate Arrays.
 - Describe embedded applications that benefit from a multi-core approach.
-- Describe embedded applications that benefit from other types of processors for embedded systems: DSP processors, GPUs, heterogeneous SOCs (CPUs/accelerators), FPGA-based processo
+- Describe embedded applications that benefit from other types of processors for embedded systems: DSP processors, GPUs, heterogeneous SOCs (CPUs/accelerators), FPGA-based processor
+
+---
+
+
+## ESY/History and overview
+
+Topics:
+
+- Indicate some reasons for studying embedded systems
+- Highlight some people that influenced or contributed to the area of embedded systems
+- Indicate some important topic areas such as mapping between language and hardware, classifications, influence of software engineering, applications and techniques, and tool support
+- Contrast between an embedded system and other computer systems
+- Mention the role of programming and its associated languages as applied to embedded systems
+- Explore some additional resources associated with embedded systems
+- Explain the purpose and role of embedded systems in computer engineering
+
+Learning outcomes:
+
+1. Identify some contributors to embedded systems and relate their achievements to the knowledge area. 
+2. Describe the meaning of an embedded system.
+3. Explain the reasons for the importance of embedded systems.
+4. Describe the relationship between programming languages and embedded systems..
+5. Describe how computer engineering uses or benefits from embedded systems.
+6. 
+## ESY/Embedded microcontrollers
+
+Topics:
+
+- Structure of a basic computer system: CPU, memory, I/O devices on a bus
+- CPU families used in microcontrollers: 4-bit, 8-bit, 16-32-bit
+- Basic I/O devices: timers/counters, GPIO, A/D, D/A
+- Polled I/O vs. interrupt-driven I/O
+- Interrupt structures: vectored and prioritized interrupts
+- DMA transfers
+- Memory management units
+- Memory hierarchies and caches
+
+Learning outcomes:
+
+1. Understand the CPU in the context of a complete system with I/O and memory.
+2. Understand how the CPU talks to the outside world through devices.
+3. Understand how memory system design (caches, memory management) affect program design and performance.
+
+## ESY/Embedded programs
+
+Topics:
+
+- The program translation process: compilation, assembly, linking
+- Representations of programs: data flow and control flow
+- Fundamental concepts of assembly language and linking: labels, address management
+- Compilation tasks: mapping variables to memory, managing data structures, translating control structures, and translating expressions
+- What can and cannot be controlled through the compiler; when writing assembly language makes sense
+
+Learning outcomes:
+
+1. Understand how high-level language programs convert into executable code.
+2. Know the capabilities and limits of compilers.
+3. Comprehend basic representations of programs used to manipulate programs either in a compiler or by hand.
+
+## ESY/Real-time operating systems
+
+Topics:
+
+- Context switching mechanisms
+- Scheduling policies
+- Rate-monotonic scheduling: theory and practice
+- Priority inversion
+- Other scheduling policies such as EDF
+- Message-passing vs. shared memory communication
+- Interprocess communication styles such as mailbox and RPC
+
+Learning outcomes:
+
+1. Distinguish RTOSs from workstation/server OS.
+2. Distinguish real-time scheduling from traditional OS scheduling. 
+3. Understand major real-time scheduling policies.
+4. Understand interprocess communication mechanisms.
+
+## ESY/Low-power computing
+
+Topics:
+
+- Sources of energy consumption: toggling, leakage
+- Instruction-level strategies for power management: function unit management
+- Memory system power consumption: caches, off-chip memory
+- Power consumption with multiple processes
+- System-level power management: deterministic, probabilistic methods
+
+Learning outcomes:
+
+1. Understand why low-power computing is important.
+2. Identify sources of energy consumption.
+3. Identify possible remedies for energy consumption at various levels of design abstraction.
+
+## ESY/Reliable system design
+
+Topics:
+
+- Transient vs. permanent failures in hardware
+- Sources of errors from software
+- The role of design verification in reliable system design
+- Fault-tolerance techniques
+- Famous failures of embedded computers
+
+Learning outcomes:
+
+1. Understand the variety of sources of faults in embedded computing systems. 
+2. Identify strategies to find problems.
+3. Identify strategies to minimize the effects of problems.
+
+## ESY/Design methodologies
+
+Topics:
+
+- Multi-person design projects
+- Designing on-time and on-budget
+- Design reviews
+- Tracking error rates and sources
+- Change management
+
+Learning outcomes:
+
+1. Understand why real-world projects are not the same as class projects. 
+2. Identify important goals of the methodology.
+3. Understand the importance of design tracking and documentation. 
+
+## ESY/Tool support
+
+Topics:
+
+- Compilers and programming environments
+- Logic analyzers
+- RTOS tools
+- Power analysis
+- Software management tools
+- Project management tools
+
+Learning outcomes:
+
+1. Understand role of hardware and software tools in system development.
+2. Understand how to use tools to support the methodology.
+
+## ESY/Embedded multiprocessors
+
+Topics:
+
+- Importance of multiprocessors as in performance, power, and cost
+- Hardware/software partitioning for single-bus systems
+- More general architectures
+- Platform FPGAs as multiprocessors
+
+Learning outcomes:
+
+1. Understand the use of multiple processors in embedded systems.
+2. Identify trade-offs between CPUs and hardwired logic in multiprocessors. 
+3. Understand basic design techniques.
+
+## ESY/Networked embedded systems
+
+Topics:
+
+- Why networked embedded systems
+- Example networked embedded systems: automobiles, factory automation systems
+- The OSI reference model
+- Types of network fabrics
+- Network performance analysis
+- Basic principles of the Internet protocol
+- Internet-enabled embedded systems
+
+Learning outcomes:
+
+1. Understand why networks are components of embedded systems.
+2. Identify roles of hardware and software in networked embedded systems.
+3. Compare networks designed for embedded computing with Internet networking.
+
+## ESY/Interfacing and mixed-signal systems
+
+Topics:
+
+- Digital-to-analog conversion
+- Analog-to-digital conversion
+- How to partition analog/digital processing in interfaces
+- Digital processing and real-time considerations
+
+Learning outcomes:
+
+1. Understand pros and cons of digital and analog processing in interfaces. 
+2. Understand fundamentals of A/D and D/A conversion.

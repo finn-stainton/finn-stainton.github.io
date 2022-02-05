@@ -1,4 +1,17 @@
+---
+hide:
+    - navigation
+---
 # AL/Algorithmic Strategies
+
+??? info "Learning Outcomes"
+    
+    1. For each of the strategies (brute-force, greedy, divide-and-conquer, recursive backtracking, and dynamic programming), identify a practical example to which it would apply. [Familiarity]
+    2. Use a greedy approach to solve an appropriate problem and determine if the greedy rule chosen leads to an optimal solution. [Assessment]
+    3. Use a divide-and-conquer algorithm to solve an appropriate problem. [Usage]
+    4. Use recursive backtracking to solve a problem such as navigating a maze. [Usage]
+    5. Use dynamic programming to solve an appropriate problem. [Usage]
+    6. Determine an appropriate algorithmic approach to a problem. [Assessment]
 
 ## Brute-force algorithms
 
@@ -51,3 +64,5 @@ Navigating a Maze
 ## Reduction: transform-and-conquer
 
 ## Appropriate algorithmic approach [Assignment]
+
+## Resources/ Bib.

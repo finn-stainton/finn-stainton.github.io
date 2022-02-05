@@ -11,7 +11,7 @@ The knowledge units in this area collectively encompass the following:
 5. Datapaths and control units composed of combinational and sequential building blocks
 6. Analysis and design of digital systems including design space exploration, and tradeoffs based on constraints such as performance, power, and cost
 
-## History and overview
+## DIG/History and overview
 
 **Learning Outcomes**:
 
@@ -25,7 +25,7 @@ The knowledge units in this area collectively encompass the following:
 **Learning Outcomes**:
 
 - Describe design tools and tool flow (e.g., design entry, compilation, simulation, and analysis) that are useful for the creation and simulation of digital circuits and systems.
-- Discuss the need for standards and enumerate standards important to the area of digital design such as floating-point numbers (IEEE 1)   and character encoding (ASCII, Unicode)
+- Discuss the need for standards and enumerate standards important to the area of digital design such as floating-point numbers (IEEE 1) 8and character encoding (ASCII, Unicode)
 - Use one of the standard HDLs (e.g., IEEE 1364/Verilog, IEEE 1076/VHDL) for modeling simple digital circuits.
 - Define important engineering constraints such as timing, performance, power, size, weight, cost, and their tradeoffs in the context of digital systems design.
 

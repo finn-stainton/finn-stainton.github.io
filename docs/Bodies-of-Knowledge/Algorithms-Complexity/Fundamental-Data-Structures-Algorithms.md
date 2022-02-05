@@ -1,4 +1,20 @@
+---
+hide:
+    - navigation
+---
 # AL/Fundamental Data Structures and Algorithms
+
+??? info "Learning Outcomes"
+
+    1. Implement basic numerical algorithms. [Usage]
+    2. Implement simple search algorithms and explain the differences in their time complexities. [Assessment]
+    3. Be able to implement common quadratic and O(N log N) sorting algorithms. [Usage]
+    4. Describe the implementation of hash tables, including collision avoidance and resolution. [Familiarity]
+    5. Discuss the runtime and memory efficiency of principal algorithms for sorting, searching, and hashing. [Familiarity]
+    6. Discuss factors other than computational efficiency that influence the choice of algorithms, such as
+    programming time, maintainability, and the use of application-specific patterns in the input data. [Familiarity]
+    1. Explain how tree balance affects the efficiency of various binary search tree operations. [Familiarity]
+    2. Solve problems using fundamental graph algorithms, including depth-first and breadth-first search. [Usage]
 
 ## Simple numerical algorithms
 
@@ -19,6 +35,11 @@ e.g. [1,3,2,7,4,2,5,6]
 **Binary** 
 
 ## Sorting algorithms
+
+Bubble Sort
+Shellsort
+Binsort
+Radix Sort
 
 **Worst case quadratic** 
 
@@ -82,3 +103,5 @@ including strategies for avoiding and resolving collisions
 - longest common subsequence algorithms
 
 ## Resources/ Bib.
+
+- Distributed and Mobile Systems, Andrew Ensor
