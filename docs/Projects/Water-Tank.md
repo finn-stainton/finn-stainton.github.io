@@ -89,7 +89,7 @@ I decided to go with the Motorised Ball Valve as it doesn't require continuos po
 
 !!! note ""
 
-    See my teardown of it [here](../Repairs-and-Teardowns/US_Solid_Motorised_Valve_Teardown.md)
+    See my teardown of it [here](../../Journal/2019#motorised-valve-oem-teardown)
 
 As the Motorised Ball Valve is of a three wire type, it's controlled with "Open", "Close" and "Ground" wires. A SPDT switch is needed to throw between the open and closed states. I decided to go with a SPDT relay which can switch the valve's stated input is 9-12vdc. 
 

@@ -1,6 +1,6 @@
 # Algorithms and Complexity (AL)
 
-## [AL/Basic Analysis](Basic-Analysis.md)
+## [AL/Basic Analysis](01_Basic-Analysis.md)
 
 **Topics**:
 
@@ -16,7 +16,7 @@
 - Analysis of iterative and recursive algorithms
 - Some version of a Master Theorem
 
-## [AL/Algorithmic Strategies](Algorithmic-Strategies.md)
+## [AL/Algorithmic Strategies](02_Algorithmic-Strategies.md)
 
 **Topics:**
 
@@ -29,7 +29,7 @@
 - Heuristics
 - Reduction: transform-and-conquer
 
-## [AL/Fundamental Data Structures and Algorithms](Fundamental-Data-Structures-Algorithms.md)
+## [AL/Fundamental Data Structures and Algorithms](03_Fundamental-Data-Structures-Algorithms.md)
 
 **Topics**:
 
@@ -50,7 +50,7 @@
 - Pattern matching and string/text algorithms (e.g., substring matching, regular expression matching, longest
 common subsequence algorithms)
 
-## [AL/Advanced Data Structures, Algorithms and Analysis](Advanced-Data-Structures-Algorithms.md)
+## [AL/Advanced Data Structures, Algorithms and Analysis](04_Advanced-Data-Structures-Algorithms.md)
 
 **Topics**:
 
@@ -70,7 +70,7 @@ matching)
 - Probabilistic analysis
 - Online algorithms and competitive analysis
 
-## [AL/Basic Automata Computability and Complexity](Basic-Automata-Computability-Complexity.md)
+## [AL/Basic Automata Computability and Complexity](05_Basic-Automata-Computability-Complexity.md)
 
 **Topics**:
 
@@ -81,7 +81,7 @@ matching)
 - Introduction to the P and NP classes and the P vs. NP problem
 - Introduction to the NP-complete class and exemplary NP-complete problems (e.g., SAT, Knapsack)
 
-## [AL/Advanced Computational Complexity](Advanced-Computational-Complexity.md)
+## [AL/Advanced Computational Complexity](06_Advanced-Computational-Complexity.md)
 
 **Topics**:
 
@@ -91,7 +91,7 @@ matching)
 - Classic NP-complete problems
 - Reduction Techniques
 
-## [AL/Advanced Automata Theory and Computability](Advanced-Automata-Computability.md)
+## [AL/Advanced Automata Theory and Computability](07_Advanced-Automata-Computability.md)
 
 **Topics**:
 

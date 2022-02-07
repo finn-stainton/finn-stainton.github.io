@@ -2,7 +2,7 @@
 
 Discrete structures are foundational material for computer science. By foundational we mean that relatively few computer scientists will be working primarily on discrete structures, but that many other areas of computer science require the ability to work with concepts from discrete structures. Discrete structures include important material from such areas as set theory, logic, graph theory, and probability theory. The material in discrete structures is pervasive in the areas of data structures and algorithms but appears elsewhere in computer science as well. For example, an ability to create and understand a proof—either a formal symbolic proof or a less formal but still mathematically rigorous argument—is important in virtually every area of computer science, including (to name just a few) formal specification, verification, databases, and cryptography. Graph theory concepts are used in networks, operating systems, and compilers. Set theory concepts are used in software engineering and in databases. Probability theory is used in intelligent systems, networking, and a number of computing applications. Given that discrete structures serves as a foundation for many other areas in computing, it is worth noting that the boundary between discrete structures and other areas, particularly Algorithms and Complexity, Software Development Fundamentals, Programming Languages, and Intelligent Systems, may not always be crisp. Indeed, different institutions may choose to organize the courses in which they cover this material in very different ways. Some institutions may cover these topics in one or two focused courses with titles like "discrete structures" or "discrete mathematics," whereas others may integrate these topics in courses on programming, algorithms, and/or artificial intelligence. Combinations of these approaches are also prevalent (e.g., covering many of these topics in a single focused introductory course and covering the remaining topics in more advanced topical courses).
 
-## [DS/Sets, Relations, and Functions](Set-Relations-Functions.md)
+## [DS/Sets, Relations, and Functions](01_Set-Relations-Functions.md)
 
 **Topics**:
 
@@ -20,7 +20,7 @@ Discrete structures are foundational material for computer science. By foundatio
     - Inverses
     - Composition
 
-## [DS/Basic Logic](Basic-Logic.md)
+## [DS/Basic Logic](02_Basic-Logic.md)
 
 **Topics**:
 
@@ -35,7 +35,7 @@ Reasoning)
     - Universal and existential quantification
 - Limitations of propositional and predicate logic (e.g., expressiveness issues)
 
-## [DS/Proof Techniques](Proof-Techniques.md)
+## [DS/Proof Techniques](03_Proof-Techniques.md)
 
 **Topics**:
 
@@ -50,7 +50,7 @@ Reasoning)
 - Recursive mathematical definitions
 - Well orderings
 
-## [DS/Basics of Counting](Basic-Counting.md)
+## [DS/Basics of Counting](04_Basic-Counting.md)
 
 **Topics**:
 
@@ -69,7 +69,7 @@ Reasoning)
     - Other examples, showing a variety of solutions
 - Basic modular arithmetic
 
-## [DS/Graphs and Trees](Graphs-Trees.md)
+## [DS/Graphs and Trees](05_Graphs-Trees.md)
 
 Cross-reference: [AL/Fundamental Data Structures and Algorithms](../Algorithms-Complexity/Fundamental-Data-Structures-Algorithms.md), especially with relation to
 graph traversal strategies.
@@ -85,7 +85,7 @@ graph traversal strategies.
 - Spanning trees/forests
 - Graph isomorphism
 
-## [DS/Discrete Probability](Discrete-Probability.md)
+## [DS/Discrete Probability](06_Discrete-Probability.md)
 
 **Topics**:
 
@@ -97,3 +97,15 @@ graph traversal strategies.
 - Expectation, including Linearity of Expectation
 - Variance
 - Conditional Independence
+
+---
+
+History and overview [1]
+Relevant tools and engineering applications [1] 
+Functions, relations, and sets [6]
+Boolean algebra principles [4]
+First-order logic [6]
+Proof techniques [6]
+Basics of counting [2]
+Graph and tree representations and properties [2] 
+Iteration and recursion [2]
