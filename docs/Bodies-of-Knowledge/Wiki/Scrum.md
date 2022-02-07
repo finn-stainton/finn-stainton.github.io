@@ -3,7 +3,7 @@
 Scrum is a framework used by teams to help collaboration by implementing the principles of [Agile](Agile.md) in a concrete set of roles, activities and practices.
 
 <figure markdown>
-  ![Electrical Schematic](assets/agile-scrum-lifecycle-diagram.png)
+  ![Electrical Schematic](../assets/agile-scrum-lifecycle-diagram.png)
   <figcaption>Scrum lifecycle, Microsoft</figcaption>
 </figure>
 

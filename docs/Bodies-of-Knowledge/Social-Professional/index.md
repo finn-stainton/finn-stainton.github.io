@@ -312,3 +312,154 @@ privacy and deception)
 [1] “Our Common Future.” http://grawemeyer.org/worldorder/previous-winners/1991-the-united-nations-world-commission-on-environment-and-development.html
 
 [2] Tucker, A. (ed), B. Barnes, R. Aiken, K. Barker, K. Bruce, J. Cain, S. Conry, G. Engel, R. Epstein, D. Lidtke, M. Mulder, J. Rogers, E. Spafford, A. Turner, Computing Curricula 1991: Report of the Joint Curriculum Task Force, ACM Press and IEEE-CS Press, 1991.
+
+---
+
+CE-SPR0 History and overview [core]
+Minimum core coverage time: 1 hour
+Topics:
+  Indicate some reasons for studying social and professional issues
+  Highlight some people that influenced or contributed to the area of social and professional issues
+  Indicate some important topic areas such social context of computing, professional and ethical responsibilities, risks and
+trade-offs, intellectual property, privacy, and codes of ethics and professional conduct
+  Contrast between what is legal to what is ethical
+  Explain the importance of ethical integrity in the practice of computer engineering
+  Mention some ways a computer engineer may have to make conflicting ethical choices in practicing the engineering
+profession
+  Explain the meaning of whistle blowing and the dilemma it sometimes places on computer engineers
+  Explain professionalism relative to a practicing engineer
+  Show that credentialing preserves the integrity of a professional
+  Describe risk and its contrast with safety
+  Explain the difference between a patent and a copyright
+  Describe how privacy issues affect the practice of computer engineering
+  Explore some additional resources associated with social and professional issues
+  Explain the purpose and role of social and professional issues in computer engineering
+Learning outcomes:
+1. Identify some contributors to social and professional issues and relate their achievements to the knowledge area. 2. Contrast between ethical and legal issues.
+3. Contrast between a patent and a copyright.
+4. Identify some ways of credentialing a person to practice computer engineering.
+5. Describe issues that contrast risk issues with safety issues.
+6. Identify some issues in computer engineering that address privacy.
+7. Describe whistle blowing and the conflicts between ethics and practice that may result from doing so. 8. Describe how computer engineering uses or benefits from social and professional issues.
+CE-SPR1 Public policy [core] Minimum core coverage time: 2 hours
+Topics:
+  Introduction to the social implications of computing
+  Social implications of networked communication
+  Growth of, control of, and access to the Internet
+  Gender-related issues
+  International issues
+Learning outcomes:
+1. Interpret the social context of a particular implementation.
+2. Identify assumptions and values embedded in a particular design.
+3. Evaluate a particular implementation using empirical data.
+4. Describe positive and negative ways in which computing altars the modes of interaction between people. 5. Explain why computing/network access is restricted in some countries.
+CE-SPR2 Methods and tools of analysis [core] Minimum core coverage time: 2 hours
+- A.62 -
+Computing Curricula - Computer Engineering Final Report
+Topics:
+  Making and evaluating ethical arguments
+  Identifying and evaluating ethical choices
+  Understanding the social context of design
+  Identifying assumptions and values
+Learning outcomes:
+1. Analyze an argument to identify premises and conclusion.
+2. Illustrate the use of example, analogy, and counter-analogy in ethical argument. 3. Detect use of basic logical fallacies in an argument.
+4. Identify stakeholders in an issue and our obligations to them.
+5. Articulate the ethical tradeoffs in a technical decision.
+CE-SPR3 Professional and ethical responsibilities [core] Minimum core coverage time: 2 hours
+Topics:
+  Community values and the laws by which we live
+  The nature of professionalism
+  Various forms of professional credentialing and the advantages and disadvantages
+  The role of the professional in public policy
+  The role of licensure and practice in engineering
+  Contrasts of licensure in engineering but not other disciplines
+  Maintaining awareness of consequences
+  Ethical dissent and whistle blowing
+  Codes of ethics, conduct, and practice (NSPE, IEEE, ACM, SE, AITP, and so forth)
+  Dealing with harassment and discrimination
+  “Acceptable use” policies for computing in the workplace
+Learning outcomes:
+Appendix A - Body of Knowledge 2004 December 12
+1. Identify progressive stages in a whistle-blowing incident.
+2. Specify the strengths and weaknesses of relevant professional codes as expressions of professionalism and guides to decision-
+making.
+3. Provide arguments for and against licensure in non-engineering professions.
+4. Identify ethical issues that arise in software development and determine how to address them technically and ethically.
+5. Develop a computer use policy with enforcement measures.
+CE-SPR4 Risks and liabilities [core] Minimum core coverage time: 2 hours
+Topics:
+  Historical examples of software risks such as the Therac-25 case
+  Product safety and public consumption
+  Implications of software complexity
+  Risk assessment and management
+Learning outcomes:
+1. Explain the limitations of testing as a means to ensure correctness.
+2. Recognize the importance of product safety when designing computer systems. 3. Describe the differences between correctness, reliability, and safety.
+4. Recognize unwarranted assumptions of statistical independence of errors.
+5. Discuss the potential for hidden problems in reuse of existing components.
+CE-SPR5 Intellectual property [core] Minimum core coverage time: 2 hours
+Topics:
+  Foundations of intellectual property
+  Copyrights, patents, and trade secrets
+  Software piracy
+  Software patents
+  Transnational issues concerning intellectual property Learning outcomes:
+1. Distinguish among patent, copyright, and trade secret protection.
+- A.63 -
+
+Computing Curricula - Computer Engineering Final Report
+2. Discuss the legal background of copyright in national and international law. 3. Explain how patent and copyright laws may vary internationally.
+4. Outline the historical development of software patents.
+CE-SPR6 Privacy and civil liberties [core] Minimum core coverage time: 2 hours
+Topics:
+  Ethical and legal basis for privacy protection
+  Privacy implications of massive database systems
+  Technological strategies for privacy protection
+  Freedom of expression in cyberspace
+  International and intercultural implications
+Learning outcomes:
+Appendix A - Body of Knowledge 2004 December 12
+1. Summarize the legal bases for the right to privacy and freedom of expression in one’s own nation. 2. Discuss how those concepts vary from country to country.
+3. Describe current computer-based threats to privacy.
+4. Explain how the Internet may change the historical balance in protecting freedom of expression.
+CE-SPR7 Computer crime [core] Minimum core coverage time: 1 hour
+Topics:
+  History and examples of computer crime
+  “Cracking” (“hacking”) and its effects
+  Viruses, worms, and Trojan horses
+  Crime prevention strategies
+Learning outcomes:
+1. Outline the technical basis of viruses and denial-of-service attacks. 2. Enumerate techniques to combat “cracker” attacks.
+3. Discuss several different “cracker” approaches and motivations.
+4. Identify the professional’s role in security and the tradeoffs involved.
+CE-SPR8 Economic issues in computing [core] Minimum core coverage time: 2 hours
+Topics:
+  Costing out jobs with considerations on manufacturing, hardware, software, and engineering implications
+  Cost estimates versus actual costs in relation to total costs
+  Use of engineering economics in dealing with finances
+  Entrepreneurship: prospects and pitfalls
+  Monopolies and their economic implications
+  Effect of skilled labor supply and demand on the quality of computing products
+  Pricing strategies in the computing domain
+  Differences in access to computing resources and the possible effects thereof
+Learning outcomes:
+1. Describe the assessment of total job costs.
+2. Evaluate the risks of entering one’s own business.
+3. Apply engineering economic principles when considering fiscal arrangements.
+4. Summarize the rationale for antimonopoly efforts.
+5. Describe several ways in which shortages in the labor supply affect the information technology industry. 6. Suggest and defend ways to address limitations on access to computing.
+CE-SPR9 Philosophical frameworks [elective]
+Topics:
+  Philosophical frameworks, particularly utilitarianism and deontological theories
+  Problems of ethical relativism
+  Scientific ethics in historical perspective
+  Differences in scientific and philosophical approaches
+- A.64 -
+
+Computing Curricula - Computer Engineering Appendix A - Body of Knowledge Final Report 2004 December 12
+Learning outcomes:
+1. Summarize the basic concepts of relativism, utilitarianism, and deontological theories.
+2. Recognize the distinction between ethical theory and professional ethics.
+3. Identify the weaknesses of the “hired agent” approach, strict legalism, naïve egoism, and naïve relativism as ethical
+frameworks.
