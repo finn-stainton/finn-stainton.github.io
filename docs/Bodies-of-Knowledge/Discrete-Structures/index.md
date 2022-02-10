@@ -71,7 +71,7 @@ Reasoning)
 
 ## [DS/Graphs and Trees](05_Graphs-Trees.md)
 
-Cross-reference: [AL/Fundamental Data Structures and Algorithms](../Algorithms-Complexity/Fundamental-Data-Structures-Algorithms.md), especially with relation to
+Cross-reference: [AL/Fundamental Data Structures and Algorithms](../Algorithms-Complexity/03_Fundamental-Data-Structures-Algorithms.md), especially with relation to
 graph traversal strategies.
 
 **Topics**:

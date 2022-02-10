@@ -62,7 +62,7 @@ A Servlet called `ServletContainer` handles HTTP requests and forwards them to t
 - [JSON](JSON.md)
 - [JSON Web Tokens](JWT.md)
 
-## Resources/ Bib.
+!!! cite "Resources/ Bib."
 
 - Distributed and Mobile Systems, Andrew Ensor
 - [](https://www.ibm.com/in-en/cloud/learn/rest-apis)

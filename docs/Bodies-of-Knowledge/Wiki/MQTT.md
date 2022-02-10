@@ -76,7 +76,7 @@ A SUBACK acknowledgement message is return from the broker to the client to conf
 
 ---
 
-## Resources/ Bib.
+!!! cite "Resources/ Bib."
 
 - [MQTT Ver.3.1.1 OASIS Standard](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html)
 - [mqtt.org](https://mqtt.org)

@@ -1,6 +1,6 @@
 ---
 hide:
-    - navigation
+    - navigation 
 ---
 # SE/Software Project Management
 
@@ -21,17 +21,17 @@ hide:
     13. Assess and provide feedback to teams and individuals on their performance in a team setting. [Usage]
     14. Using a particular software process, describe the aspects of a project that need to be planned and monitored,
     (e.g., estimates of size and effort, a schedule, resource allocation, configuration control, change management, and project risk identification and management). [Familiarity]
-    1.  Track the progress of some stage in a project using appropriate project metrics. [Usage]
-    2.  Compare simple software size and cost estimation techniques. [Usage]
-    3.  Use a project management tool to assist in the assignment and tracking of tasks in a software development project. [Usage]
-    4.  Describe the impact of risk tolerance on the software development process. [Assessment]
-    5.  Identify risks and describe approaches to managing risk (avoidance, acceptance, transference, mitigation), and characterize the strengths and shortcomings of each. [Familiarity]
-    6.  Explain how risk affects decisions in the software development process. [Usage]
-    7.  Identify security risks for a software system. [Usage]
-    8.  Demonstrate a systematic approach to the task of identifying hazards and risks in a particular situation. [Usage]
-    9.  Apply the basic principles of risk management in a variety of simple scenarios including a security situation. [Usage]
-    10. Conduct a cost/benefit analysis for a risk mitigation approach. [Usage]
-    11. Identify and analyze some of the risks for an entire system that arise from aspects other than the software. [Usage]
+    15. Track the progress of some stage in a project using appropriate project metrics. [Usage]
+    16. Compare simple software size and cost estimation techniques. [Usage]
+    17. Use a project management tool to assist in the assignment and tracking of tasks in a software development project. [Usage]
+    18. Describe the impact of risk tolerance on the software development process. [Assessment]
+    19. Identify risks and describe approaches to managing risk (avoidance, acceptance, transference, mitigation), and characterize the strengths and shortcomings of each. [Familiarity]
+    20. Explain how risk affects decisions in the software development process. [Usage]
+    21. Identify security risks for a software system. [Usage]
+    22. Demonstrate a systematic approach to the task of identifying hazards and risks in a particular situation. [Usage]
+    23. Apply the basic principles of risk management in a variety of simple scenarios including a security situation. [Usage]
+    24. Conduct a cost/benefit analysis for a risk mitigation approach. [Usage]
+    25. Identify and analyze some of the risks for an entire system that arise from aspects other than the software. [Usage]
 
 ---
 
@@ -49,19 +49,6 @@ hide:
 
 ## Risk (cross reference IAS/Secure Software Engineering)
 
-### The role of risk in the lifecycle
-
-### Risk categories 
-    
-- security, 
-- safety, 
-- market, 
-- financial, 
-- technology, 
-- people, 
-- quality, 
-- structure 
-- process
 
 ## Team management
 
@@ -87,14 +74,6 @@ hide:
 
 ## Software quality assurance and the role of measurements
 
-## Risk
 
-### Risk identification and management
-
-### Risk analysis and evaluation
-
-### Risk tolerance (e.g., risk-adverse, risk-neutral, risk-seeking)
-
-### Risk planning
 
 ## System-wide approach to risk including hazards associated with tools

@@ -24,4 +24,4 @@ Then...
 
 - [Cucumber](Cucumber.md)
 
-## Resources/ Bib.
+!!! cite "Resources/ Bib."

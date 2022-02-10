@@ -88,13 +88,12 @@ $$
 
 - [LoRaWAN](LoRaWAN.md)
 
-## Resources
-## Resources/ Bib.
+!!! cite "Resources/ Bib."
 
-- [Semtech](https://www.semtech.com/lora/what-is-lora)
-- [LoRa Readthedocs](https://lora.readthedocs.io/en/latest/)
-- [Semtech LoRa](https://www.semtech.com/lora/what-is-lora)
-- [LoRa Modulation Basics](https://www.frugalprototype.com/wp-content/uploads/2016/08/an1200.22.pdf)
-- [LoRa Crash Course](https://www.youtube.com/watch?v=T3dGLqZrjIQ)
-- [Short Range Devices GURL NZ](https://www.rsm.govt.nz/licensing/frequencies-for-anyone/short-range-devices-gurl)
-- [Licence Summary RSM NZ](https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/LicenceSummary.wdk?id=219752)
+    - [Semtech](https://www.semtech.com/lora/what-is-lora)
+    - [LoRa Readthedocs](https://lora.readthedocs.io/en/latest/)
+    - [Semtech LoRa](https://www.semtech.com/lora/what-is-lora)
+    - [LoRa Modulation Basics](https://www.frugalprototype.com/wp-content/uploads/2016/08/an1200.22.pdf)
+    - [LoRa Crash Course](https://www.youtube.com/watch?v=T3dGLqZrjIQ)
+    - [Short Range Devices GURL NZ](https://www.rsm.govt.nz/licensing/frequencies-for-anyone/short-range-devices-gurl)
+    - [Licence Summary RSM NZ](https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/LicenceSummary.wdk?id=219752)

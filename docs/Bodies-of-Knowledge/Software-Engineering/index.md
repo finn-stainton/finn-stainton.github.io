@@ -36,7 +36,7 @@ In general, students can best learn to apply much of the material defined in the
 
 Further, there is increasing evidence that students learn to apply software engineering principles more effectively through an iterative approach, where students have the opportunity to work through a development cycle, assess their work, and then apply the knowledge gained through their assessment to another development cycle. Agile and iterative lifecycle models inherently afford such opportunities. Software lifecycle terminology in this document is based on that used in earlier sources, such as the Software Engineering Body of Knowledge (SWEBOK) and the ACM/IEEE-CS Software Engineering 2004 Curriculum Guidelines (SE2004). While some terms were originally defined in the context of plan-driven development processes, they are treated here as generic, and thus equally applicable to agile processes -->
 
-## [SE/Software Processes](01_Software-Processes.md)
+## [SE/Software Processes](01_Software-Processes)
 
 **Topics**:
 
@@ -50,7 +50,7 @@ Further, there is increasing evidence that students learn to apply software engi
 - Software process capability maturity models
 - Software process measurements
 
-## [SE/Software Project Management](02_Software-Project-Management.md)
+## [SE/Software Project Management](02_Software-Project-Management)
 
 **Topics**:
 
@@ -81,7 +81,7 @@ and process
     - Risk planning
 - System-wide approach to risk including hazards associated with tools
 
-## [SE/Tools and Environments](03_Tools-Environments.md)
+## [SE/Tools and Environments](03_Tools-Environments)
 
 **Topics**:
 
@@ -93,7 +93,7 @@ and process
     - Continuous integration
 - Tool integration concepts and mechanisms
 
-## [SE/Requirements Engineering](04_Requirements-Engineering.md)
+## [SE/Requirements Engineering](04_Requirements-Engineering)
 
 The purpose of requirements engineering is to develop a common understanding of the needs, priorities, and constraints relevant to a software system. Many software failures arise from an incomplete understanding of requirements for the software to be developed or inadequate management of those requirements. Specifications of requirements range in formality from completely informal (e.g., spoken) to rigorously mathematical (e.g., written in a formal specification language such as Z or first-order logic). In practice, successful software engineering efforts use requirements specifications to reduce ambiguity and improve the consistency and completeness of the development team’s understanding of the vision of the intended software. Plan-driven approaches tend to produce formal documents with numbered requirements. Agile approaches tend to favor less formal specifications that include user stories, use cases, and test cases
 
@@ -114,7 +114,7 @@ Software Engineering)
 - Requirements validation
 - Requirements tracing
 
-## [SE/Software Design](05_Software-Design.md)
+## [SE/Software Design](05_Software-Design)
 
 **Topics**:
 
@@ -141,7 +141,7 @@ pipes-and-filters)
     - Principle of fail-safe defaults
     - Principle of psychological acceptability
 
-## [SE/Software Construction](06_Software-Construction.md)
+## [SE/Software Construction](06_Software-Construction)
 
 **Topics**:
 
@@ -163,7 +163,7 @@ IAS/Defensive Programming; SDF/Development Methods)
     - Assuming success and correctness
     - Validating assumptions
 
-## [SE/Software Verification and Validation](07_Software-Verification-Validation.md)
+## [SE/Software Verification and Validation](07_Software-Verification-Validation)
 
 **Topics**:
 
@@ -186,7 +186,7 @@ specification (cross-reference IAS/Secure Software Engineering)
 - Fault logging, fault tracking and technical support for such activities
 - Fault estimation and testing termination including defect seeding
 
-## [SE/Software Evolution](08_Software-Evolution.md)
+## [SE/Software Evolution](08_Software-Evolution)
 
 **Topics**:
 
@@ -203,7 +203,7 @@ specification (cross-reference IAS/Secure Software Engineering)
     - Components
     - Product lines
 
-## [SE/Software Reliability](09_Software-Reliability.md)
+## [SE/Software Reliability](09_Software-Reliability)
 
 **Topics**:
 
@@ -215,7 +215,7 @@ specification (cross-reference IAS/Secure Software Engineering)
 - Software reliability engineering practices
 - Measurement-based analysis of software reliability
 
-## [SE/Formal Methods](10_Formal-Methods.md)
+## [SE/Formal Methods](10_Formal-Methods)
 
 The topics listed below have a strong dependency on core material from the Discrete Structures (DS) Knowledge Area, particularly knowledge units DS/Functions Relations and Sets, DS/Basic Logic and DS/Proof Techniques.
 

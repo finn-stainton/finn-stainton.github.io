@@ -111,7 +111,7 @@ git config --global user.email "email"
 5. release
 6. support
 
-## Resources/ Bib.
+!!! cite "Resources/ Bib."
 
 - [Git Reference Manual](https://git-scm.com/docs)
 - [Pro Git Book](https://git-scm.com/book/en/v2)

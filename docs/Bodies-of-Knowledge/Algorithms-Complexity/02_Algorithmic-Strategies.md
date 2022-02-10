@@ -65,4 +65,4 @@ Navigating a Maze
 
 ## Appropriate algorithmic approach [Assignment]
 
-## Resources/ Bib.
+!!! cite "Resources/ Bib."

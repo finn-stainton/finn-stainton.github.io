@@ -97,7 +97,7 @@ Is a graph containing user story points on the y axis and days on the x axis. It
 
 Velocity
 
-## Resources/ Bib.
+!!! cite "Resources/ Bib."
 
 - [Scrum.org](https://www.scrum.org/)
 - [ScrumAlliance.org](https://www.scrumalliance.org/)

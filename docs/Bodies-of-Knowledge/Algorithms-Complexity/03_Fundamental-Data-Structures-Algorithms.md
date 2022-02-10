@@ -102,6 +102,6 @@ including strategies for avoiding and resolving collisions
 - regular expression matching algorithms, 
 - longest common subsequence algorithms
 
-## Resources/ Bib.
+!!! cite "Resources/ Bib."
 
 - Distributed and Mobile Systems, Andrew Ensor
