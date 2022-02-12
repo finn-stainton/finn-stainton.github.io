@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SGP/Relevant tools, standards, and/or engineering constraints
 
 ??? "Learning Outcomes:"

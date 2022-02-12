@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SGP/Frequency Response
 
 ??? "Learning Outcomes:"

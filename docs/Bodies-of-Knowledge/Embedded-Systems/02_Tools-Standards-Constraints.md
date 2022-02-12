@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Relevant tools, standards, and engineering constraints
 
 ??? info "Learning Outcomes"

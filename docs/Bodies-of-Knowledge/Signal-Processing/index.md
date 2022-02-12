@@ -1,8 +1,7 @@
 ---
 hide:
     - toc
----
-# Signal Processing (SGP) / History and Overview
+---# Signal Processing (SGP) / History and Overview
 
 **Area Scope**
 

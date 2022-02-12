@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DS/Graphs and Trees
 
 ??? info "Learning Outcomes"

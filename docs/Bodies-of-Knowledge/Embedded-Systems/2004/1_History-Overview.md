@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/History and Overview 2004
 
 ??? info "Learning Outcomes"

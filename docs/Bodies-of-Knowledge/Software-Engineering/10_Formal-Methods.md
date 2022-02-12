@@ -1,8 +1,7 @@
 ---
 hide:
     -navigation
----
-# SE/Formal Methods
+---# SE/Formal Methods
 
 ??? info "Learning Outcomes"
 

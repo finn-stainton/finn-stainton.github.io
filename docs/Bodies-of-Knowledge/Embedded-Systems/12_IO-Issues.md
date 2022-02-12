@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Advanced input/output issues
 
 ??? info "Learning Outcomes"

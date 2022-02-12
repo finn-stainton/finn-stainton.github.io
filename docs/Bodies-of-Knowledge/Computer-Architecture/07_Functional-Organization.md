@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # AR/Functional Organization
 
 ??? info "Learning Outcomes"

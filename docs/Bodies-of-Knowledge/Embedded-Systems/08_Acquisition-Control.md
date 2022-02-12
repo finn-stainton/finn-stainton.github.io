@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Data acquisition, control, sensors, actuators
 
 ??? info "Learning Outcomes"

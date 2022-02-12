@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Techniques for low-power operation
 
 ??? info "Learning Outcomes"

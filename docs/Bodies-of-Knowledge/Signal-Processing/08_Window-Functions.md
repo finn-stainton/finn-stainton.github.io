@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SGP/Window functions
 
 ??? "Learning Outcomes:"

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CSG/Fourier Analysis
 
 ??? info "Learning Outcomes"

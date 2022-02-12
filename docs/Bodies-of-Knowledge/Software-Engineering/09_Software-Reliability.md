@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SE/Software Reliability
 
 ??? info "Learning Outcomes"

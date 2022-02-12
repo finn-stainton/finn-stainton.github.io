@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CAE/Electrical circuits
 
 ??? info "Learning Outcomes"

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SE/Tools and Environments
 
 ??? info "Learning Outcomes"

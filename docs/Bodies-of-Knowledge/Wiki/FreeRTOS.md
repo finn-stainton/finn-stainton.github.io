@@ -10,22 +10,17 @@
 
 Open terminal and navigate to a director you want to create the project under, then run the following:
 
-``` console
-# Make Project folder
+``` console# Make Project folder
 mkdir freertos-pico-project
 cd freertos-pico-project
-
 # Make folders
 mkdir ProjectFiles FreeRTOS
-
 # Download pico sdk cmake (need wget installed)
 wget https://raw.githubusercontent.com/raspberrypi/pico-sdk/master/pico_sdk_init.cmake
-
 # Change to FreeRTOS folder and clone FreeRTOS-Kernel
 cd FreeRTOS
 git clone https://github.com/FreeRTOS/FreeRTOS-Kernel
 cd ../
-
 # Create CMakeList file with content
 echo cmake_minimum_required(VERSION 3.12)
 include(pico_sdk_import.cmake)
@@ -33,7 +28,6 @@ project(Pico-FreeRTOS)
 pico_sdk_init()
 add_subdirectory(freertos)
 add_subdirectory(ProjectFiles) > CMakeLists.txt
-
 # Create CMakeList file in ProjectFiles folder with content
 cd ProjectFiles
 echo add_executable(blink

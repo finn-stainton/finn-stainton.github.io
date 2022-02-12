@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # AR/Performance Enhancements
 
 ??? info "Learning Outcomes"

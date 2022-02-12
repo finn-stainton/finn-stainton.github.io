@@ -2,6 +2,7 @@
 hide:
   - toc
 ---
+
 # Journal
 
 ## 📌 Graduated 🎉, Dec 20, 2021

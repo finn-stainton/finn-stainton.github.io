@@ -38,6 +38,7 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.indexes
+    - toc.integrate
     # - navigation.sections
 plugins:
   - search

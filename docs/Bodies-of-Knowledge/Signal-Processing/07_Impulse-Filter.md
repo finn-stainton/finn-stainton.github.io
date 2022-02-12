@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SGP/Finite and infinite impulse response filter design
 
 ??? "Learning Outcomes:"

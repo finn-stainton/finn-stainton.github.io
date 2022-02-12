@@ -1,8 +1,7 @@
 ---
 hide:
     ## navigation
----
-# DS/Proof Techniques
+---# DS/Proof Techniques
 
 ??? info "Learning Outcomes"
 

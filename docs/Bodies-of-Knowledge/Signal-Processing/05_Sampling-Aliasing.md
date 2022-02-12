@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SGP/Sampling and Aliasing
 
 ??? "Learning Outcomes:"

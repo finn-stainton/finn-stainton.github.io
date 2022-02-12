@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CSG/Laplace Transforms
 
 ??? info "Learning Outcomes"

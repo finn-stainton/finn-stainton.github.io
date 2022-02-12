@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # AR/Interfacing and Communication
 
 ??? info "Learning Outcomes"

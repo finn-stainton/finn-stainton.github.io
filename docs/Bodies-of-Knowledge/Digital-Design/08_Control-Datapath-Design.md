@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DIG/Control and datapath design
 
 ??? info "Learning Outcomes"

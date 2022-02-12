@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SE/Software Processes
 
 ??? info "Learning Outcomes"

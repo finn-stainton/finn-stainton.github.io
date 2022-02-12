@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DS/Basic Logic
 
 ??? info "Learning Outcomes"

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DIG/System design and constraints
 
 ??? info "Learning Outcomes"

@@ -1,8 +1,7 @@
 ---
 hide:
    - navigation
----
-# ESY/Periodic interrupts, waveform generation, time measurement
+---# ESY/Periodic interrupts, waveform generation, time measurement
 
 ??? info "Learning Outcomes"
 

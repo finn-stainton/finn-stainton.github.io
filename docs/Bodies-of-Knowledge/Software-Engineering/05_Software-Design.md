@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SE/Software Design
 
 ??? info "Learning Outcomes"

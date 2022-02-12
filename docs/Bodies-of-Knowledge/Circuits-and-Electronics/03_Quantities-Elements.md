@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CAE/Electrical quantities and basic elements
 
 ??? info "Learning Outcomes"

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Mobile and networked embedded systems
 
 ??? info "Learning Outcomes"

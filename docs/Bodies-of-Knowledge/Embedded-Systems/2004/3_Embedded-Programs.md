@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Embedded Programs 2004
 
 ??? info "Learning Outcomes"

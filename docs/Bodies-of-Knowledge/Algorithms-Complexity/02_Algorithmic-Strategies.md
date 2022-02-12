@@ -1,8 +1,4 @@
----
-hide:
-    - navigation
----
-# AL/Algorithmic Strategies
+# AL/ Algorithmic Strategies
 
 ??? info "Learning Outcomes"
     

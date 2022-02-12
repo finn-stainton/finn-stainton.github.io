@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DIG/Boolean algebra applications
 
 ??? info "Learning Outcomes"

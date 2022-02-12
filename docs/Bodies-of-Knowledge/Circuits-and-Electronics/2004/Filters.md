@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CSG/Filters
 
 ??? info "Learning Outcomes"

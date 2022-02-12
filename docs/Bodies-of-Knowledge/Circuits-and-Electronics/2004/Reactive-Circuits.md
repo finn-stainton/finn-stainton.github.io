@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CSG/Reactive Circuits
 
 ??? info "Learning Outcomes"

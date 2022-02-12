@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CAE/Design parameters and issues
 
 ??? info "Learning Outcomes"

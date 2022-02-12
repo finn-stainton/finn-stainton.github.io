@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CSG/Resistive Circuits and Networks
 
 ??? info "Learning Outcomes"

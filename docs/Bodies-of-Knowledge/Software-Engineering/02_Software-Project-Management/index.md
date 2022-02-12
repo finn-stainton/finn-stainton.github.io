@@ -1,8 +1,7 @@
 ---
 hide:
     - navigation 
----
-# SE/Software Project Management
+---# SE/Software Project Management
 
 ??? info "Learning Outcomes"
 

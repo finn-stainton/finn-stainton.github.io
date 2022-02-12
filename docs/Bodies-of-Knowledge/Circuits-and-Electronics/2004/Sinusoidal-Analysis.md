@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CSG/Sinusoidal Analysis
 
 ??? info "Learning Outcomes"

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CAE/Interfacing logic families
 
 ??? info "Learning Outcomes"

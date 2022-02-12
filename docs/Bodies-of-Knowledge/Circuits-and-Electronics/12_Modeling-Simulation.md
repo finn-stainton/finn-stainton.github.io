@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CAE/Circuit modeling and simulation methods
 
 ??? info "Learning Outcomes"

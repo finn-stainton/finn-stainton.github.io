@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SE/Software Verification and Validation
 
 ??? info "Learning Outcomes"

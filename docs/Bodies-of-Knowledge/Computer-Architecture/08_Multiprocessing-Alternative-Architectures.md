@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # AR/Multiprocessing and Alternative Architectures
 
 ??? info "Learning Outcomes"

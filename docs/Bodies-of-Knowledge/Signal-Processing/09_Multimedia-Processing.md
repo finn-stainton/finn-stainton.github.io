@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SGP/Multimedia processing
 
 ??? "Learning Outcomes:"

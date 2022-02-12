@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Serial input and output
 
 ??? info "Learning Outcomes"

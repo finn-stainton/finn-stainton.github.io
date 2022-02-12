@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Parallel input and output
 
 ??? info "Learning Outcomes"

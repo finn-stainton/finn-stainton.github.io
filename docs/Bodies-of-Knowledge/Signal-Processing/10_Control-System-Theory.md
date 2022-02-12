@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SGP/Control system theory and applications
 
 ??? "Learning Outcomes:"

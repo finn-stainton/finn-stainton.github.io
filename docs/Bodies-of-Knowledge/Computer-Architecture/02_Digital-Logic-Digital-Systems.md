@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # AR/Digital Logic and Digital Systems
 
 ??? info "Learning Outcomes"

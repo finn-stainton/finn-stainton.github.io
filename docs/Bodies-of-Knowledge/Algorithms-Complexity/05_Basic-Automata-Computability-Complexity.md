@@ -1,8 +1,4 @@
----
-hide:
-    - navigation
----
-# AL/Basic Automata Computability and Complexity
+# AL/ Basic Automata Computability and Complexity
 
 ??? info "Learning Outcomes"
 

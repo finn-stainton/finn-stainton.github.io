@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DS/Sets, Relations, and Functions
 
 ??? info "Learning Outcomes"

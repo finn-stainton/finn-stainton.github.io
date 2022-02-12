@@ -1,8 +1,4 @@
----
-hide:
-    - navigation
----
-# AL/Advanced Data Structures, Algorithms and Analysis
+# AL/ Advanced Data Structures, Algorithms and Analysis
 
 ??? info "Learning Outcomes"
     
@@ -64,7 +60,7 @@ hide:
 - collision detection
 - geometric search/proximity
 
-## Randomized algorithms
+### Randomized algorithms
 
 ## Stochastic algorithms
 

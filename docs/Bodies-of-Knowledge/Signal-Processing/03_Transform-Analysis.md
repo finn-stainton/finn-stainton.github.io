@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SGP/Transform Analysis
 
 ??? "Learning Outcomes:"

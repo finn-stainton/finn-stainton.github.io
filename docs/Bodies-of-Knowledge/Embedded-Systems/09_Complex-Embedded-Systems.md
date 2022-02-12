@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Implementation Strategies for Complex Embedded Systems
 
 ??? info "Learning Outcomes"

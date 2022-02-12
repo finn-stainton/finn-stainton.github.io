@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # AR/Memory System Organization and Architecture
 
 ??? info "Learning Outcomes"

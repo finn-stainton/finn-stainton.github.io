@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Characteristics of embedded systems
 
 ??? info "Learning Outcomes"

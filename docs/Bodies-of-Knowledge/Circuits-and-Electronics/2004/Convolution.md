@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CSG/Convolution
 
 ??? info "Learning Outcomes"

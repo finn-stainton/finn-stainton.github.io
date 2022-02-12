@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Networked embedded systems 2004
 
 ??? info "Learning Outcomes"

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Tool Support 2004
 
 ??? info "Learning Outcomes"

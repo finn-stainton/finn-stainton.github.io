@@ -1,8 +1,4 @@
----
-hide:
-    - navigation
----
-# AL/Advanced Computational Complexity
+# AL/ Advanced Computational Complexity
 
 ??? info "Learning Outcomes"
 

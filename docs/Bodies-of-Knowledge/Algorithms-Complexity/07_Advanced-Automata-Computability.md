@@ -1,8 +1,4 @@
----
-hide:
-    - navigation
----
-# AL/Advanced Automata Theory and Computability
+# AL/ Advanced Automata Theory and Computability
 
 ??? info "Learning Outcomes"
 

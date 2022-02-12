@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Basic software techniques for embedded applications
 
 ??? info "Learning Outcomes"

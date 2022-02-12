@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # AR/Machine Level Representation of Data
 
 ??? info "Learning Outcomes"

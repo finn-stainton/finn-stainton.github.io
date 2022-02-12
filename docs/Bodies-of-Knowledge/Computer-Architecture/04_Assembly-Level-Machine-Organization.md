@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # AR/Assembly Level Machine Organization
 
 ??? info "Learning Outcomes"

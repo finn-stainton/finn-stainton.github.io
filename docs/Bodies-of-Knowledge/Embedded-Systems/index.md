@@ -1,8 +1,7 @@
 ---
 hide:
     - toc
----
-# Embedded Systems (ESY) / History and Overview
+---# Embedded Systems (ESY) / History and Overview
 
 The knowledge units in this area collectively encompass the following:
 

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SE/Requirements Engineering
 
 ??? info "Learning Outcomes"

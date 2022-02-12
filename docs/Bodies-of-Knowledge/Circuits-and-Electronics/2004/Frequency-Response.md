@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CSG/Frequency Response
 
 ??? info "Learning Outcomes"

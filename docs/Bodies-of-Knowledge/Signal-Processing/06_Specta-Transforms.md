@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SGP/Digital spectra and discrete transforms
 
 ??? "Learning Outcomes:"

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SE/Software Evolution
 
 ??? info "Learning Outcomes"

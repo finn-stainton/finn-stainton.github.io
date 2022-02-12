@@ -1,8 +1,7 @@
 ---
 hide:
     -  navigation
----
-# SE/Software Construction
+---# SE/Software Construction
 
 ??? info "Learning Outcomes"
 
