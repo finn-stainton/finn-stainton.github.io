@@ -1,6 +1,4 @@
-# 2019 Journal
-
-## Motorised Valve OEM Teardown
+# Motorised Ball Valve: Teardown
 
 ---
 
@@ -28,7 +26,7 @@ If you navigate amazon for motorised valves there appears to be multiple compani
 
 ### Physical Design
 
-![Valve Design](assets/valve_design.jpg){ align=right }
+![Valve Design](../assets/valve_design.jpg){ align=right }
 
 The valve is made from brass which can tarnish easily with high levels of bare skin handling. The valve mounding has DN25 which indicates it was made in a country which uses metric measurements. It uses a 1” female NP Thread 
 
@@ -37,12 +35,12 @@ The valve is made from brass which can tarnish easily with high levels of bare s
 
 There are three variants, that being; two, three and five wire versions. The following is of the three-wire version. Once the top cover is removed, a single PCB with a variety of through-hole and SMD component can be observed. The input wires are soldered onto the PCB with six other wires being (left to right) Switch close out/in, Switch open in/out, Close, Ground, Open, Motor -/+. The PCB can be broken into three sections, a step-down converter, H-bridge and switch logic. 
 
-![Valve PCB](assets/Motorised_Valve_PCB.jpg){ align=right }
+![Valve PCB](../assets/Motorised_Valve_PCB.jpg){ align=right }
 
 Power is supplied to a MC3463A (which is setup as a buck converter) through a double diode junction between the "Open" and "Close". This then passes through a 0.5A[^2] resettable fuse and across the top of a diode, varistor and polarised capacitor... 
 
 <!-- <figure markdown> -->
-  ![Electrical Schematic](assets/Motorised_Valve_OEM.jpg)
+  ![Electrical Schematic](../assets/Motorised_Valve_OEM.jpg)
   <!-- <figcaption>Figure 3</figcaption>
 </figure> -->
 

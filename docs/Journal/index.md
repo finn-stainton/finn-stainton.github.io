@@ -1,11 +1,22 @@
 ---
-hide:
-  - toc
+template: overrides/main.html
+title: Journal
 ---
+
+<style>
+  .md-sidebar--secondary:not([hidden]) {
+    visibility: hidden;
+  }
+</style>
 
 # Journal
 
-## 📌 Graduated 🎉, Dec 20, 2021
+## 📌 Graduated 🎉 
+<span>
+:octicons-calendar-24: Dec 20, 2021
+</span>
+
+---
 
 Graduated from AUT with a Bachelor of Computer & Information Sciences, Double Major in Computer Science and Software Development. 
 
@@ -25,9 +36,99 @@ Here is a table of the skills I learnt from each paper.
 | IT Project Management | `PMI`, `Microsoft Project`, `Project Processes`, `Team Work`, `Scope`, `Time`, `Cost`, `Risk`, `Quality`, `Communication` and `Stakeholder Management`  | Logical Database Design | `SQL`, `Entity Relationship Modelling`, `Relational Database`, `Oracle SQLServer` | 
 | Logic and Discrete Structures | `Combinatorics`, `Graphs`, `Trees`, `Logic`  , `Proofs` | Operating Systems | `Concurrency`,  `Java`, `CLI`, `Bash`, `Memory Management`, `File System`, `CPU Scheduling`| 
 | Program Design and Construction | `Code Smells`, `Code Refactoring`, `Java` | Programming 1 | `C Programming`, `Types`, `Loops`, `Recursion`, `Malloc`, `Pointers` |
-| Theory of Computation | `Automata`, `Grammars`, `Turing Machines`, | 
+| Theory of Computation | `Automata`, `Grammars`, `Turing Machines`, |
 
-## Current Reading List
+## [New Knowledge Section]
 
-- **The Art of Electronics** by *P. Horowitz and W. Hill*
-- **The Art of Doing Science and Engineering** by *Richard W. Hamming*
+<span>
+:octicons-calendar-24: December 27, 2021
+</span>
+
+---
+
+I recently discovered [ACM Computer Science and Engineering Curricula](https://www.acm.org/education/curricula-recommendations) while looking for an outline of computer science. It provides a great wide ranging and detailed base which I will use as a launchpad to record my  learnings from university and new work and independent learnings
+
+  [:octicons-arrow-right-24: Continue reading][New Knowledge Section]
+
+  [New Knowledge Section]: entries/bok.md
+
+## [Home Office for 2022]
+
+<span>
+:octicons-calendar-24: January 22, 2022
+</span>
+
+---
+
+[:octicons-arrow-right-24: Some photos of my new layout for 2022][Home Office for 2022]
+
+  [Home Office for 2022]: entries/home-office.md
+
+## Mailbag: Pico, STM32 & MSP430
+
+<span>
+:octicons-calendar-24: Nov 24, 2021
+</span>
+
+---
+
+Received my order of a Raspberry Pi Pico, two ST Nucleo boards and a TI LaunchPad. Interested in learning about ARM development for these boards.
+
+## New Website
+
+<span>
+:octicons-calendar-24: Nov 7, 2021
+</span>
+
+---
+
+I have been looking at improving my web page for a while now. I was looking at using Gatsby, which does look good, but there portfolio and blog templates always included a little too many features which weren't easy to remove. I enjoy the simplistic of markdown, and elegance of Material UI so combining them with [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/) was a no-brainer.
+
+## [Sony S-AIR Wireless Amplifier: Teardown]
+
+<span>
+:octicons-calendar-24: April 05, 2020
+</span>
+
+---
+
+I came across this Sony S-AIR Amplifier while at the local waste recycling shop and thought it may be of interest. I had never heard of "S-AIR" before so was intrigued. 
+
+  [:octicons-arrow-right-24: Continue reading][Sony S-AIR Wireless Amplifier: Teardown]
+
+[Sony S-AIR Wireless Amplifier: Teardown]: entries/s-air.md
+
+## [Motorised Ball Valve: Teardown]
+
+<span>
+:octicons-calendar-24: October 13, 2019
+</span>
+
+---
+
+Teardown of U.S. Solid USS-MSV00020 (1-inch, 25 mm NPT) purchased from Amazon.
+
+  [:octicons-arrow-right-24: Continue reading][Motorised Ball Valve: Teardown]
+
+  [Motorised Ball Valve: Teardown]: entries/motorised-ball-valve.md
+
+  <!-- ## [New Knowledge Section]
+
+<aside class="mdx-author" markdown>
+![@finnstainton][@finnstainton avatar]
+
+<span>__Finn Stainton__</span>
+<span>
+:octicons-calendar-24: December 27, 2021
+</span>
+</aside>
+
+  [@finnstainton avatar]: https://avatars.githubusercontent.com/u/10103221
+
+---
+
+I recently discovered [ACM Computer Science and Engineering Curricula](https://www.acm.org/education/curricula-recommendations) while looking for an outline of computer science. It provides a great wide ranging and detailed base which I will use as a launchpad to record my  learnings from university and new work and independent learnings
+
+  [:octicons-arrow-right-24: Continue reading][New Knowledge Section]
+
+  [New Knowledge Section]: 2022/bok.md -->

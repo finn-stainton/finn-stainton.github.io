@@ -17,14 +17,13 @@
 - wiring cost, 
 - application.
 
-## Asynchronous serial interface characteristics 
+## Asynchronous serial interface characteristics
 
 - data formatting
 - timing diagrams
 - signaling levels
 
 ## Asynchronous serial interface programs
-
 
 ## Synchronous serial interface characteristics
 

@@ -85,6 +85,8 @@ Starts to track all files in directory
 git commit -m "[message]"
 ```
 
+Commit staged changes with a message
+
 ```
 git remote add origin [url]
 ```
@@ -180,7 +182,7 @@ branch name, a tag, or a relative reference to HEAD.
 git reflog
 ```
 
-Show a log of changes to the local repository’s HEAD. Add --relative-date flag to show date info or --all to show all refs
+Delete a file in the staging area
 
 #### Configure
 
@@ -206,13 +208,9 @@ Create shortcut for a Git command. E.g. alias.glog “log --graph --oneline” w
 git config --system core.editor <editor>
 ```
 
-
-
 ```
 git config --global --edit
 ```
-
-
 
 #### Fun
 

@@ -1,6 +1,6 @@
 # Node.js
 
-Is a [JavaScript](JavaScript.md) V8 run-time environment (Core of Chromium-based browsers) for running JavaScript outside of a browser.
+Is a [JavaScript](../Platform-Development/More-In-Depth/JavaScript.md) V8 run-time environment (Core of Chromium-based browsers) for running JavaScript outside of a browser.
 
 ## Resources
 

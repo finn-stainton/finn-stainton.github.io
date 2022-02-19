@@ -12,19 +12,35 @@
 
 System-On-Chip implementations 
 
-### video encoding,
+### Video encoding,
 
-### audio processing
+### Audio processing
 
-### display processing
+### Display processing
 
 ## Interconnect and networking for SoCs
 
 ### Network-on-Chip architectures.
 
-## Tradeoffs of hard core versus software CPUs (FPGA).#
+## Tradeoffs of hard core versus software CPUs
+
+**Hard core**
+
+**Software CPUs (e.g. FPGAs)**
 
 ## Platforms which benefit Embedded applications
+
+# Advanced Multimedia peripherals
+
+found in advanced embedded System-On-Chip implementations such video encoding, audio processing, display processing.
+
+# Interconnect and networking for SoCs
+
+Network-on-Chip architectures
+
+# Tradeoffs of hard core versus software CPUs (FPGA)
+
+# Platforms which benefit Embedded applications
 
 - multi-core approach
 - DSP processors, 

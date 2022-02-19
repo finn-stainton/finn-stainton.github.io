@@ -7,13 +7,16 @@ Flinder is a social media app that helps you find your ideal flatmate based on t
 ---
 
 - Authentication service with JSON Web Tokens
+- Secure RESTful API
 - Multiple access and view Roles (Admin, Flat, Flatee)
+- NoSQL MongoDB Document Database
+- Responsive Design with MUI
 
 ## Tech Stack
 
 ---
 
-![Flinder Tech Stack](/Users/finn/Documents/GitHub/finn-stainton.github.io/docs/Projects/assets/Flinder-Diagram.png)
+![Flinder Tech Stack](assets/flinder/Flinder-Diagram.png)
 
 ### Front-end
 
@@ -76,6 +79,18 @@ Heroku
 
 ### Project Proposal
 
+Flinder is a social media app that helps you find your ideal flatmate based on their personality and living preferences. Either you can be a findee (a person who looks for a flat to stay in), or a finder (a person looking for a flatmate to fill in the spot). 
+
+Key features: 
+
+- User profile: the user profile is different between a finder and findee. Finder presents what the house looks like, as well as some key features, preferences about the place and the flatmates staying there, while findee has to provide their basic information (name, age, profession, smoking habits)
+- Chatbox
+- Like ♥ / Nope  
+- Match: both finder and findee like each other
+- Push notification: nofity people when they get new matches/messages
+- Reveal location:  After talking for a while and the finder finds that the findee could be a great fit for the flat, they will reveal the exact address for the findee to arrange a flat viewing.
+
+
 ### Sprint 0 (Up-skilling)
 
 Setup a Scrum Board with the following columns
@@ -90,7 +105,7 @@ Setup a Scrum Board with the following columns
 Developed User Stories using the "As a X, I want to ..., so that ..." format placing them under the product backlog. Then completed INVEST analysis on each user story to judge the quality of each story. Created multiple acceptance tests with a title, then using the "GIVEN that ..., WHEN ..., THEN ..." format.
 
 <figure markdown>
-  ![User Story](assets/flinder-sprint1-userstory.png)
+  ![User Story](assets/flinder/flinder-sprint1-userstory.png)
   <figcaption>Example User Story (with dev and tester from sprint planning)</figcaption>
 </figure>
 

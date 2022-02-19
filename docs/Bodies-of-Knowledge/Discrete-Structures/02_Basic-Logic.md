@@ -14,7 +14,7 @@
     predicting the behavior of software or solving problems such as puzzles. [Usage]
     6. Describe the strengths and limitations of propositional and predicate logic. [Familiarity]
 
-## Propositional logic 
+## Propositional logic
 
 (cross-reference: Propositional logic is also reviewed in IS/Knowledge Based Reasoning)
 
@@ -22,13 +22,13 @@
 
 ## Truth tables
 
-## Normal forms 
+## Normal forms
 
 (conjunctive and disjunctive)
 
 ## Validity of well-formed formula
 
-## Propositional inference rules 
+## Propositional inference rules
 
 (concepts of modus ponens and modus tollens)
 
@@ -36,6 +36,6 @@
 
 ### Universal and existential quantification
 
-## Limitations of propositional and predicate logic 
+## Limitations of propositional and predicate logic
 
 (e.g., expressiveness issues)

@@ -1,6 +1,4 @@
-# 2020 Journal
-
-## Sony S-AIR Wireless Amplifier
+# Sony S-AIR Wireless Amplifier: Teardown
 
 ---
 

@@ -24,7 +24,7 @@
 - throughput
 - connectivity.
 
-## Adding Long-range wireless connectivity 
+## Adding Long-range wireless connectivity
 
 **Cellular**
 

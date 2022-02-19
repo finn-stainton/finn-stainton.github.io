@@ -1,8 +1,4 @@
-# 2022 Journal
-
----
-
-## New Knowledge Section, Feb 2022
+# New Knowledge Section
 
 I recently discovered [ACM Computer Science and Engineering Curricula](https://www.acm.org/education/curricula-recommendations) while looking for an outline of computer science. It provides a great wide ranging and detailed base which I will use as a launchpad to record my  learnings from university and new work and independent learnings.
 
@@ -16,26 +12,6 @@ Since high school I have seen the need for new knowledge to build upon pervious.
 !!! cite
     [https://collegeinfogeek.com/feynman-technique/](https://collegeinfogeek.com/feynman-technique/)
 
-Aims of recording are to assist in my desire to learn, remember and track progress. 
+Aims of recording are to assist in my desire to learn, remember and track progress.
 
-*Check it out...*    [Bodies of Knowledge](/Bodies-of-Knowledge/){ .md-button .md-button--primary }
-
----
-
-## Home Work Space for 2022, 22nd Jan.
-
-![Office1](assets/office1.jpg)
-
-Have Mac and Windows computers with the recent arrival of a Keychron Q1 to partner an MX Master.
-
-![Office2](assets/office2.jpg)
-
-Agilent 54622D Oscilloscope, Soldering Iron, Fluke 117, Bench Power Supply, IC Programmers, Textbooks
-
-![Office3](assets/office3.jpg)
-
-A myriad of Passive, Discrete, Electromechanical components along side ICs, Dev Boards, Arduino Shields and Proto Equipment
-
-![Office4](assets/office4.jpg)
-
-Storage of all sorts of bits and bobs.
+[:octicons-arrow-right-24: Check it out](/Bodies-of-Knowledge)

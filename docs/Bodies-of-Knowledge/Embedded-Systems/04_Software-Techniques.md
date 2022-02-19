@@ -20,7 +20,7 @@
 
 ### Linking
 
-## Actions of machine code after system reset 
+## Actions of machine code after system reset
 
 but before user application execution.
 
@@ -35,6 +35,6 @@ but before user application execution.
  including some that include modular/hierarchical programming techniques
 such as subroutines and functions.
 
-## Debugging techniques 
+## Debugging techniques
 
 for simple embedded application programs.

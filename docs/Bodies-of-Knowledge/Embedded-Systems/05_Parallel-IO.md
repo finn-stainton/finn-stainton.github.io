@@ -10,7 +10,7 @@
     6. Discuss Direct Memory Access (DMA) and describe how it is supported on the target embedded system.
     7. Create programs that perform a sequence of input/output operations using DMA.
 
-## Appropriateness of Different GPIO Configurations 
+## Appropriateness of Different GPIO Configurations
 
 - input, 
 - strong drive, 

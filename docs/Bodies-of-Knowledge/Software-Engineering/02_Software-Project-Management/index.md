@@ -1,7 +1,9 @@
 ---
 hide:
     - navigation 
----# SE/Software Project Management
+---
+
+# SE/Software Project Management
 
 ??? info "Learning Outcomes"
 
@@ -48,7 +50,6 @@ hide:
 
 ## Risk (cross reference IAS/Secure Software Engineering)
 
-
 ## Team management
 
 ### Team organization
@@ -72,7 +73,5 @@ hide:
 ## Software measurement and estimation techniques
 
 ## Software quality assurance and the role of measurements
-
-
 
 ## System-wide approach to risk including hazards associated with tools

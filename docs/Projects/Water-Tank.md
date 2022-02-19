@@ -23,7 +23,7 @@ This lead to manually having to shut an output ball valve before opening an inpu
 I decided to go with the pressure transducer as I wanted a continuos readout of current water level and mounting issue regarding the top of tanks.
 
 <figure markdown>
-![Pressure Transducer](assets/pressure-transducer.jpg)
+![Pressure Transducer](assets/field-iot/pressure-transducer.jpg)
   <figcaption>G1/4" Pressure Transducer with metal housing</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ The secondary aim of the project was to remotely control the water level in mult
 I decided to go with the Motorised Ball Valve as it doesn't require continuos power to keep open and can handle higher pressures with less intrusion. 
 
 <figure markdown>
-![Motorised Valve](assets/motorised-valve.jpg){ width="400" }
+![Motorised Valve](assets/field-iot/motorised-valve.jpg){ width="400" }
   <figcaption>1" Motorised Valve with brass housing</figcaption>
 </figure>
 
@@ -127,6 +127,6 @@ This system is not safely critical, but it would be annoying if the system stopp
 
 ## Installation
 
-![Valves and Sensors](assets/wt1.jpeg)
+![Valves and Sensors](assets/field-iot/wt1.jpeg)
 
-![Control Box](assets/wt2.jpeg)
+![Control Box](assets/field-iot/wt2.jpeg)

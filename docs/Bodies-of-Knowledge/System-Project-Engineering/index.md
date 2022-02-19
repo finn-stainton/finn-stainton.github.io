@@ -21,7 +21,7 @@ The knowledge units in this area collectively encompass the following:
 - Articulate differences between software and hardware engineering, and computer systems engineering.
 - Explain briefly the concept of a system and a subsystem, and discuss the role of people, the different disciplines involved, and the need for interdisciplinary approaches to the development of the range of computer-based systems.
 - Indicate some important elements of computer systems engineering such as design processes, requirements, specifications, design,
-testing, validation, evolution, project management, hardware-software interface, and the human-computer interface.
+  testing, validation, evolution, project management, hardware-software interface, and the human-computer interface.
 - Define and explain product life cycle, the role of system engineering throughout a product life cycle, and reasons why many computer- based system designs become continually evolving systems.
 - Provide reasons for the importance of testing, validation, and maintenance in computer systems development.
 - Explain the importance of design decisions and tradeoffs at the systems level, including balancing costs, performance, power, dependability, and market considerations.
@@ -31,8 +31,8 @@ testing, validation, evolution, project management, hardware-software interface,
 **Learning Outcomes**:
 
 - Select, with justification, an appropriate set of tools to support the development of a range of computer-based systems, including tools
-for project management, requirements and specifications definition and analysis, configuration management, tradeoff analysis, and
-computer-aided tools for software, hardware, and systems design, including modeling, simulation, evaluation, and testing.
+  for project management, requirements and specifications definition and analysis, configuration management, tradeoff analysis, and
+  computer-aided tools for software, hardware, and systems design, including modeling, simulation, evaluation, and testing.
 - Analyze and evaluate a set of tools in an area of computer system development (e.g., management, modeling, or testing).
 - Demonstrate the ability to use a range of tools to support the development of a computer-based system of medium size. (This could be done in the context of a class project or assignment.)
 - Explain the importance and influence of standards, guidelines, legislation, regulations, and professional issues on the development of computer-based systems.
@@ -43,18 +43,18 @@ computer-aided tools for software, hardware, and systems design, including model
 **Learning Outcomes**:
 
 - Describe basic elements of project management that support development of computer-based systems for a variety of applications,
-including interdisciplinary issues.
+  including interdisciplinary issues.
 - Describe the different phases of a system’s life cycle and identify tools to support these phases, including such project-management
-tools as Gantt charts for project planning, scheduling, cost analysis, resource allocation, and teamwork.
+  tools as Gantt charts for project planning, scheduling, cost analysis, resource allocation, and teamwork.
 - Demonstrate, through involvement in team projects, the central elements of team building and team management, including team
-composition and organization, roles and responsibilities in a design team, decision-making processes, project tracking, and team
-problem resolution.
+  composition and organization, roles and responsibilities in a design team, decision-making processes, project tracking, and team
+  problem resolution.
 - Describe methods and tools for project configuration management and management of project information, ensuring timely
-compliance with specifications and timely delivery.
+  compliance with specifications and timely delivery.
 - Prepare a project plan for a computer-system design project that includes estimates of size and effort, a schedule, resource allocation,
-configuration control, change management, and project risk identification and management—this could be done in the context of a
-class project or assignment.
-Elective Learning Outcomes:
+  configuration control, change management, and project risk identification and management—this could be done in the context of a
+  class project or assignment.
+  Elective Learning Outcomes:
 - Identify and describe the use of metrics in support of project management.
 - Describe the roles of consultants and subcontractors in design projects, including their use and their management.
 - Discuss how standards and legal requirements can affect the management of design projects.
@@ -67,7 +67,7 @@ Elective Learning Outcomes:
 - Contrast the physical and non-physical aspects of UXD.
 - Summarize some common human-computer interaction styles, and discuss how one would analyze human interaction with computer-based systems.
 - Describe common usability guidelines and standards; give examples of functional and usability requirements that can be beneficial in
-developing human-centered computer systems, including users with different abilities (e.g., age, physical disabilities).
+  developing human-centered computer systems, including users with different abilities (e.g., age, physical disabilities).
 - Identify fundamental principles for effective GUI design, relevant to different applications and different system platforms in computer engineering.
 - Discuss tradeoffs involved when developing a UX system environment.
 - Identify system components that are suitable for the realization of high-quality multimedia interfaces.
@@ -98,10 +98,10 @@ developing human-centered computer systems, including users with different abili
 - Discuss how international standards, legal requirements, and regulations relate to risk, safety and dependability impact the design of computer-based systems. 2 User experience (UX) was formerly known as human-computer interaction (HCI)
 - Discuss the use of failure modes and effects analysis (FEMA) and fault tree analysis in the design of high-integrity systems.
 - Identify some hardware redundancy approaches for fault-tolerant system design, including the use of error detecting and correcting
-codes.
+  codes.
 - Discuss one or more software approaches to tolerating hardware faults.
 - Describe one or more methods for tolerating software faults, such as N-version programming, recovery blocks, and rollback and
-recovery.
+  recovery.
 
 ## Hardware and software processes
 
@@ -109,9 +109,9 @@ recovery.
 
 - Explain the need for a disciplined approach to system development and the elements of a disciplined approach in specific contexts.
 - Describe the nature of a life cycle, the role of life cycle models, quality in relation to the life cycle, the influence of system nature, and
-the size on choice of life cycle model.
+  the size on choice of life cycle model.
 - Describe some common software and hardware development models and show how to use these models during the development of a
-computer-based system.
+  computer-based system.
 - Explain how to gather data to inform, assess, and improve system design processes.
 - Describe the benefits of agile methods for hardware and software design.
 - Discuss the importance of modular design processes, and the design for modularity and reuse in the development of a computer-based system.
@@ -130,9 +130,9 @@ computer-based system.
 - Apply one or more techniques for elicitation and analysis to produce a set of requirements for a medium-size computer-based system.
 - Describe some quality factors for measuring the ability of a system design to meet requirements
 - Conduct a review of a computer-based system requirements document using best practices to determine the document’s quality.
-Elective Learning Outcomes:
+  Elective Learning Outcomes:
 - Use a common, non-formal method to model and state—in the form of a requirements specification document—the requirements for
-a medium-size computer-based system (e.g., structured analysis or object-oriented-analysis).
+  a medium-size computer-based system (e.g., structured analysis or object-oriented-analysis).
 
 ## System specifications
 
@@ -140,7 +140,7 @@ a medium-size computer-based system (e.g., structured analysis or object-oriente
 
 - Discuss the relationship and differences between system specifications and requirements.
 - Articulate some typical functional and nonfunctional specifications for the design of a computer-based system and the importance of
-specifications to the design process.
+  specifications to the design process.
 - Discuss one or more approaches for deriving system specifications from a requirements document.
 - Discuss how tradeoffs between different system specifications might be necessary to meet system requirements.
 - Assess the quality of a given specification, considering such factors as completeness, consistency, simplicity, verifiability, basis for design, specification in the event of failure, and degraded modes of operation.
@@ -160,20 +160,20 @@ specifications to the design process.
 - Demonstrate ability to model, simulate, and prototype a range of computer-based system architectures.
 - Using appropriate guidelines, conduct the review of one or more computer-based system designs to evaluate design quality based on key design principles and concepts.
 - At the architectural level, discuss possible failure modes, common cause failures, dealing with failure, inclusion of diagnostics in the
-event of failure, and approaches to fault-tolerant design.
+  event of failure, and approaches to fault-tolerant design.
 - Discuss design issues associated with achieving dependability, the role of redundancy, independence of designs, separation of concerns, and specifications of subsystems.
 
 ## Concurrent hardware and software design
 
 **Learning Outcomes**:
- 
+
 - Recognize the potential of hardware-software co-design in circumstances in which this approach is pertinent.
 - Discuss how particular design constraints can make the coordinated development of both hardware and software important, such as in
-the design of low-power systems, real-time systems, or systems with high-performance requirements.
+  the design of low-power systems, real-time systems, or systems with high-performance requirements.
 - Apply hardware-software co-design principles in situations of modest complexity.
 - Discuss challenges to effective hardware-software co-design, such as demands of hard real-time features.
 - Demonstrate ability to co-design to achieve specific technical objectives, such as low power, real-time operation, and high
-performance.
+  performance.
 - Select and apply computer-aided tools to support hardware and software co-design.
 
 ## System integration, testing and validation
@@ -187,7 +187,7 @@ performance.
 - Demonstrate the application of the different types and levels of testing (unit, integration, systems, and acceptance) on computer-based systems of medium size.
 - Undertake, as part of a team activity, an inspection of a medium-size computer-based system design.
 - Discuss methods used for manufacturing test and inspection, and acceptance testing.
-Elective Learning Objectives:
+  Elective Learning Objectives:
 - Discuss methods for specialized testing: security, dependability/fault tolerance, and usability.
 
 ## Maintainability, sustainability, manufacturability
