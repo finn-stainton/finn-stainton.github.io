@@ -22,7 +22,7 @@
 
 the interaction of software with its intended environment (cross-reference IAS/Secure Software Engineering)
 
-## Introduction to software process models 
+## Introduction to software process models
 
 ### Waterfall
 

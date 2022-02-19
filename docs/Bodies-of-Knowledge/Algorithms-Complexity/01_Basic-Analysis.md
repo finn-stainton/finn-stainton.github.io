@@ -1,7 +1,7 @@
 # AL/ Basic Analysis
 
 ??? info "Learning Outcomes"
-    
+
     1. Explain what is meant by “best”, “expected”, and “worst” case behavior of an algorithm. [Familiarity]
     2. In the context of specific algorithms, identify the characteristics of data and/or other conditions or assumptions that lead to different behaviors. [Assessment]
     3. Determine informally the time and space complexity of simple algorithms. [Usage]
@@ -17,21 +17,17 @@
 
 ## Introduction to Algorithms
 
-An *Algorithm* is a step-by-step procedure for solving a problem that takes some values as *input* and produces some other values as *output*. Two important characteristics of an algorithm are its *efficiency* and its *correctness*.  The efficiency of an algorithm can be measured base on various factors, such as storage or network resource requirements, but usually it is the running time and to a lesser extent the memory usage that are typically of greatest interest.  The Correctness refers to whether the algorithm eventually halts and produces the correct output. (Ensor, 2020)
+An *Algorithm* is a step-by-step procedure for solving a problem that takes some values as *input* and produces some other values as *output*. Two important characteristics of an algorithm are its *efficiency* and its *correctness*.  The efficiency of an algorithm can be measured base on various factors, such as storage or network resource requirements, but usually it is the running time and to a lesser extent the memory usage that are typically of greatest interest.  The Correctness refers to whether the algorithm eventually halts and produces the correct output. [(Ensor, 2020)](#resources-bib)
 
-## Different behaviors of an algorithm
+Analysis of an Algorithm in order to predict the resources it will require when translated into a programming language and executed on a computer requires some assumptions about the computing device itself. The *Random access Model* (RAM) views a computer as a single processor connected to memory which it can access each part of in constant time (no caches or virtual memory). The RAM presumes that instructions are executed sequentially, with no actual concurrency. Allowing for parallel processors or a memory hierarch changes the analysis of the algorithm. [(Ensor, 2020)](#resources-bib)
+
+## Different behaviours of an algorithm
 
 **Best case**
 
-
-
 **Expected**
 
-
-
 **Worst case** 
-
-
 
 ## Asymptotic analysis of upper and expected complexity bounds
 
@@ -39,9 +35,7 @@ An *Algorithm* is a step-by-step procedure for solving a problem that takes some
 
 **Formal definition**
 
-
 **Uses**
-
 
 ## Complexity classes
 
@@ -61,7 +55,7 @@ An *Algorithm* is a step-by-step procedure for solving a problem that takes some
 
 ## Other notation
 
-### Little o 
+### Little o
 
 ### Big Omega
 
@@ -69,11 +63,11 @@ An *Algorithm* is a step-by-step procedure for solving a problem that takes some
 
 ## Recurrence relations
 
-## Analysis of iterative 
+## Analysis of iterative
 
 ## Recursive algorithms
 
-## Master Theorem
+### Master Theorem
 
 Suppose $T(n)$ is given for $n \geq 1$ by the recurrence $T(n) = aT(n/b) + f(n)$ where $a \geq 1$ and $b > 1$ are constants, and $f(n)$ is some known function.
 
@@ -81,5 +75,7 @@ Suppose $T(n)$ is given for $n \geq 1$ by the recurrence $T(n) = aT(n/b) + f(n)$
 - If $f(n)$ is $\Theta({n^{\log_{b}a}})$ then $T(n)$ is $\theta({n^{\log_{b}a}} \log_{b}n).$
 - If $f(n)$ is $\Omega({n^{\log_{b}a+\epsilon}})$ for some constant $\epsilon > 0$ and if a $f(n/b) \geq r f(n)$ for some constant $r < 1$ and all large enough $n$ then $T(n)$ is $\theta(f(n)).$
 
-!!! cite "Resources/ Bib."
-    Distributed and Mobile Systems, Andrew Ensor
+## Resources/ Bib.
+
+!!! cite ""
+    Algorithm Design and Analysis, Andrew Ensor, 2020

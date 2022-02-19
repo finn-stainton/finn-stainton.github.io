@@ -16,7 +16,7 @@
 
 ## Concept and properties of algorithms
 
-### Informal comparison of algorithm efficiency 
+### Informal comparison of algorithm efficiency
 
 (e.g., operation counts)
 

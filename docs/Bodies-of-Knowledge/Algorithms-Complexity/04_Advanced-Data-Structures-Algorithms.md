@@ -1,72 +1,74 @@
 # AL/ Advanced Data Structures, Algorithms and Analysis
 
 ??? info "Learning Outcomes"
-    
+
     1. Understand the mapping of real-world problems to algorithmic solutions (e.g., as graph problems, linear programs, etc.). [Assessment]
     2. Select and apply advanced algorithmic techniques (e.g., randomization, approximation) to solve real problems. [Assessment]
     3. Select and apply advanced analysis techniques (e.g., amortized, probabilistic, etc.) to algorithms.[Assessment]  
 
-## Balanced trees 
+## Balanced trees
 
 - AVL trees
-- red-black trees
-- splay trees
-- treaps
+- Red-black trees
+- Splay trees
+- Treaps
 
-## Graphs 
+## Graphs
 
-- topological sort
-- finding strongly connected components
-- matching)
+- Topological sort
+- Finding strongly connected components
+- Matching
 
-## Advanced data structures 
+## Advanced data structures
 
 - B-trees
 - Fibonacci heaps
 
-## String-based data structures and algorithms 
+## String-based data structures and algorithms
 
-- suffix arrays
-- suffix trees
-- tries
+- Suffix arrays
 
-## Network flows 
+- Suffix trees
+  
+  Tries
 
-- max flow [Ford-Fulkerson algorithm]
-- max flow – min cut
-- maximum bipartite matching
+## Network flows
 
-## Linear Programming 
+- Max flow [Ford-Fulkerson algorithm]
+- Max flow – min cut
+- Maximum bipartite matching
 
-- duality
-- simplex method
-- interior point algorithms
+## Linear Programming
 
-## Number-theoretic algorithms 
+- Duality
+- Simplex method
+- Interior point algorithms
 
-- modular arithmetic
-- primality testing
-- integer factorization
+## Number-theoretic algorithms
 
-## Geometric algorithms 
+- Modular arithmetic
+- Primality testing
+- Integer factorisation
 
-- points
-- line segments
-- polygons
-    - properties
-    - intersections
-- finding convex hull
-- spatial decomposition
-- collision detection
-- geometric search/proximity
+## Geometric algorithms
 
-### Randomized algorithms
+- Points
+- Line segments
+- Polygons
+  - Properties
+  - Intersections
+- Finding convex hull
+- Spatial decomposition
+- Collision detection
+- Geometric search/proximity
+
+### Randomised algorithms
 
 ## Stochastic algorithms
 
 ## Approximation algorithms
 
-## Amortized analysis
+## Amortised analysis
 
 ## Probabilistic analysis
 

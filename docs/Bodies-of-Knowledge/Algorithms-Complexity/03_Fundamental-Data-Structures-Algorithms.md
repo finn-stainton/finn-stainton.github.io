@@ -73,7 +73,7 @@ Radix Sort
 #### Selection Sort
 
 #### Insertion Sort
-  
+
 **Worst or average case O(N log N)** 
 
 #### Quicksort
@@ -100,30 +100,31 @@ including strategies for avoiding and resolving collisions
 
 ### Graphs and graph algorithms
 
-#### Representations of graphs 
+#### Representations of graphs
 
 - Adjacency list
-  
+
 - Adjacency matrix
 
-#### Depth-first traversal 
+#### Depth-first traversal
 
 #### Breadth-first traversal
 
-#### Shortest-path algorithms 
+#### Shortest-path algorithms
 
 ##### Dijkstra’s algorithm
 
 ##### Floyd’s algorithm
 
-#### Minimum spanning tree 
+#### Minimum spanning tree
 
 ##### Prim’s algorithm
+
 ##### Kruskal’s algorithm
 
-### Pattern matching 
+### Pattern matching
 
-### String/text algorithms 
+### String/text algorithms
 
 - substring matching algorithms, 
 - regular expression matching algorithms, 

@@ -6,18 +6,18 @@ Flinder is a social media app that helps you find your ideal flatmate based on t
 
 ---
 
-- Authentication service with Json Web Tokens
+- Authentication service with JSON Web Tokens
 - Multiple access and view Roles (Admin, Flat, Flatee)
 
 ## Tech Stack
 
 ---
 
-Based off a MERN Stack.
+![Flinder Tech Stack](/Users/finn/Documents/GitHub/finn-stainton.github.io/docs/Projects/assets/Flinder-Diagram.png)
 
 ### Front-end
 
-Decided upon developing a webapp over native mobile due to team members hardware constraints and a limited time frame. Decided upon using Node.js. Looked into React Native but decided to start off with React and look into migrating too it later.
+Decided upon developing a web-app over native mobile due to team members hardware constraints and a limited time frame. Decided upon using Node.js. Looked into React Native but decided to start off with React and look into migrating too it later.
 
 #### Styling
 
@@ -35,22 +35,30 @@ Decided to use a RESTful API with the possibility of changing front-end client.
 
 Express.js
 
+#### Breakdown
+
+Each object had:
+
+- **Model**, Contained a NoSQL Mongoose Schema and then exported the model. 
+
+- **Service**, Used a connection to the MongoDB to performed the business logic on the corresponding document given a model. 
+
+- **Controller**, Middleware to direct Router calls to the corresponding service functions
+
 #### Routes/ Endpoints
 
-- Authenication/
-    - login: 
+- Authentication/
+  - login: 
 
 #### Testing
 
-Used [TDD](../Bodies-of-Knowledge/Wiki/TDD.md) by developing a HTTP assertion test with [Supertest](https://www.npmjs.com/package/supertest). Then developed the Express.js code to make the test succeed. Repeated with more assertion tests for new a existing routes.
+Used TDD by developing a HTTP assertion test with [Supertest](https://www.npmjs.com/package/supertest). Then developed the Express.js code to make the test succeed. Repeated with more assertion tests for new a existing routes.
 
 ---
 
 ### Database
 
 Setup a document database with MongoDB's Atlas service.
-
-Then created models
 
 Mongoose
 
@@ -90,18 +98,17 @@ Developed User Stories using the "As a X, I want to ..., so that ..." format pla
 
 #### Planning
 
-Developed a Sprint Goal to develop an app which lets users list/ find a flat/ flatmate. Then when through the product backlog selecting all user stories needed to complete the sprint goal.
-
+Sprint Goal was to "develop an app which lets users list/ find a flat/ flatmate". Then when through the product backlog selecting all user stories needed to complete the sprint goal.
 
 #### Execution
+
+I selected to setup the API skelton, which involved 
 
 Completed multiple daily standup meetings with the "Yesterday I ..., Today I will ..., What's blocking me is ...".
 
 #### Review
 
 #### Retrospective
-
-
 
 ### Sprint 2
 

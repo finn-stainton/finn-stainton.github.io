@@ -19,13 +19,13 @@
 
 ### Equivalence of DFAs and NFAs
 
-### Review of regular expressions; 
+### Review of regular expressions;
 
 their equivalence to finite automata
 
 ### Closure properties
 
-### Proving languages non-regular, 
+### Proving languages non-regular,
 
 via the pumping lemma or alternative means
 

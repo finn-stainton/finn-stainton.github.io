@@ -20,7 +20,7 @@
 
 ### Flash
 
-## MPX LAB 
+## MPX LAB
 
 ### Getting Started
 
@@ -64,10 +64,9 @@
 
 ## Instrumentation choices for diagnosing
 
-
 Contrast. Understanding hardware aspects of embedded systems behavior.
 
-## Standards 
+## Standards
 
 **Signaling Levels**:
 

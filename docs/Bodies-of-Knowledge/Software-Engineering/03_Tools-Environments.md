@@ -24,8 +24,8 @@
 
     - [Git Reference Manual](https://git-scm.com/docs)
     - [Pro Git Book](https://git-scm.com/book/en/v2)
+    - Atlassian Git Cheat Sheet
     - [GitHub Git Cheat Sheet](https://github.github.com/training-kit/)
-
 
 Is a Version Control System which records changes to a file(s) over time. 
 
@@ -57,31 +57,47 @@ Is a Version Control System which records changes to a file(s) over time.
 - [Macintosh Download](https://git-scm.com/download/mac)
 - [Windows Download](https://git-scm.com/download/win)
 
+!!! note
+
+    square braces [] denote user replaced text. No need for them
+
 #### Create
 
 ```
 git init
 ```
+
 Initialises a new git repository inside a directory. NB: Files/directories are not automatically added to the git service.
 
 ```
 git add [file]
 ```
+
 Starts to track a file
+
 ```
 git add .
 ```
+
 Starts to track all files in directory
+
+```
+git commit -m "[message]"
+```
+
 ```
 git remote add origin [url]
 ```
+
 Specifies a remote repository for the local repository
+
 ```
 git clone [url]
 ```
+
 Clones a repository
 
-#### Synchronize
+#### Synchronise
 
 ```
 git fetch
@@ -101,7 +117,7 @@ git pull
 
 #### Info
 
-``` 
+```
 git status
 ```
 
@@ -109,32 +125,62 @@ git status
 git diff
 ```
 
-
 #### Branch
 
 ```
-git branch [branch-name]
+git branch [branch]
 ```
+
 Create a new branch
+
 ```
 git switch -c [branch]
 ```
 
 ```
+git checkout -b [branch]
+```
+
+Create and checkout a new branch. Drop -b flag to checkout to existing branch
+
+```
 git merge [branch]
 ```
 
+Merge [branch] into current branch
+
 ```
-git branch -d [branch-name]
+git branch -d [branch]
 ```
+
+Delete [branch]
 
 #### Change
 
 ```
 git rm --cached [file]
 ```
+
 Delete a file in the staging area
 
+```
+git commit --amend
+```
+
+Replace last commit with staged changes and last commit combined. Used to edit last committed message when not staged changes
+
+```
+git rebase [base]
+```
+
+Rebase the current branch onto <base>. <base> can be a commit ID,
+branch name, a tag, or a relative reference to HEAD.
+
+```
+git reflog
+```
+
+Show a log of changes to the local repository’s HEAD. Add --relative-date flag to show date info or --all to show all refs
 
 #### Configure
 
@@ -142,9 +188,30 @@ Delete a file in the staging area
 git config --global user.name "Name"
 ```
 
+Define author name for all commits of current user
+
 ```
 git config --global user.email "email"
 ```
+
+Define email for current user
+
+```
+git config --global alias. <alias-name> <git-command>
+```
+
+Create shortcut for a Git command. E.g. alias.glog “log --graph --oneline” will set ”git glog”equivalent to ”git log --graph --oneline.
+
+```
+git config --system core.editor <editor>
+```
+
+
+
+```
+git config --global --edit
+```
+
 
 
 #### Fun
@@ -161,11 +228,13 @@ Git Flow is a branching workflow model designed for product release which extent
 #### Getting Started
 
 Windows
+
 ```
 gitflow init -f
 ```
 
 MacOS (Homebrew)
+
 ```
 brew install git-flow
 git flow init
@@ -208,7 +277,7 @@ If your production code is found to have contained a bug, a hotfix may be create
 
 ## Design modeling tools
 
-## Testing tools 
+## Testing tools
 
 **Static analysis tools**
 
