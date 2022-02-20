@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DIG/Design with programmable logic
 
 ??? info "Learning Outcomes"

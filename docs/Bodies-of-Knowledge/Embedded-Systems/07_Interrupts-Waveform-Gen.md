@@ -1,8 +1,12 @@
 ---
+
 hide:
-   - navigation
+    - navigation
 ---
+
 # ESY/Periodic interrupts, waveform generation, time measurement
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Embedded-Systems)
 
 ??? info "Learning Outcomes"
 
@@ -18,14 +22,16 @@ hide:
 
 ## Waveform characteristics measurement programs
 
-### pulse width 
+### Pulse width
 
-### frequency 
+### Frequency
 
 using hardware timers.
 
-## Pulse width modulation applications.
+## Pulse width modulation
 
-## Pulse width modulation programs
+**Applications**.
+
+**Programs**
 
  for external device control.

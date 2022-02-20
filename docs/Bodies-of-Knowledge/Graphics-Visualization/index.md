@@ -52,7 +52,7 @@ images
 - Animation as a sequence of still images
 - Double buffering
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Identify common uses of digital presentation to humans (e.g., computer graphics, sound). [Familiarity]
 2. Explain in general terms how analog signals can be reasonably represented by discrete samples, for example, how images can be represented by pixels. [Familiarity]
@@ -89,7 +89,7 @@ and ray tracing
 - Sampling and anti-aliasing
 - Scene graphs and the graphics pipeline
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Discuss the light transport problem and its relation to numerical integration i.e., light is emitted, scatters
 around the scene, and is measured by the eye. [Familiarity]
@@ -125,7 +125,7 @@ around the scene, and is measured by the eye. [Familiarity]
 - Reconstruction
 - Constructive Solid Geometry (CSG) representation
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 1. Represent curves and surfaces using both implicit and parametric forms. [Usage]
 2. Create simple polyhedral models by surface tessellation. [Usage]
 3. Generate a mesh representation from an implicit surface. [Usage]
@@ -156,7 +156,7 @@ around the scene, and is measured by the eye. [Familiarity]
 - GPU architecture
 - Human visual systems including adaptation to light, sensitivity to noise, and flicker fusion
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 1. Demonstrate how an algorithm estimates a solution to the rendering equation. [Assessment]
 2. Prove the properties of a rendering algorithm, e.g., complete, consistent, and unbiased. [Assessment]
 3. Analyze the bandwidth and computation demands of a simple algorithm. [Assessment]
@@ -181,7 +181,7 @@ cloth and flesh and hair
 - Camera animation
 - Motion capture
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Compute the location and orientation of model parts using a forward kinematic approach. [Usage]
 2. Compute the orientation of articulated parts of a model from a location and orientation using an inverse kinematic approach. [Usage]
@@ -210,7 +210,7 @@ topics related to user population and interface evaluations.
 - Evaluation of visualization methods
 - Applications of visualization
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the basic algorithms for scalar and vector visualization. [Familiarity]
 2. Describe the tradeoffs of visualization algorithms in terms of accuracy and performance. [Assessment]

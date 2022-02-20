@@ -1,8 +1,4 @@
----
-hide:
-    - navigation
----
-# DS/Graphs and Trees
+# DS/Discrete Probability
 
 ??? info "Learning Outcomes"
 

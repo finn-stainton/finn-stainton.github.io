@@ -2,6 +2,7 @@
 hide:
     ## navigation
 ---
+
 # DS/Proof Techniques
 
 ??? info "Learning Outcomes"
@@ -18,15 +19,21 @@ hide:
     each. [Assessment]
     1. State the well-ordering principle and its relationship to mathematical induction. [Familiarity]
 
-## Notions 
+## Notions
 
-implication, 
-equivalence, 
-converse, 
-inverse, 
-contrapositive, 
-negation, 
-contradiction
+**implication**
+
+**equivalence**
+
+**converse**
+
+**inverse**
+
+**contrapositive**
+
+**negation**
+
+**contradiction**
 
 ## The structure of mathematical proofs
 

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Interfacing and mixed-signal systems 2004
 
 ??? info "Learning Outcomes"

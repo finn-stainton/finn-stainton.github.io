@@ -1,7 +1,0 @@
-History and overview [1]
-Relevant tools and engineering applications [1] Differentiation methods [4]
-Integration methods [6]
-Linear differential equations [8]
-Non-linear differential equations [3]
-Partial differential equations [5]
-Functional series [2]

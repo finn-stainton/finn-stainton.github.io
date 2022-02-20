@@ -1,7 +1,3 @@
----
-hide:
-    -  navigation
----
 # SE/Software Construction
 
 ??? info "Learning Outcomes"
@@ -17,46 +13,48 @@ hide:
     8. Rewrite a simple program to remove common vulnerabilities, such as buffer overflows, integer overflows and race conditions. [Usage]
     9. Write a software component that performs some non-trivial task and is resilient to input and run-time errors. [Usage]
 
-## Coding practices: 
-
-techniques, 
-
-idioms/patterns,
-
-mechanisms for building quality programs 
+## Coding practices
 
 (cross-reference IAS/Defensive Programming; SDF/Development Methods)
 
-###  Defensive coding practices
+techniques
 
-###  Secure coding practices
+idioms/patterns,
 
-###  Using exception handling mechanisms to make programs more robust, fault-tolerant
+mechanisms for building quality programs
+
+
+
+### Defensive coding practices
+
+### Secure coding practices
+
+### Using exception handling mechanisms to make programs more robust, fault-tolerant
 
 ## Coding standards
 
 ## Integration strategies
 
-## Development context: 
+## Development context
 
 “green field” vs. existing code base
 
-###  Change impact analysis
+### Change impact analysis
 
-###  Change actualization
+### Change actualization
 
 ## Potential security problems in programs
 
-###  Buffer and other types of overflows
+### Buffer and other types of overflows
 
-###  Race conditions
+### Race conditions
 
-###  Improper initialization,
+### Improper initialization
 
  including choice of privileges
 
-###  Checking input
+### Checking input
 
-###  Assuming success and correctness
+### Assuming success and correctness
 
-###  Validating assumptions
+### Validating assumptions

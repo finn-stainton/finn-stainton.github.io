@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DS/Basic of Counting
 
 ??? info "Learning Outcomes"

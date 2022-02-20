@@ -52,7 +52,7 @@ Cross-reference AL/Basic Analysis, AL/Algorithmic Strategies, AL/Fundamental Dat
 - Two-player games (introduction to minimax search)
 - Constraint satisfaction (backtracking and local search methods)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Formulate an efficient problem space for a problem expressed in natural language (e.g., English) in terms of initial and goal states, and operators. [Usage]
 2. Describe the role of heuristics and describe the trade-offs among completeness, optimality, time complexity, and space complexity. [Familiarity]
@@ -72,7 +72,7 @@ Cross-reference AL/Basic Analysis, AL/Algorithmic Strategies, AL/Fundamental Dat
 - Forward chaining, backward chaining
 - Review of probabilistic reasoning, Bayes theorem (cross-reference with DS/Discrete Probability)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Translate a natural language (e.g., English) sentence into predicate logic statement. [Usage]
 2. Convert a logic statement into clause form. [Usage]
@@ -90,7 +90,7 @@ of a hypothesis given evidence. [Usage]
 - The over-fitting problem
 - Measuring classifier accuracy
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. List the differences among the three main styles of learning: supervised, reinforcement, and unsupervised. [Familiarity]
 2. Identify examples of classification tasks, including the available input features and output to be predicted. [Familiarity]
@@ -113,7 +113,7 @@ Note that the general topics of Branch-and-bound and Dynamic Programing are list
 - Minimax search, alpha-beta pruning
 - Expectimax search (MDP-solving) and chance nodes
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Design and implement a genetic algorithm solution to a problem. [Usage]
 2. Design and implement a simulated annealing schedule to avoid local minima in a problem. [Usage]
@@ -143,7 +143,7 @@ Note that the general topics of Branch-and-bound and Dynamic Programing are list
     - Planning and execution including conditional planning and continuous planning
     - Mobile agent/Multi-agent planning
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Compare and contrast the most common models used for structured knowledge representation, highlighting their strengths and weaknesses. [Assessment]
 2. Identify the components of non-monotonic reasoning and its usefulness as a representational mechanism for belief systems. [Familiarity]
@@ -177,7 +177,7 @@ Note that the general topics of Branch-and-bound and Dynamic Programing are list
     - Preferences and utility functions
     - Maximizing expected utility
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Apply Bayes’ rule to determine the probability of a hypothesis given evidence. [Usage]
 2. Explain how conditional independence assertions allow for greater efficiency of probabilistic systems. [Assessment]
@@ -212,7 +212,7 @@ Cross-reference HCI/Collaboration and Communication
     - Competitive agents (e.g., auctions, voting)
     - Swarm systems and biologically inspired models
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. List the defining characteristics of an intelligent agent. [Familiarity]
 2. Characterize and contrast the standard agent architectures. [Assessment]
@@ -248,7 +248,7 @@ Cross-reference HCI/New Interactive Technologies
 - Text classification, categorization
     - Bag of words model
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Define and contrast deterministic and stochastic grammars, providing examples to show the adequacy of each. [Assessment]
 2. Simulate, apply, or implement classic and stochastic algorithms for parsing natural language. [Usage]
@@ -284,7 +284,7 @@ Cross-reference HCI/New Interactive Technologies
     - Value and policy iteration
 - Application of Machine Learning algorithms to Data Mining (cross-reference IM/Data Mining)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the differences among the three main styles of learning: supervised, reinforcement, and unsupervised. [Familiarity]
 2. Implement simple algorithms for supervised learning, reinforcement learning, and unsupervised learning.
@@ -310,7 +310,7 @@ Cross-reference HCI/New Interactive Technologies
 - Motion planning
 - Multiple-robot coordination
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. List capabilities and limitations of today's state-of-the-art robot systems, including their sensors and the crucial sensor processing that informs those systems. [Familiarity]
 2. Integrate sensors, actuators, and software into a robot designed to undertake some task. [Usage]

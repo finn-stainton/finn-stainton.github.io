@@ -1,8 +1,11 @@
 ---
+
 hide:
     - navigation
 ---
 # ESY/Mobile and networked embedded systems
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Embedded-Systems)
 
 ??? info "Learning Outcomes"
 
@@ -28,7 +31,7 @@ hide:
 - throughput
 - connectivity.
 
-## Adding Long-range wireless connectivity 
+## Adding Long-range wireless connectivity
 
 **Cellular**
 

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Low-power Computing 2004
 
 ??? info "Learning Outcomes"

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SE/Tools and Environments
 
 ??? info "Learning Outcomes"
@@ -22,13 +18,47 @@ hide:
 
 ## Version control
 
+### [Git]
+
+!!! cite "Resources/ Bib."
+
+    - [Git Reference Manual](https://git-scm.com/docs)
+    - [Pro Git Book](https://git-scm.com/book/en/v2)
+    - Atlassian Git Cheat Sheet
+    - [GitHub Git Cheat Sheet](https://github.github.com/training-kit/)
+
+Is a Version Control System which records changes to a file(s) over time.
+
+- Git stores information as **Snapshots**, in that with each commit it only stores a new copy of a file if it has changed. 
+- Nearly all Operations are Local. 
+- All data stored in git has a SHA-1 hash (checksum).
+- Generally, data is only added.
+
+[:octicons-arrow-right-24: Continue reading][Git]
+
+[Git]: More-In-Depth/Git.md
+
+### [Gitflow]
+
+Git Flow is a branching workflow model designed for product release which extents Git (initialise beforehand)
+
+[:octicons-arrow-right-24: Continue reading][Gitflow]
+
+[Gitflow]: More-In-Depth/Gitflow.md
+
+### GitHub
+
+#### Pull Request
+
+### BitBucket
+
 ## Release management
 
 ## Requirements analysis
 
 ## Design modeling tools
 
-## Testing tools 
+## Testing tools
 
 **Static analysis tools**
 
@@ -41,5 +71,9 @@ Programming environments that automate parts of program construction processes
 automated builds
 
 ### Continuous integration and delivery (CI/CD)
+
+#### Travis CI
+
+#### GitHub Actions
 
 ## Tool integration concepts and mechanisms

@@ -15,7 +15,7 @@ Information Management is primarily concerned with the capture, digitization, re
 - Analysis and indexing
 - Quality issues: reliability, scalability, efficiency, and effectiveness
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe how humans gain access to information and data to support their needs. [Familiarity]
 2. Describe the advantages and disadvantages of central organizational control over data. [Assessment]
@@ -43,7 +43,7 @@ Information Management is primarily concerned with the capture, digitization, re
 - Systems supporting structured and/or stream content
 - Approaches for managing large volumes of data (e.g., noSQL database systems, use of MapReduce).
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the characteristics that distinguish the database approach from the approach of programming with data files. [Familiarity]
 2. Describe the most common designs for core database system components including the query optimizer, query executor, storage manager, access methods, and transaction processor. [Familiarity]
@@ -66,7 +66,7 @@ Information Management is primarily concerned with the capture, digitization, re
 - Object-oriented models (cross-reference PL/Object-Oriented Programming)
 - Semi-structured data model (expressed using DTD or XML Schema, for example)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Compare and contrast appropriate data models, including internal structures, for different types of data.[Assessment]
 2. Describe concepts in modeling notation (e.g., Entity-Relation Diagrams or UML) and how they would be used. [Familiarity]
@@ -112,7 +112,7 @@ frontier. [Familiarity]
 - Join dependency (PJNF, 5NF)
 - Representation theory
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Prepare a relational schema from a conceptual model developed using the entity- relationship model. [Usage]
 2. Explain and demonstrate the concepts of entity integrity constraint and referential integrity constraint (including definition of the concept of a foreign key). [Usage]
@@ -144,7 +144,7 @@ frontier. [Familiarity]
 - Introduction to other major query languages (e.g., XPATH, SPARQL)
 - Stored procedures
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Create a relational database schema in SQL that incorporates key, entity integrity, and referential integrity constraints. [Usage]
 2. Use SQL to create tables and retrieve (SELECT) information from a database. [Usage]
@@ -162,7 +162,7 @@ frontier. [Familiarity]
 - Concurrency control
 - Interaction of transaction management with storage, especially buffering
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Create a transaction by embedding SQL into an application program. [Usage]
 2. Explain the concept of implicit commits. [Familiarity]
@@ -187,7 +187,7 @@ frontier. [Familiarity]
     - Speedup and scale-up, e.g., use of the MapReduce processing model (cross-reference CN/Processing, PD/Parallel Decomposition)
     - Data replication and weak consistency models
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the techniques used for data fragmentation, replication, and allocation during the distributed
 database design process. [Familiarity]
@@ -209,7 +209,7 @@ database design process. [Familiarity]
 - Files with variable length records
 - Database efficiency and tuning
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the concepts of records, record types, and files, as well as the different techniques for placing file
 records on disk. [Familiarity]
@@ -234,7 +234,7 @@ records on disk. [Familiarity]
 - Data cleaning
 - Data visualization (cross-reference GV/Visualization and CN/Interactive Visualization)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Compare and contrast different uses of data mining as evidenced in both research and application.[Assessment]
 2. Explain the value of finding associations in market basket data. [Familiarity]
@@ -272,7 +272,7 @@ the data mining process. [Familiarity]
 - Services (searching, linking, browsing, and so forth)
 - Intellectual property rights management, privacy, and protection (watermarking)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain basic information storage and retrieval concepts. [Familiarity]
 2. Describe what issues are specific to efficient information retrieval. [Familiarity]
@@ -292,7 +292,7 @@ the data mining process. [Familiarity]
 - Presentation, rendering, synchronization, multi-modal integration/interfaces
 - Real-time delivery, quality of service (including performance), capacity planning, audio/video conferencing, video-on-demand
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the media and supporting devices commonly associated with multimedia information and systems. [Familiarity]
 2. Demonstrate the use of content-based information analysis in a multimedia information system. [Usage]

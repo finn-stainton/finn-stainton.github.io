@@ -1,3 +1,23 @@
+# Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to
+# deal in the Software without restriction, including without limitation the
+# rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+# sell copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+# IN THE SOFTWARE.
+
 # Project information
 site_name: Finn Stainton
 site_url: https://finn-stainton.github.io/
@@ -8,25 +28,45 @@ site_description: >-
   being open with the current state of projects, knowledge and problems I'm pondering.</p>
   <p>Check out some of my projects but just a warning, these are new (so incomplete) write ups. Enjoy. 
 
+# Repository
 repo_url: https://github.com/finn-stainton/finn-stainton.github.io
 repo_name: finn-stainton.github.io
 
+# Copyright
 copyright: >-
   Work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
   Creative Commons Attribution 4.0 International License</a>, except where otherwise noted.<br/>
   I cannot guarantee all content will be free of errors or copyright protections. 
 
+# Configuration
 theme:
   name: material
   custom_dir: material
+
+  # Static files
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.indexes
   palette:
     - scheme: default
       primary: deep orange
+      accent: teal
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: black
+      primary: teal
+      accent: deep orange
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -35,14 +75,12 @@ theme:
     code: Roboto Mono
   icon:
     logo: material/library
-  features:
-    - navigation.instant
-    - navigation.tabs
-    - navigation.indexes
-    # - navigation.sections
+
+# Plugins
 plugins:
   - search
-  - git-revision-date
+
+# Customization
 extra:
   social:
     - icon: fontawesome/brands/linkedin
@@ -50,57 +88,62 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/finn-stainton
 
+# Extensions
 markdown_extensions:
-  - pymdownx.highlight
-  - pymdownx.superfences
-  - footnotes
+  - abbr
   - admonition
-  - pymdownx.details
-  - tables
   - attr_list
+  - def_list
+  - footnotes
+  - meta
   - md_in_html
-  - pymdownx.keys
+  - toc:
+      permalink: true
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-# nav:
-#   - Home:
-#     - index.md
-#   - Second Brain:
-#     - Second-Brain/index.md
-#     - Software Engineering: 
-#       - Second-Brain/Software-Engineering/index.md
-#     - Algorithms and-Data-Structures: 
-#       - Second Brain/ADS/index.md
-#     - Computer Architecture: 
-#       - Second-Brain/Computer-Architecture/index.md
-#     - Mathematical Foundations for Computer Science: 
-#       - Second-Brain/Mathematical-Foundations/index.md
-#     - Programming Language Theory: 
-#       - Second-Brain/Computer-Architecture/index.md
-#     - Theory of Computation: 
-#       - Second-Brain/Computer-Architecture/index.md
-#     - Databases: 
-#       - Second-Brain/Computer-Architecture/index.md
-#     - Distributed Systems: 
-#       - Second-Brain/Computer-Architecture/index.md
-#     - Artificial Intelligence: 
-#       - Second-Brain/Computer-Architecture/index.md
-#     - Communication and Security: 
-#       - Second-Brain/Computer-Architecture/index.md
-#     - Computer Graphics: 
-#       - Second-Brain/Computer-Architecture/index.md
-#     - Scientific Computing: 
-#       - Second-Brain/Computer-Architecture/index.md
-#   - Project:
-#     - Projects/index.md
-#   - Journal:
-#     - Journal/index.md
-
-# <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-  # <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+#  - pymdownx.highlight
+#   - pymdownx.superfences
+#   - footnotes
+#   - admonition
+#   - pymdownx.details
+#   - tables
+#   - attr_list
+#   - pymdownx.arithmatex:
+#       generic: true
+#   - pymdownx.keys
+#   - pymdownx.tasklist:
+#       custom_checkbox: true
+#   - md_in_html

@@ -1,4 +1,4 @@
 ---
 template: overrides/home.html
-title: Home
+title: Hello, World
 ---

@@ -1,8 +1,4 @@
----
-hide:
-    - navigation
----
-# AL/Basic Automata Computability and Complexity
+# AL/ Basic Automata Computability and Complexity
 
 ??? info "Learning Outcomes"
 
@@ -20,11 +16,11 @@ hide:
 
 ## The halting problem
 
-## Context-free grammars 
+## Context-free grammars
 
-(cross-reference [PL/Syntax Analysis]())
+(cross-reference [PL/Syntax Analysis](../Programming-Languages/index.md))
 
-## Introduction to P and NP 
+## Introduction to P and NP
 
 ### P class
 
@@ -32,11 +28,11 @@ hide:
 
 ### P vs. NP problem
 
-## Introduction to the NP-complete 
+## Introduction to the NP-complete
 
-### NP-complete class 
+### NP-complete class
 
-### exemplary NP-complete problems 
+### exemplary NP-complete problems
 
 - SAT
 - Knapsack

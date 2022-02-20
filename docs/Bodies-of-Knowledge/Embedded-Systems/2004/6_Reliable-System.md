@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Reliable System Design 2004
 
 ??? info "Learning Outcomes"

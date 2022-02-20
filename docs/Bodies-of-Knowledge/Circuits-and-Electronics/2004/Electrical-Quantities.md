@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CSG/Electrical Quantities
 
 ??? info "Learning Outcomes"

@@ -10,7 +10,7 @@ Computational Science is a field of applied computer science, that is, the appli
 
 ^[3]: Shiflet, A. B. and Shiflet, G. W. Introduction to Computational Science: Modeling and Simulation for the Sciences, Princeton University Press, 2006: p. 3.
 
-## Introduction to Modeling and Simulation
+## CN/ Introduction to Modeling and Simulation
 
 Abstraction is a fundamental concept in computer science. A principal approach to computing is
 to abstract the real world, create a model that can be simulated on a machine. The roots of
@@ -32,20 +32,24 @@ virtual reality
 - Foundational approaches to validating models (e.g., comparing a simulation’s output to real data or the
 output of another model)
 - Presentation of results in a form relevant to the system being modeled
-Learning Outcomes:
-1. Explain the concept of modeling and the use of abstraction that allows the use of a machine to solve a
-problem. [Familiarity]
-2. Describe the relationship between modeling and simulation, i.e., thinking of simulation as dynamic
-modeling. [Familiarity]
-3. Create a simple, formal mathematical model of a real-world situation and use that model in a simulation.
-[Usage]
-4. Differentiate among the different types of simulations, including physical simulations, human-guided
-simulations, and virtual reality. [Familiarity]
-5. Describe several approaches to validating models. [Familiarity]
-6. Create a simple display of the results of a simulation. [Usage]
-CN/Modeling and Simulation
-[Elective]
-Topics:
+
+??? info "Learning Outcomes"
+
+    1. Explain the concept of modeling and the use of abstraction that allows the use of a machine to solve a
+    problem. [Familiarity]
+    1. Describe the relationship between modeling and simulation, i.e., thinking of simulation as dynamic
+    modeling. [Familiarity]
+    1. Create a simple, formal mathematical model of a real-world situation and use that model in a simulation.
+    [Usage]
+    1. Differentiate among the different types of simulations, including physical simulations, human-guided
+    simulations, and virtual reality. [Familiarity]
+    1. Describe several approaches to validating models. [Familiarity]
+    2. Create a simple display of the results of a simulation. [Usage]
+
+## CN/Modeling and Simulation
+
+**Topics**:
+
 - Purpose of modeling and simulation including optimization; supporting decision making, forecasting,
 safety considerations; for training and education
 - Tradeoffs including performance, accuracy, validity, and complexity
@@ -72,24 +76,24 @@ models and simulations
 planning, science, and engineering
 - Software in support of simulation and modeling; packages, languages
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
-1. Explain and give examples of the benefits of simulation and modeling in a range of important application
-areas. [Familiarity]
-2. Demonstrate the ability to apply the techniques of modeling and simulation to a range of problem areas.
-[Usage]
-3. Explain the constructs and concepts of a particular modeling approach. [Familiarity]
-4. Explain the difference between validation and verification of a model; demonstrate the difference with
-specific examples1
-5. Verify and validate the results of a simulation. [Assessment]
-. [Assessment]
-6. Evaluate a simulation, highlighting the benefits and the drawbacks. [Assessment]
-7. Choose an appropriate modeling approach for a given problem or situation. [Assessment]
-8. Compare results from different simulations of the same situation and explain any differences. [Assessment]
-9. Infer the behavior of a system from the results of a simulation of the system. [Assessment]
-10. Extend or adapt an existing model to a new situation. [Assessment]
-1 Verification means that the computations of the model are correct. If we claim to compute total time, for example,
-the computation actually does that. Validation asks whether the model matches the real situation.
+    1. Explain and give examples of the benefits of simulation and modeling in a range of important application
+    areas. [Familiarity]
+    1. Demonstrate the ability to apply the techniques of modeling and simulation to a range of problem areas.
+    [Usage]
+    1. Explain the constructs and concepts of a particular modeling approach. [Familiarity]
+    2. Explain the difference between validation and verification of a model; demonstrate the difference with
+    specific examples1
+    1. Verify and validate the results of a simulation. [Assessment]
+    . [Assessment]
+    1. Evaluate a simulation, highlighting the benefits and the drawbacks. [Assessment]
+    2. Choose an appropriate modeling approach for a given problem or situation. [Assessment]
+    3. Compare results from different simulations of the same situation and explain any differences. [Assessment]
+    4. Infer the behavior of a system from the results of a simulation of the system. [Assessment]
+    5.  Extend or adapt an existing model to a new situation. [Assessment]
+    1 Verification means that the computations of the model are correct. If we claim to compute total time, for example,
+    the computation actually does that. Validation asks whether the model matches the real situation.
 
 ## Processing
 
@@ -100,6 +104,7 @@ AR/Interfacing and Communication, AR/Multiprocessing and Alternative Architectur
 AR/Performance Enhancements.
 
 **Topics**:
+
 - Fundamental programming concepts:
     - The concept of an algorithm consisting of a finite number of well-defined steps, each of which completes in a finite amount of time, as does the entire process.
     - Examples of well-known algorithms such as sorting and searching.
@@ -126,27 +131,27 @@ parallel software architectures, and MapReduce.
     - Total time to science curve for parallelism: continuum of things.
 - Computing costs, e.g., the cost of re-computing a value vs. the cost of storing and lookup.
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
-1. Explain the characteristics and defining properties of algorithms and how they relate to machine
-processing. [Familiarity]
-2. Analyze simple problem statements to identify relevant information and select appropriate processing to
-solve the problem. [Assessment]
-3. Identify or sketch a workflow for an existing computational process such as the creation of a graph based
-on experimental data. [Familiarity]
-4. Describe the process of converting an algorithm to machine-executable code. [Familiarity]
-5. Summarize the phases of software development and compare several common lifecycle models.
-[Familiarity]
-6. Explain how data is represented in a machine. Compare representations of integers to floating point
-numbers. Describe underflow, overflow, round off, and truncation errors in data representations.
-[Familiarity]
-7. Apply standard numerical algorithms to solve ODEs and PDEs. Use computing systems to solve systems of
-equations. [Usage]
-8. Describe the basic properties of bandwidth, latency, scalability and granularity. [Familiarity]
-9. Describe the levels of parallelism including task, data, and event parallelism. [Familiarity]
-10. Compare and contrast parallel programming paradigms recognizing the strengths and weaknesses of each.[Assessment]
-11. Identify the issues impacting correctness and efficiency of a computation. [Familiarity]
-12. Design, code, test and debug programs for a parallel computation. [Usage]
+    1. Explain the characteristics and defining properties of algorithms and how they relate to machine
+    processing. [Familiarity]
+    1. Analyze simple problem statements to identify relevant information and select appropriate processing to
+    solve the problem. [Assessment]
+    1. Identify or sketch a workflow for an existing computational process such as the creation of a graph based
+    on experimental data. [Familiarity]
+    1. Describe the process of converting an algorithm to machine-executable code. [Familiarity]
+    2. Summarize the phases of software development and compare several common lifecycle models.
+    [Familiarity]
+    1. Explain how data is represented in a machine. Compare representations of integers to floating point
+    numbers. Describe underflow, overflow, round off, and truncation errors in data representations.
+    [Familiarity]
+    1. Apply standard numerical algorithms to solve ODEs and PDEs. Use computing systems to solve systems of
+    equations. [Usage]
+    1. Describe the basic properties of bandwidth, latency, scalability and granularity. [Familiarity]
+    2. Describe the levels of parallelism including task, data, and event parallelism. [Familiarity]
+    3.  Compare and contrast parallel programming paradigms recognizing the strengths and weaknesses of each.[Assessment]
+    4.  Identify the issues impacting correctness and efficiency of a computation. [Familiarity]
+    5.  Design, code, test and debug programs for a parallel computation. [Usage]
 
 ## Interactive Visualization
 
@@ -169,15 +174,16 @@ Programming).
 - Image processing techniques
 - Scalability concerns
 
-**Learning Outcomes**:
-1. Compare common computer interface mechanisms with respect to ease-of-use, learnability, and cost. [Assessment]
-2. Use standard APIs and tools to create visual displays of data, including graphs, charts, tables, and
-histograms. [Usage]
-3. Describe several approaches to using a computer as a means for interacting with and processing data.
-[Familiarity]
-4. Extract useful information from a dataset. [Assessment]
-5. Analyze and select visualization techniques for specific problems. [Assessment]
-6. Describe issues related to scaling data analysis from small to large data sets. [Familiarity]
+??? info "Learning outcomes"
+
+    1. Compare common computer interface mechanisms with respect to ease-of-use, learnability, and cost. [Assessment]
+    2. Use standard APIs and tools to create visual displays of data, including graphs, charts, tables, and
+    histograms. [Usage]
+    1. Describe several approaches to using a computer as a means for interacting with and processing data.
+    [Familiarity]
+    1. Extract useful information from a dataset. [Assessment]
+    2. Analyze and select visualization techniques for specific problems. [Assessment]
+    3. Describe issues related to scaling data analysis from small to large data sets. [Familiarity]
 
 ## Data, Information, and Knowledge
 
@@ -201,20 +207,20 @@ catalogs, repositories
 share, collaborate, rate, annotate, personalize, recommend
 - Modeling, design, logical and physical implementation, using relevant systems/software
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
-1. Identify all of the data, information, and knowledge elements and related organizations, for a computational
-science application. [Assessment]
-2. Describe how to represent data and information for processing. [Familiarity]
-3. Describe typical user requirements regarding that data, information, and knowledge. [Familiarity]
-4. Select a suitable system or software implementation to manage data, information, and knowledge.
-[Assessment]
-5. List and describe the reports, transactions, and other processing needed for a computational science
-application. [Familiarity]
-6. Compare and contrast database management, information retrieval, and digital library systems with regard
-to handling typical computational science applications. [Assessment]
-7. Design a digital library for some computational science users/societies, with appropriate content and
-services. [Usage]
+    1. Identify all of the data, information, and knowledge elements and related organizations, for a computational
+    science application. [Assessment]
+    1. Describe how to represent data and information for processing. [Familiarity]
+    2. Describe typical user requirements regarding that data, information, and knowledge. [Familiarity]
+    3. Select a suitable system or software implementation to manage data, information, and knowledge.
+    [Assessment]
+    1. List and describe the reports, transactions, and other processing needed for a computational science
+    application. [Familiarity]
+    1. Compare and contrast database management, information retrieval, and digital library systems with regard
+    to handling typical computational science applications. [Assessment]
+    1. Design a digital library for some computational science users/societies, with appropriate content and
+    services. [Usage]
 
 ## Numerical Analysis
 
@@ -227,11 +233,9 @@ Cross-reference AR/Machine Level Representation of Data
 - Numerical differentiation and integration (Simpson’s Rule, explicit and implicit methods)
 - Differential equations (Euler’s Method, finite differences)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
-1. Define error, stability, machine precision concepts and the inexactness of computational approximations.
-[Familiarity]
-2. Implement Taylor series, interpolation, extrapolation, and regression algorithms for approximating
-functions. [Usage]
-3. Implement algorithms for differentiation and integration. [Usage]
-4. Implement algorithms for solving differential equations. [Usage]
+    1. Define error, stability, machine precision concepts and the inexactness of computational approximations. [Familiarity]
+    2. Implement Taylor series, interpolation, extrapolation, and regression algorithms for approximating functions. [Usage]
+    3. Implement algorithms for differentiation and integration. [Usage]
+    4. Implement algorithms for solving differential equations. [Usage]

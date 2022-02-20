@@ -24,11 +24,21 @@ Definition of derivative; calculating derivatives using limit definition; calcul
 
 Natural logarithmic function and its properties; calculating derivative of logarithmic functions; applying logarithmic differentiation; the derivative of exponential functions; integration formulas for exponential functions; derivatives of trigonometric functions; integrating trigonometric functions.
 
-
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Apply fundamental theorems and rules of Calculus to differentiate and integrate algebraic, trigonometric, inverse trigonometric and transcendental functions.
 - Apply fundamental theorems and rules of Calculus to evaluate limits and analyze the continuity of various functions.
 - Apply fundamental theorems and rules of differentiation to solve problems that model real-world situations.
 - Construct symbolic models of applied problems described in words.
 - Use fundamental concepts of Calculus to construct graphs of polynomial, rational and exponential functions.
+
+## CE 2016
+
+History and overview
+Relevant tools and engineering applications
+Differentiation methods
+Integration methods
+Linear differential equations
+Non-linear differential equations
+Partial differential equations
+Functional series

@@ -1,8 +1,4 @@
----
-hide:
-    - navigation
----
-# AL/Advanced Computational Complexity
+# AL/ Advanced Computational Complexity
 
 ??? info "Learning Outcomes"
 
@@ -12,7 +8,7 @@ hide:
     4. Provide examples of classic NP-complete problems. [Familiarity]
     5. Prove that a problem is NP-complete by reducing a classic known NP-complete problem to it. [Usage]
 
-## Review of the classes P and NP; 
+## Review of the classes P and NP;
 
 ## P-space and EXP
 

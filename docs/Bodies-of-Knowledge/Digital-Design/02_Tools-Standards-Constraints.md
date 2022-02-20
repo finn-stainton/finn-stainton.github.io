@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DIG/Relevant tools, standards, and/or engineering constraints
 
 ??? info "Learning Outcomes"

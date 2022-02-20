@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Real-time Operating Systems 2004
 
 ??? info "Learning Outcomes"

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CAE/Storage cell architecture
 
 ??? info "Learning Outcomes"

@@ -1,7 +1,3 @@
----
-hide:
-    -navigation
----
 # SE/Formal Methods
 
 ??? info "Learning Outcomes"
@@ -12,11 +8,11 @@ hide:
     4. Create and evaluate program assertions for a variety of behaviors ranging from simple through complex. [Usage]
     5. Using a common formal specification language, formulate the specification of a simple software system and derive examples of test cases from the specification. [Usage]
 
-## Role of formal specification and analysis techniques 
+## Role of formal specification and analysis techniques
 
 in the software development cycle
 
-## Program assertion languages and analysis approaches 
+## Program assertion languages and analysis approaches
 
 (including languages for writing and analyzing pre- and post-conditions, such as OCL, JML)
 

@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # ESY/Design Methodologies 2004
 
 ??? info "Learning Outcomes"

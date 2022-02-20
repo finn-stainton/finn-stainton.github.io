@@ -23,7 +23,7 @@ memory; gulfs of expectation and execution
 - Accessibility, e.g., interfaces for differently-abled populations (e.g., blind, motion-impaired)
 - Interfaces for differently-aged population groups (e.g., children, 80+)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Discuss why human-centered software development is important. [Familiarity]
 2. Summarize the basic precepts of psychological and social interaction. [Familiarity]
@@ -49,7 +49,7 @@ interface construction.
 - Handling human/system failure
 - User interface standards
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. For an identified user group, undertake and document an analysis of their needs. [Assessment]
 2. Create a simple application, together with help and documentation, that supports a graphical user interface. [Usage]
@@ -77,7 +77,7 @@ approaches and technologies to make that happen.
 - Cross-platform design
 - Design for resource-constrained devices (e.g. small, mobile devices)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 1. Explain the importance of Model-View controller to interface programming. [Familiarity]
 2. Create an application with a modern graphical user interface. [Usage]
 3. Identify commonalities and differences in UIs across different platforms. [Familiarity]
@@ -126,7 +126,7 @@ Topics:
     - Bayesian inference (e.g. predictive text, guided pointing)
     - Ambient/peripheral display and interaction
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe when non-mouse interfaces are appropriate. [Familiarity]
 2. Understand the interaction possibilities beyond mouse-and-pointer interfaces. [Familiarity]
@@ -148,7 +148,7 @@ unfocused (social networking).
 - Software characters and intelligent agents, virtual worlds and avatars (cross-reference IS/Agents)
 - Social psychology
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the difference between synchronous and asynchronous communication. [Familiarity]
 2. Compare the HCI issues in individual interaction with group interaction. [Assessment]
@@ -192,7 +192,7 @@ https://www.schneier.com/blog/archives/2013/03/phishing_has_go.h.)
 - Biometric authentication (camera, voice)
 - Identity management
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the concepts of phishing and spear phishing, and how to recognize them. [Familiarity]
 2. Describe the issues of trust in interface design with an example of a high and low trust system. [Assessment]
@@ -221,7 +221,7 @@ cultural contexts.
     - Sustainability
     - Arts-informed computing
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain what is meant by “HCI is a design-oriented discipline”. [Familiarity]
 2. Detail the processes of design appropriate to specific design orientations. [Familiarity]
@@ -258,7 +258,7 @@ development of immersive environments, especially games.
     - p2p, client-server, dead reckoning, encryption, synchronization
     - Distributed collaboration
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the optical model realized by a computer graphics system to synthesize stereoscopic view.
 [Familiarity]

@@ -1,8 +1,7 @@
 ---
 hide:
     - toc
----
-# Digital Design (DIG) / History and Overview
+---# Digital Design (DIG) / History and Overview
 
 **Area Scope**
 

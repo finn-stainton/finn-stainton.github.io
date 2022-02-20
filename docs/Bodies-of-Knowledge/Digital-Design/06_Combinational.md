@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DIG/Modular design of combinational circuits
 
 ??? info "Learning Outcomes"

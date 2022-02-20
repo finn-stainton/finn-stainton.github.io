@@ -1,8 +1,4 @@
----
-hide:
-    - navigation
----
-# AL/Fundamental Data Structures and Algorithms
+# AL/ Fundamental Data Structures and Algorithms
 
 ??? info "Learning Outcomes"
 
@@ -13,10 +9,41 @@ hide:
     5. Discuss the runtime and memory efficiency of principal algorithms for sorting, searching, and hashing. [Familiarity]
     6. Discuss factors other than computational efficiency that influence the choice of algorithms, such as
     programming time, maintainability, and the use of application-specific patterns in the input data. [Familiarity]
-    1. Explain how tree balance affects the efficiency of various binary search tree operations. [Familiarity]
-    2. Solve problems using fundamental graph algorithms, including depth-first and breadth-first search. [Usage]
+    7. Explain how tree balance affects the efficiency of various binary search tree operations. [Familiarity]
+    8. Solve problems using fundamental graph algorithms, including depth-first and breadth-first search. [Usage]
+    9. Discuss the appropriate use of built-in data structures. [Familiarity]
+    10. Describe common applications for each of the following data structures: stack, queue, priority queue, set, and map. [Familiarity]
+    11. Write programs that use each of the following data structures: arrays, records/structs, strings, linked lists, stacks, queues, sets, and maps. [Usage]
+    12. Compare alternative implementations of data structures with respect to performance. [Assessment]
+    13. Describe how references allow for objects to be accessed in multiple ways. [Familiarity]
+    14. Compare and contrast the costs and benefits of dynamic and static data structure implementations. [Assessment]
+    15. Choose the appropriate data structure for modeling a given problem. [Assessment]
 
-## Simple numerical algorithms
+## Arrays
+
+## Records/ Structures (heterogeneous aggregates)
+
+## Strings and string processing
+
+## Abstract data types and their implementation
+
+### Stacks
+
+### Queues
+
+### Priority queues
+
+### Sets
+
+### Maps (Dictionaries)
+
+## References and aliasing
+
+## Linked lists
+
+## Strategies for choosing the appropriate data structure
+
+### Simple numerical algorithms
 
 **List Operations**
 e.g. [1,3,2,7,4,2,5,6]
@@ -28,13 +55,13 @@ e.g. [1,3,2,7,4,2,5,6]
 - square root of a number (approximate)
 - greatest common divisor
 
-## Search algorithms
+### Search algorithms
 
 **Sequential**  
 
 **Binary** 
 
-## Sorting algorithms
+### Sorting algorithms
 
 Bubble Sort
 Shellsort
@@ -43,23 +70,23 @@ Radix Sort
 
 **Worst case quadratic** 
 
-### Selection Sort
+#### Selection Sort
 
-### Insertion Sort
-  
+#### Insertion Sort
+
 **Worst or average case O(N log N)** 
 
-### Quicksort
+#### Quicksort
 
-### Heapsort
+#### Heapsort
 
-### Mergesort
+#### Mergesort
 
-## Hash tables
+### Hash tables
 
 including strategies for avoiding and resolving collisions
 
-## Binary search trees
+### Binary search trees
 
 **Operations** 
 
@@ -69,39 +96,42 @@ including strategies for avoiding and resolving collisions
 - delete
 - iterate over tree
 
-## Heaps
+### Heaps
 
-## Graphs and graph algorithms
+### Graphs and graph algorithms
 
-### Representations of graphs 
+#### Representations of graphs
 
 - Adjacency list
-  
+
 - Adjacency matrix
 
-### Depth-first traversal 
+#### Depth-first traversal
 
-### Breadth-first traversal
+#### Breadth-first traversal
 
-### Shortest-path algorithms 
+#### Shortest-path algorithms
 
-#### Dijkstra’s algorithm
+##### Dijkstra’s algorithm
 
-#### Floyd’s algorithm
+##### Floyd’s algorithm
 
-### Minimum spanning tree 
+#### Minimum spanning tree
 
-#### Prim’s algorithm
-#### Kruskal’s algorithm
+##### Prim’s algorithm
 
-## Pattern matching 
+##### Kruskal’s algorithm
 
-## String/text algorithms 
+### Pattern matching
 
-- substring matching algorithms, 
-- regular expression matching algorithms, 
-- longest common subsequence algorithms
+### String/text algorithms
 
-## Resources/ Bib.
+#### Substring matching algorithms
 
-- Distributed and Mobile Systems, Andrew Ensor
+#### Regular expression matching algorithms
+
+#### Longest common subsequence algorithms
+
+!!! cite "Resources/ Bib."
+
+    - Distributed and Mobile Systems, Andrew Ensor

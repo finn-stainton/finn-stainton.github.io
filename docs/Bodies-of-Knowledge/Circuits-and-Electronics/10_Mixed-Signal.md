@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CAE/Mixed-signal circuit design
 
 ??? info "Learning Outcomes"

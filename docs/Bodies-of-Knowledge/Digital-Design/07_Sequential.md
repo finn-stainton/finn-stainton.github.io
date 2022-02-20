@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DIG/Modular design of sequential circuits
 
 ??? info "Learning Outcomes"

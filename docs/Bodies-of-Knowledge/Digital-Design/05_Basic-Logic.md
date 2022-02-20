@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DIG/Basic logic circuits
 
 ??? info "Learning Outcomes"

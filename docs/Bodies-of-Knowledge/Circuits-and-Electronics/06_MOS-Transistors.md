@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CAE/MOS transistor circuits, timing, and power
 
 ??? info "Learning Outcomes"

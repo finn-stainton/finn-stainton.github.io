@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CAE/Relevant tools, standards, and/or engineering constraints
 
 ??? info "Learning Outcomes"

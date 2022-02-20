@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CSG/History and Overview
 
 ??? info "Learning Outcomes"

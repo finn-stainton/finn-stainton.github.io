@@ -1,8 +1,11 @@
 ---
+
 hide:
     - navigation
 ---
 # ESY/Basic software techniques for embedded applications
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Embedded-Systems)
 
 ??? info "Learning Outcomes"
 
@@ -24,7 +27,7 @@ hide:
 
 ### Linking
 
-## Actions of machine code after system reset 
+## Actions of machine code after system reset
 
 but before user application execution.
 
@@ -39,6 +42,6 @@ but before user application execution.
  including some that include modular/hierarchical programming techniques
 such as subroutines and functions.
 
-## Debugging techniques 
+## Debugging techniques
 
 for simple embedded application programs.

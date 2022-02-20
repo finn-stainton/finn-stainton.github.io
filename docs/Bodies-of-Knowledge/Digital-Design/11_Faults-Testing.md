@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DIG/Fault models, testing, and design for testability
 
 ??? info "Learning Outcomes"

@@ -6,25 +6,24 @@ After a failed attempt to install a larger capacity water tank (taller) at the s
 
 This lead to manually having to shut an output ball valve before opening an input ball valve. However, this procedure more often than not had to be preformed when it was raining (meaning someone had to get wet).
 
-## Aims 
+## Aims
 
 1. Develop a system which can monitor the water level in multiple tanks.
 2. Develop a system which can be automatically trigger a procedure to control multiple valves.
-   
+
 ## Field Unit
 
-### Input 
+### Input
 
 1. Ultrasonic Sensor: Placed on the inside top facing down
 2. Float actuator: Only one physical level monitored, no"soft" adjustment.
 3. Infrared Proximity Sensor:
 4. Pressure Transducer:
 
-
 I decided to go with the pressure transducer as I wanted a continuos readout of current water level and mounting issue regarding the top of tanks.
 
 <figure markdown>
-![Pressure Transducer](assets/pressure-transducer.jpg)
+![Pressure Transducer](assets/field-iot/pressure-transducer.jpg)
   <figcaption>G1/4" Pressure Transducer with metal housing</figcaption>
 </figure>
 
@@ -74,16 +73,17 @@ $$
 Thus, to know the volume(litres) of water present, only the voltage(0-5v) from the transducer and radius(mm) of the tank is needed. If percentage of capacity is wanted, then the hight(mm) of the tank would also have to be known. Also of note, the transducer has to be at the same level as the bottom of the tank. 
 
 ### Output
+
 The secondary aim of the project was to remotely control the water level in multiple tanks. This meant controlling valves and pumps to move water around the network. With the current water system, the pump has kick-in/ cutoff pressure points. This means that simply controlling valves would be enough for the pump to turn on and off by itself (if however pump control is needed, a high power (250VAC 15A) relay could be used, preferable with a Photo-TRIAC Optocoupler to trigger the coil). Found two valve options:
 
 1. Solenoid Valve
 
 2. Motorised Ball Valve
-   
+
 I decided to go with the Motorised Ball Valve as it doesn't require continuos power to keep open and can handle higher pressures with less intrusion. 
 
 <figure markdown>
-![Motorised Valve](assets/motorised-valve.jpg){ width="400" }
+![Motorised Valve](assets/field-iot/motorised-valve.jpg){ width="400" }
   <figcaption>1" Motorised Valve with brass housing</figcaption>
 </figure>
 
@@ -103,27 +103,21 @@ As stated in the [Aims](#aims), I would like the system to automatically trigger
 
 This system is not safely critical, but it would be annoying if the system stopped working each time it lost connection with an external server.  
 
-
-
 #### Pinout
 
-| Pin | Function |
-| --- | --- |
-| D1 | Relay 1 |
-| D2 | Relay 2 |
-| A1 | Pressure 1 |
-| A2 | Pressure 2 |
-| D11 | SPI MOSI |
-| D12 | SPI MISO |
-| D13 | SPI CS |
+| Pin | Function   |
+| --- | ---------- |
+| D1  | Relay 1    |
+| D2  | Relay 2    |
+| A1  | Pressure 1 |
+| A2  | Pressure 2 |
+| D11 | SPI MOSI   |
+| D12 | SPI MISO   |
+| D13 | SPI CS     |
 
 ## LoRa Forwarder
 
-
-
 ## MQTT Broker
-
-
 
 ## Server Client
 
@@ -131,10 +125,8 @@ This system is not safely critical, but it would be annoying if the system stopp
 
 ## User Client
 
-
-
 ## Installation
 
-![Valves and Sensors](assets/wt1.jpeg)
+![Valves and Sensors](assets/field-iot/wt1.jpeg)
 
-![Control Box](assets/wt2.jpeg)
+![Control Box](assets/field-iot/wt2.jpeg)

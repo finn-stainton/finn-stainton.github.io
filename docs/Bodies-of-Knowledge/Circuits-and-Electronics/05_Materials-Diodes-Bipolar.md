@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # CAE/Electronic materials, diodes, and bipolar transistors
 
 ??? info "Learning Outcomes"

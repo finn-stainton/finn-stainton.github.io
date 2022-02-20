@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # SE/Software Verification and Validation
 
 ??? info "Learning Outcomes"
@@ -29,17 +25,17 @@ hide:
 
 ## Inspections, reviews, audits
 
-## Testing types, 
+## Testing types
 
-- human computer interface, 
-- usability, 
-- reliability, 
-- security, 
-- conformance to specification 
+- human computer interface
+- usability
+- reliability
+- security
+- conformance to specification
 
 (cross-reference IAS/Secure Software Engineering)
 
-## Testing fundamentals 
+## Testing fundamentals
 
 (cross-reference SDF/Development Methods)
 
@@ -63,7 +59,14 @@ such as parallel or safety-critical systems
 
 ## Test-driven development
 
-## Validation planning; 
+**Red**
+
+**Green**
+
+**Refactor**
+
+
+## Validation planning;
 
 ### documentation for validation
 

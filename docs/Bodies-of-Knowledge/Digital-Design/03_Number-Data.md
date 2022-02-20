@@ -1,7 +1,3 @@
----
-hide:
-    - navigation
----
 # DIG/Number systems and data encoding
 
 ??? info "Learning Outcomes"

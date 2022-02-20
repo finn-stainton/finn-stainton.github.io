@@ -22,7 +22,7 @@ Initiated from Ben Eater's Design
 
 ## BreadBoard
 
-![6502 without EEPROM](assets/6502-a.jpg)
+![6502 without EEPROM](assets/thumbnails/6502-a.jpg)
 
 6502 Computer without EEPROM
 

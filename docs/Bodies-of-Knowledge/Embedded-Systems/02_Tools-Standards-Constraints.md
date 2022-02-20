@@ -1,8 +1,11 @@
 ---
+
 hide:
     - navigation
 ---
 # ESY/Relevant tools, standards, and engineering constraints
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Embedded-Systems)
 
 ??? info "Learning Outcomes"
 
@@ -10,76 +13,25 @@ hide:
     2. Contrast instrumentation choices for diagnosing/understanding hardware aspects of embedded systems behavior.
     3. List several standards applicable to embedded such as signaling levels and serial communication protocols.
 
-## STM32 CUBE IDE
+## Tools
 
-### Getting Started
+### [STM32 Cube IDE]
 
-### Setup Project
-
-### Code
-
-### Compilation
-
-### Debug
-
-### Flash
-
-## MPX LAB 
-
-### Getting Started
-
-### Setup Project
-
-### Code
-
-### Compilation
-
-### Debug
-
-### Flash (PICKIT)
-
-## AVRStudio
-
-### Getting Started
-
-### Setup Project
-
-### Code
-
-### Compilation
-
-### Debug
-
-### Flash
-
-## MSP430
-
-### Getting Started
-
-### Setup Project
-
-### Code
-
-### Compilation
-
-### Debug
-
-### Flash
+### [MPX LAB]
 
 ## Instrumentation choices for diagnosing
 
-
 Contrast. Understanding hardware aspects of embedded systems behavior.
 
-## Standards 
+## Standards
 
-**Signaling Levels**:
+### Signaling Levels
 
-- 3.3v
-- 5v
+#### 3.3 volt
+#### 5 volt
 
-**Serial Communication Protocols**:
+### Overview of Serial Communication Protocols
 
-- I2C
-- SPI
-- 
+#### [I2C](06_Serial-IO/#i2c)
+
+#### [SPI](06_Serial-IO/#spi)
