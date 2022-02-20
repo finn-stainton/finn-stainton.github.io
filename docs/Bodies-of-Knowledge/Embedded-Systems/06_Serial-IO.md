@@ -1,4 +1,11 @@
+---
+
+hide:
+    - navigation
+---
 # ESY/Serial input and output
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Embedded-Systems)
 
 ??? info "Learning Outcomes"
 
@@ -9,12 +16,12 @@
     5. Describe the data formatting, timing diagrams, and signaling levels used in a synchronous serial interface such as SPI or I2C.
     6. Create programs that perform I/O to an external device or system that uses a synchronous serial interface such as SPI or I2C.
 
-## Full-duplex and half-duplex communication.
+## Full-duplex and half-duplex communication
 
 ## Parallel I/O versus serial I/O tradeoffs
 
-- throughput, 
-- wiring cost, 
+- throughput
+- wiring cost
 - application.
 
 ## Asynchronous serial interface characteristics
@@ -27,16 +34,24 @@
 
 ## Synchronous serial interface characteristics
 
-### SPI
+### Serial Peripheral Interface (SPI)
 
-- data formatting
-- timing diagrams
-- signaling levels
+#### Data formatting
 
-### I2C.
+#### Timing diagrams
 
-- data formatting
-- timing diagrams
-- signaling levels
+#### signaling levels
+
+### I2C
+
+!!! quote ""
+    Synchronous, multi-controller/multi-target, packet switched, single-ended, serial communication bus invented in 1982 by Philips Semiconductors. It is widely used for attaching lower-speed peripheral ICs to processors and microcontrollers.
+    [**Wikipedia**](https://en.wikipedia.org/wiki/I²C)
+
+#### Data formatting
+
+#### Timing diagrams
+
+#### signaling levels
 
 ## Synchronous serial interface programs

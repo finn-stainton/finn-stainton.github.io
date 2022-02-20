@@ -22,7 +22,7 @@
 
 the interaction of software with its intended environment (cross-reference IAS/Secure Software Engineering)
 
-## Introduction to software process models
+## Software process models
 
 ### Waterfall
 
@@ -62,8 +62,8 @@ the interaction of software with its intended environment (cross-reference IAS/S
 
 ## Software process measurements
 
-process metrics
+### Process metrics
 
-project metrics
+### Project metrics
 
-current state of a project
+### Current project state measurement

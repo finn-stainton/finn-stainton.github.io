@@ -11,7 +11,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## [SRM/History and overview of operating systems]
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Explain the purpose of an operating system and the services one provides.
 - Describe differences in functionality found in mobile, networked, client-server, distributed operating systems, and single user systems. 
@@ -20,7 +20,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## [SRM/Relevant tools, standards, and/or engineering constraints]
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Give examples of real-time performance monitoring tools and log-based performance monitoring tools.
 - Explain what information a real-time performance monitoring tool provides and when such a tool is useful. 
@@ -29,7 +29,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## [SRM/Managing system resources]
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Describe the role of an operating system in managing system resources and interfacing between hardware and software elements.
 - Explain what concurrency is and why it must be supported in managing system resources.
@@ -43,7 +43,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## [SRM/Real-time operating system design]
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Explain the characteristics of hard real-time, soft real-time, and safety-critical real-time environments.
 - Discuss issues of uncertainty that can arise in memory hierarchy design and disk or other fixed storage design and methods of
@@ -57,7 +57,7 @@ addressing them.
 
 ## [SRM/Operating systems for mobile devices]
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Describe the system communication that must be managed in a mobile device (e.g., Wi-Fi, Bluetooth). 
 - Discuss constraints inherent in the mobile environment.
@@ -67,7 +67,7 @@ addressing them.
 
 ## [SRM/Support for concurrent processing]
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Explain and give examples of basic concepts in concurrent processing such as multiprocessor, multicore, SIMD, MIMD, shared memory, and distributed memory.
 - Explain what is needed to support scheduling of multiple threads.

@@ -26,73 +26,112 @@
     22. Refactor an existing software implementation to improve some aspect of its design. [Usage]
     23. State and apply the principles of least privilege and fail-safe defaults. [Familiarity]
 
-## System design principles: 
+## System design principle
 
 levels of abstraction (architectural design and detailed design), separation of
 concerns, information hiding, coupling and cohesion, re-use of standard structures
 
-## Design Paradigms 
+## Design Paradigms
 
-structured design (top-down functional decomposition),
-object-oriented analysis and design, 
-event driven design, 
-component-level design, 
-data-structured centered, 
-aspect oriented,
-function oriented, 
-service oriented
+- Structured design (top-down functional decomposition)
+- object-oriented analysis and design
+- event driven design
+- component-level design
+- data-structured centered
+- aspect oriente
+- function oriented
+- service oriented
 
 ## Structural models
 
 ## Behavioral models
- 
- of software designs
+
+of software designs
 
 ## Design patterns
 
-## Relationships between requirements and designs: 
+### Behavioral Patterns
 
-transformation of models, 
+#### Iterator Pattern
 
-design of contracts, 
+#### Filtered Pattern
+
+#### Observer Pattern
+
+#### Strategy Pattern
+
+#### Template Pattern
+
+### Creational Patterns
+
+Deal with the best way of creating instances of objects. Sometimes the exact nature of an objects may vary, so it is preferable to delegate the calling of a appropriate constructor to some class which is better suited. 
+
+
+#### Factory Pattern
+
+Uses a class known as a *factory class* to create instances of objects. It has methods for instantiating and returning an object instance. The constructor and class used to create the appropriate object are chosen by the the factory from one or more subclasses of some abstract class or classes which implement the same interface.
+
+#### Abstract Factory Pattern
+
+Uses a class known as an *abstract factory class* to create factory class(es)
+
+#### Singleton
+
+### Structural Patterns
+
+#### Adapter Pattern
+
+#### Composite Pattern
+
+#### Decorator Pattern
+
+#### Façade Pattern
+
+#### Proxy Pattern
+
+## Relationships between requirements and designs
+
+transformation of models
+
+design of contracts
 
 invariants
 
-## Software architecture concepts and standard architectures 
+## Software architecture concepts and standard architectures
 
-client-server, 
+client-server
 
-n-layer, 
+n-layer
 
-transform centered,
+transform centered
 
 pipes-and-filters
 
 ## Refactoring designs using design patterns
 
-## The use of components in design: 
+## The use of components in design
 
-component selection, 
-design, 
-adaptation
-assembly of components, 
-components and patterns, 
-components and objects (for example, building a GUI using a standard widget set)
+- component selection
+- design
+- adaptation
+- assembly of components
+- components and patterns
+- components and objects (for example, building a GUI using a standard widget set)
 
-## Internal design qualities, and models for them:
+## Internal design qualities, and models for them
 
-efficiency and performance, 
-redundancy and fault tolerance, 
-traceability of requirements
+- efficiency and performance
+- redundancy and fault tolerance
+- traceability of requirements
 
-## External design qualities, and models for them: 
+## External design qualities, and models for them
 
-functionality, 
-reliability, 
-performance and efficiency, 
-usability, 
-maintainability, 
-portability
+- functionality
+- reliability
+- performance and efficiency
+- usability
+- maintainability
+- portability
 
 ## Measurement and analysis of design quality
 
@@ -100,7 +139,7 @@ portability
 
 ## Application frameworks
 
-## Middleware: 
+## Middleware
 
 the object-oriented paradigm within middleware, 
 object request brokers and marshalling, 

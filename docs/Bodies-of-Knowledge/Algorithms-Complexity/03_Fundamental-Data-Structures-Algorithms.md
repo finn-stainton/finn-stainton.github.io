@@ -21,7 +21,7 @@
 
 ## Arrays
 
-## Records/structs (heterogeneous aggregates)
+## Records/ Structures (heterogeneous aggregates)
 
 ## Strings and string processing
 
@@ -126,10 +126,12 @@ including strategies for avoiding and resolving collisions
 
 ### String/text algorithms
 
-- substring matching algorithms, 
-- regular expression matching algorithms, 
-- longest common subsequence algorithms
+#### Substring matching algorithms
+
+#### Regular expression matching algorithms
+
+#### Longest common subsequence algorithms
 
 !!! cite "Resources/ Bib."
 
-- Distributed and Mobile Systems, Andrew Ensor
+    - Distributed and Mobile Systems, Andrew Ensor

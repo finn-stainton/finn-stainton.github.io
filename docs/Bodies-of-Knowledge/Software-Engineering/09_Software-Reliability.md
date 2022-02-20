@@ -12,11 +12,11 @@
 
 ## Software reliability engineering concepts
 
-## Software reliability, 
+## Software reliability
 
-## System reliability 
+## System reliability
 
-## Failure behavior 
+## Failure behavior
 
 (cross-reference SF/Reliability Through Redundancy)
 

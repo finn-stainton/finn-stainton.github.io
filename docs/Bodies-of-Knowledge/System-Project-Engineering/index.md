@@ -16,7 +16,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## History and overview
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Articulate differences between software and hardware engineering, and computer systems engineering.
 - Explain briefly the concept of a system and a subsystem, and discuss the role of people, the different disciplines involved, and the need for interdisciplinary approaches to the development of the range of computer-based systems.
@@ -28,7 +28,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## Relevant tools, standards and/or engineering constraints
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Select, with justification, an appropriate set of tools to support the development of a range of computer-based systems, including tools
   for project management, requirements and specifications definition and analysis, configuration management, tradeoff analysis, and
@@ -40,7 +40,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## Project management
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Describe basic elements of project management that support development of computer-based systems for a variety of applications,
   including interdisciplinary issues.
@@ -61,7 +61,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## User Experience
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Define the meaning of user experience (UX) and describe the evolution from human factors to user experience design (UXD).
 - Contrast the physical and non-physical aspects of UXD.
@@ -83,7 +83,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## Risk, dependability, safety, and fault tolerance
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Recognize risk, dependability, and safety requirements for a range of computer-based systems, and discuss potential tradeoffs between these and other system requirements, such as performance and low-power operation.
 - Explain the concepts of reliability, availability, and maintainability, as measures of system dependability, and explain their relationship to faults.
@@ -105,7 +105,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## Hardware and software processes
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Explain the need for a disciplined approach to system development and the elements of a disciplined approach in specific contexts.
 - Describe the nature of a life cycle, the role of life cycle models, quality in relation to the life cycle, the influence of system nature, and
@@ -121,7 +121,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## Requirements analysis and elicitation
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Perform an analysis of a proposed computer-based system design project, including identification of need, information gathering, problem definition, feasibility considerations, and economic considerations.
 - Articulate a range of functional and non-functional requirements that might be applicable to the design of computer-based systems for a range of applications, and discuss how requirements can change as a system design project evolves.
@@ -136,7 +136,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## System specifications
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Discuss the relationship and differences between system specifications and requirements.
 - Articulate some typical functional and nonfunctional specifications for the design of a computer-based system and the importance of
@@ -151,7 +151,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## System architectural design and evaluation
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Describe concepts and principles of system architecture design, such as top-down design, subdivision into systems and subsystems, modularity and reuse, the hardware/software interface, and tradeoffs between various design options.
 - Describe strengths and weaknesses of various systems-level architectural design methods, including procedural and functional methods.
@@ -165,7 +165,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## Concurrent hardware and software design
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Recognize the potential of hardware-software co-design in circumstances in which this approach is pertinent.
 - Discuss how particular design constraints can make the coordinated development of both hardware and software important, such as in
@@ -178,7 +178,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## System integration, testing and validation
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Recognize the range of testing and validation methods appropriate for each stage of the system life cycle, including review of hardware models and software code; white box, black box, and regression testing; stress testing; and interface testing.
 - Describe the role of various system validation tools and show how tools can support efficient and effective development.
@@ -192,7 +192,7 @@ The knowledge units in this area collectively encompass the following:
 
 ## Maintainability, sustainability, manufacturability
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 - Describe the need for, and characteristics of, maintainable software, hardware, and system designs.
 - Discuss the inevitability of maintenance in certain systems, such as diagnosis, defect removal, hardware and/or software upgrades, and enhancement.

@@ -24,7 +24,7 @@ will draw material from across these knowledge areas.
 - Design issues (efficiency, robustness, flexibility, portability, security, compatibility)
 - Influences of security, networking, multimedia, windowing systems
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the objectives and functions of modern operating systems. [Familiarity]
 2. Analyze the tradeoffs inherent in operating system design. [Usage]
@@ -47,7 +47,7 @@ operating systems. [Familiarity]
 - Interrupts: methods and implementations
 - Concept of user/system state and protection, transition to kernel mode
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the concept of a logical layer. [Familiarity]
 2. Explain the benefits of building abstract layers in hierarchical fashion. [Familiarity]
@@ -70,7 +70,7 @@ operating systems. [Familiarity]
 - Implementing synchronization primitives
 - Multiprocessor issues (spin-locks, reentrancy) (cross-reference SF/Parallelism)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the need for concurrency within the framework of an operating system. [Familiarity]
 2. Demonstrate the potential run-time problems arising from the concurrent operation of many separate tasks. [Usage]
@@ -91,7 +91,7 @@ Performance)
 - Processes and threads (cross-reference SF/Computational paradigms)
 - Deadlines and real-time issues
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Compare and contrast the common algorithms used for both preemptive and non-preemptive scheduling of tasks in operating systems, such as priority, performance comparison, and fair-share schemes. [Usage]
 2. Describe relationships between scheduling algorithms and application domains. [Familiarity]
@@ -109,7 +109,7 @@ Performance)
 - Working sets and thrashing
 - Caching (cross-reference AR/Memory System Organization and Architecture)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain memory hierarchy and cost-performance trade-offs. [Familiarity]
 2. Summarize the principles of virtual memory as applied to caching and paging. [Familiarity]
@@ -128,7 +128,7 @@ Performance)
 - Protection, access control, and authentication
 - Backups
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Articulate the need for protection and security in an OS (cross-reference IAS/Security Architecture and Systems Administration/Investigating Operating Systems Security for various systems). [Assessment]
 2. Summarize the features and limitations of an operating system used to provide protection and security (cross-reference IAS/Security Architecture and Systems Administration). [Familiarity]
@@ -146,7 +146,7 @@ Performance)
 - Portable virtualization; emulation vs. isolation
 - Cost of virtualization
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the concept of virtual memory and how it is realized in hardware and software. [Familiarity]
 2. Differentiate emulation and isolation. [Familiarity]
@@ -163,7 +163,7 @@ Performance)
 - Direct memory access
 - Recovery from failures
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the key difference between serial and parallel devices and identify the conditions in which each is appropriate. [Familiarity]
 2. Identify the relationship between the physical hardware and the virtual devices maintained by the operating system. [Usage]
@@ -186,7 +186,7 @@ Performance)
 - Naming, searching, access, backups
 - Journaling and log-structured file systems
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the choices to be made in designing file systems. [Familiarity]
 2. Compare and contrast different approaches to file organization, recognizing the strengths and weaknesses of each. [Usage]
@@ -202,7 +202,7 @@ Performance)
 - Failures, risks, and recovery
 - Special concerns in real-time systems
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe what makes a system a real-time system. [Familiarity]
 2. Explain the presence of and describe the characteristics of latency in real-time systems. [Familiarity]
@@ -217,7 +217,7 @@ Performance)
 - Methods used to implement fault tolerance
 - Examples of OS mechanisms for detection, recovery, restart to implement fault tolerance, use of these techniques for the OS’s own services
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the relevance of the terms fault tolerance, reliability, and availability. [Familiarity]
 2. Outline the range of methods for implementing fault tolerance in an operating system. [Familiarity]
@@ -234,7 +234,7 @@ merit)
 - Evaluation models: deterministic, analytic, simulation, or implementation-specific
 - How to collect evaluation data (profiling and tracing mechanisms)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the performance measurements used to determine how a system performs. [Familiarity]
 2. Explain the main evaluation models used to evaluate a system. [Familiarity]

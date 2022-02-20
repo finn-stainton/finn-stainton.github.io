@@ -12,7 +12,7 @@ Information assurance and security as a domain is the set of controls and proces
 - Concept of trust and trustworthiness
 - Ethics (responsible disclosure). (cross-reference SP/Professional Ethics/Accountability, responsibility and liability)
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Analyze the tradeoffs of balancing key security properties (Confidentiality, Integrity, and Availability). [Usage]
 2. Describe the concepts of risk, threats, vulnerabilities and attack vectors (including the fact that there is no such thing as perfect security). [Familiarity]
@@ -38,7 +38,7 @@ Information assurance and security as a domain is the set of controls and proces
 - Security composability
 - Prevention, detection, and deterrence (cross-reference SF/Reliability through Redundancy/Distinction between bugs and faults and NC/Reliable Data Delivery/Error control and NC/Reliable Data Delivery/Flow control)
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the principle of least privilege and isolation as applied to system design. [Familiarity]
 2. Summarize the principle of fail-safe and deny-by-default. [Familiarity]
@@ -82,7 +82,7 @@ Methods/Program Correctness and SE/Software Construction/Coding Practices)
 - Operating system support (e.g., address space randomization, canaries)
 - Hardware support (e.g., DEP, TPM)
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Explain why input validation and data sanitization is necessary in the face of adversarial control of the
 input channel. [Familiarity]
@@ -115,7 +115,7 @@ how to handle an exception. [Usage]
 - Attacks on privacy and anonymity (cross-reference HCI/Foundations/Social models that inform interaction design: culture, communication, networks and organizations (cross-reference SP/Privacy and Civil Liberties/technology-based solutions for privacy protection)
 - Malware/unwanted communication such as covert channels and steganography
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Describe likely attacker types against a particular system. [Familiarity]
 2. Discuss the limitations of malware countermeasures (e.g., signature-based detection, behavioral detection).[Familiarity]
@@ -139,7 +139,7 @@ Discussion of network security relies on previous understanding on fundamental c
 - Censorship resistance
 - Operational network security management (e.g., configure network access control)
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the different categories of network threats and attacks. [Familiarity]
 2. Describe the architecture for public and private key cryptography and how public key infrastructure (PKI)
@@ -192,7 +192,7 @@ attacks, fault injection attacks.
 - Cryptographic standards and references implementations
 - Quantum cryptography
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the purpose of cryptography and list ways it is used in data communications. [Familiarity]
 2. Define the following terms: cipher, cryptanalysis, cryptographic algorithm, and cryptology, and describe the two basic methods (ciphers) for transforming plain text in cipher text. [Familiarity]
@@ -229,7 +229,7 @@ attacks, fault injection attacks.
     - Web user tracking
 - Server-side security tools, e.g. Web Application Firewalls (WAFs) and fuzzers
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the browser security model including same-origin policy and threat models in web security. [Familiarity]
 1. Discuss the concept of web sessions, secure communication channels such as TLS and importance of secure certificates, authentication including single sign-on such as OAuth and SAML. [Familiarity]
@@ -272,7 +272,7 @@ See general cross-referencing with the SP/Security Policies, Laws and Computer C
 - Supply chain policy
 - Cloud security tradeoffs
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the concept of privacy including personally private information, potential violations of privacy due to security mechanisms, and describe how privacy protection mechanisms run in conflict with security mechanisms. [Familiarity]
 2. Describe how an attacker can infer a secret by interacting with a database. [Familiarity]
@@ -302,7 +302,7 @@ See general cross-referencing with the SP/Security Policies, Laws and Computer C
 - Attack detection and investigation
 - Anti-forensics
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Describe what a digital investigation is, the sources of digital evidence, and the limitations of forensics. [Familiarity]
 2. Explain how to design software to support forensics. [Familiarity]
@@ -334,7 +334,7 @@ Fundamentals of secure coding practices covered in other knowledge areas, includ
 analysis).
 - Software quality assurance and benchmarking measurements
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the requirements for integrating security into the software development lifecycle. [Familiarity]
 2. Apply the concepts of the Design Principles for Protection Mechanisms, the Principles for Software Security [2], and the Principles for Secure Design [1] on a software development project. [Usage]

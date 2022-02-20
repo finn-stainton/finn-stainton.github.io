@@ -1,4 +1,11 @@
+---
+
+hide:
+    - navigation
+---
 # ESY/Implementation Strategies for Complex Embedded Systems
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Embedded-Systems)
 
 ??? info "Learning Outcomes"
 

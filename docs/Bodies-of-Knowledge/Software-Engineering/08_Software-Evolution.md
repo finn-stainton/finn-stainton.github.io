@@ -9,7 +9,8 @@
     5. Outline the process of regression testing and its role in release management. [Familiarity]
     6. Discuss the advantages and disadvantages of different types of software reuse. [Familiarity]
 
-## Software development 
+## Software development
+
 in the context of large, pre-existing code bases
 
 ### Software change
@@ -22,7 +23,7 @@ in the context of large, pre-existing code bases
 
 ## Characteristics of maintainable software
 
-## Reengineering systems
+## Re-engineering systems
 
 ## Software reuse
 

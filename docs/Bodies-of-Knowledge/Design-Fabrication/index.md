@@ -19,7 +19,7 @@
 - Explore some additional resources associated with VLSI and ASIC design
 - Explain the purpose and role of VLSI and ASIC design in computer engineering
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Identify some contributors to VLSI and ASIC design and relate their achievements to the knowledge area. 2. Define a semiconductor.
 2. Explain the difference between MOS and CMOS transistors.
@@ -40,7 +40,7 @@
 - Conductivity and resistivity
 - Drift and diffusion currents, mobility and diffusion
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Understand the current carrying mechanism and the I/V characteristics of intrinsic and doped semiconductor materials. 2. Understand the behavior and the I/V characteristics of a reverse-biased and forward-biased PN junction.
 3. Understand the function of a PMOS and a NMOS field effect transistor (FET).
@@ -59,7 +59,7 @@
 - Connectivity and basic functionality of a Bipolar ECL inverter (optional)
 - Connectivity and basic functionality of a Bipolar TTL inverter (optional)
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Understand the basic functionality of the CMOS inverter.
 2. Understand how the VTC of a CMOS inverter is derived from the PMOS and NMOS characteristic ID vs. VDS family of curves.
@@ -78,7 +78,7 @@
 - Transmission gates
 - Architectural building blocks (multiplexers, decoders, adders, counters, multipliers)
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Understand the method to perform circuit design for CMOS logic gates.
 2. Understand the techniques, such as Euler paths and stick diagrams, used to optimize the layout of CMOS logic circuits. 
@@ -98,7 +98,7 @@
 - Single and multiphase clocking
 - Clock distribution, clock skew
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Understand how to use charge storage (capacitance) and feedback to store values in CMOS logic.
 2. Understand the circuit design, functionality, advantages, and disadvantages of dynamic latches in CMOS.
@@ -126,7 +126,7 @@ triggered) in CMOS.
 - FPGA and related devices
 - Sense amplifiers
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Understand how we organize memory systems and why we do not typically organize them in the most simplistic arrangement such as in a one-dimensional word array.
 2. Understand the circuit-level implementations possible for read-only memory (ROM) organizations.
@@ -150,7 +150,7 @@ decoders, etc.) is organized and functions.
 - Input, Output, Bidirectional, and analog pads
 - VDD and VSS pads
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Understand the unique functions that I/O circuits must perform and their general circuit-level implementations.
 2. Understand the functions of signal I/O pads and their general transistor-level implementations.
@@ -166,7 +166,7 @@ decoders, etc.) is organized and functions.
 - Scalable (λ-based) design rules
 - Design-rule checking
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Understand the basic steps of photolithography, its limitations, and how that determines minimum line width and device sizes. 2. Understand the processing steps required for fabrication of CMOS devises and the general results of each step.
 2. Understand the physical defects that can arise in silicon processing and how design rules attempt to minimize their effects.
@@ -183,7 +183,7 @@ decoders, etc.) is organized and functions.
 - CMOS transistor sizing
 - Conductor sizing
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Understand the basic causes of propagation delay and power dissipation in CMOS logic.
 2. Understand the techniques for estimating parasitic resistance and capacitance for various layers on a CMOS integrated circuit. 3. Understand the effects of changing (and optimizing) the transistor widths in CMOS logic.
@@ -199,7 +199,7 @@ decoders, etc.) is organized and functions.
 - CVSL
 - Low power design
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Understand how to implement MOSFET-based logic families other than CMOS. 2. Understand the advantages and disadvantages of these logic families.
 2. Understand the reasons for dynamic and static leakage power.
@@ -217,7 +217,7 @@ decoders, etc.) is organized and functions.
 - Field-programmable gate arrays (FPGAs)
 - Time to market and design economics
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Understand the different design techniques, methodologies, and implementation technologies available to implement a function on a single integrated circuit.
 2. Understand the advantages and disadvantages of each technique.
@@ -235,7 +235,7 @@ decoders, etc.) is organized and functions.
 - Testing and design for testability
 - Verification
 
-**Learning outcomes**:
+??? info "Learning outcomes"
 
 1. Understand the more detailed design issues present in implementing a given digital system on an application-specific integrated circuit (ASIC)
 2. Understand the function, capabilities, and disadvantages of the various computer-aided design (CAD) tools available to the ASIC designer to automate portions of the design process.

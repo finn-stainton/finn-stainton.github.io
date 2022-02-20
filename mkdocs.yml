@@ -2,10 +2,6 @@
 site_name: Finn Stainton
 site_url: https://finn-stainton.github.io/
 site_author: Finn Stainton
-site_description: >-
-  Welcome to my project write ups (on-going), working notes, ideas, happenings and knowledge (current and ambition). 
-  This website is inspired by <i>working with the garage door up</i> mentality of 
-  being open with the current state of projects, knowledge and problems I'm pondering.</p>
 
 repo_url: https://github.com/finn-stainton/finn-stainton.github.io
 repo_name: finn-stainton.github.io
@@ -21,11 +17,13 @@ theme:
   palette:
     - scheme: default
       primary: deep orange
+      accent: teal
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: black
+      primary: teal
+      accent: deep orange
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -38,11 +36,10 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.indexes
-    - toc.integrate
+    # - toc.integrate
     # - navigation.sections
 plugins:
   - search
-  - git-revision-date
 extra:
   social:
     - icon: fontawesome/brands/linkedin
@@ -61,6 +58,8 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.keys
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji

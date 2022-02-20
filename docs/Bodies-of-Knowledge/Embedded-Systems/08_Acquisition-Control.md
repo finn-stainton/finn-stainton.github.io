@@ -1,4 +1,11 @@
+---
+
+hide:
+    - navigation
+---
 # ESY/Data acquisition, control, sensors, actuators
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Embedded-Systems)
 
 ??? info "Learning Outcomes"
 

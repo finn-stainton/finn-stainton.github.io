@@ -28,7 +28,7 @@ minimization, sum of product forms
 - Basic concept of pipelining, overlapped processing stages
 - Basic concept of scaling: going faster vs. handling larger problems
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. List commonly encountered patterns of how computations are organized. [Familiarity]
 2. Describe the basic building blocks of computers and their role in the historical development of computer architecture. [Familiarity]
@@ -50,7 +50,7 @@ Cross-reference [NC/Introduction], [OS/Operating Systems Principles]
 - Application-Virtual Machine Interaction
 - Reliability
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe how computing systems are constructed of layers upon layers, based on separation of concerns, with well-defined interfaces, hiding details of low layers from the higher layers. [Familiarity]
 2. Describe how hardware, VM, OS, and applications are additional layers of interpretation/processing. [Familiarity]
@@ -71,7 +71,7 @@ NC/Protocols
 - Combinational Logic, Sequential Logic, Registers, Memories
 - Computers and Network Protocols as examples of state machines
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe computations as a system characyterized by a known set of configurations with transitions from one unique configuration (state) to another (state). [Familiarity]
 2. Describe the distinction between systems whose output is only a function of their input (Combinational) and those with memory/history (Sequential). [Familiarity]
@@ -94,7 +94,7 @@ Cross-reference PD/Parallelism Fundamentals.
 - Client-Server/Web Services, Thread (Fork-Join), Pipelining
 - Multicore architectures and hardware support for synchronization
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. For a given program, distinguish between its sequential and parallel execution, and the performance implications thereof. [Familiarity]
 2. Demonstrate on an execution time line that parallelism events and operations can take place simultaneously (i.e., at the same time). Explain how work can be performed in less elapsed time if this can be exploited. [Familiarity]
@@ -114,7 +114,7 @@ Cross-reference [PD/Parallel Performance].
 - CPI (Cycles per Instruction) equation as tool for understanding tradeoffs in the design of instruction sets, processor pipelines, and memory system organizations.
 - Amdahl’s Law: the part of the computation that cannot be sped up limits the effect of the parts that can
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain how the components of system architecture contribute to improving its performance. [Familiarity]
 2. Describe Amdahl’s law and discuss its limitations. [Familiarity]
@@ -128,7 +128,7 @@ Cross-reference [PD/Parallel Performance].
 - Kinds of scheduling (e.g., first-come, priority)
 - Advantages of fair scheduling, preemptive scheduling
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Define how finite computer resources (e.g., processor share, memory, storage and network bandwidth) are managed by their careful allocation to existing entities. [Familiarity]
 2. Describe the scheduling algorithms by which resources are allocated to competing entities, and the figures of merit by which these algorithms are evaluated, such as fairness. [Familiarity]
@@ -147,7 +147,7 @@ Cross-reference AR/Memory Management, OS/Virtual Memory.
 - Caches and cache coherency in databases, operating systems, distributed systems, and computer architecture
 - Introduction into the processor memory hierarchy and the formula for average memory access time
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the importance of locality in determining performance. [Familiarity]
 2. Describe why things that are close in space take less time to access. [Familiarity]
@@ -161,7 +161,7 @@ Cross-reference AR/Memory Management, OS/Virtual Memory.
 - Levels of indirection, illustrated by virtual memory for managing physical memory resources
 - Methods for implementing virtual memory and virtual machines
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain why it is important to isolate and protect the execution of individual programs and environments that share common underlying resources. [Familiarity]
 2. Describe how the concept of indirection can create the illusion of a dedicated machine and its resources even when physically shared among multiple programs and environments. [Familiarity]
@@ -177,7 +177,7 @@ Cross-reference AR/Memory Management, OS/Virtual Memory.
 - Duplication/mirroring/replicas
 - Other approaches to fault tolerance and availability
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the distinction between program errors, system errors, and hardware faults (e.g., bad memory) and exceptions (e.g., attempt to divide by zero). [Familiarity]
 2. Articulate the distinction between detecting, handling, and recovering from faults, and the methods for their implementation. [Familiarity]
@@ -195,7 +195,7 @@ Cross-reference AR/Memory Management, OS/Virtual Memory.
 - Understanding layered systems, workloads, and platforms, their implications for performance, and the challenges they represent for evaluation
 - Microbenchmarking pitfalls
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Explain the circumstances in which a given figure of system performance metric is useful. [Familiarity]
 2. Explain the inadequacies of benchmarks as a measure of system performance. [Familiarity]

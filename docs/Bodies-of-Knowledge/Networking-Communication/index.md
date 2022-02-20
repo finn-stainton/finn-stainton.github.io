@@ -33,7 +33,7 @@ Cross-reference IAS/Network Security, which discusses network security and its a
 - Layering principles (encapsulation, multiplexing)
 - Roles of the different layers (application, transport, network, datalink, physical)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Articulate the organization of the Internet. [Familiarity]
 2. List and define the appropriate network terminology. [Familiarity]
@@ -50,7 +50,7 @@ Cross-reference IAS/Network Security, which discusses network security and its a
 - Multiplexing with TCP and UDP
 - Socket APIs
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. List the differences and the relations between names and addresses in a network. [Familiarity]
 2. Define the principles behind naming schemes and resource location. [Familiarity]
@@ -68,7 +68,7 @@ State Machines and SF/Reliability through Redundancy.
 - Performance issues (pipelining)
 - TCP
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the operation of reliable delivery protocols. [Familiarity]
 2. List the factors that affect the performance of reliable delivery protocols. [Familiarity]
@@ -83,7 +83,7 @@ State Machines and SF/Reliability through Redundancy.
 - Internet Protocol (IP)
 - Scalability issues (hierarchical addressing)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe the organization of the network layer. [Familiarity]
 2. Describe how packets are forwarded in an IP network. [Familiarity]
@@ -99,7 +99,7 @@ State Machines and SF/Reliability through Redundancy.
 - Ethernet
 - Switching
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe how frames are forwarded in an Ethernet network. [Familiarity]
 2. Describe the differences between IP and Ethernet. [Familiarity]
@@ -117,7 +117,7 @@ State Machines and SF/Reliability through Redundancy.
 - Principles of congestion control
 - Approaches to Congestion (e.g., Content Distribution Networks)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Describe how resources can be allocated in a network. [Familiarity]
 2. Describe the congestion problem in a large network. [Familiarity]
@@ -131,7 +131,7 @@ State Machines and SF/Reliability through Redundancy.
 - 802.11 networks
 - Issues in supporting mobile nodes (home agents)
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 1. Describe the organization of a wireless network. [Familiarity]
 2. Describe how wireless networks support mobile users. [Familiarity]
 
@@ -144,7 +144,7 @@ State Machines and SF/Reliability through Redundancy.
 - Structure of social network graphs
 - Social network analysis
 
-**Learning Outcomes**:
+??? info "Learning outcomes"
 
 1. Discuss the key principles (such as membership, trust) of social networking. [Familiarity]
 2. Describe how existing social networks operate. [Familiarity]

@@ -18,7 +18,7 @@
 
 ## Version control
 
-### Git
+### [Git]
 
 !!! cite "Resources/ Bib."
 
@@ -27,241 +27,24 @@
     - Atlassian Git Cheat Sheet
     - [GitHub Git Cheat Sheet](https://github.github.com/training-kit/)
 
-Is a Version Control System which records changes to a file(s) over time. 
+Is a Version Control System which records changes to a file(s) over time.
 
 - Git stores information as **Snapshots**, in that with each commit it only stores a new copy of a file if it has changed. 
 - Nearly all Operations are Local. 
 - All data stored in git has a SHA-1 hash (checksum).
 - Generally, data is only added.
 
-**Three main states:** 
+[:octicons-arrow-right-24: Continue reading][Git]
 
-- Modified: changed but not committed
-- Staged: marked modified file in current version to be part of next snapshot
-- Committed: data stored in local repository
+[Git]: More-In-Depth/Git.md
 
-**Three main sections**
-
-- Working Tree: Single checkout of one version of the project pulled from compressed database onto local disk
-- Staging Area (Index): File which contains information about the next commit
-- Git Directory: database for objects and metadata
-
-**Basic Workflow**
-
-1. Modify files in working tree
-2. Stage changes (Track)
-3. Commit, which stores files in staging area in a permanent snapshot
-
-#### Getting Started
-
-- [Macintosh Download](https://git-scm.com/download/mac)
-- [Windows Download](https://git-scm.com/download/win)
-
-!!! note
-
-    square braces [] denote user replaced text. No need for them
-
-#### Create
-
-```
-git init
-```
-
-Initialises a new git repository inside a directory. NB: Files/directories are not automatically added to the git service.
-
-```
-git add [file]
-```
-
-Starts to track a file
-
-```
-git add .
-```
-
-Starts to track all files in directory
-
-```
-git commit -m "[message]"
-```
-
-Commit staged changes with a message
-
-```
-git remote add origin [url]
-```
-
-Specifies a remote repository for the local repository
-
-```
-git clone [url]
-```
-
-Clones a repository
-
-#### Synchronise
-
-```
-git fetch
-```
-
-```
-git merge
-```
-
-```
-git push
-```
-
-```
-git pull
-```
-
-#### Info
-
-```
-git status
-```
-
-```
-git diff
-```
-
-#### Branch
-
-```
-git branch [branch]
-```
-
-Create a new branch
-
-```
-git switch -c [branch]
-```
-
-```
-git checkout -b [branch]
-```
-
-Create and checkout a new branch. Drop -b flag to checkout to existing branch
-
-```
-git merge [branch]
-```
-
-Merge [branch] into current branch
-
-```
-git branch -d [branch]
-```
-
-Delete [branch]
-
-#### Change
-
-```
-git rm --cached [file]
-```
-
-Delete a file in the staging area
-
-```
-git commit --amend
-```
-
-Replace last commit with staged changes and last commit combined. Used to edit last committed message when not staged changes
-
-```
-git rebase [base]
-```
-
-Rebase the current branch onto <base>. <base> can be a commit ID,
-branch name, a tag, or a relative reference to HEAD.
-
-```
-git reflog
-```
-
-Delete a file in the staging area
-
-#### Configure
-
-```
-git config --global user.name "Name"
-```
-
-Define author name for all commits of current user
-
-```
-git config --global user.email "email"
-```
-
-Define email for current user
-
-```
-git config --global alias. <alias-name> <git-command>
-```
-
-Create shortcut for a Git command. E.g. alias.glog “log --graph --oneline” will set ”git glog”equivalent to ”git log --graph --oneline.
-
-```
-git config --system core.editor <editor>
-```
-
-```
-git config --global --edit
-```
-
-#### Fun
-
-!!! quote
-    Get good at Git
-
-### GitFlow
+### [Gitflow]
 
 Git Flow is a branching workflow model designed for product release which extents Git (initialise beforehand)
 
-!!! cite "Resources/ Bib."
+[:octicons-arrow-right-24: Continue reading][Gitflow]
 
-#### Getting Started
-
-Windows
-
-```
-gitflow init -f
-```
-
-MacOS (Homebrew)
-
-```
-brew install git-flow
-git flow init
-```
-
-#### Default Branches
-
-1. Production (main)
-2. Integration of the "next release" (develop)
-3. Feature (feature/)
-4. Bugfix (bugfix/)
-5. Release (release/)
-6. Support (support/)
-
-#### Usage
-
-A development team may have many members working on different parts of a software product. When a team member wants to create a new feature, they issue `git flow feature start [featureName]` to create a new branch for that feature.
-
-If you are part of a larger team who relies on implementing your feature into other aspects of the product, you will need to publish your feature to the remote git repo. Issue ​`git flow feature publish ‘[featureName]’​`. (NB, this can only be done before finishing the feature, as I found out below).
-
-When the feature has been tested and accepted, the branch can be merged into the develop branch. Issue ​`git flow feature finish [featureName]`​.
-
-When multiple features have been completed and merged with the develop branch, a release can be made. Start a new release by issuing `git flow release start ‘[number]’​`
-
-You can now publish the release by issuing ​`git flow release publish [number]`​. Other developers can now commit their features to the release by pulling, issue ​`git flow release pull origin [releaseNumber]`​ and then repeating the publish command above.
-
-When all the developers have finished committing their features to the release, it can be merged with the master for deployment. issue ‘`git flow release finish [number]​` . (NB: I found this difficult as it will display the vim editor, here you’ll need to insert on a new line, `​-m [message]​`. Then hit esc, and type `:wp​` and hit enter.)
-
-If your production code is found to have contained a bug, a hotfix may be created. Issue `​git flow hotfix start [number]​` (Make sure the number is greater than the current version, normally ​‘v.x’​). When the fix is finished and committed, issue `git flow hotfix finish [number]​`.
+[Gitflow]: More-In-Depth/Gitflow.md
 
 ### GitHub
 

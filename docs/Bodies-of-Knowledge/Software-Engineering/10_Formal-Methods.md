@@ -1,10 +1,3 @@
----
-
-hide:
-    -navigation
-
----
-
 # SE/Formal Methods
 
 ??? info "Learning Outcomes"
