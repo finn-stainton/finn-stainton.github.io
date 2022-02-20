@@ -1,6 +1,7 @@
 ---
 hide:
     - navigation
+    - toc
 ---
 
 # Hello, World
@@ -14,7 +15,7 @@ Check out some of my projects but just a warning, these are new (so incomplete) 
 
 ## About
 
-I've recently [graduated](/Journal#📌-graduated-🎉) with a Bachelor of Computer & Information Sciences, Double Major in Computer Science and Software Development, Auckland University of Technology, 2021. Hobbies include electronics and hitting the trail.
+I've recently [graduated](/Journal) with a Bachelor of Computer & Information Sciences, Double Major in Computer Science and Software Development, Auckland University of Technology, 2021. Hobbies include electronics and hitting the trail.
 
 ### Social
 
