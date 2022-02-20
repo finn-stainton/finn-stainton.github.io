@@ -3,7 +3,7 @@
 Scrum is a framework used by teams to help collaboration by implementing the principles of [Agile](Agile.md) in a concrete set of roles, activities and practices.
 
 <figure markdown>
-  ![Scrum Lifecycle Diagram](../../../assets/agile-scrum-lifecycle-diagram.png)
+  ![Scrum Lifecycle Diagram](../../assets/agile-scrum-lifecycle-diagram.png)
   <figcaption>Scrum lifecycle, Microsoft</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Fibonacci Number Sequence - 1, 2, 3, 5,
 Is a graph containing user story points on the y axis and days on the x axis. It maps the total remaining user story points per day with an 'ideal burndown' which is a linear reduction in remaining user story points to zero. The aim is to keep 'actual burndown' as close to or below the ideal burndown and serves as a visual tool for the team to track progress.
 
 <figure markdown>
-  ![Burndown Chart](../../../assets/burndown-chart.jpg)
+  ![Burndown Chart](../../assets/burndown-chart.jpg)
   <figcaption>Example Burndown Graph</figcaption>
 </figure>
 

@@ -58,9 +58,9 @@ A Servlet called `ServletContainer` handles HTTP requests and forwards them to t
 
 ## Further Reading
 
-- [OAuth 2.0](OAuth2.md)
+- OAuth 2.0
 - [JSON](JSON.md)
-- [JSON Web Tokens](JWT.md)
+- JSON Web Tokens
 
 !!! cite "Resources/ Bib."
 
