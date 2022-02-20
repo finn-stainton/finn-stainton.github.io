@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /Journal/
+
+User-agent: *
+Disallow: /Bodies-of-Knowledge/
+
+User-agent: *
+Disallow: /Projects/assets/
+
+User-agent: Googlebot-Image
+Disallow: /
