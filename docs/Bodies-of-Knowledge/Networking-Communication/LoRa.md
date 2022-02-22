@@ -1,7 +1,7 @@
 # LoRa (PHY)
 
 Is a spread spectrum modulation technique derived from chirp spread spectrum (CSS) technology developed by Semtech.
-Is a spread spectrum modulation technique derived from chirp spread spectrum (CSS) technology developed by Semtech. It is a physical layer of a Low Power Wide Area Network. 
+Is a spread spectrum modulation technique derived from chirp spread spectrum (CSS) technology developed by Semtech. It is a physical layer of a Low Power Wide Area Network.
 
 ## Spread Spectrum Communication
  with the trade off 

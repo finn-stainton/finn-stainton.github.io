@@ -1,4 +1,13 @@
+---
+
+hide:
+    - navigation
+---
 # Water Tank Monitor & Control
+
+[:octicons-arrow-left-24: Return to Projects](/Projects/)
+
+---
 
 ## Problem
 
@@ -8,17 +17,63 @@ This lead to manually having to shut an output ball valve before opening an inpu
 
 ## Aims
 
-1. Develop a system which can monitor the water level in multiple tanks.
-2. Develop a system which can be automatically trigger a procedure to control multiple valves.
+1. Develop a system which to report the water level in multiple tanks.
+2. Develop a system which to automatically trigger a procedure at  set  to control multiple valves.
+
+## Idea
+
+<figure markdown>
+![Water Tank Layout](assets/field-iot/Water-tank-layout-diagram.png)
+  <figcaption></figcaption>
+</figure>
+
+Monitor the hight of water in one of the small tank (linked), when they are full, shut off the larger tank and start pumping water into it. When the large tank
+
+There is a chance of a forever loop where water pumped from the smaller tanks triggers a "low water" setting. Water is then let back into the smaller tanks, triggering "high water" setting and pumping repeats... To stop this, an allowance of water should be added onto calculations of available free capacity to gain a leeway with the "high water" trigger point.
+
+### Trigger points
+
+#### Trigger 1
+
+Small tanks have a diameter of 1700mm and hight of 1550mm, giving a volume of 3,518 litres. Volume of both small tanks is 7,036 litres.
+
+**Trigger point 1 when small tanks water hight >= 1550mm**
+
+#### Trigger 2
+
+Large tank has a diameter of 2940mm and hight of 2200mm, giving a volume of 15,000 litres.
+
+**Trigger point 2 when large tank water hight >= 2200mm**
+
+#### Trigger 3
+
+Volume of large tank at 1.55m hight is 10,183 litres.
+Total volume of all tanks at 1.55m hight is 17,219 litres.
+
+Extra capacity gained by filling the large tank: 15,000 - 10,183 = 4,817 litres. So, 4,817 litres of free capacity (plus allowance) is needed in the smaller tanks for water not to overflow (or trigger a forever loop).
+
+7,036 - 4,817 = 2,219 litres of water in small tanks. Divided by 2 tanks gives 1109.5 litres each which is at 0.48m hight. The small tanks won't be pumped dry before trigger 2. However, trigger 3 should be lower than the remaining water level after trigger 2, or else, water will be let right back in. Setting the allowance of 109.5 litres would mean 1000 litres (per small tank) or 440mm hight.
+
+**Trigger point 3 when small tanks water hight <= 440mm**
+
+### State Diagram
+
+<figure markdown>
+![State Diagram](assets/field-iot/Water-tank-control-state.png)
+  <figcaption></figcaption>
+</figure>
 
 ## Field Unit
 
-### Input
+### Water Level Monitoring
 
-1. Ultrasonic Sensor: Placed on the inside top facing down
-2. Float actuator: Only one physical level monitored, no"soft" adjustment.
-3. Infrared Proximity Sensor:
-4. Pressure Transducer:
+| Sensor | Mounting | Range | Accuracy |
+| --- | --- | --- | --- |
+| Ultrasonic | Top downwards facing | | |
+| Infrared Proximity | Top downwards facing | | |
+| Float actuator | Side of tank | Only one physical level monitored | |
+| Pressure (thread) | | | |
+| Pressure (submerged) | | | |
 
 I decided to go with the pressure transducer as I wanted a continuos readout of current water level and mounting issue regarding the top of tanks.
 
@@ -40,7 +95,7 @@ $$
 {P \over \rho g} = h
 $$
 
-My tanks are between 1.8 to 3 metres high, therefore the maximum pressure expected would be, 
+My tanks are between 1.8 to 3 metres high, therefore the maximum pressure expected would be,
 $$
 997.0474 \cdot 9.80665 \cdot 3 = 29.33kPa
 $$
@@ -70,9 +125,9 @@ $$
 V = \pi r^2 h
 $$
 
-Thus, to know the volume(litres) of water present, only the voltage(0-5v) from the transducer and radius(mm) of the tank is needed. If percentage of capacity is wanted, then the hight(mm) of the tank would also have to be known. Also of note, the transducer has to be at the same level as the bottom of the tank. 
+Thus, to know the volume(litres) of water present, only the voltage(0-5v) from the transducer and radius(mm) of the tank is needed. If percentage of capacity is wanted, then the hight(mm) of the tank would also have to be known. Also of note, the transducer has to be at the same level as the bottom of the tank.
 
-### Output
+## Water Control
 
 The secondary aim of the project was to remotely control the water level in multiple tanks. This meant controlling valves and pumps to move water around the network. With the current water system, the pump has kick-in/ cutoff pressure points. This means that simply controlling valves would be enough for the pump to turn on and off by itself (if however pump control is needed, a high power (250VAC 15A) relay could be used, preferable with a Photo-TRIAC Optocoupler to trigger the coil). Found two valve options:
 
@@ -80,7 +135,7 @@ The secondary aim of the project was to remotely control the water level in mult
 
 2. Motorised Ball Valve
 
-I decided to go with the Motorised Ball Valve as it doesn't require continuos power to keep open and can handle higher pressures with less intrusion. 
+I decided to go with the Motorised Ball Valve as it doesn't require continuos power to keep open and can handle higher pressures with less intrusion.
 
 <figure markdown>
 ![Motorised Valve](assets/field-iot/motorised-valve.jpg){ width="400" }
@@ -89,19 +144,23 @@ I decided to go with the Motorised Ball Valve as it doesn't require continuos po
 
 !!! note ""
 
-    See my teardown of it [here](../../Journal/2019#motorised-valve-oem-teardown)
+    See my teardown of it [here](/Journal/entries/motorised-ball-valve)
 
-As the Motorised Ball Valve is of a three wire type, it's controlled with "Open", "Close" and "Ground" wires. A SPDT switch is needed to throw between the open and closed states. I decided to go with a SPDT relay which can switch the valve's stated input is 9-12vdc. 
+As the Motorised Ball Valve is of a three wire type, it's controlled with "Open", "Close" and "Ground" wires. A SPDT switch is needed to throw between the open and closed states. I chose a relay which could cope with the valve's stated power of 2W at 9-12VDC.
 
-### Field Client
+### Field Controller
 
-Is an **Arduino Uno** with a Dragino 915MHz LoRa shield (RFH95) and Relay shield. 
+I decided to use a Arduino due to easy prototyping with its hardware abstraction layer and compatibility with a range of "shields".
 
-#### Event-driven architecture
+<figure markdown>
+![Arduino Controller](assets/field-iot/IMG_3193.jpeg){ width="500" }
+  <figcaption>Arduino Uno with a Dragino 915MHz LoRa shield (RFH95) and Relay shield.</figcaption>
+</figure>
 
-As stated in the [Aims](#aims), I would like the system to automatically trigger a procedure. That procedure being to fill the larger tank when the smaller tanks react capacity. 
-
-This system is not safely critical, but it would be annoying if the system stopped working each time it lost connection with an external server.  
+!!! warning ""
+    As stated in the [Aims](#aims), I would like the system to automatically trigger a control procedure. That procedure being to fill the larger tank when the smaller tanks react capacity. This system is not safely critical, but it would be annoying if the system stopped working each time it lost connection with an external server. So some local control program would be needed.
+    <hr>
+    **Problem:** How to program the control system new and in the future?
 
 #### Pinout
 
@@ -111,17 +170,41 @@ This system is not safely critical, but it would be annoying if the system stopp
 | D2  | Relay 2    |
 | A1  | Pressure 1 |
 | A2  | Pressure 2 |
-| D11 | SPI MOSI   |
-| D12 | SPI MISO   |
-| D13 | SPI CS     |
 
-## LoRa Forwarder
+#### Analog to Digital
 
-## MQTT Broker
+#### Local Control System
 
-## Server Client
 
-### User facing API
+
+### Power
+
+
+
+## Network
+
+As you will soon find out is I bought a LoRa gateway which doesn't support public LoRaWAN. Therefore I had to have a private LoRa network.
+
+
+## LoRa Communication
+
+### Gateway
+
+<figure markdown>
+![LoRa Gateway](assets/field-iot/LG01-10.JPG){ width="400" }
+  <figcaption>Dragino LG01-N Single Channel LoRa IoT Gateway</figcaption>
+</figure>
+
+## Application Server
+
+### MQTT Broker
+
+### Application API
+
+|
+| - Locations 
+
+### Database
 
 ## User Client
 

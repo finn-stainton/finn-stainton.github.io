@@ -1,4 +1,11 @@
+---
+
+hide:
+    - navigation 
+---
 # AR/Machine Level Representation of Data
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Computer-Architecture/)
 
 ??? info "Learning Outcomes"
 

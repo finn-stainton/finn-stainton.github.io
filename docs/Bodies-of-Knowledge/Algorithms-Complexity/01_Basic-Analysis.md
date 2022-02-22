@@ -1,4 +1,11 @@
+---
+
+hide:
+    - navigation
+---
 # AL/ Basic Analysis
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Algorithms-Complexity/)
 
 ??? info "Learning Outcomes"
 
@@ -17,17 +24,21 @@
 
 ## Introduction to Algorithms
 
-An *Algorithm* is a step-by-step procedure for solving a problem that takes some values as *input* and produces some other values as *output*. Two important characteristics of an algorithm are its *efficiency* and its *correctness*.  The efficiency of an algorithm can be measured base on various factors, such as storage or network resource requirements, but usually it is the running time and to a lesser extent the memory usage that are typically of greatest interest.  The Correctness refers to whether the algorithm eventually halts and produces the correct output. [(Ensor, 2020)](#resources-bib)
+"An *Algorithm* is a step-by-step procedure for solving a problem that takes some values as *input* and produces some other values as *output*. Two important characteristics of an algorithm are its *efficiency* and its *correctness*.  The efficiency of an algorithm can be measured base on various factors, such as storage or network resource requirements, but usually it is the running time and to a lesser extent the memory usage that are typically of greatest interest.  The Correctness refers to whether the algorithm eventually halts and produces the correct output." [(Ensor, 2020)](#resources-bib)
 
-Analysis of an Algorithm in order to predict the resources it will require when translated into a programming language and executed on a computer requires some assumptions about the computing device itself. The *Random access Model* (RAM) views a computer as a single processor connected to memory which it can access each part of in constant time (no caches or virtual memory). The RAM presumes that instructions are executed sequentially, with no actual concurrency. Allowing for parallel processors or a memory hierarch changes the analysis of the algorithm. [(Ensor, 2020)](#resources-bib)
+"Analysis of an Algorithm in order to predict the resources it will require when translated into a programming language and executed on a computer requires some assumptions about the computing device itself. The *Random Access Model* (RAM) views a computer as a single processor connected to memory which it can access each part of in constant time (no caches or virtual memory). The RAM presumes that instructions are executed sequentially, with no actual concurrency. Allowing for parallel processors or a memory hierarch changes the analysis of the algorithm." [(Ensor, 2020)](#resources-bib)
 
 ## Different behaviours of an algorithm
 
-**Best case**
+An algorithm can behave differently depending on the particular input. 
 
-**Expected**
+- **Best case**:
 
-**Worst case** 
+- **Worst case**:
+
+- **Expected**:
+
+Best case is rarely used
 
 ## Asymptotic analysis of upper and expected complexity bounds
 
@@ -57,9 +68,13 @@ Analysis of an Algorithm in order to predict the resources it will require when 
 
 ### Little o
 
-### Big Omega
+### Big Omega (&#937;)
 
-### Big Theta
+Describes the lower bound. An algorithm could be described as $\Omega (N)$, as well as $\Omega (\log N)$ and $\Omega (1)$. It won't be *faster* that those runtime.
+
+### Big Theta (&#920;)
+
+Means both O and $\Omega$. That is, if an algorithm is both $O(N)$ and $\Omega (N)$, then it is $\Theta (N)$, giving a tight bound on runtime
 
 ## Recurrence relations
 
@@ -78,4 +93,5 @@ Suppose $T(n)$ is given for $n \geq 1$ by the recurrence $T(n) = aT(n/b) + f(n)$
 ## Resources/ Bib.
 
 !!! cite ""
-    Algorithm Design and Analysis, Andrew Ensor, 2020
+    - Algorithm Design and Analysis, Andrew Ensor, 2020
+    - Cracking the Coding Interview, Mcdowell

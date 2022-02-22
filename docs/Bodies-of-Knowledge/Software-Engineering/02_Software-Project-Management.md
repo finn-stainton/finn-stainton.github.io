@@ -1,9 +1,11 @@
 ---
+
 hide:
     - navigation 
 ---
-
 # SE/Software Project Management
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Software-Engineering/)
 
 ??? info "Learning Outcomes"
 

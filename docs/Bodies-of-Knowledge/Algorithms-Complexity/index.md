@@ -1,3 +1,8 @@
+---
+
+hide:
+    - toc
+---
 # Algorithms and Complexity (AL)
 
 Algorithms are fundamental to computer science and software engineering. The real-world performance of any software system depends on: (1) the algorithms chosen and (2) the suitability and efficiency of the various layers of implementation. Good algorithm design is therefore crucial for the performance of all software systems. Moreover, the study of algorithms provides insight into the intrinsic nature of the problem as well as possible solution techniques independent of programming language, programming paradigm, computer hardware, or any other implementation aspect.
@@ -7,33 +12,16 @@ An important part of computing is the ability to select algorithms appropriate t
 !!! cite ""
     Extract from: ACM 2016 Computer Science Curricula.
 
-## AL/History and Overview
+## Topics
 
-??? note "Learning outcomes"
+!!! warning ""
+    Tick indicates that entry meets personal completion. May have partial content without tick
 
-    1. Identify some contributors to algorithms and and relate their achievements to the knowledge area. 2. Associate some of the themes involved with algorithms.
-    2. Name some applications where algorithms are important.
-    3. Relate contributors with their achievements to the subject.
-    4. Describe how computer engineering uses or benefits from algorithms.
-
-### Reasons for studying analysis, complexity, and algorithmic strategies
-
-### Contributors to algorithms and complexity
-
-### Basic algorithms
-
-some reasons for their differences
-
-### Theory's influence on algorithms
-
-### Algorithms part in a range of computer applications
-
-### Knowledge themes
-
-#### Relating complexity with algorithms
-
-### Complexities of different algorithmic strategies
-
-### Additional resources associated with algorithms
-
-### Purpose and role of algorithms
+- [ ] [AL/ History and Overview](00_History-Overview.md)
+- [ ] [AL/ Basic Analysis](01_Basic-Analysis.md)
+- [ ] [AL/ Algorithmic Strategies](02_Algorithmic-Strategies.md)
+- [ ] [AL/ Fundamental Data Structures and Algorithms](03_Fundamental-Data-Structures-Algorithms.md)
+- [ ] [AL/ Advanced Data Structures, Algorithms and Analysis](04_Advanced-Data-Structures-Algorithms.md)
+- [ ] [AL/ Basic Automata Computability and Complexity](05_Basic-Automata-Computability-Complexity.md)
+- [ ] [AL/ Advanced Computational Complexity](06_Advanced-Computational-Complexity.md)
+- [ ] [AL/ Advanced Automata Theory and Computability](07_Advanced-Automata-Computability.md)

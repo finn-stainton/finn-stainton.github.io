@@ -1,7 +1,7 @@
 ---
 
 hide:
- - toc
+    - toc
 ---
 
 # Embedded Systems (ESY)
@@ -19,11 +19,10 @@ The knowledge units in this area collectively encompass the following:
 5. Mobile and wireless embedded systems using both short-range (e.g., Bluetooth, 802.15.4) and long-range (e.g., cellular, Ethernet) in
    various interconnection architectures
 
-
 ## Topics
 
 !!! warning ""
-    Tick indicates whether entry meets personal completion. May have partial content without tick
+    Tick indicates that entry meets personal completion. May have partial content without tick
 
 - [ ] [ESY/History and Overview](01_History-Overview.md)
 - [ ] [ESY/Relevant tools, standards, and engineering constraints](02_Tools-Standards-Constraints.md)

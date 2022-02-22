@@ -1,4 +1,11 @@
+---
+
+hide:
+    - navigation 
+---
 # AR/Interfacing and Communication
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Computer-Architecture/)
 
 ??? info "Learning Outcomes"
 
