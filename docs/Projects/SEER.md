@@ -1,6 +1,6 @@
 ---
 hide:
-- toc
+    - navigation
 
 ---
 
@@ -13,8 +13,7 @@ SEER is a searchable database of evidence which has been curated by SE experts f
 ---
 
 !!! info "Status"
-
-    Archived. This was part of *Contemporary Issues in Software Engineering* paper where I gained a B+ grade.
+    Archived. This was part of *Contemporary Issues in Software Engineering* paper where I gained a B+ grade.
 
 ## Aim
 
@@ -26,7 +25,7 @@ The aim of this project was to gain practical use of tools, methods and language
 
 #### Sprint 0 including Product Discovery
 
-Contacted by the "Product Owner" (Lecturer) to develop a Software Engineering Evidence Repository. We were given a product brief which contained the motivation, outline of input and output (search) processes including some whiteboard screen ideas. 
+Contacted by the "Product Owner" (Lecturer) to develop a Software Engineering Evidence Repository. We were given a product brief which contained the motivation, outline of input and output (search) processes including some whiteboard screen ideas.
 
 ##### User Stories
 

@@ -1,6 +1,15 @@
+---
+hide:
+    - navigation
+
+---
 # REST(ful) Web Services
 
-Representational State Transfer (REST) architectural pattern views web services as resources identified by unique URI on stateless servers. REST web services rely on existing HTTP methods to read and update resources, as well as possibly create and delete resources if allowed by the web server. Headers are used to communicate information like; metadata, authorizations, uniform resource identifiers, caching, cookies, HTTP Status Codes, timestamps, etc. 
+[:octicons-arrow-left-24: Return to Platform Development](/Bodies-of-Knowledge/Platform-Development/)
+
+---
+
+*Representational State Transfer* (REST) architectural pattern views web services as resources identified by unique URI on stateless servers. REST web services rely on existing HTTP methods to read and update resources, as well as possibly create and delete resources if allowed by the web server. Headers are used to communicate information like; metadata, authorizations, uniform resource identifiers, caching, cookies, HTTP Status Codes, timestamps, etc. 
 
 ## Design Principles (architectural constraints)
 
@@ -64,5 +73,5 @@ A Servlet called `ServletContainer` handles HTTP requests and forwards them to t
 
 !!! cite "Resources/ Bib."
 
-- Distributed and Mobile Systems, Andrew Ensor
-- [](https://www.ibm.com/in-en/cloud/learn/rest-apis)
+    - Distributed and Mobile Systems, Andrew Ensor
+    - [IBM Learn REST APIs](https://www.ibm.com/in-en/cloud/learn/rest-apis)

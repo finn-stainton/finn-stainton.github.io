@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation 
+
+---
+
 # DS/Recursion
+
+[:octicons-arrow-left-24: Return to Discrete Structures](/Bodies-of-Knowledge/Discrete-Structures/)
+
+---
 
 ??? Learning outcomes:
     1. Solve a variety of basic recursive equations.

@@ -1,6 +1,16 @@
+---
+hide:
+    - navigation
+
+---
+
 # LoRaWAN
 
-Is a Media Access Control (MAC) layer protocol
+[:octicons-arrow-left-24: Return to Networking and Communication](/Bodies-of-Knowledge/Networking-Communication/)
+
+---
+
+LoRaWAN is a Media Access Control (MAC) layer protocol
 
 ![LoRaWAN Block Diagram](../assets/LoRaWAN-Block.png)
 

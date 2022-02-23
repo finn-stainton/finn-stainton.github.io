@@ -1,4 +1,16 @@
-# TODO: JavaScript: More in depth
+---
+hide:
+    - navigation
+
+---
+
+# TODO: JavaScript
+
+[:octicons-arrow-left-24: Return to Programming Languages](/Bodies-of-Knowledge/Programming-Languages/)
+
+---
+
+## Getting Started
 
 ## Lexical Structure
 
@@ -63,3 +75,8 @@
 
 
 ## Promises
+
+!!! cite "Resources/ Bib."
+
+    - [Microsoft JavaScript Docs](https://docs.microsoft.com/en-us/javascript/)
+    - [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)

@@ -63,6 +63,9 @@ Extra capacity gained by filling the large tank: 15,000 - 10,183 = 4,817 litres.
   <figcaption></figcaption>
 </figure>
 
+!!! note
+    Should add standby states to de-energize relays to save power.
+
 ## Field Unit
 
 ### Water Level Monitoring
@@ -166,12 +169,16 @@ I decided to use a Arduino due to easy prototyping with its hardware abstraction
 
 | Pin | Function   |
 | --- | ---------- |
-| D1  | Relay 1    |
-| D2  | Relay 2    |
+| 4   | Relay 1    |
+| 5   | Relay 2    |
 | A1  | Pressure 1 |
 | A2  | Pressure 2 |
 
 #### Analog to Digital
+
+$$
+voltage = {(analogInput \times 5)} \over {1024}
+$$
 
 #### Local Control System
 

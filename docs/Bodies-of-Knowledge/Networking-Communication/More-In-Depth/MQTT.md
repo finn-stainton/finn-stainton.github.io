@@ -1,6 +1,16 @@
+---
+hide:
+    - navigation
+
+---
+
 # MQTT
 
-Is a lightweight publish/ subscribe transport layer protocol designed for messaging with a small code base and header size. It can handle arbitrary messages up to 256MB. Usually runs over TCP/IP but can work with an bi-direction lossless protocol, e.g. TLS, Websockets. It's PRAM consistent in that there is guaranteed in-order delivery per-publisher
+[:octicons-arrow-left-24: Return to Networking and Communication](/Bodies-of-Knowledge/Networking-Communication/)
+
+---
+
+MQTT is a lightweight publish/ subscribe transport layer protocol designed for messaging with a small code base and header size. It can handle arbitrary messages up to 256MB. Usually runs over TCP/IP but can work with an bi-direction lossless protocol, e.g. TLS, Websockets. It's PRAM consistent in that there is guaranteed in-order delivery per-publisher
 
 ## Architecture
 

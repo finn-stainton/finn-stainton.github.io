@@ -1,4 +1,14 @@
-# DS/Basic of Counting
+---
+hide:
+    - navigation 
+
+---
+
+# DS/Basics of Counting
+
+[:octicons-arrow-left-24: Return to Discrete Structures](/Bodies-of-Knowledge/Discrete-Structures/)
+
+---
 
 ??? info "Learning Outcomes"
 
@@ -33,7 +43,7 @@
 
 ## Solving recurrence relations 
 
-(cross-reference: [AL/Basic Analysis]())
+(cross-reference: [AL/Basic Analysis](/Bodies-of-Knowledge/Algorithms-Complexity/01_Basic-Analysis))
 
 ### An example of a simple recurrence relation
 

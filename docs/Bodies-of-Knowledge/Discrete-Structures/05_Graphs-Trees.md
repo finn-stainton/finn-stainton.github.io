@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation 
+
+---
+
 # DS/Graphs and Trees
+
+[:octicons-arrow-left-24: Return to Discrete Structures](/Bodies-of-Knowledge/Discrete-Structures/)
+
+---
 
 ??? info "Learning Outcomes"
 

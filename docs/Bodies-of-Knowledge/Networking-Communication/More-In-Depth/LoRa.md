@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation
+
+---
+
 # LoRa (PHY)
+
+[:octicons-arrow-left-24: Return to Networking and Communication](/Bodies-of-Knowledge/Networking-Communication/)
+
+---
 
 Is a spread spectrum modulation technique derived from chirp spread spectrum (CSS) technology developed by Semtech.
 Is a spread spectrum modulation technique derived from chirp spread spectrum (CSS) technology developed by Semtech. It is a physical layer of a Low Power Wide Area Network.
