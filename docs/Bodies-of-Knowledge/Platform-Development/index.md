@@ -24,5 +24,7 @@ Platform-based development is concerned with the design and development of softw
 ## More In-depth Topics [^1]
 
 - [x] [RESTful API](More-In-Depth/REST.md)
+- [ ] [JSON](More-In-Depth/JSON.md)
+- [ ] [Node.js](More-In-Depth/Node.md)
 
 [^1]: More than overview page topics

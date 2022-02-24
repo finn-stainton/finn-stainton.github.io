@@ -12,7 +12,11 @@ hide:
 
 LoRaWAN is a Media Access Control (MAC) layer protocol
 
-![LoRaWAN Block Diagram](../assets/LoRaWAN-Block.png)
+<figure markdown>
+![LoRa-Topology](../../assets/LoRa-Topology.png){ width="600" }
+  <figcaption>LoRaWAN Topology</figcaption>
+</figure>
+
 
 ## Spreading Factor
 
@@ -22,6 +26,8 @@ LoRaWAN is a Media Access Control (MAC) layer protocol
 
 - [LoRa](LoRa.md)
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
+
+!!! cite ""
 
     - [LoRaWAN Specification V1.1](https://lora-alliance.org/wp-content/uploads/2020/11/lorawantm_specification_-v1.1.pdf)

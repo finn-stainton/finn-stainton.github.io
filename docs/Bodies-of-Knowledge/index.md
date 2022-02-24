@@ -13,6 +13,9 @@ hide:
     <hr> 
     Recording existing knowledge is lagging behind due to the website being recently setup. Check out the [Journal](../Journal/index.md) for skills I learnt in Uni.
 
+## Recently Updated
+
+[Azure DevOps](Platform-Development/More-In-Depth/Azure-DevOps.md), [RESTful](Platform-Development/More-In-Depth/REST.md), [LoRa](Networking-Communication/More-In-Depth/LoRa.md)
 
 <div class="container px-4 py-2" id="custom-cards">
     <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">

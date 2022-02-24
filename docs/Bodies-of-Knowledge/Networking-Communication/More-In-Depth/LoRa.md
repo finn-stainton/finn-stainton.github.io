@@ -10,14 +10,16 @@ hide:
 
 ---
 
-Is a spread spectrum modulation technique derived from chirp spread spectrum (CSS) technology developed by Semtech.
 Is a spread spectrum modulation technique derived from chirp spread spectrum (CSS) technology developed by Semtech. It is a physical layer of a Low Power Wide Area Network.
+
+![LoRa-Comparison](../../assets/LoRa-Comparison.png)
+
+
 
 ## Spread Spectrum Communication
  with the trade off 
 
-being Low Bandwidth. sensitivity and data rate, while operating in a fixed-bandwidth channel of either 125 KHz or 500 KHz (for uplink channels), and 500 KHz (for downlink channels)
-
+being Low Bandwidth. sensitivity and data rate, while operating in a fixed-bandwidth channel of either 125 KHz or 500 KHz (for uplink channels), and 500 KHz (for downlink c
 ## Modulation
 
 ### Spread Spectrum Communication
@@ -90,7 +92,7 @@ $$
 
 ## Fresnel zone
 
-@ -20,8 +80,14 @@ Is a spread spectrum modulation technique derived from chirp spread spectrum (CS
+@ -20,8 +80,14 @@ Is a spread spectrum modulation technique derived from chirp spread spectrum (CSS
 
 ## ERP
 

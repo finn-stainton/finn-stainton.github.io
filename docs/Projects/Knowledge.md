@@ -1,4 +1,14 @@
-# KnowHow (Knowledge/Resource Base) 
+---
+
+hide:
+    - navigation
+---
+
+# KnowHow (Knowledge/Resource Base): Idea
+
+[:octicons-arrow-left-24: Return to Projects](/Projects/)
+
+---
 
 !!! warning
 

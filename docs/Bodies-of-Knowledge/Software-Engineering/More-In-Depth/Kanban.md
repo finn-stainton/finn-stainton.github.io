@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation
+
+---
+
 # Kanban
+
+[:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
+
+---
 
 Kanban 看板, meaning "sign board" originated from Lean manufacturing in Toyota factories where the main aim was to avoid inventory stockpiling and achieving Just In Time (JIT) manufacturing. 
 

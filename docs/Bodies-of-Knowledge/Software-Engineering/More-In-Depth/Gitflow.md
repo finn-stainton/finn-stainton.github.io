@@ -1,4 +1,15 @@
+---
+hide:
+    - navigation
+
+---
+
 # GitFlow
+
+[:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
+
+---
+
 
 Git Flow is a branching workflow model designed for product release which extents Git (initialise beforehand)
 
