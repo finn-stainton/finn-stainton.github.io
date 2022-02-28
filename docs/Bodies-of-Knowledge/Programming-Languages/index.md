@@ -1,3 +1,9 @@
+---
+hide:
+    - toc
+
+---
+
 # Programming Languages (PL)
 
 Programming languages are the medium through which programmers precisely describe
@@ -41,7 +47,7 @@ program analysis, as well as run-time components such as memory management.
 
 !!! warning ""
 
-    Tick indicates whether entry is not completely empty. It doesn't indicate my current knowledge of the language
+    Tick indicates whether entry has partial content. It doesn't indicate my current knowledge of the language
 
 - [x] [C](Languages/C.md)
 - [ ] [C++](Languages/C++.md)
@@ -56,3 +62,4 @@ program analysis, as well as run-time components such as memory management.
 - [ ] [Python](Languages/Python.md)
 - [ ] [Racket](Languages/Racket.md)
 - [x] [Swift](Languages/Swift.md)
+- [x] [TypeScript](Languages/TypeScript.md)

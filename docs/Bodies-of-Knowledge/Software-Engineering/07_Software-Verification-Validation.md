@@ -1,4 +1,12 @@
+---
+hide:
+    - navigation 
+
+---
+
 # SE/Software Verification and Validation
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Software-Engineering/)
 
 ??? info "Learning Outcomes"
 
@@ -23,54 +31,75 @@
 
 ## Verification and validation concepts
 
-## Inspections, reviews, audits
+## Inspections
+
+## Reviews
+
+## Audits
 
 ## Testing types
 
-- human computer interface
-- usability
-- reliability
-- security
-- conformance to specification
+### Human computer interface
+
+### Usability
+
+### Reliability
+
+### Security
+
+### Conformance to specification
 
 (cross-reference IAS/Secure Software Engineering)
 
 ## Testing fundamentals
 
-(cross-reference SDF/Development Methods)
+(cross-reference [SDF/Development Methods](/Bodies-of-Knowledge/Software-Development-Fundamentals/04_Developement-Methods))
 
-### Unit, integration, validation, and system testing
+### Unit testing
+
+### Integration testing
+
+### Validation testing
+
+### System testing
 
 ### Test plan creation and test case generation
 
-### Black-box and white-box testing techniques
+### Black-box testing techniques
+
+### White-box testing techniques
 
 ### Regression testing and test automation
 
 ## Defect tracking
 
-## Limitations of testing in particular domains, 
+## Limitations of testing in particular domains,
 
 such as parallel or safety-critical systems
 
-## Static approaches to verification 
+## Static approaches to verification
 
 ## Dynamic approaches to verification
 
-## Test-driven development
+## Test-driven development (TDD)
 
-**Red**
+Test first development + Refactoring
 
-**Green**
+**Red**: Write a little test and run it. Code fails (as there is none)
 
-**Refactor**
+**Green**: Write code to make the test pass a quickly as possible
 
+**Refactor**: Clean the code up to standard
 
-## Validation planning;
+Repeat
+
+## Behaviour Driven Development (BDD)
+
+## Validation planning
 
 ### documentation for validation
 
-## Object-oriented testing; 
+## Object-oriented testing;
 
 ### systems testing
 

@@ -1,4 +1,11 @@
+---
+
+hide:
+    - navigation 
+---
 # SE/Software Construction
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Software-Engineering/)
 
 ??? info "Learning Outcomes"
 

@@ -1,4 +1,13 @@
-# PBD/Mobile Platforms
+---
+hide:
+    - navigation 
+
+---
+# PBD/ Mobile Platforms
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Platform-Development/)
+
+---
 
 ??? "Learning Outcomes:"
 

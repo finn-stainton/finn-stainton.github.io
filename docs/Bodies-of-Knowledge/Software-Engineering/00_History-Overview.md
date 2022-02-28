@@ -1,4 +1,11 @@
+---
+
+hide:
+    - navigation 
+---
 # SE/History and Overview
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Software-Engineering/)
 
 ??? note "Learning outcomes"
 

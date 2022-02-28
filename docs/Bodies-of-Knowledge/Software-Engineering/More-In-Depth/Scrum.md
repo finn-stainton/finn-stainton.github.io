@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation
+
+---
+
 # Scrum
+
+[:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
+
+---
 
 Scrum is a framework used by teams to help collaboration by implementing the principles of [Agile](Agile.md) in a concrete set of roles, activities and practices.
 
@@ -102,9 +112,10 @@ Is a graph containing user story points on the y axis and days on the x axis. It
 
 Velocity
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
 
-- [Scrum.org](https://www.scrum.org/)
-- [ScrumAlliance.org](https://www.scrumalliance.org/)
-- [Atlassian Agile Coach, Scrum](https://www.atlassian.com/agile/scrum)
-- [Microsoft](https://docs.microsoft.com/en-us/devops/plan/what-is-scrum)
+!!! cite ""
+    - [Scrum.org](https://www.scrum.org/)
+    - [ScrumAlliance.org](https://www.scrumalliance.org/)
+    - [Atlassian Agile Coach, Scrum](https://www.atlassian.com/agile/scrum)
+    - [Microsoft](https://docs.microsoft.com/en-us/devops/plan/what-is-scrum)

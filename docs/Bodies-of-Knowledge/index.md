@@ -13,6 +13,9 @@ hide:
     <hr> 
     Recording existing knowledge is lagging behind due to the website being recently setup. Check out the [Journal](../Journal/index.md) for skills I learnt in Uni.
 
+## Recently Updated
+
+[Azure DevOps](Platform-Development/More-In-Depth/Azure-DevOps.md), [RESTful](Platform-Development/More-In-Depth/REST.md), [LoRa](Networking-Communication/More-In-Depth/LoRa.md)
 
 <div class="container px-4 py-2" id="custom-cards">
     <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
@@ -50,11 +53,11 @@ hide:
         </div>
 
         <div class="col">
-            <a href="Computer-Architecture">
+            <a href="Architecture-Organization">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
                     style="background-image: linear-gradient(rgba(204, 0, 187, 0.5),rgba(218, 0, 145, 0.5)),url('');">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>Computer Architecture and Organization</h2>
+                        <h2>Architecture and Organization</h2>
                     </div>
                 </div>
             </a>

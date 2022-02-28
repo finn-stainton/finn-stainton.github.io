@@ -1,3 +1,8 @@
+---
+
+hide:
+    - toc
+---
 # Software Engineering (SE)
 
 In every computing application domain, professionalism, quality, schedule, and cost are critical to producing software systems. Because of this, the elements of software engineering are applicable to developing software in all areas of computing. A wide variety of software engineering practices have been developed and utilized since the need for a discipline of software engineering was first recognized. Many trade-offs between these different practices have also been identified. Practicing software engineers have to select and apply appropriate techniques and practices to a given development effort in order to maximize value. To learn how to do so, they study the elements of software engineering.
@@ -32,3 +37,19 @@ tools, methods, and approaches for a given development environment.
 - [ ] [SE/Software Evolution](08_Software-Evolution.md)
 - [ ] [SE/Software Reliability](09_Software-Reliability.md)
 - [ ] [SE/Formal Methods](10_Formal-Methods.md)
+
+<!-- ## More In-depth Topics [^1]
+
+- [ ] [Agile](More-In-Depth/Agile.md)
+- [ ] [Azure DevOps](More-In-Depth/Azure-DevOps.md)
+- [ ] [Behavior-driven Development (BDD)](More-In-Depth/BDD.md)
+- [ ] [Cucumber](More-In-Depth/Cucumber.md)
+- [ ] [DevOps](More-In-Depth/DevOps.md)
+- [x] [Git](More-In-Depth/Git.md)
+- [x] [GitFlow](More-In-Depth/Gitflow.md)
+- [x] [Kanban](More-In-Depth/Kanban.md)
+- [x] [Scrum](More-In-Depth/Scrum.md)
+- [ ] [UML Diagrams](More-In-Depth/UML-Diagrams.md)
+
+
+[^1]: More than overview page topics -->

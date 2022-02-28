@@ -1,4 +1,13 @@
+---
+hide:
+    - navigation 
+
+---
 # PBD/Game-Platforms
+
+[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Platform-Development/)
+
+---
 
 ??? "Learning Outcomes:"
 

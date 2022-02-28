@@ -1,24 +1,35 @@
+---
+hide:
+    - navigation
+
+---
+
 # Behavior-driven Development (BDD)
 
-**Title**
+[:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
+
+---
+
+!!! cite "Format"
+
+    **Title**
 
 
-**Narrative**
+    **Narrative**
 
-As a:
+    As a:
 
-I want:
+    I want:
 
-so that:
+    so that:
 
-**Acceptance Criteria**
+    **Acceptance Criteria**
 
-Given that...
+    Given that...
 
-When I...
+    When I...
 
-Then...
-
+    Then...
 
 ## Further Reading
 

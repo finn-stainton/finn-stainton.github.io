@@ -1,4 +1,13 @@
+---
+
+hide:
+    - navigation
+---
 # Flinder (Flatmate Finder React App)
+
+[:octicons-arrow-left-24: Return to Projects](/Projects/)
+
+---
 
 Flinder is a social media app that helps you find your ideal flatmate based on their personality and living preferences. Either you can be a Flatee (a person who looks for a flat to stay in), or a Flat (a person looking for a flatmate to fill in the spot). This was a university project from Software Development Practice paper of which I gained an A- grade. Have a read below then check out the [code](https://www.github.com/finn-stainton/flinder)
 
@@ -50,10 +59,81 @@ Each object had:
 
 #### Routes/ Endpoints
 
-- Authentication/
-  - login: 
+##### users/
 
-#### Testing
+??? api-post "POST: /users/authenticate"
+    Summary:
+
+    Parameters:
+
+    - test
+
+    Returns: 
+
+??? api-post "POST: /users/register"
+    Summary:
+
+    Parameters:
+
+    - test
+
+    Returns: 
+
+??? api-get "GET: /users/"
+    Summary:
+
+    Parameters:
+
+    - test
+
+    Returns: 
+
+??? api-get "GET: /users/current"
+    Summary:
+
+    Parameters:
+
+    - test
+
+    Returns: 
+
+??? api-get "GET: /users/{id}"
+    Summary:
+
+    Parameters:
+
+    - test
+
+    Returns: 
+
+??? api-put "PUT: /users/{id}"
+    Summary:
+
+    Parameters:
+
+    - test
+
+    Returns: 
+
+??? api-put "PUT: /users/photo/{id}"
+    Summary:
+
+    Parameters:
+
+    - test
+
+    Returns
+
+??? api-delete "DELETE: /users/{id}"
+    Summary:
+
+    Parameters:
+
+    - test
+
+    Returns
+
+#### Supertest
 
 Used TDD by developing a HTTP assertion test with [Supertest](https://www.npmjs.com/package/supertest). Then developed the Express.js code to make the test succeed. Repeated with more assertion tests for new a existing routes.
 
@@ -67,7 +147,13 @@ Mongoose
 
 ---
 
-### Integration and Delivery
+## Git and GitFlow
+
+### Branches
+
+### Push Requests
+
+## Integration and Delivery
 
 TravisCI
 
@@ -81,7 +167,7 @@ Heroku
 
 Flinder is a social media app that helps you find your ideal flatmate based on their personality and living preferences. Either you can be a findee (a person who looks for a flat to stay in), or a finder (a person looking for a flatmate to fill in the spot). 
 
-Key features: 
+**Key features**:
 
 - User profile: the user profile is different between a finder and findee. Finder presents what the house looks like, as well as some key features, preferences about the place and the flatmates staying there, while findee has to provide their basic information (name, age, profession, smoking habits)
 - Chatbox
@@ -117,7 +203,7 @@ Sprint Goal was to "develop an app which lets users list/ find a flat/ flatmate"
 
 #### Execution
 
-I selected to setup the API skelton, which involved 
+I selected to setup the API skelton, which involved
 
 Completed multiple daily standup meetings with the "Yesterday I ..., Today I will ..., What's blocking me is ...".
 

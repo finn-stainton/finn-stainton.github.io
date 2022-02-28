@@ -1,4 +1,16 @@
+---
+hide:
+    - navigation
+
+---
+
 # Git
+
+
+[:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
+
+---
+
 
 !!! cite "Resources/ Bib."
 
@@ -38,8 +50,7 @@ Is a Version Control System which records changes to a file(s) over time.
 - [Windows Download](https://git-scm.com/download/win)
 
 !!! note
-
-    square braces [] denote user replaced text. No need for them
+    square braces [] denote user replaced text. No need for them
 
 ## Create
 

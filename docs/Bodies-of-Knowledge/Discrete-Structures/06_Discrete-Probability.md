@@ -1,4 +1,15 @@
+---
+hide:
+    - navigation 
+
+---
+
 # DS/Discrete Probability
+
+[:octicons-arrow-left-24: Return to Discrete Structures](/Bodies-of-Knowledge/Discrete-Structures/)
+
+---
+
 
 ??? info "Learning Outcomes"
 

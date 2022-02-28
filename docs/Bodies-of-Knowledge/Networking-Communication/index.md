@@ -6,16 +6,11 @@ fixed and mobile, are a key part of the computing environment of today and tomor
 computing applications that are used today would not be possible without networks. This
 dependency on the underlying network is likely to increase in the future.
 The high-level learning objective of this module can be summarized as follows:
-- Thinking in a networked world. The world is more and more interconnected and the use
-of networks will continue to increase. Students must understand how the networks
-behave and the key principles behind the organization and operation of the networks.
-- Continued study. The networking domain is rapidly evolving and a first networking
-course should be a starting point to other more advanced courses on network design,
-network management, sensor networks, etc.
-- Principles and practice interact. Networking is real and many of the design choices that
-involve networks also depend on practical constraints. Students should be exposed to
-these practical constraints by experimenting with networking, using tools, and writing
-networked software.
+
+- Thinking in a networked world. The world is more and more interconnected and the use of networks will continue to increase. Students must understand how the networks behave and the key principles behind the organization and operation of the networks.
+- Continued study. The networking domain is rapidly evolving and a first networking course should be a starting point to other more advanced courses on network design, network management, sensor networks, etc.
+- Principles and practice interact. Networking is real and many of the design choices that involve networks also depend on practical constraints. Students should be exposed to these practical constraints by experimenting with networking, using tools, and writing networked software.
+
 There are different ways of organizing a networking course. Some educators prefer a top-down
 approach, i.e., the course starts from the applications and then explains reliable delivery, routing
 and forwarding. Other educators prefer a bottom-up approach where the students start with the

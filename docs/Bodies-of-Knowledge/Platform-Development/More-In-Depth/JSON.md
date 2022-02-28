@@ -1,4 +1,13 @@
-# Javascript Object Notation(JSON)
+---
+hide:
+    - navigation
+
+---
+# Javascript Object Notation (JSON)
+
+[:octicons-arrow-left-24: Return to Platform Development](/Bodies-of-Knowledge/Platform-Development/)
+
+---
 
 ## Resources
 

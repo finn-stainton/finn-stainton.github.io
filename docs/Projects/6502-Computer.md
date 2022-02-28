@@ -1,8 +1,18 @@
-# 6502 Computer
+---
+
+hide:
+    - navigation
+---
+# 6502 Breadboard Computer
+
+[:octicons-arrow-left-24: Return to Projects](/Projects/)
 
 ---
 
-Initiated from Ben Eater's Design
+Initiated from [Ben Eater's Design](https://eater.net/6502), I decided to get into computer design by physically recreating it and learning the theory along the way.
+
+## The 6502
+
 
 ## Bill of Materials
 
