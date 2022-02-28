@@ -3,16 +3,15 @@ hide:
     - navigation
 
 ---
-# Javascript Object Notation (JSON)
+# Azure Functions
 
 [:octicons-arrow-left-24: Return to Platform Development](/Bodies-of-Knowledge/Platform-Development/)
 
 ---
 
-## Resources
+## Event-driven
 
-- [JSON Diagrams](http://www.json.org/json-en.html)
+## Triggers
 
-## Getting Started
+### HTTP
 
-## Noteworthy

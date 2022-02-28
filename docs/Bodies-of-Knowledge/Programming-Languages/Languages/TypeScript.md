@@ -9,7 +9,7 @@ hide:
 
 ---
 
-Is a strongly typed language developed by Microsoft
+Is a strongly typed language developed by Microsoft which is a superset of JavaScript. Additional features include static types. Types annotation is optional. Has to be compiled down to JavaScript.
 
 !!! cite "Resources/ Bib."
 
@@ -22,17 +22,30 @@ Is a strongly typed language developed by Microsoft
 ## Getting Started
 
 Install with npm
+
 ```
 npm install -g typescript
 ```
 
 To compile a `.ts` file to `.js` use `tsc` util.
+
 ```
 tsc file.ts
 ```
 
-Instead of having to compile each file, we can create a tsconfig options file
+Instead of having to compile each time, we can watch the file
+
+``` 
+tsc --watch file.ts
 ```
+
+create a tsconfig options file
+
+```console
+tsc --init
+```
+
+<!-- ```
 echo '{
     "compilerOptions":  {
         "target":  "esnext",
@@ -40,9 +53,9 @@ echo '{
         "lib":  ["dom", "es2017"]
     }
 }' > tsconfig.json
-```
+``` -->
 
-
+Can install syntax checking
 
 ```
 npm i -D @types/lodash
@@ -50,9 +63,7 @@ npm i -D @types/lodash
 
 ## Noteworthy
 
-Unlike JavaScript, TypeScript (as hinted in the name) has **Types**.
-
-``` typescript
+```typescript
 let variable = 20 // Without type annotations, inferred as a 'number'
 variable = '23' // Results in an error as not assignable to type 'number'
 

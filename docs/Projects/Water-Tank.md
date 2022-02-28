@@ -160,10 +160,8 @@ I decided to use a Arduino due to easy prototyping with its hardware abstraction
   <figcaption>Arduino Uno with a Dragino 915MHz LoRa shield (RFH95) and Relay shield.</figcaption>
 </figure>
 
-!!! warning ""
-    As stated in the [Aims](#aims), I would like the system to automatically trigger a control procedure. That procedure being to fill the larger tank when the smaller tanks react capacity. This system is not safely critical, but it would be annoying if the system stopped working each time it lost connection with an external server. So some local control program would be needed.
-    <hr>
-    **Problem:** How to program the control system new and in the future?
+!!! cite ""
+    [TTN Arduino API Reference](https://www.thethingsnetwork.org/docs/devices/arduino/api/)
 
 #### Pinout
 
@@ -174,6 +172,29 @@ I decided to use a Arduino due to easy prototyping with its hardware abstraction
 | A1  | Pressure 1 |
 | A2  | Pressure 2 |
 
+#### Dragino LoRa Shield
+
+- 168 dB maximum link budget.
+- +20 dBm - 100 mW constant RF output vs.
+- +14 dBm high efficiency PA.
+- Programmable bit rate up to 300 kbps.
+- High sensitivity: down to -148 dBm.
+- Bullet-proof front end: IIP3 = -12.5 dBm.
+- Excellent blocking immunity.
+- Low RX current of 10.3 mA, 200 nA register retention.
+- Fully integrated synthesizer with a resolution of 61 Hz.
+- FSK, GFSK, MSK, GMSK, LoRaTM and OOK modulation.
+- Built-in bit synchronizer for clock recovery.
+- Preamble detection.
+- 127 dB Dynamic Range RSSI.
+- Automatic RF Sense and CAD with ultra-fast AFC.
+- Packet engine up to 256 bytes with CRC.
+- Built-in temperature sensor and low battery indicator.
+
+!!! cite ""
+
+    [](https://www.dragino.com/products/lora/item/102-lora-shield.html)
+
 #### Analog to Digital
 
 $$
@@ -182,38 +203,44 @@ $$
 
 #### Local Control System
 
-
+!!! warning ""
+    As stated in the [Aims](#aims), I would like the system to automatically trigger a control procedure. That procedure being to fill the larger tank when the smaller tanks react capacity. This system is not safely critical, but it would be annoying if the system stopped working each time it lost connection with an external server. So some local control program would be needed.
+    <hr>
+    **Problem:** How to program the control system new and in the future?
 
 ### Power
 
-
+Need to prove 12 volts in order to make sure the valves operate properly.
 
 ## Network
 
 As you will soon find out is I bought a LoRa gateway which doesn't support public LoRaWAN. Therefore I had to have a private LoRa network.
 
-
 ## LoRa Communication
 
-### Gateway
+I would've liked to connect to the LoRaWAN network, however I purchased a single channel gateway which is not recommended and I 
 
 <figure markdown>
 ![LoRa Gateway](assets/field-iot/LG01-10.JPG){ width="400" }
   <figcaption>Dragino LG01-N Single Channel LoRa IoT Gateway</figcaption>
 </figure>
 
-## Application Server
+There are however other private networks available like RadioHead, RadioShuttle, etc.  
+
+
+## Network Server
 
 ### MQTT Broker
 
+## Application Server
+
 ### Application API
 
-|
-| - Locations 
+??? api-get "GET: /sensor/{id}"
 
 ### Database
 
-## User Client
+### Application
 
 ## Installation
 

@@ -3,6 +3,7 @@ hide:
     - navigation
 
 ---
+
 # REST(ful) Web Services
 
 [:octicons-arrow-left-24: Return to Platform Development](/Bodies-of-Knowledge/Platform-Development/)
@@ -75,3 +76,4 @@ A Servlet called `ServletContainer` handles HTTP requests and forwards them to t
 
     - Distributed and Mobile Systems, Andrew Ensor
     - [IBM Learn REST APIs](https://www.ibm.com/in-en/cloud/learn/rest-apis)
+    - [IBM | Introduction to RESTful Web services](https://developer.ibm.com/articles/ws-restful/)

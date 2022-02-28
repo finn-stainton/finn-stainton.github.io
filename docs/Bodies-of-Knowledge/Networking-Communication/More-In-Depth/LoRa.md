@@ -31,9 +31,11 @@ being Low Bandwidth. sensitivity and data rate, while operating in a fixed-bandw
 ### Chirp Spread Spectrum
 
 ## Duty cycle
+
 ## Transmission
 
 ### Link budget
+
 
 
 ### Power

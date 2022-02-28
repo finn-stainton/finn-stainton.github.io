@@ -9,7 +9,7 @@ hide:
 
 ---
 
-??? "Learning Outcomes:"
+??? info "Learning Outcomes:"
 
     1. Design and Implement a simple web application. [Usage]
     2. Describe the constraints that the web puts on developers. [Familiarity]
@@ -23,10 +23,10 @@ hide:
 !!! warning ""
     Tick indicates whether entry has partial content. It doesn't indicate my current knowledge of the language. To help you not pick an empty entry
 
-- [ ] [HTML5](/Bodies-of-Knowledge/Programming-Languages/Languages/JavaScript)
+- [ ] [HTML5](/Bodies-of-Knowledge/Programming-Languages/Languages/HTML)
 - [ ] [JavaScript](/Bodies-of-Knowledge/Programming-Languages/Languages/JavaScript)
-- [ ] [TypeScript](/Bodies-of-Knowledge/Programming-Languages/Languages/JavaScript)
-- [ ] [Node.js](/Bodies-of-Knowledge/Programming-Languages/Languages/JavaScript): Is a [JavaScript](#javascript) V8 run-time environment (Core of Chromium-based browsers) for running JavaScript outside of a browser.
+- [x] [TypeScript](/Bodies-of-Knowledge/Programming-Languages/Languages/TypeScript)
+- [ ] [Node.js](/Bodies-of-Knowledge/Platform-Development/More-In-Depth/Node): Is a [JavaScript](#javascript) V8 run-time environment (Core of Chromium-based browsers) for running JavaScript outside of a browser.
 - [ ] Express.js
 - [ ] React.js
 - [ ] Nest.js

@@ -62,3 +62,4 @@ program analysis, as well as run-time components such as memory management.
 - [ ] [Python](Languages/Python.md)
 - [ ] [Racket](Languages/Racket.md)
 - [x] [Swift](Languages/Swift.md)
+- [x] [TypeScript](Languages/TypeScript.md)
