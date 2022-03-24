@@ -17,6 +17,16 @@ hide:
 3. Valuing customer collaboration over contract negotiation
 4. Responding to change over following a plan
 
-!!! cite
-    [The Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
+## Agile methods and practices
+
+Agile is not a *thing*
+
+- [Scrum](Scrum.md)
+- [KanBan](Kanban.md)
+
+## Resources/ Bib.
+
+!!! cite ""
+    - [The Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
+    - [What is Agile? | Microsoft Docs](https://docs.microsoft.com/en-us/devops/plan/what-is-agile)
 

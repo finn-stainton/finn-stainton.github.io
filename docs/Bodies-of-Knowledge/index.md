@@ -11,11 +11,7 @@ hide:
     This is a collection of master 'bodies of knowledge' (BoK) based off [ACM Computer Science and Engineering Curricula.](https://www.acm.org/education/curricula-recommendations)
     Other BoK may added over time. The BoK will be used as a launchpad to record my existing and new learnings. If you want to try finding a specific topic, use the search bar above.
     <hr> 
-    Recording existing knowledge is lagging behind due to the website being recently setup. Check out the [Journal](../Journal/index.md) for skills I learnt in Uni.
-
-## Recently Updated
-
-[Azure DevOps](Platform-Development/More-In-Depth/Azure-DevOps.md), [RESTful](Platform-Development/More-In-Depth/REST.md), [LoRa](Networking-Communication/More-In-Depth/LoRa.md)
+    Articles may be empty or unfinished. Current state of articles doesn't represent my current knowledge. Check out the [Journal](../Journal/index.md) for skills I learnt in university.
 
 <div class="container px-4 py-2" id="custom-cards">
     <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">

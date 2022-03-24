@@ -6,7 +6,7 @@ hide:
 
 # SE/Software Verification and Validation
 
-[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Software-Engineering/)
+[:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
 
 ??? info "Learning Outcomes"
 
@@ -73,7 +73,7 @@ hide:
 
 ## Defect tracking
 
-## Limitations of testing in particular domains,
+## Limitations of testing in particular domains
 
 such as parallel or safety-critical systems
 
@@ -93,7 +93,30 @@ Test first development + Refactoring
 
 Repeat
 
-## Behaviour Driven Development (BDD)
+## Behavior Driven Development (BDD)
+
+Aimed at driving the development of features, which is driven by user needs. Users express themselves in natural language (not code), however, it is lacking in structure. Therefore, BDD features consists of a structured narrative and one or more scenarios, example below.
+
+!!! cite "Template"
+
+    **Title**
+
+
+    **Narrative**
+
+    As a:
+
+    I want:
+
+    so that:
+
+    **Scenarios/ Acceptance Criteria**
+
+    Given that...
+
+    When I...
+
+    Then...
 
 ## Validation planning
 

@@ -1,6 +1,13 @@
+---
+hide:
+    - toc
+
+---
+
 # Software Development Fundamentals (SDF)
 
-*May migrate to other BoK*
+!!! note
+    *May migrate to other BoK*
 
 Fluency in the process of software development is a prerequisite to the study of most of computer science. In order to use computers to solve problems effectively, students must be competent at reading and writing programs in multiple programming languages. Beyond programming skills, however, they must be able to design and analyse algorithms, select appropriate paradigms, and utilise modern development and testing tools. 
 

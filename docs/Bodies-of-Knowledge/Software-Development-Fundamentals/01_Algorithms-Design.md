@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation
+
+---
+
 # SDF/Algorithms and Design
+
+[:octicons-arrow-left-24: Return to Software Development Fundamentals](/Bodies-of-Knowledge/Software-Development-Fundamentals/)
+
+---
 
 ??? "Learning Outcomes:"
 

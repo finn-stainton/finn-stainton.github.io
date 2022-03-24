@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation
+
+---
+
 # SDF/Fundamental Data Structures
+
+[:octicons-arrow-left-24: Return to Software Development Fundamentals](/Bodies-of-Knowledge/Software-Development-Fundamentals/)
+
+---
 
 ??? "Learning Outcomes:"
 

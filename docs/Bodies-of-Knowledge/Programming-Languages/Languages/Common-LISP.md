@@ -1,15 +1,21 @@
+---
+hide:
+	- navigation
+
+---
+
 # Common LISP
 
-## Resources
+[:octicons-arrow-left-24: Return to Programming Languages](/Bodies-of-Knowledge/Programming-Languages/)
 
-- COMMON LISP: A Gentle Introduction to Symbolic Computation, David S. Touretzky
-- Emacs
-- Common Lisp Steel 
-- Slime
+---
+
+## Resources/ Bib.
+
+- COMMON LISP: A Gentle Introduction to Symbolic Computation, David S. Touretzky (Great Book)
 
 ## Getting Started
 
-## Noteworthy
 
 ### EQ
 
