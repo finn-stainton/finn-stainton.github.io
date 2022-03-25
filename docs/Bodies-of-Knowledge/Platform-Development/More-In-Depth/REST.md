@@ -25,10 +25,12 @@ hide:
 
 | RESTful Operation | HTTP Method | Notes |
 | --- | --- | --- |
-| Read resource | GET | Causes no side-effects, Caching a possibility |
-| Update resource | POST | Recalling has the same action |
-| Create resource | PUT (or POST) | Recalling has the same action |
+| Read resource | GET | Retrieve whatever information (in the form of an entity) is identified by the Request-URI.(4) Causes no side-effects |
+| Create resource | POST | Accept the entity enclosed in the request as a new subordinate of the resource identified by the Request-URI. (4) |
+| Update resource | PUT (or POST) | Requests that the enclosed entity be stored under the supplied Request-URI. (4) |
 | Delete resource | DELETE (or POST) |  |
+
+> "The fundamental difference between the POST and PUT requests is reflected in the different meaning of the Request-URI. The URI in a POST request identifies the resource that will handle the enclosed entity. That resource might be a data-accepting process, a gateway to some other protocol, or a separate entity that accepts annotations. In contrast, the URI in a PUT request identifies the entity enclosed with the request -- the user agent knows what URI is intended and the server MUST NOT attempt to apply the request to some other resource. If the server desires that the request be applied to a different URI,it MUST send a 301 (Moved Permanently) response; the user agent MAY then make its own decision regarding whether or not to redirect the request." (RFC 2616, pp. 55-56)
 
 ## Request
 
@@ -71,9 +73,12 @@ A Servlet called `ServletContainer` handles HTTP requests and forwards them to t
 - OAuth 2.0
 - [JSON](JSON.md)
 - JSON Web Tokens
+- HTTP
 
 !!! cite "Resources/ Bib."
 
-    - Distributed and Mobile Systems, Andrew Ensor
-    - [IBM Learn REST APIs](https://www.ibm.com/in-en/cloud/learn/rest-apis)
-    - [IBM | Introduction to RESTful Web services](https://developer.ibm.com/articles/ws-restful/)
+    1. Distributed and Mobile Systems, Andrew Ensor
+    2. [IBM Learn REST APIs](https://www.ibm.com/in-en/cloud/learn/rest-apis)
+    3. [IBM | Introduction to RESTful Web services](https://developer.ibm.com/articles/ws-restful/)
+    4. [RFC 2616](https://datatracker.ietf.org/doc/html/rfc2616/)
+    
