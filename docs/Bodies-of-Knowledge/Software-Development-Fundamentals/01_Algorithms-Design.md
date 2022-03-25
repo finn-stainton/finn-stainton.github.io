@@ -10,7 +10,7 @@ hide:
 
 ---
 
-??? "Learning Outcomes:"
+??? info "Learning Outcomes:"
 
     1. Discuss the importance of algorithms in the problem-solving process. [Familiarity]
     2. Discuss how a problem may be solved by multiple algorithms, each with different properties. [Familiarity]

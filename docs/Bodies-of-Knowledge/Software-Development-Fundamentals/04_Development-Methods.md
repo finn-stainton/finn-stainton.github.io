@@ -10,7 +10,7 @@ hide:
 
 ---
 
-??? "Learning Outcomes:"
+??? info "Learning Outcomes:"
 
     1. Trace the execution of a variety of code segments and write summaries of their computations. [Assessment]
     2. Explain why the creation of correct program components is important in the production of high-quality software. [Familiarity]

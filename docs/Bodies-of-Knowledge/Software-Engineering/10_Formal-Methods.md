@@ -7,6 +7,8 @@ hide:
 
 [:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
 
+---
+
 ??? info "Learning Outcomes"
 
     1. Describe the role formal specification and analysis techniques can play in the development of complex software and compare their use as validation and verification techniques with testing. [Familiarity]

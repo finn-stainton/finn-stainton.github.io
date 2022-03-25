@@ -1,10 +1,15 @@
 ---
 hide:
+    - navigation
     - toc
 
 ---
 
 # Programming Languages (PL)
+
+[:octicons-arrow-left-24: Return to Bodies of Knowledge](/Bodies-of-Knowledge/)
+
+---
 
 Programming languages are the medium through which programmers precisely describe
 concepts, formulate algorithms, and reason about solutions. In the course of a career, a computer
@@ -20,30 +25,181 @@ program analysis, as well as run-time components such as memory management.
 !!! cite ""
     Extract from: ACM 2016 Computer Science Curriculum
 
-## Topics
+## Units
 
-!!! warning ""
-    Tick indicates whether entry meets personal completion. May have partial content without tick
+---
 
-- [ ] [PL/ Object-Oriented Programming](01_Object-Oriented-Programming.md)
-- [ ] [PL/ Functional Programming](02_Functional-Programming.md)
-- [ ] [PL/ Event-Driven and Reactive Programming](03_Event-Driven-Reactive-Programming.md)
-- [ ] [PL/ Basic Type Systems](04_Basic-Type-Systems.md)
-- [ ] [PL/ Program Representation](05_Program-Representation.md)
-- [ ] [PL/ Language Translation and Execution](06_Language-Translation-Execution.md)
-- [ ] [PL/ Syntax Analysis](07_Syntax-Analysis.md)
-- [ ] [PL/ Compiler Semantic Analysis](08_Compiler-Semantic-Analysis.md)
-- [ ] [PL/ Code Generation](09_Code-Generation.md)
-- [ ] [PL/ Runtime Systems](10_Runtime-Systems.md)
-- [ ] [PL/ Static Analysis](11_Static-Analysis.md)
-- [ ] [PL/ Advanced Programming Constructs](12_Advanced-Programming-Constructs.md)
-- [ ] [PL/ Concurrency and Parallelism](13_Concurrency-Parallelism.md)
-- [ ] [PL/ Type Systems](14_Type-Systems.md)
-- [ ] [PL/ Formal Semantics](15_Formal-Semantics.md)
-- [ ] [PL/ Language Pragmatics](16_Language-Pragmatics.md)
-- [ ] [PL/ Logic Programming](17_Logic-Programming.md)
+<div class="container px-4 py-2" id="custom-cards">
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="01_Object-Oriented-Programming">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Object-Oriented Programming</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="02_Functional-Programming">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Functional Programming</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="03_Event-Driven-Reactive-Programming">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Event-Driven and Reactive Programming</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="04_Basic-Type-Systems">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Basic Type Systems</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="05_Program-Representation">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Program Representation</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="06_Language-Translation-Execution">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Language Translation and Execution</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="07_Syntax-Analysis">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Syntax Analysis</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="08_Compiler-Semantic-Analysis">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Compiler Semantic Analysis</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="09_Code-Generation">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Code Generation</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="10_Runtime-Systems">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Runtime Systems</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="11_Static-Analysis">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Static Analysis</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="12_Advanced-Programming-Constructs">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Advanced Programming Constructs</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="13_Concurrency-Parallelism">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Concurrency and Parallelism</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="14_Type-Systems">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Type Systems</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="15_Formal-Semantics">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Formal Semantics</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="16_Language-Pragmatics">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Language Pragmatics</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="17_Logic-Programming">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Logic Programming</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
 
 ## Languages
+
+---
 
 !!! warning ""
 

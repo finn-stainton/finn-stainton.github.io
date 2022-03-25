@@ -1,6 +1,15 @@
-# Calculus
+---
+hide:
+    - navigation
+    - toc
+---
+# Calculus (CL)
 
-## Extreme Function Values and Techniques of Graphing
+[:octicons-arrow-left-24: Return to Bodies of Knowledge](/Bodies-of-Knowledge/)
+
+---
+
+<!-- ## Extreme Function Values and Techniques of Graphing
 
 Appling Rolle's Theorem and the Mean Value Theorem; using derivatives to determine when a function is increasing or decreasing, to locate relative extrema to determine concavity and points of inflection; sketching graphs using calculus techniques; solving applied problems using the concepts of extrema; using derivatives to determine the velocity and acceleration of objects traveling along linear paths.
 
@@ -30,15 +39,83 @@ Natural logarithmic function and its properties; calculating derivative of logar
 - Apply fundamental theorems and rules of Calculus to evaluate limits and analyze the continuity of various functions.
 - Apply fundamental theorems and rules of differentiation to solve problems that model real-world situations.
 - Construct symbolic models of applied problems described in words.
-- Use fundamental concepts of Calculus to construct graphs of polynomial, rational and exponential functions.
+- Use fundamental concepts of Calculus to construct graphs of polynomial, rational and exponential functions. -->
 
-## CE 2016
 
-History and overview
-Relevant tools and engineering applications
-Differentiation methods
-Integration methods
-Linear differential equations
-Non-linear differential equations
-Partial differential equations
-Functional series
+## Units
+
+---
+
+<div class="container px-4 py-2" id="custom-cards">
+    <div class="row row-cols-1 row-cols-lg-2 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>History and overview</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Relevant tools and engineering applications</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-2 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Differentiation methods</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Integration methods</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-2 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Linear differential equations</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Partial differential equations</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-1 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Functional series</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>

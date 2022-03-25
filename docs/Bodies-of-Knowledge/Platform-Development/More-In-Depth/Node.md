@@ -6,11 +6,11 @@ hide:
 
 # Node.js
 
+Is a [JavaScript](/Bodies-of-Knowledge/Programming-Languages/Languages/JavaScript) V8 run-time environment (Core of Chromium-based browsers) for running JavaScript outside of a browser.
+
 [:octicons-arrow-left-24: Return to Platform Development](/Bodies-of-Knowledge/Platform-Development/)
 
 ---
-
-Is a [JavaScript](../Platform-Development/More-In-Depth/JavaScript.md) V8 run-time environment (Core of Chromium-based browsers) for running JavaScript outside of a browser.
 
 ## Resources
 

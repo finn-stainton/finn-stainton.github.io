@@ -7,6 +7,8 @@ hide:
 
 [:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
 
+---
+
 ??? info "Learning Outcomes"
 
     1. Describe techniques, coding idioms and mechanisms for implementing designs to achieve desired

@@ -1,14 +1,19 @@
 ---
 hide:
     - toc
+    - navigation
 
 ---
 
 # Information Management (IM)
 
+[:octicons-arrow-left-24: Return to Bodies of Knowledge](/Bodies-of-Knowledge/)
+
+---
+
 Information Management is primarily concerned with the capture, digitization, representation, organization, transformation, and presentation of information; algorithms for efficient and effective access and updating of stored information; data modeling and abstraction; and physical file storage techniques. The student needs to be able to develop conceptual and physical data models, determine which IM methods and techniques are appropriate for a given problem, and be able to select and implement an appropriate IM solution that addresses relevant design concerns including scalability, accessibility and usability.
 
-## Modules
+## Units
 
 ---
 
@@ -85,7 +90,7 @@ Information Management is primarily concerned with the capture, digitization, re
             <a href="08_Distributed-Databases">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>Distributed Database</h2>
+                        <h2>Distributed Databases</h2>
                     </div>
                 </div>
             </a>

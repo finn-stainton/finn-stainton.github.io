@@ -4,7 +4,7 @@ hide:
 
 ---
 
-# DS/Proof Techniques
+# DS/ Proof Techniques
 
 [:octicons-arrow-left-24: Return to Discrete Structures](/Bodies-of-Knowledge/Discrete-Structures/)
 

@@ -10,7 +10,7 @@ hide:
 
 ---
 
-??? "Learning Outcomes:"
+??? info "Learning Outcomes:"
 
     1. Discuss the appropriate use of built-in data structures. [Familiarity]
     2. Describe common applications for each of the following data structures: stack, queue, priority queue, set, and map. [Familiarity]

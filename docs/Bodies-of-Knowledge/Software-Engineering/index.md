@@ -1,9 +1,13 @@
 ---
-
 hide:
+    - navigation
     - toc
 ---
 # Software Engineering (SE)
+
+[:octicons-arrow-left-24: Return to Bodies of Knowledge](/Bodies-of-Knowledge/)
+
+---
 
 In every computing application domain, professionalism, quality, schedule, and cost are critical to producing software systems. Because of this, the elements of software engineering are applicable to developing software in all areas of computing. A wide variety of software engineering practices have been developed and utilized since the need for a discipline of software engineering was first recognized. Many trade-offs between these different practices have also been identified. Practicing software engineers have to select and apply appropriate techniques and practices to a given development effort in order to maximize value. To learn how to do so, they study the elements of software engineering.
 
@@ -21,35 +25,116 @@ tools, methods, and approaches for a given development environment.
 !!! cite ""
     Extract from: ACM 2016 Computer Science Curriculum
 
-## Topics
+## Units
 
-!!! warning ""
-    Tick indicates whether entry meets personal completion. May have partial content without tick
+---
 
-- [ ] [SE/History and Overview](00_History-Overview.md)
-- [ ] [SE/Software Processes](01_Software-Processes.md)
-- [ ] [SE/Software Project Management](02_Software-Project-Management.md)
-- [ ] [SE/Tools and Environments](03_Tools-Environments.md)
-- [ ] [SE/Requirements Engineering](04_Requirements-Engineering.md)
-- [ ] [SE/Software Design](05_Software-Design.md)
-- [ ] [SE/Software Construction](06_Software-Construction.md)
-- [ ] [SE/Software Verification and Validation](07_Software-Verification-Validation.md)
-- [ ] [SE/Software Evolution](08_Software-Evolution.md)
-- [ ] [SE/Software Reliability](09_Software-Reliability.md)
-- [ ] [SE/Formal Methods](10_Formal-Methods.md)
-
-<!-- ## More In-depth Topics [^1]
-
-- [ ] [Agile](More-In-Depth/Agile.md)
-- [ ] [Azure DevOps](More-In-Depth/Azure-DevOps.md)
-- [ ] [Behavior-driven Development (BDD)](More-In-Depth/BDD.md)
-- [ ] [Cucumber](More-In-Depth/Cucumber.md)
-- [ ] [DevOps](More-In-Depth/DevOps.md)
-- [x] [Git](More-In-Depth/Git.md)
-- [x] [GitFlow](More-In-Depth/Gitflow.md)
-- [x] [Kanban](More-In-Depth/Kanban.md)
-- [x] [Scrum](More-In-Depth/Scrum.md)
-- [ ] [UML Diagrams](More-In-Depth/UML-Diagrams.md)
-
-
-[^1]: More than overview page topics -->
+<div class="container px-4 py-2" id="custom-cards">
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="00_History-Overview">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SE/History and Overview</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="01_Software-Processes">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SE/Software Processes</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="02_Software-Project-Management">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>SE/Software Project Management</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="03_Tools-Environments">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SE/Tools and Environments</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="04_Requirements-Engineering">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SE/Requirements Engineering</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="05_Software-Design">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>SE/Software Design</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="06_Software-Construction">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SE/Software Construction</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="07_Software-Verification-Validation">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SE/Software Verification and Validation</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="08_Software-Evolution">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>SE/Software Evolution</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="09_Software-Reliability">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SE/Software Reliability</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="10_Formal-Methods">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SE/Formal Methods</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>

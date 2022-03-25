@@ -1,6 +1,15 @@
+---
+
+hide:
+    - navigation 
+---
 # SGP/Convolution
 
-??? "Learning Outcomes:"
+[:octicons-arrow-left-24: Return to Signal Processing](/Bodies-of-Knowledge/Signal-Processing/)
+
+---
+
+??? info "Learning Outcomes:"
 
     1. Explain how the concept of impulse response arises from the combination of linearity and time-invariance.
     2. Derive the linear convolution summation from the definition of impulse response and linearity.

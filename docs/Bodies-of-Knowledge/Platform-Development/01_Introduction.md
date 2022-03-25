@@ -5,11 +5,11 @@ hide:
 ---
 # PBD/Introduction
 
-[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Platform-Development/)
+[:octicons-arrow-left-24: Return to Platform Development](/Bodies-of-Knowledge/Platform-Development/)
 
 ---
 
-??? "Learning Outcomes:"
+??? info "Learning Outcomes:"
 
     1. Describe how platform-based development differs from general purpose programming. [Familiarity]
     2. List characteristics of platform languages. [Familiarity]

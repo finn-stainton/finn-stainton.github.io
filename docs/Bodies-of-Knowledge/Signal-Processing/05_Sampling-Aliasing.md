@@ -1,6 +1,15 @@
+---
+
+hide:
+    - navigation 
+---
 # SGP/Sampling and Aliasing
 
-??? "Learning Outcomes:"
+[:octicons-arrow-left-24: Return to Signal Processing](/Bodies-of-Knowledge/Signal-Processing/)
+
+---
+
+??? info "Learning Outcomes:"
 
     1. State the sampling theorem and the related concepts of the Nyquist frequency and aliasing.
     2. Demonstrate aliasing on a sampled sine wave.

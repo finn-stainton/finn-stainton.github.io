@@ -40,6 +40,8 @@ hide:
 
 ## Team participation
 
+---
+
 ### Team processes including responsibilities for tasks, meeting structure, and work schedule
 
 ### Roles and responsibilities in a software team
@@ -50,9 +52,15 @@ hide:
 
 ## Effort Estimation (at the personal level)
 
+---
+
 ## Risk (cross reference IAS/Secure Software Engineering)
 
+---
+
 ## Team management
+
+---
 
 ### Team organization
 
@@ -66,6 +74,8 @@ hide:
 
 ## Project management
 
+---
+
 ### Scheduling and tracking
 
 ### Project management tools
@@ -74,6 +84,12 @@ hide:
 
 ## Software measurement and estimation techniques
 
+---
+
 ## Software quality assurance and the role of measurements
 
+---
+
 ## System-wide approach to risk including hazards associated with tools
+
+---

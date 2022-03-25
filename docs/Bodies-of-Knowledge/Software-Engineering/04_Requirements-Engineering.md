@@ -7,6 +7,8 @@ hide:
 
 [:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
 
+---
+
 ??? info "Learning Outcomes"
 
     1. List the key components of a use case or similar description of some behavior that is required for a system. [Familiarity]

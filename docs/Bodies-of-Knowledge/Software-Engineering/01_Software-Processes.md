@@ -7,6 +7,8 @@ hide:
 
 [:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
 
+---
+
 ??? info "Learning Outcomes"
 
     1. Describe how software can interact with and participate in various systems including information management, embedded, process control, and communications systems. [Familiarity]
@@ -27,9 +29,13 @@ hide:
 
 ## Systems level considerations
 
-the interaction of software with its intended environment (cross-reference IAS/Secure Software Engineering)
+---
+
+The interaction of software with its intended environment (cross-reference IAS/Secure Software Engineering)
 
 ## Software process models
+
+---
 
 ### Waterfall
 
@@ -45,29 +51,59 @@ the interaction of software with its intended environment (cross-reference IAS/S
 
 ### Agile
 
-**Advantages** 
+#### Manifesto
 
-**Disadvantages**
+1. Valuing individuals and interactions over processes and tools
+2. Valuing working software over comprehensive documentation
+3. Valuing customer collaboration over contract negotiation
+4. Responding to change over following a plan
+
+#### Agile methods and practices
+
+Agile is not a *thing*
+
+- [Scrum](More-In-Depth/Scrum.md)
+- [KanBan](More-In-Depth/Kanban.md)
+
+!!! cite "Resources/ Bib."
+    - [The Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
+    - [What is Agile? | Microsoft Docs](https://docs.microsoft.com/en-us/devops/plan/what-is-agile)
 
 ### Activities within software lifecycles
 
 ## Programming in the large vs. individual programming
 
+---
+
 ## Evaluation of software process models
+
+---
 
 ## Software quality concepts
 
+---
+
 ## Process improvement
 
-- CMM
-- CMMI
-- CQI
-- Plan-Do-Check-Act
-- ISO9000
+---
+
+### CMM
+
+### CMMI
+
+### CQI
+
+### Plan-Do-Check-Act
+
+### ISO9000
 
 ## Software process capability maturity models
 
+---
+
 ## Software process measurements
+
+---
 
 ### Process metrics
 

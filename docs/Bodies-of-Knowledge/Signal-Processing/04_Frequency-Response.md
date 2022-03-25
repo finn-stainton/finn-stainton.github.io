@@ -1,6 +1,15 @@
+---
+
+hide:
+    - navigation 
+---
 # SGP/Frequency Response
 
-??? "Learning Outcomes:"
+[:octicons-arrow-left-24: Return to Signal Processing](/Bodies-of-Knowledge/Signal-Processing/)
+
+---
+
+??? info "Learning Outcomes:"
 
     1. Interpret the frequency response of an LTI system as an alternative view from the impulse response.
     2. Analyze the frequency response of a system using the DTFT and the DFT.

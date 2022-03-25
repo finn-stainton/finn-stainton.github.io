@@ -1,4 +1,13 @@
+---
+hide:
+    - navigation
+
+---
 # PL/ Concurrency and Parallelism
+
+[:octicons-arrow-left-24: Return to Programming Languages](/Bodies-of-Knowledge/Programming-Languages/)
+
+---
 
 Support for concurrency is a fundamental programming-languages issue with rich material in programming language design, language implementation, and language theory. Due to coverage in other Knowledge Areas, this elective Knowledge Unit aims only to complement the material included elsewhere in the Body of Knowledge. Courses on programming languages are an excellent place to include a general treatment of concurrency including this other material. Cross-reference PD/Parallel and Distributed Computing, SF/Parallelism.
 

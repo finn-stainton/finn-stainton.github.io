@@ -5,11 +5,11 @@ hide:
 ---
 # PBD/ Mobile Platforms
 
-[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Platform-Development/)
+[:octicons-arrow-left-24: Return to Platform Development](/Bodies-of-Knowledge/Platform-Development/)
 
 ---
 
-??? "Learning Outcomes:"
+??? info "Learning Outcomes:"
 
     1. Design and implement a mobile application for a given mobile platform. [Usage]
     2. Discuss the constraints that mobile platforms put on developers. [Familiarity]

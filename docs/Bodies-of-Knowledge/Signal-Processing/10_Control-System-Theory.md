@@ -1,6 +1,15 @@
+---
+
+hide:
+    - navigation 
+---
 # SGP/Control system theory and applications
 
-??? "Learning Outcomes:"
+[:octicons-arrow-left-24: Return to Signal Processing](/Bodies-of-Knowledge/Signal-Processing/)
+
+---
+
+??? info "Learning Outcomes:"
 
     1. Define basic control system concepts (e.g., zero-state response, zero-input response, stability).
     2. Contrast design methods (root-locus, frequency-response, state-space) for control systems.

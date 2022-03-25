@@ -1,4 +1,13 @@
+---
+hide:
+    - navigation
+
+---
 # PL/ Program Representation
+
+[:octicons-arrow-left-24: Return to Programming Languages](/Bodies-of-Knowledge/Programming-Languages/)
+
+---
 
 ??? info "Learning outcomes"
 

@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation
+
+---
 # PL/ Language Pragmatics
+
+[:octicons-arrow-left-24: Return to Programming Languages](/Bodies-of-Knowledge/Programming -Languages/)
+
+---
+
 
 **Topics**:
 - Principles of language design such as orthogonality

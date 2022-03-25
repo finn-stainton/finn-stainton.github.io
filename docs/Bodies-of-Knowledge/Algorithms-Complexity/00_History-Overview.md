@@ -5,9 +5,11 @@ hide:
 ---
 # AL/ History and Overview
 
-[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Algorithms-Complexity/)
+[:octicons-arrow-left-24: Return to Algorithms and Complexity](/Bodies-of-Knowledge/Algorithms-Complexity/)
 
-??? note "Learning outcomes"
+---
+
+??? info "Learning outcomes"
 
     1. Identify some contributors to algorithms and and relate their achievements to the knowledge area. 
     2. Associate some of the themes involved with algorithms.

@@ -7,6 +7,8 @@ hide:
 
 [:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
 
+---
+
 ??? info "Learning Outcomes"
 
     1. Identify the principal issues associated with software evolution and explain their impact on the software lifecycle. [Familiarity]

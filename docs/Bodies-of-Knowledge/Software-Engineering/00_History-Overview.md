@@ -7,7 +7,9 @@ hide:
 
 [:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
 
-??? note "Learning outcomes"
+---
+
+??? info "Learning outcomes"
 
     1. Identify some contributors to software engineering and relate their achievements to the knowledge area. 2. Provide examples of the software process.
     2. Articulate the difference between software engineering and computer engineering.

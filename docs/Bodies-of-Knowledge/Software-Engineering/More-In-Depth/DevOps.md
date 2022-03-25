@@ -18,7 +18,7 @@ hide:
 
 - ideate, define, and describe features and capabilities
 - track progress at low and high levels of granularity
-- Creating backlogs, tracking bugs, managing [agile software development](agile.md) and visualising progress
+- Creating backlogs, tracking bugs, managing [agile software development](../01_Software-Processes#agile) and visualising progress
 
 ### Development
 
@@ -84,8 +84,6 @@ Goal: Help developer change proposal get reviewed and merged within 24 hours of 
 - Automatic Health, Downtime, Rolebacks
 
 ## Further Reading
-
-
 
 ## Resources/ Bib.
 

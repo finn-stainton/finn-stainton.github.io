@@ -25,7 +25,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Software-Engineering">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -36,7 +35,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Discrete-Structures">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -47,9 +45,8 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
-            <a href="Architecture-Organization">
+            <a href="Architecture-Organisation">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
                     style="background-image: linear-gradient(rgba(204, 0, 187, 0.5),rgba(218, 0, 145, 0.5)),url('');">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
@@ -59,7 +56,6 @@ hide:
             </a>
         </div>
     </div>
-
     <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
         <div class="col">
             <a href="Software-Development-Fundamentals">
@@ -71,7 +67,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Programming-Languages">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -82,7 +77,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Operating-Systems">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -93,7 +87,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Information-Management">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -105,7 +98,6 @@ hide:
             </a>
         </div>
     </div>
-
     <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
         <div class="col">
             <a href="Parallel-Distributed">
@@ -117,7 +109,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Computational-Sciences">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -128,7 +119,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Human-Computer-Interaction">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -139,7 +129,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Graphics-Visualization">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -151,7 +140,6 @@ hide:
             </a>
         </div>
     </div>
-
     <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
         <div class="col">
             <a href="Platform-Development">
@@ -163,31 +151,26 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="System-Fundamentals">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
                     style="background-image: linear-gradient(rgba(255, 21, 21, 0.5),rgba(255, 115, 0, 0.5)),url('');">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                         <h2>System Fundamentals</h2>
-
                     </div>
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Information-Assurance-Security">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
                     style="background-image: linear-gradient(rgba(0, 204, 255, 0.5),rgba(11, 89, 255, 0.5)),url('');">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                         <h2>Information Assurance and Security</h2>
-
                     </div>
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Intelligent-Systems">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -199,7 +182,6 @@ hide:
             </a>
         </div>
     </div>
-
     <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
         <div class="col">
             <a href="Networking-Communication">
@@ -211,7 +193,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Social-Professional">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -222,7 +203,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Circuits-Electronics">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -233,7 +213,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Digital-Design">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -244,8 +223,7 @@ hide:
                 </div>
             </a>
         </div>
-</div>
-
+    </div>
     <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
         <div class="col">
             <a href="Signal-Processing">
@@ -257,7 +235,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="System-Project-Engineering">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -268,7 +245,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Calculus">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -279,7 +255,6 @@ hide:
                 </div>
             </a>
         </div>
-
         <div class="col">
             <a href="Embedded-Systems">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -291,6 +266,4 @@ hide:
             </a>
         </div>
     </div>
-
-
 </div>

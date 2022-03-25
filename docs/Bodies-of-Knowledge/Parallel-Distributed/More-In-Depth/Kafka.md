@@ -1,14 +1,16 @@
+---
+hide:
+    - navigation
+
+---
+
 # Apache Kafka
 
 Distributed *event streaming platform* that lets you read, write, store, and process events across many machines
 
+[:octicons-arrow-left-24: Return to Parallel and Distributed Computing](/Bodies-of-Knowledge/Parallel-Distributed/)
+
 ---
-
-## Resources/ Bib.
-
-- [Apache Kafka](https://kafka.apache.org/documentation/#gettingStarted)
-- [Apache Kafka Quickstart](https://kafka.apache.org/quickstart)
-- [Apache Kafka Docs](https://kafka.apache.org/documentation/)
 
 ## Overview
 
@@ -63,9 +65,7 @@ Distributed *event streaming platform* that lets you read, write, store, and pro
 - higher-level [Kafka Streams](https://kafka.apache.org/documentation/streams/) library, for Go, Python, C/C++, REST APIs, etc.
 - Communicate via a high-performance [TCP network protocol](https://kafka.apache.org/protocol.html)
 
-
 ## [Getting Started](https://kafka.apache.org/documentation/#quickstart)
-
 [Download](https://www.apache.org/dyn/closer.cgi?path=/kafka/3.1.0/kafka_2.13-3.1.0.tgz)
 
 ```bash
@@ -165,3 +165,11 @@ bin/kafka-server-start.sh config/server.properties
 ```
 
 ## Configuration
+
+## Resources/ Bib.
+
+!!! cite ""
+
+    - [Apache Kafka](https://kafka.apache.org/documentation/#gettingStarted)
+    - [Apache Kafka Quickstart](https://kafka.apache.org/quickstart)
+    - [Apache Kafka Docs](https://kafka.apache.org/documentation/)
