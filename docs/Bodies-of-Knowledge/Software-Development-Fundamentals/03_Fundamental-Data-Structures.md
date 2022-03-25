@@ -1,6 +1,16 @@
+---
+hide:
+    - navigation
+
+---
+
 # SDF/Fundamental Data Structures
 
-??? "Learning Outcomes:"
+[:octicons-arrow-left-24: Return to Software Development Fundamentals](/Bodies-of-Knowledge/Software-Development-Fundamentals/)
+
+---
+
+??? info "Learning Outcomes:"
 
     1. Discuss the appropriate use of built-in data structures. [Familiarity]
     2. Describe common applications for each of the following data structures: stack, queue, priority queue, set, and map. [Familiarity]

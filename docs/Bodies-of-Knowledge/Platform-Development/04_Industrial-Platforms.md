@@ -5,11 +5,11 @@ hide:
 ---
 # PBD/Industrial Platforms
 
-[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Platform-Development/)
+[:octicons-arrow-left-24: Return to Platform Development](/Bodies-of-Knowledge/Platform-Development/)
 
 ---
 
-??? "Learning Outcomes:"
+??? info "Learning Outcomes:"
 
     1. Design and implement an industrial application on a given platform (e.g., using Lego Mindstorms or Matlab). [Usage]
     2. Compare and contrast domain specific languages with general purpose programming languages.[Assessment]

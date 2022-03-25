@@ -1,4 +1,13 @@
+---
+hide:
+    - navigation
+
+---
 # PL/ Event-Driven and Reactive Programming
+
+[:octicons-arrow-left-24: Return to Programming Languages](/Bodies-of-Knowledge/Programming-Languages/)
+
+---
 
 ??? info "Learning outcomes"
 

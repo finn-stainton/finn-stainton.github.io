@@ -1,6 +1,15 @@
+---
+
+hide:
+    - navigation 
+---
 # SGP/Finite and infinite impulse response filter design
 
-??? "Learning Outcomes:"
+[:octicons-arrow-left-24: Return to Signal Processing](/Bodies-of-Knowledge/Signal-Processing/)
+
+---
+
+??? info "Learning Outcomes:"
 
     1. Design finite and infinite impulse response (FIR and IIR) filters that have specified frequency characteristics including magnitude and phase responses.
     2. Explain the general tradeoffs between FIR and IIR filters.

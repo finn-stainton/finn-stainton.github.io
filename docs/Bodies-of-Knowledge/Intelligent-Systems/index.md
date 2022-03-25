@@ -1,3 +1,113 @@
+---
+hide:
+    - navigation
+    - toc
+---
+# Algorithms and Complexity (AL)
+
+[:octicons-arrow-left-24: Return to Bodies of Knowledge](/Bodies-of-Knowledge/)
+
+---
+
+
+
+!!! cite ""
+    Extract from: ACM 2016 Computer Science Curriculum
+
+<!--## Units
+
+---
+
+<div class="container px-4 py-2" id="custom-cards">
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="02_Parallelism-Fundamentals">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Parallelism Fundamentals</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="03_Parallel-Decomposition">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Parallel Decomposition</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="04_Communication-Coordination">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>PD/Communication and Coordination</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="05_Parallel-Algorithms-Analysis-Programming">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Parallel Algorithms, Analysis, and Programming</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="06_Parallel-Architecture">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Parallel Architecture</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="07_Parallel-Performance">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>PD/Parallel Performance</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="08_Distributed-Systems">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Distributed Systems</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="09_Cloud-Computing">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Cloud Computing</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="10_Formal-Models-Semantics">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>PD/Formal Models and Semantics</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>-->
+
 # Intelligent Systems (IS)
 
 Artificial intelligence (AI) is the study of solutions for problems that are difficult or impractical
@@ -320,3 +430,126 @@ Cross-reference HCI/New Interactive Technologies
 6. List the differences among robots' representations of their external environment, including their strengths and shortcomings. [Familiarity]
 7. Compare and contrast at least three strategies for robot navigation within known and/or unknown environments, including their strengths and shortcomings. [Assessment]
 8. Describe at least one approach for coordinating the actions and sensing of several robots to accomplish a single task. [Familiarity]
+
+<!--## Units
+
+---
+
+<div class="container px-4 py-2" id="custom-cards">
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="01_Information-Management-Concepts">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Information Management Concepts</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="02_Database-Systems">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Database Systems</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="03_Data-Modeling">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Data Modeling</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="04_Indexing">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Indexing</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="05_Relational-Databases">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Relational Database</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="06_Query-Languages">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Query Languages</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="07_Transaction-Processing">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Transaction Processing</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="08_Distributed-Databases">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Distributed Database</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="09_Physical-Database-Design">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Physical Database Design</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="10_Data-Mining">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Data Mining</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="11_Information-Storage-Retrieval">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Information Storage and Retrieval</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="12_Multimedia-Systems">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Multimedia Systems</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div> -->

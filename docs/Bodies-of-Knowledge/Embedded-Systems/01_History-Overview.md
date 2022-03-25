@@ -6,7 +6,9 @@ hide:
 
 # ESY/History and Overview
 
-[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Embedded-Systems)
+[:octicons-arrow-left-24: Return to Embedded Systems](/Bodies-of-Knowledge/Embedded-Systems)
+
+---
 
 ??? info "Learning Outcomes"
 

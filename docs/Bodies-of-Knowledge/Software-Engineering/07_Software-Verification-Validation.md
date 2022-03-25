@@ -6,7 +6,9 @@ hide:
 
 # SE/Software Verification and Validation
 
-[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Software-Engineering/)
+---
+
+[:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
 
 ??? info "Learning Outcomes"
 
@@ -31,13 +33,23 @@ hide:
 
 ## Verification and validation concepts
 
+---
+
 ## Inspections
+
+---
 
 ## Reviews
 
+---
+
 ## Audits
 
+---
+
 ## Testing types
+
+---
 
 ### Human computer interface
 
@@ -73,15 +85,25 @@ hide:
 
 ## Defect tracking
 
-## Limitations of testing in particular domains,
+---
+
+## Limitations of testing in particular domains
+
+---
 
 such as parallel or safety-critical systems
 
 ## Static approaches to verification
 
+---
+
 ## Dynamic approaches to verification
 
+---
+
 ## Test-driven development (TDD)
+
+---
 
 Test first development + Refactoring
 
@@ -93,24 +115,63 @@ Test first development + Refactoring
 
 Repeat
 
-## Behaviour Driven Development (BDD)
+## Behavior-driven Development (BDD)
+
+---
+
+Aimed at driving the development of features, which is driven by user needs. Users express themselves in natural language (not code), however, it is lacking in structure. Therefore, BDD features consists of a structured narrative and one or more scenarios, example below.
+
+!!! cite "Template"
+
+    **Title**
+
+
+    **Narrative**
+
+    As a:
+
+    I want:
+
+    so that:
+
+    **Scenarios/ Acceptance Criteria**
+
+    Given that...
+
+    When I...
+
+    Then...
 
 ## Validation planning
 
+---
+
 ### documentation for validation
 
-## Object-oriented testing;
+## Object-oriented testing
+
+---
 
 ### systems testing
 
 ## Verification and validation of non-code artifacts
 
-- documentation,
-- help files,
-- training materials
+---
+
+### documentation
+
+### help files
+
+### training materials
 
 ## Fault logging, fault tracking and technical support for such activities
 
+---
+
 ## Fault estimation and testing termination
 
+---
+
 ### Defect seeding
+
+---

@@ -5,7 +5,9 @@ hide:
 ---
 # AL/ Advanced Automata Theory and Computability
 
-[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Algorithms-Complexity/)
+[:octicons-arrow-left-24: Return to Algorithms and Complexity](/Bodies-of-Knowledge/Algorithms-Complexity/)
+
+---
 
 ??? info "Learning Outcomes"
 

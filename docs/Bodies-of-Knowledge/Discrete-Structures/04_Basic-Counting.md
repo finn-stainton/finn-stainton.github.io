@@ -4,7 +4,7 @@ hide:
 
 ---
 
-# DS/Basics of Counting
+# DS/ Basics of Counting
 
 [:octicons-arrow-left-24: Return to Discrete Structures](/Bodies-of-Knowledge/Discrete-Structures/)
 

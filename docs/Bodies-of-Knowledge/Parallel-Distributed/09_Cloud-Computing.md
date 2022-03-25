@@ -20,7 +20,11 @@ hide:
 
 ## Internet-Scale computing
 
-### Task partitioning (cross-reference # PD/Parallel Algorithms, Analysis, and Programming)
+---
+
+### Task partitioning
+
+(cross-reference [PD/Parallel Algorithms, Analysis, and Programming](05_Parallel-Algorithms-Analysis-Programming.md))
 
 ### Data access
 
@@ -28,11 +32,17 @@ hide:
 
 ## Cloud services
 
+---
+
 ### Infrastructure as a service
 
 ## Elasticity of resources
 
+---
+
 ## Platform APIs
+
+---
 
 ### Software as a service
 
@@ -40,13 +50,19 @@ hide:
 
 ### Cost management
 
-## Virtualization (cross-reference SF/Virtualization and Isolation and OS/Virtual Machines)
+## Virtualization
+
+---
+
+(cross-reference [SF/Virtualization and Isolation](../System-Fundamentals/) and [OS/Virtual Machines](../Operating-Systems/07_VM.md))
 
 ### Shared resource management
 
 ### Migration of processes
 
 ## Cloud-based data storage
+
+---
 
 ### Shared access to weakly consistent data stores
 

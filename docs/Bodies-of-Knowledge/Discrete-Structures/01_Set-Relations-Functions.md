@@ -4,7 +4,7 @@ hide:
 
 ---
 
-# DS/Sets, Relations, and Functions
+# DS/ Sets, Relations, and Functions
 
 [:octicons-arrow-left-24: Return to Discrete Structures](/Bodies-of-Knowledge/Discrete-Structures/)
 

@@ -1,6 +1,15 @@
+---
+
+hide:
+    - navigation 
+---
 # SGP/Relevant tools, standards, and/or engineering constraints
 
-??? "Learning Outcomes:"
+[:octicons-arrow-left-24: Return to Signal Processing](/Bodies-of-Knowledge/Signal-Processing/)
+
+---
+
+??? info "Learning Outcomes:"
 
     1. Describe the tradeoffs involved with increasing the sampling rate.
     2. Indicate key issues involved with sampling periodic signals including the sampling period.

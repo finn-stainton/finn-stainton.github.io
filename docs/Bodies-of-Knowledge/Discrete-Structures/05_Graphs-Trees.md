@@ -4,7 +4,7 @@ hide:
 
 ---
 
-# DS/Graphs and Trees
+# DS/ Graphs and Trees
 
 [:octicons-arrow-left-24: Return to Discrete Structures](/Bodies-of-Knowledge/Discrete-Structures/)
 

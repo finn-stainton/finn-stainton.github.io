@@ -5,11 +5,11 @@ hide:
 ---
 # PBD/Game-Platforms
 
-[:octicons-arrow-left-24: Return to base](/Bodies-of-Knowledge/Platform-Development/)
+[:octicons-arrow-left-24: Return to Platform Development](/Bodies-of-Knowledge/Platform-Development/)
 
 ---
 
-??? "Learning Outcomes:"
+??? info "Learning Outcomes:"
 
     1. Design and implement a simple application on a game platform. [Usage]
     2. Describe the constraints that game platforms impose on developers. [Familiarity]

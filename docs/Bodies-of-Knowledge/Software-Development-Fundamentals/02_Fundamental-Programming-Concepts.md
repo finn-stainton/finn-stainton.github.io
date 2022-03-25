@@ -1,6 +1,16 @@
+---
+hide:
+    - navigation
+
+---
+
 # SDF/Fundamental Programming Concepts
 
-??? "Learning Outcomes:"
+[:octicons-arrow-left-24: Return to Software Development Fundamentals](/Bodies-of-Knowledge/Software-Development-Fundamentals/)
+
+---
+
+??? info "Learning Outcomes:"
 
     1. Analyze and explain the behavior of simple programs involving the fundamental programming
     constructs variables, expressions, assignments, I/O, control constructs, functions, parameter passing, and recursion. [Assessment]

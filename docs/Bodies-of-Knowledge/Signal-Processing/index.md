@@ -1,9 +1,13 @@
 ---
 hide:
+    - navigation
     - toc
----# Signal Processing (SGP) / History and Overview
+---
+# Signal Processing (SGP)
 
-**Area Scope**
+[:octicons-arrow-left-24: Return to Bodies of Knowledge](/Bodies-of-Knowledge/)
+
+---
 
 The knowledge units in this area collectively encompass the following:
 
@@ -13,22 +17,119 @@ The knowledge units in this area collectively encompass the following:
 4. Filter design and implementation
 5. Control system properties and applications
 
-## History and overview
+!!! cite ""
+    Extract from: ACM 2016 Computer Engineering Curriculum
 
-??? "Learning Outcomes:"
+## Units
 
-   1. Explain the purpose and role of digital signal processing and multimedia in computer engineering.
-   2. Explain some important signal processing areas such as digital audio, multimedia, image processing, video, signal compression, signal detection, and digital filters.
-   3. Contrast analog and digital signals using the concepts of sampling and quantization.
-   4. Draw a digital signal processing block diagram and define its key components: antialiasing filter, analog to digital converter, digital signal processing, digital to analog filter, and reconstruction filter.
-   5. Explain the need for using transforms and how they differ for analog and discrete-time signals.
-   6. Contrast some techniques used in transformations such as Laplace, Fourier, and wavelet transforms.
-   7. Indicate design criteria for low- and high-pass filters.
+---
 
-1. Explain the purpose and role of digital signal processing and multimedia in computer engineering.
-2. Explain some important signal processing areas such as digital audio, multimedia, image processing, video, signal compression, signal detection, and digital filters.
-3. Contrast analog and digital signals using the concepts of sampling and quantization.
-4. Draw a digital signal processing block diagram and define its key components: antialiasing filter, analog to digital converter, digital signal processing, digital to analog filter, and reconstruction filter.
-5. Explain the need for using transforms and how they differ for analog and discrete-time signals.
-6. Contrast some techniques used in transformations such as Laplace, Fourier, and wavelet transforms.
-7. Indicate design criteria for low- and high-pass filters.
+<div class="container px-4 py-2" id="custom-cards">
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="00_History-Overview">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SGP/History and Overview</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="01_Tools-Standards-Constraints">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SGP/Relevant tools, standards, and/or engineering constraints</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="02_Convolution">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>SGP/Convolution</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="03_Transform-Analysis">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SGP/Transform Analysis</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="04_Frequency-Response">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SGP/Frequency Response</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="05_Sampling-Aliasing">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>SGP/Sampling and Aliasing</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="06_Spectra-Transforms">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SGP/Digital spectra and discrete transforms</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="07_Impulse-Filter">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SGP/Finite and infinite impulse response filter design</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="08_Window-Functions">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>SGP/Window functions</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="09_Multimedia-Processing">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SGP/Multimedia processing</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="10_Control-System-Theory">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>SGP/Control system theory and applications</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>

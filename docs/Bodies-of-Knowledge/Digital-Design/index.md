@@ -1,38 +1,104 @@
 ---
 hide:
+    - navigation
     - toc
----# Digital Design (DIG) / History and Overview
+---
+# Digital Design (DIG) 
 
-**Area Scope**
+[:octicons-arrow-left-24: Return to Bodies of Knowledge](/Bodies-of-Knowledge/)
 
-The knowledge units in this area collectively encompass the following:
+---
 
-1. Digital design basics: number representation, arithmetic operations, Boolean algebra, and their realization as basic logic circuits
-2. Building blocks: combinational, sequential, memories, and elements for arithmetic operations
-3. Hardware Description Languages (HDLs), digital circuit modeling, design tools, and tool flow
-4. Programmable logic platforms (e.g., FPGAs) for implementing digital systems
-5. Datapaths and control units composed of combinational and sequential building blocks
-6. Analysis and design of digital systems including design space exploration, and tradeoffs based on constraints such as performance, power, and cost
+<!--## Units
 
-??? info "Learning Outcomes"
+---
 
-    1. Identify some early contributors to digital design and relate their achievements to the knowledge area.
-    2. Discuss applications in computer engineering that benefit from the area of digital design.
-    3. Describe how Boolean logic relates to digital design.
-    4. Enumerate key components of digital design such as combinational gates, memory elements, and arithmetic blocks.
-
-## Early contributors to digital design
-
-relate their achievements to the knowledge area.
-
-## Applications of digital design.
-
-## Boolean logic relationship with digital design.
-
-## Overview of Key components of digital design 
-
-**Combinational gates**
-
-**Memory elements**
-
-**Arithmetic blocks**
+<div class="container px-4 py-2" id="custom-cards">
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="02_Parallelism-Fundamentals">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Parallelism Fundamentals</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="03_Parallel-Decomposition">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Parallel Decomposition</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="04_Communication-Coordination">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>PD/Communication and Coordination</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="05_Parallel-Algorithms-Analysis-Programming">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Parallel Algorithms, Analysis, and Programming</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="06_Parallel-Architecture">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Parallel Architecture</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="07_Parallel-Performance">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>PD/Parallel Performance</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="08_Distributed-Systems">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Distributed Systems</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="09_Cloud-Computing">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>PD/Cloud Computing</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="10_Formal-Models-Semantics">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>PD/Formal Models and Semantics</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>-->

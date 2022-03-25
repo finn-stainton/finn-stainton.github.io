@@ -1,6 +1,0 @@
-History and overview [1]
-Relevant tools and engineering applications [2] Bases, vector spaces, and orthogonality [4] Matrix representations of linear systems [4] Matrix inversion [2]
-Linear transformations [3]
-Solution of linear systems [3]
-Numerical solution of non-linear systems [4] System transformations [3]
-Eigensystems [4]

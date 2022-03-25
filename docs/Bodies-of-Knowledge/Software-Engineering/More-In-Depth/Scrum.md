@@ -10,7 +10,7 @@ hide:
 
 ---
 
-Scrum is a framework used by teams to help collaboration by implementing the principles of [Agile](Agile.md) in a concrete set of roles, activities and practices.
+Scrum is a framework used by teams to help collaboration by implementing the principles of [Agile](../01_Software-Processes#agile) in a concrete set of roles, activities and practices.
 
 <figure markdown>
   ![Scrum Lifecycle Diagram](../../assets/agile-scrum-lifecycle-diagram.png)

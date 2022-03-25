@@ -10,6 +10,10 @@ hide:
 
 ---
 
+Aimed at driving the development of features, which is driven by user needs. Users express themselves in natural language (not code), however, it is lacking in structure. BDD feature consists of a narrative and one or more scenarios.
+
+## Template
+
 !!! cite "Format"
 
     **Title**
@@ -23,7 +27,7 @@ hide:
 
     so that:
 
-    **Acceptance Criteria**
+    **Scenarios/ Acceptance Criteria**
 
     Given that...
 
@@ -34,5 +38,10 @@ hide:
 ## Further Reading
 
 - [Cucumber](Cucumber.md)
+- [Use Case](UML-Diagrams.md)
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
+
+!!! cite ""
+
+    - [Wikipedia | BDD](https://en.wikipedia.org/wiki/Behavior-driven_development)

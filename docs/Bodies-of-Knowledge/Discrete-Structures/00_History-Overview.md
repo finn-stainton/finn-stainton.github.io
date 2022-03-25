@@ -4,7 +4,7 @@ hide:
 
 ---
 
-# DS/History and Overview
+# DS/ History and Overview
 
 [:octicons-arrow-left-24: Return to Discrete Structures](/Bodies-of-Knowledge/Discrete-Structures/)
 
@@ -17,18 +17,18 @@ hide:
     3. Articulate differences between discrete and continuous models.
     4. Describe how computer engineering could make use of discrete structures.
 
-### Knowledge Overview
+## Knowledge Overview
 
-#### Sets
+### Sets
 
-#### Logic
+### Logic
 
-#### Functions
+### Functions
 
-#### Graphs
+### Graphs
 
-### Contributors to Discrete Structures
+## Contributors to Discrete Structures
 
-### Purpose and role of discrete structures
+## Purpose and role of discrete structures
 
-### Contrasts between discrete-time models vs. continuous-time models
+## Contrasts between discrete-time models vs. continuous-time models

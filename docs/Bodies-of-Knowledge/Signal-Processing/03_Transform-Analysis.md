@@ -1,6 +1,15 @@
+---
+
+hide:
+    - navigation 
+---
 # SGP/Transform Analysis
 
-??? "Learning Outcomes:"
+[:octicons-arrow-left-24: Return to Signal Processing](/Bodies-of-Knowledge/Signal-Processing/)
+
+---
+
+??? info "Learning Outcomes:"
 
     1. State, prove, and apply properties of the z–transform and its inverse.
     2. State, prove, and apply properties of the discrete-time Fourier transform (DTFT) and its inverse.

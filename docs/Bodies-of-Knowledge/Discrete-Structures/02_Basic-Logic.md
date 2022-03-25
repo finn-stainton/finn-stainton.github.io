@@ -4,7 +4,7 @@ hide:
 
 ---
 
-# DS/Basic Logic
+# DS/ Basic Logic
 
 [:octicons-arrow-left-24: Return to Discrete Structures](/Bodies-of-Knowledge/Discrete-Structures/)
 
