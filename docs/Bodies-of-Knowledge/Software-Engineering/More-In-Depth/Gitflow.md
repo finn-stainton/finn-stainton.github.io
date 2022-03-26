@@ -6,31 +6,38 @@ hide:
 
 # GitFlow
 
+GitFlow is a branching workflow model designed for product release which extents Git (initialise beforehand)
+
 [:octicons-arrow-left-24: Return to Software Engineering](/Bodies-of-Knowledge/Software-Engineering/)
 
 ---
 
+## Resources/ Bib.
 
-Git Flow is a branching workflow model designed for product release which extents Git (initialise beforehand)
-
-!!! cite "Resources/ Bib."
+!!! cite ""
+    1. [GitFlow Cheat Sheet (Highly Recommend)](https://danielkummer.github.io/git-flow-cheatsheet/)
+    2. [Atlassian Gitflow Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ## Getting Started
 
-Windows
+---
 
-```
-gitflow init -f
-```
+=== "Windows"
 
-MacOS (Homebrew)
+    ``` console
+    gitflow init -f
+    ```
 
-```
-brew install git-flow
-git flow init
-```
+=== "MacOS (Homebrew)"
+
+    ``` console
+    brew install git-flow
+    git flow init
+    ```
 
 ## Default Branches
+
+---
 
 1. Production (main)
 2. Integration of the "next release" (develop)
@@ -40,6 +47,8 @@ git flow init
 6. Support (support/)
 
 ## Usage
+
+---
 
 A development team may have many members working on different parts of a software product. When a team member wants to create a new feature, they issue `git flow feature start [featureName]` to create a new branch for that feature.
 

@@ -12,7 +12,9 @@ hide:
 ---
 
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
+
+!!! cite ""
 
     - [Git Reference Manual](https://git-scm.com/docs)
     - [Pro Git Book](https://git-scm.com/book/en/v2)

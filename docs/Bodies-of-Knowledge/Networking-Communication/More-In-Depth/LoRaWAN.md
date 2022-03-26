@@ -19,16 +19,21 @@ LoRaWAN protocol is developed and maintained by the [LoRa Alliance](https://lora
 
 ## LoRaWAN Architecture
 
+---
+
 LoRaWAN networks are deployed in a star-of-stars topology.
 
 ![LoRaTopology](../../assets/LoRaWAN-Architecture.png)
-LoRaWAN Architecture | The Things Network
+
+!!! cite ""
+    LoRaWAN Architecture | The Things Network
 
 ### End Points
 
 - Can be a sensor (e.g. temperature, pressure, fall detection), an actuator (e.g. relay) or both.
 - Often battery powered
 - Connected to LoRaWAN through gateways using [LoRa (PHY)](LoRa.md)
+
 ### Gateways
 
 - Registered to a network server
@@ -65,6 +70,8 @@ LoRaWAN Architecture | The Things Network
 
 ## Regional Parameters
 
+---
+
 LoRaWAN operates in unlicensed radio spectrum
 
 In New Zealand, the 915 to 928Mhz ISM band is used. Which is licensed under a [General User Radio Licence (GURL)](https://www.rsm.govt.nz/licensing/frequencies-for-anyone/short-range-devices-gurl) for short range devices. Some specific frequencies allowed under the GURL are as follows.
@@ -78,7 +85,7 @@ In New Zealand, the 915 to 928Mhz ISM band is used. Which is licensed under a [G
 
 **Special condition 23** Transmissions must not exceed the following unwanted emission limits: -79 dBW (-49 dBm) e.i.r.p. within 800 – 915 MHz and -63 dBW (-33 dBm) e.i.r.p. within 928 MHz – 1 GHz. The reference bandwidth for emissions is 100 kHz. Outside the band 800 MHz – 1 GHz, the limits prescribed in applicable standards prescribed in the Radio-communications (Radio Standards) Notice 2020* apply. In the absence of applicable standards, the limits prescribed in Table 2 of the notice apply.
 
-&gt; [Radio Spectrum Management NZ | GURL Licence Summary](https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/LicenceSummary.wdk?id=219752)
+> [Radio Spectrum Management NZ | GURL Licence Summary](https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/LicenceSummary.wdk?id=219752)
 
 915 to 920 should be avoided due to limitation of power required
 
@@ -118,6 +125,8 @@ During the joining process, additional channels are set which depends on network
 9. 923.3 - SF12BW500 (RX2)
 
 ## Messages
+
+---
 
 ### Uplink messages
 
@@ -178,6 +187,8 @@ Messages may initiate from an application or join server.
 
 ## Device Classes
 
+---
+
 Three classes which all support bi-directional communication. End devices must support Class A
 
 ### Class A
@@ -190,7 +201,8 @@ Three classes which all support bi-directional communication. End devices must s
 
 ![](../../assets/LoRaWAN-class-a.png)
 
-LoRaWAN Device Class A | The Things Network
+!!! cite ""
+    LoRaWAN Device Class A | The Things Network
 
 ### Class B
 
@@ -203,7 +215,8 @@ LoRaWAN Device Class A | The Things Network
 
 ![](../../assets/LoRaWAN-class-b.png)
 
-LoRaWAN Device Class B | The Things Network
+!!! cite ""
+    LoRaWAN Device Class B | The Things Network
 
 ### Class C
 
@@ -214,9 +227,12 @@ LoRaWAN Device Class B | The Things Network
 
 ![](../../assets/LoRaWAN-class-c.png)
 
-LoRaWAN Device Class C | The Things Network
+!!! cite ""
+    LoRaWAN Device Class C | The Things Network
 
 ## End Point Activation
+
+---
 
 Every end device must be registered with a network before sending and receiving messages.
 
@@ -230,7 +246,9 @@ Every end device must be registered with a network before sending and receiving 
 
 ## Spreading Factor
 
-LoRo, being based off Chirp Spread Spectrum (CSS) technology, chirps (also known as symbols) are the carrier of data.
+---
+
+LoRa, being based off Chirp Spread Spectrum (CSS) technology, chirps (also known as symbols) are the carrier of data.
 
 The spreading factor controls the chirp rate, and thus the data rate.
 
@@ -253,11 +271,19 @@ In comparison with a higher spreading factor (SF), a lower SF provides a higher 
 
 ## Adaptive Data Rate
 
+---
+
 ## Limitations
+
+---
 
 ## Packets
 
+---
+
 ## Further Reading
+
+---
 
 - [LoRa](LoRa.md)
 

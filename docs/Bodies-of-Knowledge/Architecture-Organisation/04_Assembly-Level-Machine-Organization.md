@@ -3,7 +3,7 @@
 hide:
     - navigation 
 ---
-# AR/Assembly Level Machine Organization
+# AR/ Assembly Level Machine Organization
 
 [:octicons-arrow-left-24: Return to Architecture and Organisation](/Bodies-of-Knowledge/Architecture-Organisation/)
 

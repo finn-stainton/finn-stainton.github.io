@@ -3,7 +3,7 @@
 hide:
     - navigation 
 ---
-# AR/Memory System Organization and Architecture
+# AR/ Memory System Organization and Architecture
 
 [:octicons-arrow-left-24: Return to Architecture and Organisation](/Bodies-of-Knowledge/Architecture-Organisation/)
 

@@ -3,7 +3,7 @@
 hide:
     - navigation 
 ---
-# AR/Interfacing and Communication
+# AR/ Interfacing and Communication
 
 [:octicons-arrow-left-24: Return to Architecture and Organisation](/Bodies-of-Knowledge/Architecture-Organisation/)
 

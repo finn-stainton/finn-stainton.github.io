@@ -14,6 +14,8 @@ MQTT is a lightweight publish/ subscribe transport layer protocol designed for m
 
 ## Architecture
 
+---
+
 ![MQTT Architecture](../../assets/mqtt-publish-subscribe.png)
 
 !!! cite ""
@@ -56,20 +58,19 @@ Three levels of QoS for message delivery
 #### Last Will & Testament
 
 ### Subscribe
- 
-**Packet Contents**
 
-- packetId: unique number created by client library or broker. 
-- qos1: number 0, 1 or 2 wanted. See [Quality of Service](#quality-of-service)
-- topic1: 
-- qos2
-- topic2
-- ...
+!!! cite "Packet Contents"
 
+    - packetId: unique number created by client library or broker. 
+    - qos1: number 0, 1 or 2 wanted. See [Quality of Service](#quality-of-service)
+    - topic1:
+    - qos2
+    - topic2
+    - ...
 
 #### Suback
 
-A SUBACK acknowledgement message is return from the broker to the client to confirm a subscription. 
+A SUBACK acknowledgement message is return from the broker to the client to confirm a subscription.
 
 **Packet Contents**
 
@@ -82,14 +83,19 @@ A SUBACK acknowledgement message is return from the broker to the client to conf
 
 ## Implementations
 
-### Eclipse Mosquitto (Broker) 
+---
+
+### Eclipse Mosquitto (Broker)
+
+
+## Resources/ Bib.
 
 ---
 
-!!! cite "Resources/ Bib."
+!!! cite ""
 
-  - [MQTT Ver.3.1.1 OASIS Standard](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html)
-  - [mqtt.org](https://mqtt.org)
-  - [HiveMQ](https://www.hivemq.com/mqtt-essentials/)
-  - [Wikipedia](https://en.wikipedia.org/wiki/MQTT)
-  - [Mosquitto](https://mosquitto.org/)
+    - [MQTT Ver.3.1.1 OASIS Standard](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/os/mqtt-v3.1.1-os.html)
+    - [mqtt.org](https://mqtt.org)
+    - [HiveMQ](https://www.hivemq.com/mqtt-essentials/)
+    - [Wikipedia](https://en.wikipedia.org/wiki/MQTT)
+    - [Mosquitto](https://mosquitto.org/)

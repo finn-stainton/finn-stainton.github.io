@@ -83,4 +83,6 @@ hide:
 
 ## Online algorithms and competitive analysis
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
+
+!!! cite ""

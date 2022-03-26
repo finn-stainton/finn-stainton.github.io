@@ -27,7 +27,11 @@ hide:
 
 ## Program comprehension
 
+---
+
 ## Program correctness
+
+---
 
 ### Types of errors 
 
@@ -95,7 +99,11 @@ compliment developers on **good things** that they do.
 
 ## Simple refactoring
 
+---
+
 ## Modern programming environments
+
+---
 
 ### Code search
 
@@ -103,4 +111,8 @@ compliment developers on **good things** that they do.
 
 ## Debugging strategies
 
+---
+
 ## Documentation and program style
+
+---

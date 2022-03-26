@@ -65,7 +65,9 @@ Suppose $T(n)$ is given for $n \geq 1$ by the recurrence $T(n) = aT(n/b) + f(n)$
 - If $f(n)$ is $\Theta({n^{\log_{b}a}})$ then $T(n)$ is $\theta({n^{\log_{b}a}} \log_{b}n).$
 - If $f(n)$ is $\ohm({n^{\log_{b}a+\epsilon}})$ for some constant $\epsilon > 0$ and if a $f(n/b) \geq r f(n)$ for some constant $r < 1$ and all large enough $n$ then $T(n)$ is $\theta(f(n)).$
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
+
+!!! cite ""
 
 [^1]:
     Distributed and Mobile Systems, Andrew Ensor
@@ -132,7 +134,9 @@ Navigating a Maze
 
 ### Appropriate algorithmic approach [Assignment]
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
+
+!!! cite ""
 
 ## AL/Fundamental Data Structures and Algorithms
 
@@ -235,7 +239,9 @@ including strategies for avoiding and resolving collisions
 - regular expression matching algorithms, 
 - longest common subsequence algorithms
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
+
+!!! cite ""
 
 - Distributed and Mobile Systems, Andrew Ensor
 
@@ -313,7 +319,9 @@ including strategies for avoiding and resolving collisions
 
 ### Online algorithms and competitive analysis
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
+
+!!! cite ""
 
 ## AL/Basic Automata Computability and Complexity
 

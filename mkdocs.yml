@@ -84,9 +84,9 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/finn-stainton
+      link: https://www.linkedin.com/in/finn-stainton/
     - icon: fontawesome/brands/github
-      link: https://github.com/finn-stainton
+      link: https://github.com/finn-stainton/
 
 # Extensions
 markdown_extensions:
@@ -119,10 +119,6 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:

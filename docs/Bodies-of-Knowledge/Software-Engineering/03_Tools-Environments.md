@@ -25,16 +25,13 @@ hide:
 
 ## Software configuration management
 
+---
+
 ## Version control
 
-### [Git]
+---
 
-!!! cite "Resources/ Bib."
-
-    - [Git Reference Manual](https://git-scm.com/docs)
-    - [Pro Git Book](https://git-scm.com/book/en/v2)
-    - Atlassian Git Cheat Sheet
-    - [GitHub Git Cheat Sheet](https://github.github.com/training-kit/)
+### Git
 
 Is a Version Control System which records changes to a file(s) over time.
 
@@ -63,17 +60,37 @@ Git Flow is a branching workflow model designed for product release which extent
 
 ## Release management
 
+---
+
 ## Requirements analysis
+
+---
 
 ## Design modeling tools
 
+---
+
 ## Testing tools
+
+---
+
+### Jest
+
+> See [Jest](More-In-Depth/Jest.md)
+
+### Cypress
+
+> See [Cypress](More-In-Depth)(Cypress.md)
+
+### JUnit
 
 **Static analysis tools**
 
 **Dynamic analysis tools**
 
 ## Automation Tools
+
+---
 
 Programming environments that automate parts of program construction processes 
 
@@ -86,3 +103,5 @@ automated builds
 #### GitHub Actions
 
 ## Tool integration concepts and mechanisms
+
+---

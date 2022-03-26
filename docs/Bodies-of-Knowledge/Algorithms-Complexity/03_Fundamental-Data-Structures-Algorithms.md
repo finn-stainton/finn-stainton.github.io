@@ -141,6 +141,8 @@ including strategies for avoiding and resolving collisions
 
 #### Longest common subsequence algorithms
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
+
+!!! cite ""
 
     - Distributed and Mobile Systems, Andrew Ensor

@@ -3,7 +3,7 @@
 hide:
     - navigation 
 ---
-# AR/Machine Level Representation of Data
+# AR/ Machine Level Representation of Data
 
 [:octicons-arrow-left-24: Return to Architecture and Organisation](/Bodies-of-Knowledge/Architecture-Organisation/)
 

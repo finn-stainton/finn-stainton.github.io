@@ -1,10 +1,28 @@
-# Personal Organisation
+---
+hide:
+    - navigation
+
+---
+# Personal Skills
+
+[:octicons-arrow-left-24: Return to Bodies of Knowledge](/Bodies-of-Knowledge/)
+
+---
+
+!!! warning "In Progress"
+
+Overview Paragraph
+
+## Identifying Problems
+
+---
 
 ## Goals
 
-!!! quote
+---
 
-    “The trouble with not having a goal is that you can spend your life running up and down the field and never score.” Unknown
+!!! quote
+    “The trouble with not having a goal is that you can spend your life running up and down the field and never score.” Unknown
 
 ### SMART Goals
 
@@ -15,17 +33,13 @@
 - Relevant
 - Time-Base (or testable)
 
-!!! cite "Resource"
+## Planning
 
-    [https://www.indeed.com/career-advice/career-development/smart-goals](https://www.indeed.com/career-advice/career-development/smart-goals)
-
-## Note Taking
-
-### Mind Mapping
-
-### Cornell
+---
 
 ## Time Management
+
+---
 
 Accurately predicting how much time it will take to do a task, and then setting aside that amount of time to complete it. Estimations must take into account unknowns, interruptions or unforeseen problems that cause delays. Estimation includes:
 
@@ -50,8 +64,9 @@ How to check requirements?
 - Ask questions; don't assume
 - If able to, get a review of progress, take it
 - If you need pre-requisite time for a task, build it into the schedule. This could include, lab, research, device time or a response for others.
-1. **Increase Personal Responsibility: I am** responsible for navigating around roadblocks and overcoming them. Take control of the journey! Issues are not other people's problems but for me to solve. 
-2. **Reward yourself for Completing the Task:** Rewards for a job well done (acknowledge the achievement). 
+
+1. **Increase Personal Responsibility: I am** responsible for navigating around roadblocks and overcoming them. Take control of the journey! Issues are not other people's problems but for me to solve.
+2. **Reward yourself for Completing the Task:** Rewards for a job well done (acknowledge the achievement).
 3. **Make Certain they are MY Goals:**
 4. **Visualise the result:**
 5. **Break the Goal down into manageable tasks:**
@@ -65,22 +80,33 @@ Procrastination can become a serious problem when it becomes chronic and/or ther
 - **Reward Yourself:** Use the distraction as a reward for completing a goal instead of it holding you back. Set standards for the goal.
 - **Be Accountable – Tell Someone:** Tell them what and when. Even future You (Trial). Set a level of commitment. Get approval
 
-!!! cite 
-    [https://learningcenter.unc.edu/tips-and-tools/how-to-tame-procrastination/](https://learningcenter.unc.edu/tips-and-tools/how-to-tame-procrastination/)
+## Research
 
-!!! cite
-    OpenStax, Managing Time and Priorities. Adapted from OpenStax "College Success”, by Amy Baldwin (University of Central Arkansas), James Bennett (Herzing University), et al. Available openly at https://openstax.org/subjects/college-success
+---
 
-## Highlighting
+## Reading
+
+### Active Reading
+
+Do all of these processes as you read.
+
+1. Accessing Prior Knowledge: Bring knowledge about the topic to the reading session.
+2. Asking Questions: Oral and Written pertinent questions about the content. (Expand)
+3. Inferring and Implying: Information from what you read. *This means that xyz…* 
+4. Learning Vocabulary: take note, practice dictation and spelling
+5. Evaluating: what you are reading. (How)
+6. Applying: what you're reading to other learnings/ life situations.(3)
+
+### Highlighting
 
 1. Reason for Highlighting: may change by subject or objective. 
-   1. Organise:
-   2. Emphasise:
-   3. Remind:
-   4. Reuse: (for an essay, etc.)
-   5. Preparing for a discussion
-   6. Minor quiz
-   7. Study for examination
+    1. Organise:
+    2. Emphasise:
+    3. Remind:
+    4. Reuse: (for an essay, etc.)
+    5. Preparing for a discussion
+    6. Minor quiz
+    7. Study for examination
 2. Use different colours and styles:
 3. Take note of the highlighted section: Why
 4. Read the page before highlighting: Understand the content before highlighting only the most important material.
@@ -92,20 +118,22 @@ Change colour with different elements. E.g. Cause and Effect maybe pink.
 
 Highlight concepts that link together over a course, book, chapter.
 
-## Reading
+### Mind Mapping
 
-### Active Reading
+### Cornell
 
-Do all of these processes as you read. 
+## Writing
 
-1. Accessing Prior Knowledge: Bring knowledge about the topic to the reading session.
-2. Asking Questions: Oral and Written pertinent questions about the content. (Expand)
-3. Inferring and Implying: Information from what you read. *This means that xyz…* 
-4. Learning Vocabulary: take note, practice dictation and spelling
-5. Evaluating: what you are reading. (How)
-6. Applying: what you're reading to other learnings/ life situations.
+---
+
+## Reflection
+
+---
+
+## Resources/ Bib
 
 !!! cite 
-    OpenStax, Effective Reading and Note taking. Adapted from OpenStax "College Success”, by Amy Baldwin (University of Central Arkansas), James Bennett (Herzing University), et al. Available openly at https://openstax.org/subjects/college-success
-
-## Planning
+    1. [https://learningcenter.unc.edu/tips-and-tools/how-to-tame-procrastination/](https://learningcenter.unc.edu/tips-and-tools/how-to-tame-procrastination/)
+    2. OpenStax, Managing Time and Priorities. Adapted from OpenStax "College Success”, by Amy Baldwin (University of Central Arkansas), James Bennett (Herzing University), et al. Available openly at https://openstax.org/subjects/college-success
+    3. OpenStax, Effective Reading and Note taking. Adapted from OpenStax "College Success”, by Amy Baldwin (University of Central Arkansas), James Bennett (Herzing University), et al. Available openly at https://openstax.org/subjects/college-success
+    4. [https://www.indeed.com/career-advice/career-development/smart-goals](https://www.indeed.com/career-advice/career-development/smart-goals)

@@ -1,4 +1,4 @@
-Azure Event Hub
+# Azure Event Hub
 
 A big data streaming platform and event ingestion service
 
@@ -8,9 +8,8 @@ A big data streaming platform and event ingestion service
   
 - Provides a distributed stream processing platform with low latency and seamless integration, with data and analytics services
   
-- &quot;front door&quot; for an event pipeline, often called an *event ingestor* (component or service that sits between event publishers and event consumers to decouple the production of an event stream from the consumption of those events)
+- "front door" for an event pipeline, often called an *event ingestor* (component or service that sits between event publishers and event consumers to decouple the production of an event stream from the consumption of those events)
   
 - unified streaming platform with time retention buffer, decoupling event producers from event consumers.
-  
 
-## For Apache Kafka
+## Apache Kafka Integration

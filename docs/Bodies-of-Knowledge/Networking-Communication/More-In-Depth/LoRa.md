@@ -14,12 +14,12 @@ Is a spread spectrum modulation technique derived from chirp spread spectrum (CS
 
 ![LoRa-Comparison](../../assets/LoRa-Comparison.png)
 
-
-
 ## Spread Spectrum Communication
+
  with the trade off 
 
 being Low Bandwidth. sensitivity and data rate, while operating in a fixed-bandwidth channel of either 125 KHz or 500 KHz (for uplink channels), and 500 KHz (for downlink c
+
 ## Modulation
 
 ### Spread Spectrum Communication
@@ -35,8 +35,6 @@ being Low Bandwidth. sensitivity and data rate, while operating in a fixed-bandw
 ## Transmission
 
 ### Link budget
-
-
 
 ### Power
 
@@ -102,7 +100,9 @@ $$
 
 - [LoRaWAN](LoRaWAN.md)
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
+
+!!! cite ""
 
     - [Semtech](https://www.semtech.com/lora/what-is-lora)
     - [LoRa Readthedocs](https://lora.readthedocs.io/en/latest/)

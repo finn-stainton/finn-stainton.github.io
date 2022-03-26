@@ -65,7 +65,9 @@ Agile is not a *thing*
 - [Scrum](More-In-Depth/Scrum.md)
 - [KanBan](More-In-Depth/Kanban.md)
 
-!!! cite "Resources/ Bib."
+## Resources/ Bib.
+
+!!! cite ""
     - [The Manifesto for Agile Software Development](http://www.agilemanifesto.org/)
     - [What is Agile? | Microsoft Docs](https://docs.microsoft.com/en-us/devops/plan/what-is-agile)
 

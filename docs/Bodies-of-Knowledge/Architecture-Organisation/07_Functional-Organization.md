@@ -3,7 +3,7 @@
 hide:
     - navigation 
 ---
-# AR/Functional Organization
+# AR/ Functional Organization
 
 [:octicons-arrow-left-24: Return to Architecture and Organisation](/Bodies-of-Knowledge/Architecture-Organisation/)
 

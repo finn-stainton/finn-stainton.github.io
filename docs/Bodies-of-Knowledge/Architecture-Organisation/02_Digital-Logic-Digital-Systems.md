@@ -3,7 +3,7 @@
 hide:
     - navigation 
 ---
-# AR/Digital Logic and Digital Systems
+# AR/ Digital Logic and Digital Systems
 
 [:octicons-arrow-left-24: Return to Architecture and Organisation](/Bodies-of-Knowledge/Architecture-Organisation/)
 

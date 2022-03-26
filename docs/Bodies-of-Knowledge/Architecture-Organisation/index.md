@@ -25,7 +25,7 @@ Computing professionals should not regard the computer as just a black box that 
             <a href="01_History-Overview">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>AR/History and Overview</h2>
+                        <h2>History and Overview</h2>
                     </div>
                 </div>
             </a>
@@ -34,7 +34,7 @@ Computing professionals should not regard the computer as just a black box that 
             <a href="02_Digital-Logic-Digital-Systems">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>AR/Digital Logic and Digital Systems</h2>
+                        <h2>Digital Logic and Digital Systems</h2>
                     </div>
                 </div>
             </a>
@@ -43,7 +43,7 @@ Computing professionals should not regard the computer as just a black box that 
             <a href="03_Representation-Data">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-                        <h2>AR/Machine Level Representation of Data</h2>
+                        <h2>Machine Level Representation of Data</h2>
                     </div>
                 </div>
             </a>
@@ -54,7 +54,7 @@ Computing professionals should not regard the computer as just a black box that 
             <a href="04_Assembly-Level-Machine-Organization">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>AR/Assembly Level Machine Organization</h2>
+                        <h2>Assembly Level Machine Organization</h2>
                     </div>
                 </div>
             </a>
@@ -63,7 +63,7 @@ Computing professionals should not regard the computer as just a black box that 
             <a href="05_Memory-System-Organization-Architecture">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>AR/Memory System Organization and Architecture</h2>
+                        <h2>Memory System Organization and Architecture</h2>
                     </div>
                 </div>
             </a>
@@ -72,7 +72,7 @@ Computing professionals should not regard the computer as just a black box that 
             <a href="06_Interfacing-Communication">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-                        <h2>AR/Interfacing and Communication</h2>
+                        <h2>Interfacing and Communication</h2>
                     </div>
                 </div>
             </a>
@@ -83,7 +83,7 @@ Computing professionals should not regard the computer as just a black box that 
             <a href="07_Functional-Organization">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>AR/Functional Organization</h2>
+                        <h2>Functional Organization</h2>
                     </div>
                 </div>
             </a>
@@ -92,7 +92,7 @@ Computing professionals should not regard the computer as just a black box that 
             <a href="08_Multiprocessing-Alternative-Architectures">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>AR/Multiprocessing and Alternative Architectures</h2>
+                        <h2>Multiprocessing and Alternative Architectures</h2>
                     </div>
                 </div>
             </a>
@@ -101,7 +101,7 @@ Computing professionals should not regard the computer as just a black box that 
             <a href="09_Performance-Enhancements">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-                        <h2>AR/Performance Enhancements</h2>
+                        <h2>Performance Enhancements</h2>
                     </div>
                 </div>
             </a>

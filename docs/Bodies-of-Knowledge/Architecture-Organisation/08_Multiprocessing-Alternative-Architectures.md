@@ -3,7 +3,7 @@
 hide:
     - navigation 
 ---
-# AR/Multiprocessing and Alternative Architectures
+# AR/ Multiprocessing and Alternative Architectures
 
 [:octicons-arrow-left-24: Return to Architecture and Organisation](/Bodies-of-Knowledge/Architecture-Organisation/)
 

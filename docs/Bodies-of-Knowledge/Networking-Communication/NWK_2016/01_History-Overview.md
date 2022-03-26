@@ -13,7 +13,7 @@
 
 ## Important applications of computer network
 
-## Contributiors to networks
+## Contributions to networks
 
 ## Basic composition and hierarchy of computer network
 

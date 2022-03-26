@@ -3,7 +3,7 @@
 hide:
     - navigation 
 ---
-# AR/Performance Enhancements
+# AR/ Performance Enhancements
 
 [:octicons-arrow-left-24: Return to Architecture and Organisation](/Bodies-of-Knowledge/Architecture-Organisation/)
 

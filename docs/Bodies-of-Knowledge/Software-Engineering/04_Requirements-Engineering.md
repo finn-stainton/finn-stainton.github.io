@@ -25,7 +25,9 @@ hide:
     12.  Create a prototype of a software system to mitigate risk in requirements. [Usage]
     13.  Differentiate between forward and backward tracing and explain their roles in the requirements validation process. [Familiarity]
 
-## Describing functional requirements
+## Functional requirements
+
+---
 
 ### Use cases
 
@@ -40,7 +42,11 @@ hide:
 
 ## Software requirements elicitation
 
+---
+
 ## Describing system data
+
+---
 
 ### Class diagrams
 
@@ -48,24 +54,45 @@ hide:
 
 ## Non-functional requirements
 
-(cross-reference [IAS/Secure Software Engineering]())
+(cross-reference [IAS/Secure Software Engineering](../Information-Assurance-Security/index.md))
 
 Relationship to software quality
 
 ## Evaluation and use of requirements specifications
 
+---
+
 ## Requirements analysis modeling techniques
 
+---
+
 ## Acceptability of certainty / uncertainty considerations
+
+---
 
 Regarding software / system behavior
 
 ## Prototyping
 
+---
+
+### Lo-fi Prototyping
+
+---
+
 ## Basic concepts of formal requirements specification
+
+---
 
 ## Requirements specification
 
+---
+
 ## Requirements validation
 
+---
+
+
 ## Requirements tracing
+
+---
