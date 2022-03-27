@@ -10,7 +10,7 @@ hide:
 
 ---
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 

@@ -85,7 +85,7 @@ Goal: Help developer change proposal get reviewed and merged within 24 hours of 
 
 ## Further Reading
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 

@@ -92,7 +92,7 @@ Suppose $T(n)$ is given for $n \geq 1$ by the recurrence $T(n) = aT(n/b) + f(n)$
 - If $f(n)$ is $\Theta({n^{\log_{b}a}})$ then $T(n)$ is $\theta({n^{\log_{b}a}} \log_{b}n).$
 - If $f(n)$ is $\Omega({n^{\log_{b}a+\epsilon}})$ for some constant $\epsilon > 0$ and if a $f(n/b) \geq r f(n)$ for some constant $r < 1$ and all large enough $n$ then $T(n)$ is $\theta(f(n)).$
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
     - Algorithm Design and Analysis, Andrew Ensor, 2020

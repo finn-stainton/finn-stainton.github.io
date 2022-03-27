@@ -83,6 +83,6 @@ hide:
 
 ## Online algorithms and competitive analysis
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""

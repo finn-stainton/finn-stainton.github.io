@@ -11,7 +11,7 @@ hide:
 
 Is a strongly typed language developed by Microsoft which is a superset of JavaScript. Additional features include static types. Types annotation is optional. Has to be compiled down to JavaScript.
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 

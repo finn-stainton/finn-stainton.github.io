@@ -12,7 +12,7 @@ GitFlow is a branching workflow model designed for product release which extents
 
 ---
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
     1. [GitFlow Cheat Sheet (Highly Recommend)](https://danielkummer.github.io/git-flow-cheatsheet/)

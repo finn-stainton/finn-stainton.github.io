@@ -40,7 +40,7 @@ Aimed at driving the development of features, which is driven by user needs. Use
 - [Cucumber](Cucumber.md)
 - [Use Case](UML-Diagrams.md)
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 

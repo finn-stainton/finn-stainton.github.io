@@ -16,6 +16,6 @@ Where:
 
 - Logarithmic
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""

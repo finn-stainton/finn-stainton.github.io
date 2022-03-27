@@ -12,7 +12,7 @@ JavaScript Testing Framework that works with projects using: Babel, TypeScript, 
 
 ---
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
     1. [Jest Docs](https://jestjs.io/docs/getting-started)

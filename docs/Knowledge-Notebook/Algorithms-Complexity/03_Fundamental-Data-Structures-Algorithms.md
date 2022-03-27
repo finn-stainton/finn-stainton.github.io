@@ -141,7 +141,7 @@ including strategies for avoiding and resolving collisions
 
 #### Longest common subsequence algorithms
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 

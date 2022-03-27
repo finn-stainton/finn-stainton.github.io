@@ -127,7 +127,7 @@ Is a behavior diagram which
 
 **Examples**
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
     - System Analysis Design UML Version 2.0: An Object-Oriented Approach. Dennis, A., Wixom, B. H. (2012).

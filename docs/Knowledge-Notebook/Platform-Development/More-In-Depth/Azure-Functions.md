@@ -31,7 +31,7 @@ Followed the instructions in [Quickstart: Create a function in Azure with TypeSc
 
 [Unit testing Azure Functions with Jest and TypeScript](https://www.maxivanov.io/unit-testing-azure-function-with-jest-typescript/)
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 

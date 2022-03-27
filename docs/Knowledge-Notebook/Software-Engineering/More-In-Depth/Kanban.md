@@ -62,7 +62,7 @@ Cards are Minimal Marketable Features (MMF)
 
 MMF's may take weeks to build. 
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 

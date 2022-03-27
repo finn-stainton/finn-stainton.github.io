@@ -17,7 +17,7 @@ hide:
 // manifest
 
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 

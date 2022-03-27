@@ -88,7 +88,7 @@ A SUBACK acknowledgement message is return from the broker to the client to conf
 ### Eclipse Mosquitto (Broker)
 
 
-## Resources/ Bib.
+## Resources/ Bib
 
 ---
 

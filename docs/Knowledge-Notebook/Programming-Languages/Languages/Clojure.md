@@ -95,7 +95,7 @@ In Emacs
 
 ## Further Reading
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 

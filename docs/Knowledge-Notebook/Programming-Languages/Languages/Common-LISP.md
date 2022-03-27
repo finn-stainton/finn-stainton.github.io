@@ -10,7 +10,7 @@ hide:
 
 ---
 
-## Resources/ Bib.
+## Resources/ Bib
 
 - COMMON LISP: A Gentle Introduction to Symbolic Computation, David S. Touretzky (Great Book)
 

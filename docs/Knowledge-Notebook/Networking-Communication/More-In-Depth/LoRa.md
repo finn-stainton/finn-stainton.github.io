@@ -100,7 +100,7 @@ $$
 
 - [LoRaWAN](LoRaWAN.md)
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 

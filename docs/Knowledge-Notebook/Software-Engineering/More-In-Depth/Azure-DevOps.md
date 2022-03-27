@@ -75,6 +75,6 @@ Contains a pane of widgets
 
 - [DevOps](/Knowledge-Notebook/Software-Engineering/More-In-Depth/DevOps)
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""

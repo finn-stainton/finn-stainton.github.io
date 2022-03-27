@@ -166,7 +166,7 @@ bin/kafka-server-start.sh config/server.properties
 
 ## Configuration
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 

@@ -75,7 +75,7 @@ A Servlet called `ServletContainer` handles HTTP requests and forwards them to t
 - JSON Web Tokens
 - HTTP
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 
