@@ -47,7 +47,7 @@ for a range of possible applications.
 
 ## Tools that ensures an efficient approach to implementing various client-server possibilities
 
-## Design and build a simple interactive web-based application 
+## Design and build a simple interactive web-based application
 
 (for example, a simple web form that collects information from the client and stores it in a file on the server)
 

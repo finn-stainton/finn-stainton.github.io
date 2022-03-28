@@ -23,7 +23,7 @@ individual developer or a team or teams of developers, requires choosing the mos
 tools, methods, and approaches for a given development environment.
 
 !!! cite ""
-    Extract from: ACM 2016 Computer Science Curriculum
+    Extract from: ACM 2013 Computer Science Curriculum
 
 ## Units
 

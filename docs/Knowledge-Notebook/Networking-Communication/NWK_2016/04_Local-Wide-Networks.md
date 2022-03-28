@@ -3,6 +3,7 @@ hide:
     - navigation
 
 ---
+
 # NWK/ Local and wide area networks
 
 [:octicons-arrow-left-24: Return to NWK 2016](/Knowledge-Notebook/Networking-Communication/NWK_2016/)
@@ -28,7 +29,7 @@ hide:
 
 ## Use of network technologies for on-chip interconnect networks
 
-### Network-on-Chip (NoC) architectures.
+### Network-on-Chip (NoC) architectures
 
 ## Components and requirements of network protocols with their tradeoffs
 

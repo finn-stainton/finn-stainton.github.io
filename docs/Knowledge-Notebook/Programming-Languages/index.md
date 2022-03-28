@@ -23,7 +23,7 @@ their limitations, also requires a basic knowledge of programming language trans
 program analysis, as well as run-time components such as memory management.
 
 !!! cite ""
-    Extract from: ACM 2016 Computer Science Curriculum
+    Extract from: ACM 2013 Computer Science Curriculum
 
 ## Units
 

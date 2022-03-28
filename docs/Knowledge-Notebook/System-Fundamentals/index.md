@@ -22,7 +22,7 @@ fashion, providing a common foundation for the different specialized mechanisms 
 appropriate to the particular domain area.
 
 !!! cite ""
-    Extract from: ACM 2016 Computer Science Curriculum
+    Extract from: ACM 2013 Computer Science Curriculum
 
 <!--## Units
 

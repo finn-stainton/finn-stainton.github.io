@@ -26,7 +26,7 @@ and forwarding. Other educators prefer a bottom-up approach where the students s
 lower layers and build their understanding of the network, transport and application layers later.
 
 !!! cite ""
-    Extract from: ACM 2016 Computer Science Curriculum
+    Extract from: ACM 2013 Computer Science Curriculum
 
 <!--## Units
 

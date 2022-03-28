@@ -40,5 +40,3 @@ Followed the instructions in [Quickstart: Create a function in Azure with TypeSc
     - [Serverless Node.js code with Azure Functions - Azure | Microsoft Docs](https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/develop-serverless-apps)
     - [Shifting from Express.js to Azure Functions | Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/shift-expressjs)
     - [Create a TypeScript function using Visual Studio Code - Azure Functions | Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-typescript)
-
-

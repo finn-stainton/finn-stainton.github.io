@@ -16,7 +16,7 @@ Discrete structures include important material from such areas as set theory, lo
 Given that discrete structures serves as a foundation for many other areas in computing, it is worth noting that the boundary between discrete structures and other areas, particularly Algorithms and Complexity, Software Development Fundamentals, Programming Languages, and Intelligent Systems, may not always be crisp.
 
 !!! cite ""
-    Extract from: ACM 2016 Computer Science Curriculum
+    Extract from: ACM 2013 Computer Science Curriculum
 
 ## Units
 

@@ -43,7 +43,6 @@ being Low Bandwidth. sensitivity and data rate, while operating in a fixed-bandw
 EU: 14 dBm
 NZ: 0 dBW
 
-
 ### Frequencies
 
 LoRa uses the Industry, Scientific and Medical (ISM) bands which don't require a licence to broadcast but do have limitations like maximum power and duty cycle. 
@@ -87,7 +86,6 @@ $$
 
 ## Range
 
-
 ## Link budget
 
 ## Fresnel zone
@@ -104,10 +102,9 @@ $$
 
 !!! cite ""
 
-    - [Semtech](https://www.semtech.com/lora/what-is-lora)
-    - [LoRa Readthedocs](https://lora.readthedocs.io/en/latest/)
-    - [Semtech LoRa](https://www.semtech.com/lora/what-is-lora)
-    - [LoRa Modulation Basics](https://www.frugalprototype.com/wp-content/uploads/2016/08/an1200.22.pdf)
-    - [LoRa Crash Course](https://www.youtube.com/watch?v=T3dGLqZrjIQ)
-    - [Short Range Devices GURL NZ](https://www.rsm.govt.nz/licensing/frequencies-for-anyone/short-range-devices-gurl)
-    - [Licence Summary RSM NZ](https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/LicenceSummary.wdk?id=219752)
+    1. [Semtech | What is LoRa](https://www.semtech.com/lora/what-is-lora)
+    2. [LoRa Readthedocs](https://lora.readthedocs.io/en/latest/)
+    3. [LoRa Modulation Basics](https://www.frugalprototype.com/wp-content/uploads/2016/08/an1200.22.pdf)
+    4. [LoRa Crash Course | YouTube](https://www.youtube.com/watch?v=T3dGLqZrjIQ)
+    5. [Short Range Devices GURL NZ](https://www.rsm.govt.nz/licensing/frequencies-for-anyone/short-range-devices-gurl)
+    6. [Licence Summary RSM NZ](https://rrf.rsm.govt.nz/smart-web/smart/page/-smart/domain/licence/LicenceSummary.wdk?id=219752)

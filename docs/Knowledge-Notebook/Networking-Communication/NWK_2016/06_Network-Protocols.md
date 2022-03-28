@@ -31,7 +31,15 @@ hide:
 
 related to their syntax, semantics, and timing.
 
-## Role of key layers from a software stack including physical-layer networking concepts, data-link layer concepts, internetworking, and routing.
+## Role of key layers from a software stack
+
+### physical-layer networking concepts
+
+### data-link layer concepts
+
+### internetworking
+
+### routing
 
 ## Common protocol suites
 

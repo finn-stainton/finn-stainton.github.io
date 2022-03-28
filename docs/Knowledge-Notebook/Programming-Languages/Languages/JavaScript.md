@@ -234,6 +234,12 @@ Compound assignment statements such as `+=` and `-=`
 
 ### Loops
 
+### if/ else if/ else
+
+### switch
+
+### termary
+
 ## Classes
 
 ---
@@ -259,11 +265,13 @@ function add(x, y) {
 
 ## Scopes
 
-## Strict Mode
+## DOM
 
 ---
 
-##
+## Strict Mode
+
+---
 
 ## ECMAScript 6, 2016, 2017
 
@@ -277,6 +285,24 @@ function add(x, y) {
 
 ---
 
+## Async/ Await
+
+---
+
+## Array Methods
+
+---
+
+### map
+
+### filter
+
+### reduce
+
+## Fetch
+
+---
+
 ## Math
 
 ---
@@ -286,3 +312,9 @@ function add(x, y) {
 - tan
   
 - PI
+
+## Further Reading
+
+---
+
+- [Node.js](../../Platform-Development/More-In-Depth/Node.md)

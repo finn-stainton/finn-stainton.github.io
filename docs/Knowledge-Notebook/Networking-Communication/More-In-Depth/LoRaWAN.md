@@ -12,7 +12,7 @@ LoRaWAN is a [Media Access Control (MAC)](MAC.md) layer protocol built on top of
 
 ---
 
-## Resources/ Bib.
+## Resources/ Bib
 
 !!! cite ""
 
@@ -97,12 +97,12 @@ In New Zealand, the 915 to 928Mhz ISM band is used. Which is licensed under a [G
 
 ### AS923
 
-**Default Channels**
+**Default Channels:**
 
 1. 923.2 - SF7BW125 to SF10BW125
 2. 923.4 - SF7BW125 to SF10BW125
 
-During the joining process, additional channels are set which depends on network server&#39;s implementation
+During the joining process, additional channels are set which depends on network server's implementation
 
 ### AU915
 
@@ -168,7 +168,6 @@ Messages may initiate from an application or join server.
 
 - A downlink data frame, confirmation is not required
 
-
 #### Confirmed Data Up
 
 - An uplink data frame, confirmation is requested
@@ -189,7 +188,7 @@ Messages may initiate from an application or join server.
 
 ### Data Messages
 
-![](../../assets/LoRaWAN-payload.png) 
+![LoRaWAN Message Payload](../../assets/LoRaWAN-payload.png)
 
 !!! cite ""
     LoRaWAN Message Payload | The Things Network
@@ -220,7 +219,7 @@ Three classes which all support bi-directional communication. End devices must s
 - End-device opens downlink ‘ping slots’ at scheduled times
 - Time between two beacons is known as the beacon period.
 - Reachable at preconfigured times
-- Don&#39;t need to send an uplink to receive downlink messages
+- Don't need to send an uplink to receive downlink messages
 
 ![LoRaWAN Class B](../../assets/LoRaWAN-class-b.png)
 

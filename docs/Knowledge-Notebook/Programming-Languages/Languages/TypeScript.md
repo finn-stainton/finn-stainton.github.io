@@ -5,21 +5,19 @@ hide:
 ---
 # TypeScript
 
+Is a strongly typed language developed by Microsoft which is a superset of JavaScript. Additional features include static types. It has to be compiled down to JavaScript.
+
 [:octicons-arrow-left-24: Return to Programming Languages](/Knowledge-Notebook/Programming-Languages/)
 
 ---
 
-Is a strongly typed language developed by Microsoft which is a superset of JavaScript. Additional features include static types. Types annotation is optional. Has to be compiled down to JavaScript.
-
 ## Resources/ Bib
 
-!!! cite ""
-
-    - [Docs](https://www.typescriptlang.org/docs/handbook/intro.html)
-    - [TSConfig Reference](https://www.typescriptlang.org/tsconfig)
-    - [Playground](https://www.typescriptlang.org/play)
-    - [Cheatsheets](https://www.typescriptlang.org/cheatsheets)
-    - [Type Search](https://www.typescriptlang.org/dt/search)
+- [Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [TSConfig Reference](https://www.typescriptlang.org/tsconfig)
+- [Playground](https://www.typescriptlang.org/play)
+- [Cheatsheets](https://www.typescriptlang.org/cheatsheets)
+- [Type Search](https://www.typescriptlang.org/dt/search)
 
 ## Getting Started
 
@@ -37,7 +35,7 @@ tsc file.ts
 
 Instead of having to compile each time, we can watch the file
 
-``` 
+```
 tsc --watch file.ts
 ```
 
@@ -47,33 +45,42 @@ create a tsconfig options file
 tsc --init
 ```
 
-<!-- ```
-echo '{
-    "compilerOptions":  {
-        "target":  "esnext",
-        "watch":  "true",
-        "lib":  ["dom", "es2017"]
-    }
-}' > tsconfig.json
-``` -->
-
-Can install syntax checking
-
 ```
 npm i -D @types/lodash
 ```
 
-## Noteworthy
+Can install syntax checking
+
+## tsconfig
+
+## Types
+
+&gt; [Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+
+**Primitives:** boolean, string, number, undefined, null, any, unknown, never, void, bigint, symbol
+
+**Common Object:** Date, Error, Array, Map, Set, Regexp, Promise
+
+**Type Literals:**
+
+- Object `{ field: string }`
+  
+- Function `(arg: number) =&gt; string`
+  
+- Arrays: `string[]` or `Array&lt;string&gt;`
+  
+- Tuple: `[string, number]`
+  
 
 ```typescript
-let variable = 20 // Without type annotations, inferred as a 'number'
-variable = '23' // Results in an error as not assignable to type 'number'
-
-let foo: string = '23' // With type annotations
-
-let ahh: any = 20 // 'any' type allows any data type to be written over the variable. 
-ahh = '21'
+let variable = 20 // Without type annotations, inferred as a &#39;number&#39;
+variable = &#39;23&#39; // Results in an error as not assignable to type &#39;number&#39; 
+let foo: string = &#39;23&#39; // With type annotations 
+let ahh: any = 20 // &#39;any&#39; type allows any data type to be written over the variable. 
+ahh = &#39;21&#39; // Change from number to string
 ```
+
+## Interface
 
 [![Control Flow Analysis Cheatsheet](https://www.typescriptlang.org/static/TypeScript%20Control%20Flow%20Analysis-8a549253ad8470850b77c4c5c351d457.png)](https://www.typescriptlang.org/static/TypeScript%20Control%20Flow%20Analysis-8a549253ad8470850b77c4c5c351d457.png)
 

@@ -27,21 +27,21 @@ hide:
 
 ## Objectives and main instruments for network management
 
-## Role of a domain name server (DNS) in distributed network management.
+## Role of a domain name server (DNS) in distributed network management
 
 ## Network management protocols
 
 ### ICMP
 
-### SNMP.
+### SNMP
 
-## Issues related to network management.
+## Issues related to network management
 
 ## Architectures for network management
 
 including the management console, aggregators, and device agents.
 
-## Management of a device 
+## Management of a device
 
 such as an enterprise switch through a management console.
 

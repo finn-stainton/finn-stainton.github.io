@@ -25,7 +25,7 @@ Distributed systems highlight the problems of security and fault tolerance, emph
 - **Multicast**: A message sent to possibly many recipients, generally without any constraints about whether some recipients receive the message before others. An event is a multicast message sent to a designated set of listeners or subscribers. As multi-processor computing continues to grow in the coming years, so too will the role of parallel and distributed computing in undergraduate computing curricula. 
 
 !!! cite ""
-    Extract from: ACM 2016 Computer Science Curriculum
+    Extract from: ACM 2013 Computer Science Curriculum
 
 ## Units
 
