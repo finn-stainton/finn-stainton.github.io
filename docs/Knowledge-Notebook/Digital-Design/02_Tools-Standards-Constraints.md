@@ -1,4 +1,13 @@
+---
+hide:
+    - navigation 
+
+---
 # DIG/Relevant tools, standards, and/or engineering constraints
+
+[:octicons-arrow-left-24: Return to Digital Design](/Knowledge-Notebook/Digital-Design/)
+
+---
 
 ??? info "Learning Outcomes"
 

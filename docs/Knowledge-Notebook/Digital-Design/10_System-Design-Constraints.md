@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation 
+
+---
+
 # DIG/System design and constraints
+
+[:octicons-arrow-left-24: Return to Digital Design](/Knowledge-Notebook/Digital-Design/)
+
+---
 
 ??? info "Learning Outcomes"
 

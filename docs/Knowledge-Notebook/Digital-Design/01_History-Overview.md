@@ -6,20 +6,9 @@ hide:
 
 # DIG/History and Overview
 
-[:octicons-arrow-left-24: Return to Digital Design](/Knowledge-Notebook/Discrete-Structures/)
+[:octicons-arrow-left-24: Return to Digital Design](/Knowledge-Notebook/Digital-Design/)
 
 ---
-
-**Area Scope**
-
-The knowledge units in this area collectively encompass the following:
-
-1. Digital design basics: number representation, arithmetic operations, Boolean algebra, and their realization as basic logic circuits
-2. Building blocks: combinational, sequential, memories, and elements for arithmetic operations
-3. Hardware Description Languages (HDLs), digital circuit modeling, design tools, and tool flow
-4. Programmable logic platforms (e.g., FPGAs) for implementing digital systems
-5. Datapaths and control units composed of combinational and sequential building blocks
-6. Analysis and design of digital systems including design space exploration, and tradeoffs based on constraints such as performance, power, and cost
 
 ??? info "Learning Outcomes"
 

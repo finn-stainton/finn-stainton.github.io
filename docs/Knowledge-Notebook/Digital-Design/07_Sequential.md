@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation 
+
+---
+
 # DIG/Modular design of sequential circuits
+
+[:octicons-arrow-left-24: Return to Digital Design](/Knowledge-Notebook/Digital-Design/)
+
+---
 
 ??? info "Learning Outcomes"
 

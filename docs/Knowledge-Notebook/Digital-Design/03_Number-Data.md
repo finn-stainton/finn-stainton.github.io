@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation 
+
+---
+
 # DIG/Number systems and data encoding
+
+[:octicons-arrow-left-24: Return to Digital Design](/Knowledge-Notebook/Digital-Design/)
+
+---
 
 ??? info "Learning Outcomes"
 

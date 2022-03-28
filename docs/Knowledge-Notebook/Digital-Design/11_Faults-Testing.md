@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation 
+
+---
+
 # DIG/Fault models, testing, and design for testability
+
+[:octicons-arrow-left-24: Return to Digital Design](/Knowledge-Notebook/Digital-Design/)
+
+---
 
 ??? info "Learning Outcomes"
 
