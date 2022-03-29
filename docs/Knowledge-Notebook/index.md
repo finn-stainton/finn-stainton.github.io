@@ -153,16 +153,6 @@ hide:
     </div>
     <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
         <div class="col">
-            <a href="Architecture-Organisation">
-                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                    style="background-image: linear-gradient(rgba(0, 204, 255, 0.75),rgba(11, 89, 255, 0.75));">
-                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>Architecture and Organization</h2>
-                    </div>
-                </div>
-            </a>
-        </div>
-        <div class="col">
             <a href="Networking-Communication">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
                     style="background-image: linear-gradient(rgba(0, 204, 255, 0.75),rgba(11, 89, 255, 0.75));">
@@ -201,7 +191,6 @@ hide:
                 </div>
             </a>
         </div>
-        
         <div class="col">
             <a href="Programming-Languages">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -212,7 +201,6 @@ hide:
                 </div>
             </a>
         </div>
-        
     </div>
     <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
         <div class="col">
@@ -241,6 +229,16 @@ hide:
                     style="background-image: linear-gradient(rgba(225, 106, 255, 0.75),rgba(248, 4, 147, 0.75));">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
                         <h2>Calculus</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="Probability-Statistics">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
+                    style="background-image: linear-gradient(rgba(225, 106, 255, 0.75),rgba(248, 4, 147, 0.75));">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Probability and Statistics</h2>
                     </div>
                 </div>
             </a>

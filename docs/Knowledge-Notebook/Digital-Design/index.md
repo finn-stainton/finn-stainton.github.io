@@ -68,7 +68,7 @@ The knowledge units in this area collectively encompass the following:
             <a href="05_Basic-Logic">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>0Basic logic circuits</h2>
+                        <h2>Basic logic circuits</h2>
                     </div>
                 </div>
             </a>
