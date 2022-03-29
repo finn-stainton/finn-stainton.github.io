@@ -42,7 +42,7 @@ Is a Version Control System which records changes to a file(s) over time.
 
 [:octicons-arrow-right-24: Continue reading][Git]
 
-[Git]: More-In-Depth/Git.md
+[Git]: Notes/Git.md
 
 ### [Gitflow]
 
@@ -50,7 +50,7 @@ Git Flow is a branching workflow model designed for product release which extent
 
 [:octicons-arrow-right-24: Continue reading][Gitflow]
 
-[Gitflow]: More-In-Depth/Gitflow.md
+[Gitflow]: Notes/Gitflow.md
 
 ### GitHub
 
@@ -76,15 +76,15 @@ Git Flow is a branching workflow model designed for product release which extent
 
 ### Jest
 
-> See [Jest](More-In-Depth/Testing/Jest.md)
+> See [Jest](Notes/Testing/Jest.md)
 
 ### Cypress
 
-> See [Cypress](More-In-Depth/Testing/Cypress.md)
+> See [Cypress](Notes/Testing/Cypress.md)
 
 ### JUnit
 
-> See[JUnit](More-In-Depth/Testing/JUnit.md)
+> See[JUnit](Notes/Testing/JUnit.md)
 
 **Static analysis tools**
 

@@ -85,6 +85,8 @@ hide:
 
 ### Regression testing and test automation
 
+> Can you delete all you code and reconstruct it with help only from test code? i.e. Can you throw out your code?
+
 ## Defect tracking
 
 ---

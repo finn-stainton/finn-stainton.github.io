@@ -55,7 +55,7 @@ Is decided upon before a sprint, ether shared across many stories or specificall
 
 ### Sprint
 
-A sprint is a fixed length of around 2-4 weeks where a team works to complete a set number of work. 
+A sprint is a fixed length of around 2-4 weeks where a team works to complete a set number of work.
 
 ### Sprint Execution
 
@@ -67,7 +67,16 @@ This is a daily meeting limited to fifteen minutes. Team members usually stand t
 
 ### Sprint Review
 
+The team demonstrates what they've accomplished to stakeholders. They demo the software and show its value.
+
 ### Sprint Retrospective
+
+The team takes time to reflect on what went well and which areas need improvement. The outcome of the retrospective are actions for next sprint. E.g. (3)
+
+- Liked
+- Lacked
+- Learnt
+- Longed for
 
 ### Product Backlog Refinement
 
@@ -97,7 +106,11 @@ Fibonacci Number Sequence - 1, 2, 3, 5,
 
 ### Product Backlog
 
+The *product backlog* is a prioritised list of value the team can deliver. The product owner is responsible for the backlog and adds, changes, and reprioritises as needed. The items at the top of the backlog should always be ready for the team to execute on. (4)
+
 ### Sprint Backlog
+
+The *sprint backlog* is the list of items the team plans to deliver in the sprint. Often, each item on the sprint backlog is broken down into tasks. Once all members agree the sprint backlog is achievable, the sprint starts. (4)
 
 ### Sprint Burndown
 
@@ -108,14 +121,20 @@ Is a graph containing user story points on the y axis and days on the x axis. It
   <figcaption>Example Burndown Graph</figcaption>
 </figure>
 
+### Velocity
+
 ### Potentially Shippable Product/ Increment
 
-Velocity
+A sprint's output should be of shippable quality, even if it's part of something bigger and can't ship by itself. It should meet all the quality criteria set by the team and product owner.
+
+---
+
+There still needs to be internal accountably.
 
 ## Resources/ Bib
 
 !!! cite ""
-    - [Scrum.org](https://www.scrum.org/)
-    - [ScrumAlliance.org](https://www.scrumalliance.org/)
-    - [Atlassian Agile Coach, Scrum](https://www.atlassian.com/agile/scrum)
-    - [Microsoft](https://docs.microsoft.com/en-us/devops/plan/what-is-scrum)
+    1. [Scrum.org](https://www.scrum.org/)
+    2. [ScrumAlliance.org](https://www.scrumalliance.org/)
+    3. [Atlassian Agile Coach, Scrum](https://www.atlassian.com/agile/scrum)
+    4. [Microsoft](https://docs.microsoft.com/en-us/devops/plan/what-is-scrum)

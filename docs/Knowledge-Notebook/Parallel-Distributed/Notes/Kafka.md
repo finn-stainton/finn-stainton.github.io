@@ -40,7 +40,7 @@ Distributed *event streaming platform* that lets you read, write, store, and pro
     - client applications can both read and write the data from/to many brokers at the same time
     - ordered as they were written
     - each message within a partition gets an incremental id, called an offset
-- Events are appended to one of the topic&#39;s partitions
+- Events are appended to one of the topic's partitions
 - Events with the same event key are written to the same partition
 - Can be **replicated** even across geo-regions or datacenters
     - multiple brokers have a copy of data

@@ -1,4 +1,5 @@
 
+# Engineering Practice
 
 ## Strategies for Emerging Technologies
 
@@ -6,25 +7,25 @@
 
 ## Laboratory experiences
 
-- Circuits and Electronics 
-- Computer Architecture 
-- Design Digital 
+- Circuits and Electronics
+- Computer Architecture
+- Design Digital
 - Signal Processing
-- Digital Logic and System Design 
-- Embedded Systems 
+- Digital Logic and System Design
+- Embedded Systems
 - Introduction to Engineering Networking
 - Software Design
 - Senior Project Design
-- Audio Engineering 
-- Computers in Manufacturing 
-- Electrical Energy Systems 
+- Audio Engineering
+- Computers in Manufacturing
+- Electrical Energy Systems
 - Graphics
-- Mechatronics 
-- Microwave Measurements 
-- Operating Systems 
+- Mechatronics
+- Microwave Measurements
+- Operating Systems
 - Robotics
-- Specialized Electronics Lab 
-- Teaching Enhancement 
+- Specialized Electronics Lab
+- Teaching Enhancement
 - Telecommunications
 
 
@@ -122,4 +123,3 @@ speed/high-frequency design
 - MEMS design
 
 ## Communication Skills
-

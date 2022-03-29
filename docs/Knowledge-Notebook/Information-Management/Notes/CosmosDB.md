@@ -47,7 +47,7 @@ hide:
 
 ## Partitions
 
-- Can&#39;t change them
+- Can't change them
 
 ## Change feed
 

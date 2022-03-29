@@ -1,4 +1,15 @@
+---
+hide:
+    - navigation
+
+---
+
 # Worker Down System
+
+[:octicons-arrow-left-24: Return to Projects](/Projects/)
+
+---
+
 
 !!! note
 

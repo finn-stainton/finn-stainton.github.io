@@ -1,4 +1,15 @@
+---
+
+hide:
+    - navigation
+---
+
 # OBD-II/ CAN: Experiment
+
+[:octicons-arrow-left-24: Return to Projects](/Projects/)
+
+---
+
 
 ## OBD-II
 

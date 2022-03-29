@@ -17,7 +17,7 @@ A JavaScript library for building user interfaces
 !!! cite ""
 
     1. [React Docs | Getting Started](https://reactjs.org/docs/getting-started.html)
-    2. https://github.com/typescript-cheatsheets/react
+    2. [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
 
 ---
 
@@ -248,16 +248,6 @@ setObject(currentState => ({
 
 ---
 
-## Testing
-
-### Jest
-
-### React Testing Library
-
-### Mocha
-
-### Chai
-
 ## TypeScript
 
 ---
@@ -270,6 +260,18 @@ export const Component: React.FC = () => {}
 
 React.FC: Function Component
 
+## Testing
 
+---
+
+### Jest
+
+### React Testing Library
+
+### Mocha
+
+### Chai
+
+## ESLint
 
 ---

@@ -16,7 +16,7 @@ hide:
 - **Identify**:
     - *Problem statement*
         1. **Ideal situation:** identifies goal and scope, demos. ideal environment after problem is resolved
-        2. **Reality**: current reality, what, why, who&#39;s impacted, when and where it was identified
+        2. **Reality**: current reality, what, why, who's impacted, when and where it was identified
         3. **Consequences**: quantified effects (how stakeholders are impacted) and quantifying,
         4. **Proposal**: several possible solutions, guide research, investigate and resolve the problem
     - User Stories:

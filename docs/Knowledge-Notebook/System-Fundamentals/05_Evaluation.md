@@ -14,10 +14,10 @@ Cross-reference [PD/Parallel Performance].
 
 ??? info "Learning outcomes"
 
-1. Explain how the components of system architecture contribute to improving its performance. [Familiarity]
-2. Describe Amdahl’s law and discuss its limitations. [Familiarity]
-3. Design and conduct a performance-oriented experiment. [Usage]
-4. Use software tools to profile and measure program performance. [Assessment]
+    1. Explain how the components of system architecture contribute to improving its performance. [Familiarity]
+    2. Describe Amdahl’s law and discuss its limitations. [Familiarity]
+    3. Design and conduct a performance-oriented experiment. [Usage]
+    4. Use software tools to profile and measure program performance. [Assessment]
 
 ## Performance figures of merit
 

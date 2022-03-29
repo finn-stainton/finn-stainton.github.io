@@ -71,17 +71,17 @@ of software designs
 
 ### Behavioral Patterns
 
-> See [Behavioral Patterns](/More-In-Depth/Design-Patterns/#behavioral-patterns)
+> See [Behavioral Patterns](/Notes/Design-Patterns/#behavioral-patterns)
 
 ### Creational Patterns
 
 Deal with the best way of creating instances of objects. Sometimes the exact nature of an objects may vary, so it is preferable to delegate the calling of a appropriate constructor to some class which is better suited.
 
-> See [Creational Patterns](More-In-Depth/Design-Patterns.md#creational-patterns)
+> See [Creational Patterns](Notes/Design-Patterns.md#creational-patterns)
 
 ### Structural Patterns
 
-> See [Structural Patterns](More-In-Depth/Design-Patterns.md#structural-patterns)
+> See [Structural Patterns](Notes/Design-Patterns.md#structural-patterns)
 
 ## Relationships between requirements and designs
 

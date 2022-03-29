@@ -73,7 +73,7 @@ Contains a pane of widgets
 
 ## Further Reading
 
-- [DevOps](/Knowledge-Notebook/Software-Engineering/More-In-Depth/DevOps)
+- [DevOps](/Knowledge-Notebook/Software-Engineering/Notes/DevOps)
 
 ## Resources/ Bib
 

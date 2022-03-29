@@ -62,8 +62,8 @@ The interaction of software with its intended environment (cross-reference IAS/S
 
 Agile is not a *thing*
 
-- [Scrum](More-In-Depth/Scrum.md)
-- [KanBan](More-In-Depth/Kanban.md)
+- [Scrum](Notes/Scrum.md)
+- [KanBan](Notes/Kanban.md)
 
 ## Resources/ Bib
 

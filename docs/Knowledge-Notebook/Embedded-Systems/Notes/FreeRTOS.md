@@ -10,7 +10,8 @@
 
 Open terminal and navigate to a director you want to create the project under, then run the following:
 
-``` console# Make Project folder
+``` console
+# Make Project folder
 mkdir freertos-pico-project
 cd freertos-pico-project
 # Make folders
@@ -36,7 +37,6 @@ echo add_executable(blink
 target_link_libraries(blink pico_stdlib freertos)
 pico_add_extra_outputs(blink) > CMakeLists.txt
 cd ../
-
 ```
 
 ---
@@ -45,13 +45,11 @@ cd ../
 
 [FreeRTOS API Reference](https://freertos.org/a00106.html)
 
-
 ## Further Reading
 
 [RTOS](../../Second-Brain/Computer-Science/Operating-Systems/Real-time-Operating-System)
 
 [Raspberry Pi Pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
-
 !!! cite
-    [Learn Embedded Systems (2022)](https://learnembeddedsystems.co.uk/freertos-on-rp2040-boards-pi-pico-etc-using-vscode)
+    1. [Learn Embedded Systems (2022)](https://learnembeddedsystems.co.uk/freertos-on-rp2040-boards-pi-pico-etc-using-vscode)

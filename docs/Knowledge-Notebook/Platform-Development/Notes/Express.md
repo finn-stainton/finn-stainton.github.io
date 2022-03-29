@@ -13,7 +13,7 @@ hide:
 
 !!! cite ""
 
-    1. (Express Docs](http://expressjs.com)
+    1. [Express Docs](http://expressjs.com)
 
 ## Getting started
 
@@ -26,12 +26,12 @@ npm install express
 ```
 
 ```js
-const express = require(&#39;express&#39;)
+const express = require('express')
 const app = express()
 const port = 3000
 
-app.get(&#39;/&#39;, (req, res) =&gt; {
-  res.send(&#39;Hello World!&#39;)
+app.get('/', (req, res) =&gt; {
+  res.send('Hello World!')
 })
 
 app.listen(port, () =&gt; {
@@ -45,7 +45,7 @@ app.listen(port, () =&gt; {
 
 &gt; [Express routing](http://expressjs.com/en/guide/routing.html)
 
-Determines how an application responds to a request given it&#39;s URI and HTTP method. Each route can have one or more function handlers which are executed with when a route is matched.
+Determines how an application responds to a request given it's URI and HTTP method. Each route can have one or more function handlers which are executed with when a route is matched.
 
 ```js
 app.METHOD(PATH, HANDLER)
@@ -82,21 +82,21 @@ A `Router` instance is a complete middleware and routing system
 
 ```javascript
 //birds.js
-const express = require(&#39;express&#39;)
+const express = require('express')
 const router = express.Router()
 
 // middleware that is specific to this router
 router.use((req, res, next) =&gt; {
-  console.log(&#39;Time: &#39;, Date.now())
+  console.log('Time: ', Date.now())
   next()
 })
 // define the home page route
-router.get(&#39;/&#39;, (req, res) =&gt; {
-  res.send(&#39;Birds home page&#39;)
+router.get('/', (req, res) =&gt; {
+  res.send('Birds home page')
 })
 // define the about route
-router.get(&#39;/about&#39;, (req, res) =&gt; {
-  res.send(&#39;About birds&#39;)
+router.get('/about', (req, res) =&gt; {
+  res.send('About birds')
 })
 
 module.exports = router
@@ -104,9 +104,9 @@ module.exports = router
 
 ```javascript
 //app.js
-const birds = require(&#39;./birds&#39;)
+const birds = require('./birds')
 //...
-app.use(&#39;/birds&#39;, birds)
+app.use('/birds', birds)
 ```
 
 ## Middleware
@@ -134,29 +134,29 @@ express.static(root, [options])
 Serve resources in a directory.
 
 ```javascript
-app.use(express.static(&#39;[directory]&#39;))
+app.use(express.static('[directory]'))
 ```
 
 To serve resources from multiple directories, use above for each dir.
 
-The name of the dir. will not be part of the URL. If a &#39;mount path&#39; is wanted, add path before.
+The name of the dir. will not be part of the URL. If a 'mount path' is wanted, add path before.
 
 ```javascript
-app.use(&#39;/static&#39;, express.static(&#39;public&#39;))
+app.use('/static', express.static('public'))
 ```
 
 ## Integrations
 
 ---
 
-### MongoDB
+### MongoDB Integration
 
-> See MongoDB
+> See [MongoDB]()
 
-## Prisma
+### Prisma Integration
 
-> See Prima
+> See [Prisma]()
 
-## Next.js
+### Next.js Integration
 
-> See Next.js
+> See [Next.js](Next.md)

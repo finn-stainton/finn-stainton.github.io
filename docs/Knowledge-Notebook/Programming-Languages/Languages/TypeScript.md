@@ -55,9 +55,23 @@ Can install syntax checking
 
 ## Types
 
-&gt; [Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
+> [Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 
-**Primitives:** boolean, string, number, undefined, null, any, unknown, never, void, bigint, symbol
+### Primitive Types
+
+**Default:**
+
+- boolean
+- string
+- number
+- undefined
+- null
+- any
+- unknown
+- never
+- void
+- bigint
+- symbol
 
 **Common Object:** Date, Error, Array, Map, Set, Regexp, Promise
 
@@ -73,14 +87,38 @@ Can install syntax checking
   
 
 ```typescript
-let variable = 20 // Without type annotations, inferred as a &#39;number&#39;
-variable = &#39;23&#39; // Results in an error as not assignable to type &#39;number&#39; 
-let foo: string = &#39;23&#39; // With type annotations 
-let ahh: any = 20 // &#39;any&#39; type allows any data type to be written over the variable. 
-ahh = &#39;21&#39; // Change from number to string
+let variable = 20 // Without type annotations, inferred as a 'number'
+variable = '23' // Results in an error as not assignable to type 'number' 
+let foo: string = '23' // With type annotations 
+let ahh: any = 20 // 'any' type allows any data type to be written over the variable. 
+ahh = '21' // Change from number to string
 ```
 
-## Interface
+## Interfaces
+
+### Overloads
+
+### Getters and Setters
+
+## Classes
+
+### Abstract
+
+### Decorators
+
+### Attributes
+
+### Generics
+
+## If Statements
+
+## Type Guard
+
+## Assertion functions
+
+## Discriminated Unions
+
+## Assignment
 
 [![Control Flow Analysis Cheatsheet](https://www.typescriptlang.org/static/TypeScript%20Control%20Flow%20Analysis-8a549253ad8470850b77c4c5c351d457.png)](https://www.typescriptlang.org/static/TypeScript%20Control%20Flow%20Analysis-8a549253ad8470850b77c4c5c351d457.png)
 

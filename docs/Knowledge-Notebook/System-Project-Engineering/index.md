@@ -123,25 +123,22 @@ The knowledge units in this area collectively encompass the following:
 
 ??? info "Learning outcomes"
 
-- Articulate differences between software and hardware engineering, and computer systems engineering.
-- Explain briefly the concept of a system and a subsystem, and discuss the role of people, the different disciplines involved, and the need for interdisciplinary approaches to the development of the range of computer-based systems.
-- Indicate some important elements of computer systems engineering such as design processes, requirements, specifications, design,
-  testing, validation, evolution, project management, hardware-software interface, and the human-computer interface.
-- Define and explain product life cycle, the role of system engineering throughout a product life cycle, and reasons why many computer- based system designs become continually evolving systems.
-- Provide reasons for the importance of testing, validation, and maintenance in computer systems development.
-- Explain the importance of design decisions and tradeoffs at the systems level, including balancing costs, performance, power, dependability, and market considerations.
+    - Articulate differences between software and hardware engineering, and computer systems engineering.
+    - Explain briefly the concept of a system and a subsystem, and discuss the role of people, the different disciplines involved, and the need for interdisciplinary approaches to the development of the range of computer-based systems.
+    - Indicate some important elements of computer systems engineering such as design processes, requirements, specifications, design, testing, validation, evolution, project management, hardware-software interface, and the human-computer interface.
+    - Define and explain product life cycle, the role of system engineering throughout a product life cycle, and reasons why many computer- based system designs become continually evolving systems.
+    - Provide reasons for the importance of testing, validation, and maintenance in computer systems development.
+    - Explain the importance of design decisions and tradeoffs at the systems level, including balancing costs, performance, power, dependability, and market considerations.
 
 ## Relevant tools, standards and/or engineering constraints
 
 ??? info "Learning outcomes"
 
-- Select, with justification, an appropriate set of tools to support the development of a range of computer-based systems, including tools
-  for project management, requirements and specifications definition and analysis, configuration management, tradeoff analysis, and
-  computer-aided tools for software, hardware, and systems design, including modeling, simulation, evaluation, and testing.
-- Analyze and evaluate a set of tools in an area of computer system development (e.g., management, modeling, or testing).
-- Demonstrate the ability to use a range of tools to support the development of a computer-based system of medium size. (This could be done in the context of a class project or assignment.)
-- Explain the importance and influence of standards, guidelines, legislation, regulations, and professional issues on the development of computer-based systems.
-- Describe tradeoffs that occur in following regulatory standards and regulations.
+    - Select, with justification, an appropriate set of tools to support the development of a range of computer-based systems, including tools for project management, requirements and specifications definition and analysis, configuration management, tradeoff analysis, and computer-aided tools for software, hardware, and systems design, including modeling, simulation, evaluation, and testing.
+    - Analyze and evaluate a set of tools in an area of computer system development (e.g., management, modeling, or testing).
+    - Demonstrate the ability to use a range of tools to support the development of a computer-based system of medium size. (This could be done in the context of a class project or assignment.)
+    - Explain the importance and influence of standards, guidelines, legislation, regulations, and professional issues on the development of computer-based systems.
+    - Describe tradeoffs that occur in following regulatory standards and regulations.
 
 ## Project management
 

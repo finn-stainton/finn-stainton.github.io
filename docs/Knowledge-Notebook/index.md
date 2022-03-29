@@ -175,12 +175,73 @@ hide:
     </div>
 </div>
 
-## Theoretical Computer Science and Mathematics
+### Electronics
 
 ---
 
 <div class="container px-4 py-2" id="custom-cards">
     <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="Circuits-Electronics">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
+                    style="background-image: linear-gradient(rgba(215, 255, 38, 0.75),rgba(136, 255, 0, 0.75));">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Circuits and Electronics</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="Digital-Design">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
+                    style="background-image: linear-gradient(rgba(215, 255, 38, 0.75),rgba(136, 255, 0, 0.75));">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>Digital Design</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="Signal-Processing">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
+                    style="background-image: linear-gradient(rgba(215, 255, 38, 0.75),rgba(136, 255, 0, 0.75));">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Signal Processing</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col">
+            <a href="Embedded-Systems">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
+                    style="background-image: linear-gradient(rgba(215, 255, 38, 0.75),rgba(136, 255, 0, 0.75));">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                        <h2>Embedded Systems</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
+        <div class="col">
+            <a href="Design-Fabrication">
+                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
+                    style="background-image: linear-gradient(rgba(215, 255, 38, 0.75),rgba(136, 255, 0, 0.75));">
+                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                        <h2>VLSI Design and Fabrication</h2>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+## Theoretical Computer Science and Mathematics
+
+---
+
+<div class="container px-4 py-2" id="custom-cards">
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
         <div class="col">
             <a href="Algorithms-Complexity">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -201,8 +262,6 @@ hide:
                 </div>
             </a>
         </div>
-    </div>
-    <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
         <div class="col">
             <a href="Discrete-Structures">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
@@ -213,12 +272,14 @@ hide:
                 </div>
             </a>
         </div>
+    </div>
+    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-3">
         <div class="col">
-            <a href="Pure-Mathematics">
+            <a href="Linear-Algebra">
                 <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
                     style="background-image: linear-gradient(rgba(225, 106, 255, 0.75),rgba(248, 4, 147, 0.75));">
                     <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-                        <h2>Pure Mathematics</h2>
+                        <h2>Linear Algebra</h2>
                     </div>
                 </div>
             </a>
@@ -282,55 +343,6 @@ hide:
                 </div>
             </a>
         </div>
-    </div>
-</div>
-
-### Electronics
-
----
-
-<div class="container px-4 py-2" id="custom-cards">
-    <div class="row row-cols-1 row-cols-lg-4 align-items-stretch g-4 py-3">
-        <div class="col">
-            <a href="Circuits-Electronics">
-                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                    style="background-image: linear-gradient(rgba(215, 255, 38, 0.75),rgba(136, 255, 0, 0.75));">
-                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>Circuits and Electronics</h2>
-                    </div>
-                </div>
-            </a>
-        </div>
-        <div class="col">
-            <a href="Digital-Design">
-                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                    style="background-image: linear-gradient(rgba(215, 255, 38, 0.75),rgba(136, 255, 0, 0.75));">
-                    <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                        <h2>Digital Design</h2>
-                    </div>
-                </div>
-            </a>
-        </div>
-        <div class="col">
-            <a href="Signal-Processing">
-                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                    style="background-image: linear-gradient(rgba(215, 255, 38, 0.75),rgba(136, 255, 0, 0.75));">
-                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-                        <h2>Signal Processing</h2>
-                    </div>
-                </div>
-            </a>
-        </div>
-        <div class="col">
-            <a href="Embedded-Systems">
-                <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg"
-                    style="background-image: linear-gradient(rgba(215, 255, 38, 0.75),rgba(136, 255, 0, 0.75));">
-                    <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-                        <h2>Embedded Systems</h2>
-                    </div>
-                </div>
-            </a>
-        </div> 
     </div>
 </div>
 

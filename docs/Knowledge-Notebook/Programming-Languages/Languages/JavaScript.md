@@ -138,7 +138,7 @@ sequences of [Unicode characters](https://developer.mozilla.org/en-US/docs/Web/J
 ##### String literals
 
 ```
-&#39;foo&#39;
+'foo'
 &quot;bar&quot;
 ```
 
@@ -148,7 +148,7 @@ sequences of [Unicode characters](https://developer.mozilla.org/en-US/docs/Web/J
 2. All other values become `true`.
 
 ```js
-Boolean(&#39;&#39;);  // false
+Boolean('');  // false
 Boolean(234); // true
 ```
 
@@ -157,10 +157,10 @@ Boolean(234); // true
 ##### Object literals
 
 ```js
-var o = { a: &#39;foo&#39;, b: &#39;bar&#39;, c: 42 };
+var o = { a: 'foo', b: 'bar', c: 42 };
 
 // shorthand notation. New in ES2015
-var a = &#39;foo&#39;, b = &#39;bar&#39;, c = 42;
+var a = 'foo', b = 'bar', c = 42;
 var o = {a, b, c};
 ```
 
@@ -194,7 +194,7 @@ Block-level variables available from the block they are declared in.
 
 ```js
 let a;
-let name = &#39;Simon&#39;;
+let name = 'Simon';
 ```
 
 ### `const`
@@ -317,4 +317,4 @@ function add(x, y) {
 
 ---
 
-- [Node.js](../../Platform-Development/More-In-Depth/Node.md)
+- [Node.js](../../Platform-Development/Notes/Node.md)

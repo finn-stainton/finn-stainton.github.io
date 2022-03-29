@@ -26,6 +26,22 @@ hide:
 
 ## Authentication and authorization
 
+<!-- ### JSON Web Tokens
+
+### Cookies
+
+### Sessions
+
+### OAuth
+
+### Passport
+
+### Grant
+
+### Password hashing -->
+
+Protecting endpoints
+
 access control (mandatory vs. discretionary)
 
 ## Concept of trust and trustworthiness

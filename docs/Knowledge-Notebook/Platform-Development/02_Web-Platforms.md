@@ -26,12 +26,12 @@ hide:
 - [ ] [HTML5](/Knowledge-Notebook/Programming-Languages/Languages/HTML)
 - [ ] [JavaScript](/Knowledge-Notebook/Programming-Languages/Languages/JavaScript)
 - [x] [TypeScript](/Knowledge-Notebook/Programming-Languages/Languages/TypeScript)
-- [ ] [Node.js](More-In-Depth/Node)
-- [ ] [Express.js](More-In-Depth/Express.md)
-- [ ] [React.js](More-In-Depth/React.md)
-- [ ] [Next.js](More-In-Depth/Next.md)
+- [ ] [Node.js](Notes/Node)
+- [ ] [Express.js](Notes/Express.md)
+- [ ] [React.js](Notes/React.md)
+- [ ] [Next.js](Notes/Next.md)
 - [ ] [PHP](/Knowledge-Notebook/Programming-Languages/Languages/PHP.md)
-- [ ] [CSS](More-In-Depth/CSS.md)
+- [ ] [CSS](Notes/CSS.md)
 
 ## Web platform constraints
 

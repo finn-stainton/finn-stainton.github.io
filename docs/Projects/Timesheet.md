@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation
+
+---
+
 # Time Sheet
+
+[:octicons-arrow-left-24: Return to Projects](/Projects/)
+
+---
 
 <!-- 
 ## Aim

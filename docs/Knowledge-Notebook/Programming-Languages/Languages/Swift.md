@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation
+
+---
+
 # Swift
+
+[:octicons-arrow-left-24: Return to Programming Languages](/Knowledge-Notebook/Programming-Languages/)
+
+---
 
 ## Resources
 
@@ -7,28 +17,26 @@
 
 ## Getting Started
 
-## Noteworthy
-
-
-
 ## Basics
 
 ### Constants and Variables
 
 Without type annotations (uses Type Inference but still explicitly typed)
+
 ``` swift
 let constant = 3 // inferred as a Int
 var variable = "Gidday" // inferred as a String
 let pi = 3 + 0.14159 // inferred as a Double
-
 ```
 
 With type annotations
+
 ``` swift
 let constant: Int = 3
 var variable: String = "Gidday"
 let pi: Double = 3 + 0.14159
 ```
+
 Nearly all characters can be used as names except reserved word (without a backtick)
 
 Constant's values can not be changed after being set (Immutable).
@@ -88,7 +96,6 @@ End of a multiline */
 
 Are not needed at end of line but are available. (Are needed where multiple statements are on a single line.)
 
-
 Memory Safety
 
 LLVM
@@ -97,16 +104,15 @@ Automatic Reference counter
 
 optional chaining
 
-
 ## Functions
 
 named arguments
 
-positonal arguments
+positional arguments
 
 _ name: String
 
-## Condianal
+## Conditional
 
 ## Loops
 
