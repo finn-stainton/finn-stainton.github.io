@@ -42,7 +42,7 @@ hide:
 ## Request Units (RUs)
 
 - Cost of all database operations is normalised
-- RUs per second -&gt; throughtput
+- RUs per second -> throughtput
 - % of Memory, CPU, Input/Output operations (IOPS)
 
 ## Partitions

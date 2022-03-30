@@ -35,7 +35,7 @@ Distributed *event streaming platform* that lets you read, write, store, and pro
 - Events in a topic can be read as often as needed
 - per-topic configure retainment period of events
 - **partitioned**
-    - spread over a number of &quot;buckets&quot; located on different Kafka brokers
+    - spread over a number of "buckets" located on different Kafka brokers
     - distributed placement of your data is very important for scalability
     - client applications can both read and write the data from/to many brokers at the same time
     - ordered as they were written

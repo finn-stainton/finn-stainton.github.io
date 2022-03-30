@@ -3,16 +3,12 @@ hide:
     - navigation
     - toc
 ---
-# Algorithms and Complexity (AL)
+
+# Meteorology
 
 [:octicons-arrow-left-24: Return to Knowledge Notebook](/Knowledge-Notebook/)
 
 ---
-
-
-
-!!! cite ""
-    Extract from: ACM 2013 Computer Science Curriculum
 
 <!--## Units
 
@@ -108,8 +104,6 @@ hide:
     </div>
 </div>-->
 
-# Meteorology
-
 ## Warm Front
 
 ## Cold Front
@@ -123,4 +117,3 @@ hide:
 - Alto-Stratus
 
 ## Winds
-

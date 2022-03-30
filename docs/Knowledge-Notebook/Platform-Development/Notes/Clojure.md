@@ -21,11 +21,11 @@ In Emacs
 
 `M-x: package install`
 
-`&gt; cider`
+`> cider`
 
-`&gt; clojure-mode`
+`> clojure-mode`
 
-`&gt; projectile`
+`> projectile`
 
 [Leiningen](https://leiningen.org/#install)
 

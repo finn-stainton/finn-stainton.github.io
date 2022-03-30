@@ -3,7 +3,7 @@ hide:
     - navigation
     - toc
 ---
-# Networking and Communication (NC)
+# Computer Networking and Communication (NC)
 
 [:octicons-arrow-left-24: Return to Knowledge Notebook](/Knowledge-Notebook/)
 

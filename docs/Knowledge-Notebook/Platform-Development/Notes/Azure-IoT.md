@@ -1,1 +1,0 @@
-https://azure.github.io/iotedge-lorawan-starterkit/2.0.0/

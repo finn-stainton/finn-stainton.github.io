@@ -6,7 +6,7 @@ hide:
 
 # React.js
 
-A JavaScript library for building user interfaces
+A JavaScript library for building interactive user interfaces
 
 [:octicons-arrow-left-24: Return to Platform Development](/Knowledge-Notebook/Platform-Development/)
 
@@ -227,6 +227,20 @@ setObject(currentState => ({
 ```
 
 ### Effect Hook
+
+``` js
+useEffect(() => {
+  
+}, []);
+```
+
+dependency array
+
+componentDidMount
+
+componentDidUnmount
+
+clean up function
 
 ### Reference Hook
 

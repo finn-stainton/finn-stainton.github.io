@@ -1,9 +1,9 @@
 ---
 hide:
-    - navigation
+    - navigation 
 
 ---
-# Cascading Style Sheet (CSS)
+# Python Web Development
 
 [:octicons-arrow-left-24: Return to Web Platforms](/Knowledge-Notebook/Platform-Development/02_Web-Platforms/)
 

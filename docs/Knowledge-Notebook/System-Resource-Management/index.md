@@ -3,7 +3,7 @@ hide:
     - navigation
     - toc
 ---
-# System Resource Management (SRM)
+# System Resource Management (SPE)
 
 [:octicons-arrow-left-24: Return to Knowledge Notebook](/Knowledge-Notebook/#personal-and-professional-skills)
 
@@ -113,7 +113,7 @@ The knowledge units in this area collectively encompass the following:
     </div>
 </div>-->
 
-## [SRM/History and overview of operating systems]
+## [SPE/History and overview of operating systems]
 
 ??? info "Learning outcomes"
 
@@ -122,16 +122,16 @@ The knowledge units in this area collectively encompass the following:
 - Define key design criteria including efficiency, robustness, and security.
 - Explain major threats to operating systems and how to guard against them.
 
-## [SRM/Relevant tools, standards, and/or engineering constraints]
+## [SPE/Relevant tools, standards, and/or engineering constraints]
 
 ??? info "Learning outcomes"
 
 - Give examples of real-time performance monitoring tools and log-based performance monitoring tools.
 - Explain what information a real-time performance monitoring tool provides and when such a tool is useful. 
 - Explain what information a log-based performance monitoring tool provides and when such a tool is useful. - List key components of the IEEE POSIX (Portable Operating System Interface) standard.
-- Define the role of some key SRM APIs such as WinAPI and various Java APIs.
+- Define the role of some key SPE APIs such as WinAPI and various Java APIs.
 
-## [SRM/Managing system resources]
+## [SPE/Managing system resources]
 
 ??? info "Learning outcomes"
 
@@ -145,7 +145,7 @@ The knowledge units in this area collectively encompass the following:
 - Explain the memory hierarchy (cache through virtual memory) and the cost-performance tradeoffs made in design.
 - Describe the choices to be made in file system design and how these choices affect system resource management.
 
-## [SRM/Real-time operating system design]
+## [SPE/Real-time operating system design]
 
 ??? info "Learning outcomes"
 
@@ -159,7 +159,7 @@ addressing them.
 - Explain failure modes and recovery strategies appropriate for RTOS.
 - Discuss tradeoffs among various operating system options.
 
-## [SRM/Operating systems for mobile devices]
+## [SPE/Operating systems for mobile devices]
 
 ??? info "Learning outcomes"
 
@@ -169,7 +169,7 @@ addressing them.
 - Discuss the challenges of implementation across mobile platforms.
 - Discuss sources of security threats and their management. 
 
-## [SRM/Support for concurrent processing]
+## [SPE/Support for concurrent processing]
 
 ??? info "Learning outcomes"
 
@@ -177,7 +177,7 @@ addressing them.
 - Explain what is needed to support scheduling of multiple threads.
 - Describe how simultaneous multithreaded (SMT) execution works.
 
-## [SRM/System performance evaluation]
+## [SPE/System performance evaluation]
 
 - Describe why performance is important in significant applications (e.g., mission critical systems).
 - Explain why metrics such as response time, throughput, latency, availability, reliability, and power consumption are significant in performance evaluation.
@@ -187,7 +187,7 @@ addressing them.
 which it is appropriate to use them.
 - Explain how profiling and tracing data is collected and used in evaluating system performance.
 
-## [SRM/Support for virtualization]
+## [SPE/Support for virtualization]
 
 - Define the role of the hypervisor or virtual machine monitor.
 - Describe what the role of the host machine is and its relationship to the guest machines.

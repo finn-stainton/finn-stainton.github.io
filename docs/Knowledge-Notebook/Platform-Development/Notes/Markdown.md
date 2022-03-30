@@ -4,7 +4,7 @@ hide:
 
 ---
 
-# PHP
+# Markdown
 
 [:octicons-arrow-left-24: Return to Programming Languages](/Knowledge-Notebook/Programming-Languages/)
 
@@ -13,5 +13,3 @@ hide:
 ## Resources
 
 ## Getting Started
-
-## Noteworthy

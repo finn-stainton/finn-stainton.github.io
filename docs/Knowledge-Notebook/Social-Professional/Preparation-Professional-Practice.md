@@ -1,4 +1,13 @@
+---
+hide:
+    - navigation
+    - toc
+---
 # Preparation for Professional Practice (PPP)
+
+[:octicons-arrow-left-24: Return to Knowledge Notebook](/Knowledge-Notebook/)
+
+---
 
 The knowledge units in this area collectively encompass the following:
 
@@ -8,19 +17,20 @@ The knowledge units in this area collectively encompass the following:
 4. The importance of understanding contemporary issues, lifelong learning strategies, and legal and intellectual property issues
 5. The importance of business acumen and skill in managing projects in the computer engineering field
 
-
 ## PPP/History and overview
 
-Core Learning Outcomes:
+??? info "Learning Outcomes:"
 
 - Describe the nature of professionalism and its place in the field of computer engineering. - Identify some contributors and relate their achievements to social and professional issues. - Contrast ethical and legal issues as related to computer engineering.
 - Indicate reasons for studying social and professional issues.
 - Identify stakeholders in an issue and an engineer’s obligations to them.
 - Explain professionalism and licensure relative to a practicing computer engineer.
 - Describe how computer engineering uses or benefits from social and professional issues.
-CE-PPP2 Relevant tools, standards, and/or engineering constraints
-Minimum core coverage time: 1 hour
-Core Learning Outcomes:
+
+## PPP/ Relevant tools, standards, and/or engineering constraints
+
+??? info "Learning Outcomes:"
+
 - Interpret the social context of a specific implementation.
 - Identify non-technical assumptions and values that an engineer would associate with the design of a computer component. - Explain why “freedom of expression” in cyberspace is important in computer engineering.
 - Describe positive and negative ways in which computer engineering alters the modes of interaction between people.
@@ -29,9 +39,9 @@ Core Learning Outcomes:
 - Contrast what is legal with what is ethical.
 - Explain the importance of ethical integrity in the practice of computer engineering.
 
-## PPP/3 Effective communication strategies
+## PPP/ Effective communication strategies
 
-Core Learning Outcomes:
+??? info "Learning Outcomes:"
 
 - Listen attentively in technical and non-technical contexts.
 - Write technical reports using correct spelling and grammar.
@@ -47,9 +57,9 @@ Core Learning Outcomes:
 - Engage with an audience in response to questions.
 - Write technical reports that are well organized and structured per accepted standards.
 
-## PPP/4 Interdisciplinary team approaches
+## PPP/ Interdisciplinary team approaches
 
-Core Learning Outcomes:
+??? info "Learning Outcomes:"
 
 - Describe the meaning of interdisciplinary teams in two different contexts.
 - Develop a possible skill set needed to function effectively on an interdisciplinary team.
@@ -59,9 +69,9 @@ Core Learning Outcomes:
 - Explore ways in which one might assess the performance of an interdisciplinary team.
 - Describe possible assessment methods used to monitor interdisciplinary teams.
 
-## PPP/5 Philosophical frameworks and cultural issues
+## PPP/ Philosophical frameworks and cultural issues
 
-Core Learning Outcomes:
+??? info "Learning Outcomes:"
 
 - Summarize the basic concepts of relativism, utilitarianism, and deontological theories.
 - Describe some engineering problems related to ethical relativism.
@@ -70,9 +80,9 @@ Core Learning Outcomes:
 - Identify the weaknesses of the “hired agent” approach, strict legalism, naïve egoism, and naïve relativism as ethical frameworks.
 - Contrast Western and non-Western philosophical approaches and thought processes as they apply to the computer engineering field.
 
-## PPP/6 Engineering solutions and societal effects
+## PPP/ Engineering solutions and societal effects
 
-Core Learning Outcomes:
+??? info "Learning Outcomes:"
 
 - Articulate the importance of product safety when designing computer systems. - Describe the differences between correctness, reliability, and safety.
 - Explain the limitations of testing to ensure correctness.
@@ -82,9 +92,9 @@ Core Learning Outcomes:
 - Explain ways computer engineers would assess and manage risk, and how they would inform the public of risk.
 - Articulate ways public perception of risks often differs from actual risk, as well as the implications of this difference. - Explain why product safety and public consumption should be a hallmark of computer engineering.
 
-## PPP/7 Professional and ethical responsibilities
+## PPP/ Professional and ethical responsibilities
 
-Core Learning Outcomes:
+??? info "Learning Outcomes:"
 
 - Identify progressive stages in a whistle-blowing incident.
 - Specify the strengths and weaknesses of relevant professional codes as expressions of professionalism.
@@ -94,9 +104,9 @@ Core Learning Outcomes:
 - Provide arguments for and against licensure in non-engineering professions.
 - Identify ethical issues that may arise in software development and determine how to address them technically and ethically. - Develop a computer use policy with enforcement measures.
 
-## PPP/8 Intellectual property and legal issues
+## PPP/ Intellectual property and legal issues
 
-Core Learning Outcomes:
+??? info "Learning Outcomes:"
 
 - Describe the foundations of intellectual property.
 - Distinguish among patent, copyright, and trade secret protection.
@@ -109,9 +119,9 @@ Core Learning Outcomes:
 - Explain product and professional liability and articulate their applicability within computer engineering.
 - Analyze the ethical ramifications of free open-source hardware and software.
 
-## PPP/9 Contemporary issues
+## PPP/ Contemporary issues
 
-Core Learning Outcomes:
+??? info "Learning Outcomes:"
 
 - Summarize the legal bases for the right to privacy and freedom of expression in one’s own country. - Discuss ways in which privacy varies from country to country.
 - Describe current computer-based threats to privacy.
@@ -122,9 +132,9 @@ Core Learning Outcomes:
 - Define cracking and contrast it to hacking in computer engineering. - Enumerate techniques to combat “cracker” attacks.
 - Discuss several “cracker” approaches and motivations.
 
-## PPP/10 Business and management issues
+## PPP/ Business and management issues
 
-Core Learning Outcomes:
+??? info "Learning Outcomes:"
 
 - Assess the total job cost of a project.
 - Apply engineering economic principles when considering fiscal arrangements.
@@ -138,12 +148,12 @@ engineering implications.
 - Summarize the rationale for antimonopoly efforts.
 - Contrast two pricing strategies one might use in the computing domain.
 
-## PPP/11 Tradeoffs in professional practice
+## PPP/ Tradeoffs in professional practice
 
-Elective Learning Outcomes:
+??? info "Learning Outcomes:"
 
 - Indicate some important tradeoffs a computer engineer may have to make while practicing professionally. - Articulate some ethical tradeoffs when making technical decisions.
 - Describe some unethical tradeoffs that might occur in professional practice.
 - Evaluate the risks of entering one’s own business.
 - Identify the professional’s role in security and the tradeoffs involved.
-- Describe the tradeoff between security and privacy, particularly as reflected in the post-9-11 era. - Defend ways to address limitations on access to computing.
+- Describe the tradeoff between security and privacy, particularly as reflected in the post-9-11 era. - Defend ways to address limitations on access to computing

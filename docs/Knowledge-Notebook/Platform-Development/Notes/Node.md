@@ -6,40 +6,42 @@ hide:
 
 # Node.js
 
-Is a [JavaScript](/Knowledge-Notebook/Programming-Languages/Languages/JavaScript) V8 run-time environment (Core of Chromium-based browsers) for running JavaScript outside of a browser.
+Is a [JavaScript](/Knowledge-Notebook/Programming-Languages/Languages/JavaScript) V8 runtime environment for running JavaScript outside of a browser.
 
-[:octicons-arrow-left-24: Return to Platform Development](/Knowledge-Notebook/Platform-Development/)
+[:octicons-arrow-left-24: Return to Web Platforms](/Knowledge-Notebook/Platform-Development/02_Web-Platforms/)
 
 ---
 
 ## Resources
 
-- [Node.js Docs](https://nodejs.org/en/docs/)
-- [Nodejs.dev Learn](https://nodejs.dev/learn)
-- [NVM](https://github.com/nvm-sh/nvm)
-- [NPM Docs](https://docs.npmjs.com/)
+!!! cite ""
+    - [Node.js Docs](https://nodejs.org/en/docs/)
+    - [Nodejs.dev Learn](https://nodejs.dev/learn)
+    - [NVM](https://github.com/nvm-sh/nvm)
+    - [NPM Docs](https://docs.npmjs.com/)
 
 ## Getting Started
 
 Installation can be done several ways, but via `nvm` is recommended
 
-- [NVM Install](https://github.com/nvm-sh/nvm#installing-and-updating)
+[NVM Install](https://github.com/nvm-sh/nvm#installing-and-updating)
+
 ``` bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm`
 nvm install node
 nvm use node
 ```
-- [Download](https://nodejs.dev/download/)
-- [Package Manager](https://nodejs.dev/download/package-manager/)
 
 To then run a main application file, use
+
 ```
 node app.js
 ```
 
 Instead of explicitly telling the OS to use `node`, embedding a "shebang" line into the a JavaScript file tells the OS which interpreter to use for running the script.
 `app.js`
+
 ``` js
 #!/usr/bin/env node
 
@@ -47,6 +49,7 @@ Instead of explicitly telling the OS to use `node`, embedding a "shebang" line i
 ```
 
 If automatic restarting the application after file changes is wanted, then install `nodemon`
+
 ``` bash
 npm i -g nodemon # Globally
 npm i --save-dev nodemon # Development-Dependency
@@ -94,3 +97,27 @@ Then in another file, calling the pid `SIGTERM` will terminal gracefully.
 process.kill(process.pid, 'SIGTERM')
 
 ``` -->
+
+## REPL
+
+## Identifiers
+
+`Console`
+
+`global`
+
+`process`
+
+`http`
+
+## Events
+
+Event loop
+
+## File System
+
+readFile
+
+readFileSync
+
+## Modules & NPM

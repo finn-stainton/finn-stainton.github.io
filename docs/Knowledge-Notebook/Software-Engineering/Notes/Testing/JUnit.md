@@ -22,5 +22,5 @@ JavaScript Testing Framework that works with projects using: Babel, TypeScript, 
 
 ## Further Reading
 
-- [Java](../../../Programming-Languages/Languages/Java.md)
+- [Java](../../../Platform-Development/Notes/Java.md)
 - [TDD](../../07_Software-Verification-Validation.md#test-driven-development-tdd)

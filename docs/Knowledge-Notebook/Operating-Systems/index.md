@@ -3,7 +3,7 @@ hide:
     - navigation
     - toc
 ---
-# Algorithms and Complexity (AL)
+# Operating Systems (OS)
 
 [:octicons-arrow-left-24: Return to Knowledge Notebook](/Knowledge-Notebook/)
 
@@ -12,24 +12,9 @@ hide:
 
 
 !!! cite ""
+    An operating system defines an abstraction of hardware and manages resource sharing among the computer’s users. The topics in this area explain the most basic knowledge of operating systems in the sense of interfacing an operating system to networks, teaching the difference between the kernel and user modes, and developing key approaches to operating system design and implementation. This knowledge area is structured to be complementary to the Systems Fundamentals (SF), Networking and Communication (NC), Information Assurance and Security (IAS), and the Parallel and Distributed Computing (PD) knowledge areas. The Systems Fundamentals and Information Assurance and Security knowledge areas are the new ones to include contemporary issues. For example, Systems Fundamentals includes topics such as performance, virtualization and isolation, and resource allocation and scheduling; Parallel and Distributed Systems includes parallelism fundamentals; and and Information Assurance and Security includes forensics and security issues in depth. Many courses in Operating Systems will draw material from across these knowledge areas.
+    <hr>
     Extract from: ACM 2013 Computer Science Curriculum
-
-
-# Operating Systems (OS)
-
-An operating system defines an abstraction of hardware and manages resource sharing among
-the computer’s users. The topics in this area explain the most basic knowledge of operating
-systems in the sense of interfacing an operating system to networks, teaching the difference
-between the kernel and user modes, and developing key approaches to operating system design
-and implementation. This knowledge area is structured to be complementary to the Systems
-Fundamentals (SF), Networking and Communication (NC), Information Assurance and Security
-(IAS), and the Parallel and Distributed Computing (PD) knowledge areas. The Systems
-Fundamentals and Information Assurance and Security knowledge areas are the new ones to
-include contemporary issues. For example, Systems Fundamentals includes topics such as
-performance, virtualization and isolation, and resource allocation and scheduling; Parallel and
-Distributed Systems includes parallelism fundamentals; and and Information Assurance and
-Security includes forensics and security issues in depth. Many courses in Operating Systems
-will draw material from across these knowledge areas.
 
 ## Units
 

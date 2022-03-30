@@ -18,23 +18,68 @@ hide:
     5. Discuss how web standards impact software development. [Familiarity]
     6. Review an existing web application against a current web standard. [Assessment]
 
-## Web Languages and Frameworks
+## HTML
 
-!!! warning ""
-    Tick indicates whether entry has partial content. It doesn't indicate my current knowledge of the language. To help you not pick an empty entry
+---
 
-- [ ] [HTML5](/Knowledge-Notebook/Programming-Languages/Languages/HTML)
-- [ ] [JavaScript](/Knowledge-Notebook/Programming-Languages/Languages/JavaScript)
-- [x] [TypeScript](/Knowledge-Notebook/Programming-Languages/Languages/TypeScript)
-- [ ] [Node.js](Notes/Node)
-- [ ] [Express.js](Notes/Express.md)
-- [ ] [React.js](Notes/React.md)
-- [ ] [Next.js](Notes/Next.md)
-- [ ] [PHP](/Knowledge-Notebook/Programming-Languages/Languages/PHP.md)
-- [ ] [CSS](Notes/CSS.md)
+[:octicons-arrow-right-24: Continue Reading](Notes/HTML.md)
+
+## CSS
+
+---
+
+[:octicons-arrow-right-24: Continue Reading](Notes/CSS.md)
+
+## JavaScript
+
+---
+
+[:octicons-arrow-right-24: Continue Reading](Notes/JavaScript.md)
+
+## TypeScript
+
+---
+
+[:octicons-arrow-right-24: Continue Reading](Notes/TypeScript.md)
+
+## Node.js Framework(s)
+
+---
+
+[Node.js](Notes/Node)
+
+[Express.js](Notes/Express.md)
+
+[React.js](Notes/React.md)
+
+[Next.js](Notes/Next.md)
+
+## Apache/ Nginx-based Applications
+
+---
+
+[PHP](Notes/PHP.md)
+
+## Python-based Applications
+
+---
+
+## Jamstack
+
+---
 
 ## Web platform constraints
 
+---
+
 ## Software as a Service (SaaS)
 
+---
+
+### [Azure](Notes/Azure.md)
+
 ## Web Standards
+
+---
+
+## Resources

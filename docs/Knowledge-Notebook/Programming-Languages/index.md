@@ -196,26 +196,3 @@ program analysis, as well as run-time components such as memory management.
         </div>
     </div>
 </div>
-
-## Languages
-
----
-
-!!! warning ""
-
-    Tick indicates whether entry has partial content. It doesn't indicate my current knowledge of the language
-
-- [x] [C](Languages/C.md)
-- [ ] [C++](Languages/C++.md)
-- [ ] [C#](Languages/C#.md)
-- [x] [Common LISP](Languages/Common-LISP.md)
-- [ ] [Go](Languages/Go.md)
-- [ ] [HTML](Languages/HTML.md)
-- [ ] [Java](Languages/Java.md)
-- [ ] [JavaScript](Languages/JavaScript.md)
-- [ ] [PHP](Languages/PHP.md)
-- [ ] [Prolog](Languages/Prolog.md)
-- [ ] [Python](Languages/Python.md)
-- [ ] [Racket](Languages/Racket.md)
-- [x] [Swift](Languages/Swift.md)
-- [x] [TypeScript](Languages/TypeScript.md)

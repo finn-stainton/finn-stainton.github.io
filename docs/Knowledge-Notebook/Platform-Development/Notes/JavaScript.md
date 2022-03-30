@@ -6,7 +6,7 @@ hide:
 
 # JavaScript (ECMAScript)
 
-[:octicons-arrow-left-24: Return to Programming Languages](/Knowledge-Notebook/Programming-Languages/)
+[:octicons-arrow-left-24: Return to Web Platforms](/Knowledge-Notebook/Platform-Development/02_Web-Platforms/)
 
 ---
 
@@ -92,9 +92,9 @@ Created in 1995 by Brenda Eich while an engineer at NetScape. First released wit
 
 An *apparent integer* is in fact *implicitly a float*. In practice, a integer is stored as a 32-bit
 
-##### Numeric literals
+#### Numeric literals
 
-```js
+``` js
 1234567890
 42
 
@@ -103,12 +103,12 @@ An *apparent integer* is in fact *implicitly a float*. In practice, a integer is
 0777 // parsed as octal, 511 in decimal
 
 // Exponential
-0e-5   // =&gt; 0
-0e+5   // =&gt; 0
-5e1    // =&gt; 50
-175e-2 // =&gt; 1.75
-1e3    // =&gt; 1000
-1e-3   // =&gt; 0.001
+0e-5   // => 0
+0e+5   // => 0
+5e1    // => 50
+175e-2 // => 1.75
+1e3    // => 1000
+1e-3   // => 0.001
 
 // Binary (0 followed by B or b)
 var FLT_SIGNBIT  = 0b10000000000000000000000000000000; // 2147483648
@@ -124,7 +124,7 @@ uses numeric literals
 
 sequences of [Unicode characters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#unicode) (UTF-16 code units)
 
-##### Methods
+#### Methods
 
 - .charAt()
   
@@ -134,17 +134,16 @@ sequences of [Unicode characters](https://developer.mozilla.org/en-US/docs/Web/J
   
 - .length
   
+#### String literals
 
-##### String literals
-
-```
+``` js
 'foo'
-&quot;bar&quot;
+"bar"
 ```
 
 ### Boolean
 
-1. `false`, `0`, empty strings (`&quot;&quot;`), `NaN`, `null`, and `undefined` all become `false`.
+1. `false`, `0`, empty strings (`""`), `NaN`, `null`, and `undefined` all become `false`.
 2. All other values become `true`.
 
 ```js
@@ -218,7 +217,7 @@ Values are assigned using `=`
 
 Compound assignment statements such as `+=` and `-=`
 
-`&lt;`, `&gt;`, `&lt;=` and `&gt;=`
+`&lt;`, `>`, `&lt;=` and `>=`
 
 ### Comparison
 
@@ -263,11 +262,17 @@ function add(x, y) {
 
 ### Arrow Functions
 
+Don't have there own  `this` binding
+Don't have there own constructor
+Don't have a prototype property
+
 ## Scopes
 
 ## DOM
 
 ---
+
+> https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
 
 ## Strict Mode
 

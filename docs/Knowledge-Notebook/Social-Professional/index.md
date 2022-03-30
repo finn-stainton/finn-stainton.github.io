@@ -118,8 +118,6 @@ As technological advances continue to significantly impact the way we live and w
 
 Computers and the Internet, perhaps more than any other technologies, have transformed society over the past 75 years, with dramatic increases in human productivity; an explosion of options for news, entertainment, and communication; and fundamental breakthroughs in almost every branch of science and engineering. Social Context provides the foundation for all other SP knowledge units, especially Professional Ethics. Also see cross-referencing with Human- Computer Interaction (HCI) and Networking and Communication (NC) Knowledge Areas.
 
-**Topics**:
-
 - Social implications of computing in a networked world (cross-reference HCI/Foundations/social models; IAS/Fundamental Concepts/social issues)
 - Impact of social media on individualism, collectivism and culture.
 - Growth and control of the Internet (cross-reference NC/Introduction organization of the Internet)
@@ -127,7 +125,7 @@ Computers and the Internet, perhaps more than any other technologies, have trans
 - Accessibility issues, including legal requirements
 - Context-aware computing (cross-reference HCI/Design for non-mouse interfaces/ ubiquitous and context-aware)
 
-**Learning Outcomes**:
+??? info "Learning Outcomes:"
 
 1. Describe positive and negative ways in which computer technology (networks, mobile computing, cloud computing) alters modes of social interaction at the personal level. [Familiarity]
 2. Identify developers’ assumptions and values embedded in hardware and software design, especially as they pertain to usability for diverse populations including under-represented populations and the disabled. [Familiarity]
@@ -141,43 +139,29 @@ Computers and the Internet, perhaps more than any other technologies, have trans
 
 ## SP/Analytical Tools
 
-Ethical theories and principles are the foundations of ethical analysis because they are the
-viewpoints from which guidance can be obtained along the pathway to a decision. Each theory
-emphasizes different points such as predicting the outcome and following one's duties to others
-in order to reach an ethically guided decision. However, in order for an ethical theory to be
-useful, the theory must be directed towards a common set of goals. Ethical principles are the
-common goals that each theory tries to achieve in order to be successful. These goals include
-beneficence, least harm, respect for autonomy, and justice.
-**Topics**:
+Ethical theories and principles are the foundations of ethical analysis because they are the viewpoints from which guidance can be obtained along the pathway to a decision. Each theory emphasizes different points such as predicting the outcome and following one's duties to others in order to reach an ethically guided decision. However, in order for an ethical theory to be useful, the theory must be directed towards a common set of goals. Ethical principles are the common goals that each theory tries to achieve in order to be successful. These goals include beneficence, least harm, respect for autonomy, and justice.
+
 - Ethical argumentation
 - Ethical theories and decision-making
 - Moral assumptions and values
-**Learning Outcomes**:
+
+??? info "Learning Outcomes:"
+
 1. Evaluate stakeholder positions in a given situation. [Assessment]
 2. Analyze basic logical fallacies in an argument. [Assessment]
 3. Analyze an argument to identify premises and conclusion. [Assessment]
 4. Illustrate the use of example and analogy in ethical argument. [Usage]
 5. Evaluate ethical/social tradeoffs in technical decisions. [Assessment]
-SP/Professional Ethics
-[2 Core-Tier1 hours, 2 Core-Tier2 hours]
-Computer ethics is a branch of practical philosophy that deals with how computing professionals
-should make decisions regarding professional and social conduct. There are three primary
-influences: 1) an individual's own personal code; 2) any informal code of ethical behavior
-existing in the work place; and 3) exposure to formal codes of ethics. See cross-referencing with
-the Information Assurance and Security (IAS) Knowledge Area.
 
-**Topics**:
+## SP/Professional Ethics
+
+Computer ethics is a branch of practical philosophy that deals with how computing professionals should make decisions regarding professional and social conduct. There are three primary influences: 1) an individual's own personal code; 2) any informal code of ethical behavior existing in the work place; and 3) exposure to formal codes of ethics. See cross-referencing with the Information Assurance and Security (IAS) Knowledge Area.
 
 - Community values and the laws by which we live
-- The nature of professionalism including care, attention and discipline, fiduciary responsibility, and
-mentoring
-- Keeping up-to-date as a computing professional in terms of familiarity, tools, skills, legal and professional
-framework as well as the ability to self-assess and progress in the computing field
-- Professional certification, codes of ethics, conduct, and practice, such as the ACM/IEEE-CS, SE, AITP,
-IFIP and international societies (cross-reference IAS/Fundamental Concepts/ethical issues)
-- Accountability, responsibility and liability (e.g. software correctness, reliability and safety, as well as
-ethical confidentiality of cybersecurity professionals)
-[Core-Tier2]
+- The nature of professionalism including care, attention and discipline, fiduciary responsibility, and mentoring
+- Keeping up-to-date as a computing professional in terms of familiarity, tools, skills, legal and professional framework as well as the ability to self-assess and progress in the computing field
+- Professional certification, codes of ethics, conduct, and practice, such as the ACM/IEEE-CS, SE, AITP, IFIP and international societies (cross-reference IAS/Fundamental Concepts/ethical issues)
+- Accountability, responsibility and liability (e.g. software correctness, reliability and safety, as well as ethical confidentiality of cybersecurity professionals)
 - The role of the computing professional in public policy
 - Maintaining awareness of consequences
 - Ethical dissent and whistle-blowing
@@ -188,36 +172,27 @@ ethical confidentiality of cybersecurity professionals)
 - Ergonomics and healthy computing environments
 - Time to market and cost considerations versus quality professional standards
 
-**Learning Outcomes**:
+??? info "Learning Outcomes:"
 
-1. Identify ethical issues that arise in software development and determine how to address them technically
-and ethically. [Familiarity]
-2. Explain the ethical responsibility of ensuring software correctness, reliability and safety. [Familiarity]
-3. Describe the mechanisms that typically exist for a professional to keep up-to-date. [Familiarity]
-- 197 -
-4. Describe the strengths and weaknesses of relevant professional codes as expressions of professionalism and
-guides to decision-making. [Familiarity]
-5. Analyze a global computing issue, observing the role of professionals and government officials in
-managing this problem. [Assessment]
-6. Evaluate the professional codes of ethics from the ACM, the IEEE Computer Society, and other
-organizations. [Assessment]
-[Core-Tier2]
-7. Describe ways in which professionals may contribute to public policy. [Familiarity]
-8. Describe the consequences of inappropriate professional behavior. [Familiarity]
-9. Identify progressive stages in a whistle-blowing incident. [Familiarity]
-10. Identify examples of how regional culture interplays with ethical dilemmas. [Familiarity]
-11. Investigate forms of harassment and discrimination and avenues of assistance. [Usage]
-12. Examine various forms of professional credentialing. [Usage]
-13. Explain the relationship between ergonomics in computing environments and people’s health. [Familiarity]
-14. Develop a computer usage/acceptable use policy with enforcement measures. [Assessment]
-15. Describe issues associated with industries’ push to focus on time to market versus enforcing quality
-professional standards. [Familiarity]
+    1. Identify ethical issues that arise in software development and determine how to address them technically and ethically. [Familiarity]
+    2. Explain the ethical responsibility of ensuring software correctness, reliability and safety. [Familiarity]
+    3. Describe the mechanisms that typically exist for a professional to keep up-to-date. [Familiarity]
+    4. Describe the strengths and weaknesses of relevant professional codes as expressions of professionalism and guides to decision-making. [Familiarity]
+    5. Analyze a global computing issue, observing the role of professionals and government officials in managing this problem. [Assessment]
+    6. Evaluate the professional codes of ethics from the ACM, the IEEE Computer Society, and other organizations. [Assessment]
+    7. Describe ways in which professionals may contribute to public policy. [Familiarity]
+    8. Describe the consequences of inappropriate professional behavior. [Familiarity]
+    9. Identify progressive stages in a whistle-blowing incident. [Familiarity]
+    10. Identify examples of how regional culture interplays with ethical dilemmas. [Familiarity]
+    11. Investigate forms of harassment and discrimination and avenues of assistance. [Usage]
+    12. Examine various forms of professional credentialing. [Usage]
+    13. Explain the relationship between ergonomics in computing environments and people’s health. [Familiarity]
+    14. Develop a computer usage/acceptable use policy with enforcement measures. [Assessment]
+    15. Describe issues associated with industries’ push to focus on time to market versus enforcing quality professional standards. [Familiarity]
 
 ## SP/Intellectual Property
 
 Intellectual property refers to a range of intangible rights of ownership in an asset such as a software program. Each intellectual property "right" is itself an asset. The law provides different methods for protecting these rights of ownership based on their type. There are essentially four types of intellectual property rights relevant to software: patents, copyrights, trade secrets and trademarks. Each affords a different type of legal protection. See cross-referencing with the Information Management (IM) Knowledge Area.
-
-**Topics**:
 
 - Philosophical foundations of intellectual property
 - Intellectual property rights (cross-reference IM/Information Storage and Retrieval/intellectual property and
@@ -230,26 +205,24 @@ protection)
 - Foundations of the open source movement
 - Software piracy
 
-**Learning Outcomes**:
+??? info "Learning Outcomes:"
 
-1. Discuss the philosophical bases of intellectual property. [Familiarity]
-2. Discuss the rationale for the legal protection of intellectual property. [Familiarity]
-3. Describe legislation aimed at digital copyright infringements. [Familiarity]
-4. Critique legislation aimed at digital copyright infringements. [Assessment]
-5. Identify contemporary examples of intangible digital intellectual property. [Familiarity]
-6. Justify uses of copyrighted materials. [Assessment]
-7. Evaluate the ethical issues inherent in various plagiarism detection mechanisms. [Assessment]
-8. Interpret the intent and implementation of software licensing. [Familiarity]
-9. Discuss the issues involved in securing software patents. [Familiarity]
-10. Characterize and contrast the concepts of copyright, patenting and trademarks. [Assessment]
-11. Identify the goals of the open source movement. [Familiarity]
-12. Identify the global nature of software piracy. [Familiarity]
+    1. Discuss the philosophical bases of intellectual property. [Familiarity]
+    2. Discuss the rationale for the legal protection of intellectual property. [Familiarity]
+    3. Describe legislation aimed at digital copyright infringements. [Familiarity]
+    4. Critique legislation aimed at digital copyright infringements. [Assessment]
+    5. Identify contemporary examples of intangible digital intellectual property. [Familiarity]
+    6. Justify uses of copyrighted materials. [Assessment]
+    7. Evaluate the ethical issues inherent in various plagiarism detection mechanisms. [Assessment]
+    8. Interpret the intent and implementation of software licensing. [Familiarity]
+    9. Discuss the issues involved in securing software patents. [Familiarity]
+    10. Characterize and contrast the concepts of copyright, patenting and trademarks. [Assessment]
+    11. Identify the goals of the open source movement. [Familiarity]
+    12. Identify the global nature of software piracy. [Familiarity]
 
 ## SP/Privacy and Civil Liberties
 
 Electronic information sharing highlights the need to balance privacy protections with information access. The ease of digital access to many types of data makes privacy rights and civil liberties more complex, differing among the variety of cultures worldwide. See cross- referencing with the Human-Computer Interaction (HCI), Information Assurance and Security (IAS), Information Management (IM), and Intelligent Systems (IS) Knowledge Areas.
-
-**Topics**:
 
 - Philosophical foundations of privacy rights (cross-reference IS/Fundamental Issues/philosophical issues)
 - Legal foundations of privacy protection
@@ -263,15 +236,15 @@ privacy and anonymity)
 - Civil liberties and cultural differences
 - Freedom of expression and its limitations
 
-**Learning Outcomes**:
+??? info "Learning Outcomes:"
 
-1. Discuss the philosophical basis for the legal protection of personal privacy. [Familiarity]
-2. Evaluate solutions to privacy threats in transactional databases and data warehouses. [Assessment]
-3. Describe the role of data collection in the implementation of pervasive surveillance systems (e.g., RFID, face recognition, toll collection, mobile computing). [Familiarity]
-4. Describe the ramifications of differential privacy. [Familiarity]
-5. Investigate the impact of technological solutions to privacy problems. [Usage]
-6. Critique the intent, potential value and implementation of various forms of privacy legislation. [Assessment]
-7. Identify strategies to enable appropriate freedom of expression. [Familiarity]
+    1. Discuss the philosophical basis for the legal protection of personal privacy. [Familiarity]
+    2. Evaluate solutions to privacy threats in transactional databases and data warehouses. [Assessment]
+    3. Describe the role of data collection in the implementation of pervasive surveillance systems (e.g., RFID, face recognition, toll collection, mobile computing). [Familiarity]
+    4. Describe the ramifications of differential privacy. [Familiarity]
+    5. Investigate the impact of technological solutions to privacy problems. [Usage]
+    6. Critique the intent, potential value and implementation of various forms of privacy legislation. [Assessment]
+    7. Identify strategies to enable appropriate freedom of expression. [Familiarity]
 
 ## SP/Professional Communication
 
@@ -280,8 +253,6 @@ very different goals and needs for that information. Effective professional comm
 technical information is rarely an inherited gift, but rather needs to be taught in context
 throughout the undergraduate curriculum. See cross-referencing with Human-Computer
 Interaction (HCI) and Software Engineering (SE) Knowledge Areas.
-
-**Topics**:
 
 - Reading, understanding and summarizing technical material, including source code and documentation
 - Writing effective technical documentation and materials
@@ -296,25 +267,23 @@ cultural evaluation)
 - Tradeoffs of competing risks in software projects, such as technology, structure/process, quality, people,
 market and financial (cross-reference SE/Software Project Management/Risk)
 
-**Learning Outcomes**:
+??? info "Learning Outcomes:"
 
-1. Write clear, concise, and accurate technical documents following well-defined standards for format and for
-including appropriate tables, figures, and references. [Usage]
-2. Evaluate written technical documentation to detect problems of various kinds. [Assessment]
-3. Develop and deliver a good quality formal presentation. [Assessment]
-4. Plan interactions (e.g. virtual, face-to-face, shared documents) with others in which they are able to get their point across, and are also able to listen carefully and appreciate the points of others, even when they disagree, and are able to convey to others what they have heard. [Usage]
-5. Describe the strengths and weaknesses of various forms of communication (e.g. virtual, face-to-face, shared documents). [Familiarity]
-6. Examine appropriate measures used to communicate with stakeholders involved in a project. [Usage]
-7. Compare and contrast various collaboration tools. [Assessment]
-8. Discuss ways to influence performance and results in cross-cultural teams. [Familiarity]
-9. Examine the tradeoffs and common sources of risk in software projects regarding technology, structure/process, quality, people, market and financial. [Usage]
-10. Evaluate personal strengths and weaknesses to work remotely as part of a multinational team. [Assessment]
+    1. Write clear, concise, and accurate technical documents following well-defined standards for format and for
+    including appropriate tables, figures, and references. [Usage]
+    1. Evaluate written technical documentation to detect problems of various kinds. [Assessment]
+    2. Develop and deliver a good quality formal presentation. [Assessment]
+    3. Plan interactions (e.g. virtual, face-to-face, shared documents) with others in which they are able to get their point across, and are also able to listen carefully and appreciate the points of others, even when they disagree, and are able to convey to others what they have heard. [Usage]
+    4. Describe the strengths and weaknesses of various forms of communication (e.g. virtual, face-to-face, shared documents). [Familiarity]
+    5. Examine appropriate measures used to communicate with stakeholders involved in a project. [Usage]
+    6. Compare and contrast various collaboration tools. [Assessment]
+    7. Discuss ways to influence performance and results in cross-cultural teams. [Familiarity]
+    8. Examine the tradeoffs and common sources of risk in software projects regarding technology, structure/process, quality, people, market and financial. [Usage]
+    9.  Evaluate personal strengths and weaknesses to work remotely as part of a multinational team. [Assessment]
 
 ## SP/Sustainability
 
 Sustainability is characterized by the United Nations [1] as “development that meets the needs of the present without compromising the ability of future generations to meet their own needs." Sustainability was first introduced in the CS2008 curricular guidelines. Topics in this emerging area can be naturally integrated into other familiarity areas and units, such as human-computer interaction and software evolution. See cross-referencing with the Human-Computer Interaction (HCI) and Software Engineering (SE) Knowledge Areas.
-
-**Topics**:
 
 - Being a sustainable practitioner by taking into consideration cultural and environmental impacts of
 implementation decisions (e.g. organizational policies, economic viability, and resource consumption).
@@ -326,28 +295,24 @@ implementation decisions (e.g. organizational policies, economic viability, and 
 - Research on applications of computing to environmental issues, such as energy, pollution, resource usage, recycling and reuse, food management, farming and others.
 - The interdependence of the sustainability of software systems with social systems, including the knowledge and skills of its users, organizational processes and policies, and its societal context (e.g., market forces,
 government policies).
-**Learning Outcomes**:
-[Core-Tier1]
-1. Identify ways to be a sustainable practitioner. [Familiarity]
-2. Illustrate global social and environmental impacts of computer use and disposal (e-waste). [Usage]
-- 201 -
-[Core-Tier2]
-3. Describe the environmental impacts of design choices within the field of computing that relate to algorithm
-design, operating system design, networking design, database design, etc. [Familiarity]
-4. Investigate the social and environmental impacts of new system designs through projects. [Usage]
-[Elective]
-5. Identify guidelines for sustainable IT design or deployment. [Familiarity]
-6. List the sustainable effects of telecommuting or web shopping. [Familiarity]
-7. Investigate pervasive computing in areas such as smart energy systems, social networking, transportation,
-agriculture, supply-chain systems, environmental monitoring and citizen activism. [Usage]
-8. Develop applications of computing and assess through research areas pertaining to environmental issues
-(e.g. energy, pollution, resource usage, recycling and reuse, food management, farming). [Assessment]
+
+??? info "Learning Outcomes:"
+
+    1. Identify ways to be a sustainable practitioner. [Familiarity]
+    2. Illustrate global social and environmental impacts of computer use and disposal (e-waste). [Usage]
+    3. Describe the environmental impacts of design choices within the field of computing that relate to algorithm
+    design, operating system design, networking design, database design, etc. [Familiarity]
+    1. Investigate the social and environmental impacts of new system designs through projects. [Usage]
+    2. Identify guidelines for sustainable IT design or deployment. [Familiarity]
+    3. List the sustainable effects of telecommuting or web shopping. [Familiarity]
+    4. Investigate pervasive computing in areas such as smart energy systems, social networking, transportation,
+    agriculture, supply-chain systems, environmental monitoring and citizen activism. [Usage]
+    1. Develop applications of computing and assess through research areas pertaining to environmental issues
+    (e.g. energy, pollution, resource usage, recycling and reuse, food management, farming). [Assessment]
 
 ## SP/History
 
 This history of computing is taught to provide a sense of how the rapid change in computing impacts society on a global scale. It is often taught in context with foundational concepts, such as system fundamentals and software developmental fundamentals.
-
-**Topics**:
 
 - Prehistory—the world before 1946
 - History of computer hardware, software, networking (cross-reference AR/Digital logic and digital systems/
@@ -355,18 +320,16 @@ history of computer architecture)
 - Pioneers of computing
 - History of the Internet
 
-**Learning Outcomes**:
+??? info "Learning Outcomes:"
 
-1. Identify significant continuing trends in the history of the computing field. [Familiarity]
-2. Identify the contributions of several pioneers in the computing field. [Familiarity]
-3. Discuss the historical context for several programming language paradigms. [Familiarity]
-4. Compare daily life before and after the advent of personal computers and the Internet. [Assessment]
+    1. Identify significant continuing trends in the history of the computing field. [Familiarity]
+    2. Identify the contributions of several pioneers in the computing field. [Familiarity]
+    3. Discuss the historical context for several programming language paradigms. [Familiarity]
+    4. Compare daily life before and after the advent of personal computers and the Internet. [Assessment]
 
 ## SP/Economies of Computing
 
 Economics of computing encompasses the metrics and best practices for personnel and financial management surrounding computer information systems.
-
-**Topics**:
 
 - Monopolies and their economic implications
 - Effect of skilled labor supply and demand on the quality of computing products
@@ -380,20 +343,18 @@ Economics of computing encompasses the metrics and best practices for personnel 
 - Network effect or demand-side economies of scale
 - Use of engineering economics in dealing with finances
 
-**Learning Outcomes**:
+??? info "Learning Outcomes:"
 
-1. Summarize the rationale for antimonopoly efforts. [Familiarity]
-2. Identify several ways in which the information technology industry is affected by shortages in the labor supply. [Familiarity]
-3. Identify the evolution of pricing strategies for computing goods and services. [Familiarity]
-4. Discuss the benefits, the drawbacks and the implications of off-shoring and outsourcing. [Familiarity]
-5. Investigate and defend ways to address limitations on access to computing. [Usage]
-6. Describe the economic benefits of network effects. [Familiarity]
+    1. Summarize the rationale for antimonopoly efforts. [Familiarity]
+    2. Identify several ways in which the information technology industry is affected by shortages in the labor supply. [Familiarity]
+    3. Identify the evolution of pricing strategies for computing goods and services. [Familiarity]
+    4. Discuss the benefits, the drawbacks and the implications of off-shoring and outsourcing. [Familiarity]
+    5. Investigate and defend ways to address limitations on access to computing. [Usage]
+    6. Describe the economic benefits of network effects. [Familiarity]
 
 ## SP/Security Policies, Laws and Computer Crimes
 
 While security policies, laws and computer crimes are important subjects, it is essential they are viewed with the foundation of other Social and Professional knowledge units, such as Intellectual Property, Privacy and Civil Liberties, Social Context, and Professional Ethics. Computers and the Internet, perhaps more than any other technology, have transformed society over the past 75 years. At the same time, they have contributed to unprecedented threats to privacy; whole new categories of crime and anti-social behavior; major disruptions to organizations; and the large-scale concentration of risk into information systems. See cross-referencing with the Human-Computer Interaction (HCI) and Information Assurance and Security (IAS) Knowledge Areas.
-
-**Topics**:
 
 - Examples of computer crimes and legal redress for computer criminals (cross-reference IAS/Digital
 Forensics/rules of evidence)
@@ -405,15 +366,15 @@ privacy and deception)
 - Crime prevention strategies
 - Security policies (cross-reference IAS/Security Policy and Governance/policies)
 
-**Learning Outcomes**:
+??? info "Learning Outcomes:"
 
-1. List classic examples of computer crimes and social engineering incidents with societal impact. [Familiarity]
-2. Identify laws that apply to computer crimes. [Familiarity]
-3. Describe the motivation and ramifications of cyber terrorism and criminal hacking. [Familiarity]
-4. Examine the ethical and legal issues surrounding the misuse of access and various breaches in security. [Usage]
-5. Discuss the professional's role in security and the trade-offs involved. [Familiarity]
-6. Investigate measures that can be taken by both individuals and organizations including governments to prevent or mitigate the undesirable effects of computer crimes and identity theft. [Usage]
-7. Write a company-wide security policy, which includes procedures for managing passwords and employee monitoring. [Usage]
+    1. List classic examples of computer crimes and social engineering incidents with societal impact. [Familiarity]
+    2. Identify laws that apply to computer crimes. [Familiarity]
+    3. Describe the motivation and ramifications of cyber terrorism and criminal hacking. [Familiarity]
+    4. Examine the ethical and legal issues surrounding the misuse of access and various breaches in security. [Usage]
+    5. Discuss the professional's role in security and the trade-offs involved. [Familiarity]
+    6. Investigate measures that can be taken by both individuals and organizations including governments to prevent or mitigate the undesirable effects of computer crimes and identity theft. [Usage]
+    7. Write a company-wide security policy, which includes procedures for managing passwords and employee monitoring. [Usage]
 
 !!! cite "References"
 

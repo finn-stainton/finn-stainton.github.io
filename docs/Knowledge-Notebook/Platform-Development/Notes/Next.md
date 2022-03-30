@@ -7,7 +7,7 @@ hide:
 
 React framework with hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching
 
-[:octicons-arrow-left-24: Return to Platform Development](/Knowledge-Notebook/Platform-Development/)
+[:octicons-arrow-left-24: Return to Web Platforms](/Knowledge-Notebook/Platform-Development/02_Web-Platforms/)
 
 ---
 
@@ -15,6 +15,7 @@ React framework with hybrid static & server rendering, TypeScript support, smart
 
 !!! cite ""
     1. [Getting Started | Next.js](https://nextjs.org/docs/getting-started)
+    2. [Learn | Next.js](https://nextjs.org/learn/foundations/about-nextjs)
 
 ## Getting Started
 

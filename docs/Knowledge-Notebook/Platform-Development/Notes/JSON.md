@@ -15,4 +15,4 @@ hide:
 
 ## Getting Started
 
-## Noteworthy
+## Lexical Structure

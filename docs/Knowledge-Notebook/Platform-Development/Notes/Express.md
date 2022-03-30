@@ -30,11 +30,11 @@ const express = require('express')
 const app = express()
 const port = 3000
 
-app.get('/', (req, res) =&gt; {
+app.get('/', (req, res) => {
   res.send('Hello World!')
 })
 
-app.listen(port, () =&gt; {
+app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
 ```
@@ -43,7 +43,7 @@ app.listen(port, () =&gt; {
 
 ---
 
-&gt; [Express routing](http://expressjs.com/en/guide/routing.html)
+> [Express routing](http://expressjs.com/en/guide/routing.html)
 
 Determines how an application responds to a request given it's URI and HTTP method. Each route can have one or more function handlers which are executed with when a route is matched.
 
@@ -86,16 +86,16 @@ const express = require('express')
 const router = express.Router()
 
 // middleware that is specific to this router
-router.use((req, res, next) =&gt; {
+router.use((req, res, next) => {
   console.log('Time: ', Date.now())
   next()
 })
 // define the home page route
-router.get('/', (req, res) =&gt; {
+router.get('/', (req, res) => {
   res.send('Birds home page')
 })
 // define the about route
-router.get('/about', (req, res) =&gt; {
+router.get('/about', (req, res) => {
   res.send('About birds')
 })
 

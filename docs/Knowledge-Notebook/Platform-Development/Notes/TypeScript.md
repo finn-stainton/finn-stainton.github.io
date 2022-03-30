@@ -7,17 +7,19 @@ hide:
 
 Is a strongly typed language developed by Microsoft which is a superset of JavaScript. Additional features include static types. It has to be compiled down to JavaScript.
 
-[:octicons-arrow-left-24: Return to Programming Languages](/Knowledge-Notebook/Programming-Languages/)
+[:octicons-arrow-left-24: Return to Web Platforms](/Knowledge-Notebook/Platform-Development/02_Web-Platforms/)
 
 ---
 
 ## Resources/ Bib
 
-- [Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-- [TSConfig Reference](https://www.typescriptlang.org/tsconfig)
-- [Playground](https://www.typescriptlang.org/play)
-- [Cheatsheets](https://www.typescriptlang.org/cheatsheets)
-- [Type Search](https://www.typescriptlang.org/dt/search)
+!!! cite ""
+
+    - [Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+    - [TSConfig Reference](https://www.typescriptlang.org/tsconfig)
+    - [Playground](https://www.typescriptlang.org/play)
+    - [Cheatsheets](https://www.typescriptlang.org/cheatsheets)
+    - [Type Search](https://www.typescriptlang.org/dt/search)
 
 ## Getting Started
 
@@ -79,9 +81,9 @@ Can install syntax checking
 
 - Object `{ field: string }`
   
-- Function `(arg: number) =&gt; string`
+- Function `(arg: number) => string`
   
-- Arrays: `string[]` or `Array&lt;string&gt;`
+- Arrays: `string[]` or `Array&lt;string>`
   
 - Tuple: `[string, number]`
   
