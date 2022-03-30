@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation
+
+---
+
 # Discrete 8-bit Computer
+
+[:octicons-arrow-left-24: Return to Projects](/Projects/)
+
+---
 
 ## Aim
 

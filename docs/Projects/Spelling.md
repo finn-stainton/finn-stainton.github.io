@@ -1,4 +1,14 @@
+---
+hide:
+    - navigation
+
+---
+
 # Spelling App
+
+[:octicons-arrow-left-24: Return to Projects](/Projects/)
+
+---
 
 ## Proposal
 

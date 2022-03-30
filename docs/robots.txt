@@ -2,7 +2,7 @@ User-agent: *
 Disallow: /Journal/
 
 User-agent: *
-Disallow: /Bodies-of-Knowledge/
+Disallow: /Knowledge-Notebook/
 
 User-agent: *
 Disallow: /Projects/assets/
