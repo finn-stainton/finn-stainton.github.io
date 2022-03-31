@@ -18,30 +18,42 @@ A JavaScript library for building interactive user interfaces
 
     1. [React Docs | Getting Started](https://reactjs.org/docs/getting-started.html)
     2. [React TypeScript Cheatsheet](https://github.com/typescript-cheatsheets/react)
+    3. [React Tutorial by Tania Rascia](https://www.taniarascia.com/getting-started-with-react/)
+
+## Prerequisites
 
 ---
+
+- [HTML](HTML.md) and [CSS](CSS.md)
+- [JavaScript](JavaScript.md)
+- [DOM](DOM.md)
+- [Node.js](Node.md) and npm installed
 
 ## Getting Started
 
 ---
 
-## JSX/ TSX
+## Create React App
 
 ---
 
-## Components/ Props
+## JSX
 
-> Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
-> 
-> Conceptually, components are like JavaScript functions. They accept arbitrary inputs (called “props”) and return React elements describing what should appear on the screen.
-> 
-> [Component API Docs](https://reactjs.org/docs/react-component.html)
-> 
-> Names should always start with a capital letter
+---
 
-### Function Components
+## Components and Props
 
-```jsx
+---
+
+!!! quote
+    "Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. Conceptually, components are like JavaScript functions. They accept arbitrary inputs (called “props”) and return React elements describing what should appear on the screen." [(Component API Docs)](https://reactjs.org/docs/react-component.html)
+
+Names should always start with a capital letter
+
+!!! note
+    Class components were the main components used in projects (and still are used), however functional components are now the recommended way and therefore, I will only be writing about them.
+
+``` js
 function Welcome(props) {
   return <h1>Hello, {props.name}</h1>;
 }
@@ -49,48 +61,11 @@ function Welcome(props) {
 
 - Accepts a single "props" object argument and returns a React element.
 
-### Class Components
-
-```jsx
-class Welcome extends React.Component {
-  render() {
-    return <h1>Hello, {this.props.name}</h1>;
-  }
-}
-```
-
-### Rendering Components
-
-```jsx
-const element = <Welcome name="Sara" />;
-ReactDOM.render(
-  element,
-  document.getElementById('root')
-);
-```
-
-### Composing Components
-
-```jsx
-function App() {
-  return (
-    <div>
-      <Welcome name="Sara" />
-      <Welcome name="Cahal" />
-      <Welcome name="Edite" />
-    </div>
-  );
-}
-
-ReactDOM.render(
-  <App />,
-  document.getElementById('root')
-);
-```
+> https://reactjs.org/docs/react-component.html
 
 ### Extracting Components
 
-``` jsx
+``` js
 // Original
 function Comment(props) {
   return (
@@ -119,7 +94,7 @@ It accepts `author` (an object), `text` (a string), and `date` (a date) as props
 
 But it is hard to reuse. Extracting
 
-``` jsx
+``` js
 function Avatar(props) {
   return (
     <img className="Avatar"
@@ -155,7 +130,12 @@ function Comment(props) {
 }
 ```
 
-> A good rule of thumb is that if a part of your UI is used several times (`Button`, `Panel`, `Avatar`), or is complex enough on its own (`App`, `FeedStory`, `Comment`), it is a good candidate to be extracted to a separate component.
+!!! note
+    A good rule of thumb is that if a part of your UI is used several times (`Button`, `Panel`, `Avatar`), or is complex enough on its own (`App`, `FeedStory`, `Comment`), it is a good candidate to be extracted to a separate component. (React)
+
+Presentation Components
+
+Container Components
 
 ## State
 
@@ -163,7 +143,114 @@ function Comment(props) {
 
 > [The State of State Management in React - YouTube](https://www.youtube.com/watch?v=BhQYZmaxTCM)
 
-Original used as part of classes
+Original used as part of classes, functional components can now use state via [State Hooks](#state-hook)
+
+## Events
+
+---
+
+## Conditional Rendering
+
+---
+
+## Fragment
+
+---
+
+## Hooks
+
+---
+
+> "Hooks are functions that let you “hook into” React state and lifecycle features from function components." (React)
+
+- Only works with functions (not classes)
+- Cannot be nested in control structures?
+
+### Hook Rules
+
+1. Only Call Hooks at the Top Level
+    - unconditionally call hook just below
+2. Only Call Hooks from React Components
+
+### State Hook
+
+- local state
+- Preserves between renders
+- returns current state and a function to update state
+- one initial state argument which is only used during first render
+- useState does not automatically merge update objects (use object spread syntax)
+
+```js
+import { useState } from "react";
+const [count, setCount] = useState(10);
+
+// Functional Update
+setCount(currentCount => currentCount + 1);
+
+```
+
+If initial state is the result of an expensive computation, you may provide a function instead, which will be executed only on the initial render.
+
+```js
+const [state, setState] = useState(() => {
+  const initialState = someExpensiveComputation(props);
+  return initialState;
+});
+```
+
+### Effect Hook
+
+``` js
+useEffect(() => {
+  
+}, []);
+```
+
+### Context Hook
+
+### Reducer Hook
+
+### Memo Hook
+
+### Reference Hook
+
+> https://www.youtube.com/watch?v=W6AJ-gRupCs
+
+- storing a [Reference] to a Component
+- imperially call components
+
+``` js
+const inputRef = useRef();
+
+<input ref={input} name="input"/>
+
+<button onClick={() => {
+  inputRef.current.focus();
+}}>Focus on Input</button>
+```
+
+### Custom Hooks
+
+- extract component logic into reusable functions
+- should keep with hook naming conventions ("use...")
+- doesn’t need to have a specific signature
+
+``` js
+function useFriendStatus(friendID) {
+  const [isOnline, setIsOnline] = useState(null);
+
+  // Logic
+
+  return isOnline;
+}
+```
+
+## State Management Libraries
+
+> https://www.youtube.com/watch?v=u_o09PD_qA
+> https://www.youtube.com/watch?v=P95DuIBwnqw
+
+---
 
 ### Redux
 
@@ -173,7 +260,7 @@ Original used as part of classes
 - Dispatch action (action passed to reducer)
 - Reducer(updates the state)
 
-``` js
+```js
     const { createStore } = Redux;
 
     const initState = { things: [] }
@@ -200,63 +287,21 @@ Original used as part of classes
     store.dispatch(anAction)
 ```
 
----
+### Zustand
 
-## Context
+### MobX
 
----
+### Recoil
 
-## Hooks
+### Akita
 
-Only works with functions (not classes)
-
-Cannot be nested in control structures?
-
-### State Hook
-
-```js
-import { useState } from "react";
-const [count, setCount] = useState(10);
-const [{anObject, anotherObject}, setObject] = useState(() => expensiveInitalState())
-
-setCount(currentCount => currentCount + 1);
-setObject(currentState => ({
-    ...currentState,
-    anObject: currentState.anObject = something
-}))
-```
-
-### Effect Hook
-
-``` js
-useEffect(() => {
-  
-}, []);
-```
-
-dependency array
-
-componentDidMount
-
-componentDidUnmount
-
-clean up function
-
-### Reference Hook
-
-### LayoutEffect Hook
-
-### Callback Hook
-
-### Memo Hook
-
-### Reducer Hook
-
-### Context Hook
-
-### Custom Hooks
+## Query Libraries
 
 ---
+
+### Redux Toolkit Query
+
+### React Query
 
 ## Lazy Loading/ Suspense
 
@@ -289,3 +334,5 @@ React.FC: Function Component
 ## ESLint
 
 ---
+
+## Performance Improvements

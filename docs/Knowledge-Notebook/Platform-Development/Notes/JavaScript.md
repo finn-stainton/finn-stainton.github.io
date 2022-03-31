@@ -17,6 +17,7 @@ hide:
     1. [Microsoft JavaScript Docs](https://docs.microsoft.com/en-us/javascript/)
     2. [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
     3. [Mozilla | A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+    4. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
 ## History
 
@@ -40,7 +41,7 @@ Created in 1995 by Brenda Eich while an engineer at NetScape. First released wit
 
 `#!env/node`
 
-### Keywords
+<!-- ### Keywords
 
 - [`break`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/break)
 - [`case`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
@@ -74,7 +75,7 @@ Created in 1995 by Brenda Eich while an engineer at NetScape. First released wit
 - [`void`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/void)
 - [`while`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
 - [`with`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/with)
-- [`yield`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield)
+- [`yield`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield) -->
 
 ### Literals
 

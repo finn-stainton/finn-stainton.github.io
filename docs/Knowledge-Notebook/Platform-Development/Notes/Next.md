@@ -11,6 +11,12 @@ React framework with hybrid static & server rendering, TypeScript support, smart
 
 ---
 
+## Prerequisites
+
+---
+
+- [React](React.md)
+
 ## Resources/ Bib
 
 !!! cite ""
