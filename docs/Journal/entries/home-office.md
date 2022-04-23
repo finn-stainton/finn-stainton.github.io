@@ -1,0 +1,17 @@
+# Home Work Space for 2022
+
+![Office1](../assets/office1.jpg)
+
+Have Mac and Windows computers with the recent arrival of a Keychron Q1 to partner an MX Master.
+
+![Office2](../assets/office2.jpg)
+
+Agilent 54622D Oscilloscope, Soldering Iron, Fluke 117, Bench Power Supply, IC Programmers, Textbooks
+
+![Office3](../assets/office3.jpg)
+
+A myriad of Passive, Discrete, Electromechanical components along side ICs, Dev Boards, Arduino Shields and Proto Equipment
+
+![Office4](../assets/office4.jpg)
+
+Storage of all sorts of bits and bobs.
