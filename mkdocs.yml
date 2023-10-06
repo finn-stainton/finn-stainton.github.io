@@ -22,26 +22,15 @@
 site_name: Finn Stainton
 site_url: https://finn-stainton.github.io/
 site_author: Finn Stainton
-site_description: >-
-  Welcome to my second brain, working notes, ideas and on-going project write ups. 
-  This website is inspired by <i>working with the garage door up</i> mentality of 
-  being open with the current state of projects, knowledge and problems I'm pondering.</p>
-  <p>Check out some of my projects but just a warning, these are new (so incomplete) write ups. Enjoy. 
-
-# Repository
-repo_url: https://github.com/finn-stainton/finn-stainton.github.io
-repo_name: finn-stainton.github.io
 
 # Copyright
 copyright: >-
-  Work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-  Creative Commons Attribution 4.0 International License</a>, except where otherwise noted.<br/>
-  I cannot guarantee all content will be free of errors or copyright protections. 
+  
 
 # Configuration
 theme:
   name: material
-  custom_dir: material
+  custom_dir: material/overrides
 
   # Static files
   static_templates:
@@ -65,7 +54,7 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: teal
+      primary: black
       accent: deep orange
       toggle:
         icon: material/weather-sunny
@@ -79,6 +68,8 @@ theme:
 # Plugins
 plugins:
   - search
+  - blog
+
 
 # Customization
 extra:
