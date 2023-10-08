@@ -1,5 +1,8 @@
 ---
+title: Graduated 🎉
 date: 2021-12-20
+author:
+    - Finn Stainton
 ---
 
 # Graduated 🎉
@@ -7,6 +10,8 @@ date: 2021-12-20
 Graduated from AUT with a Bachelor of Computer & Information Sciences, Double Major in Computer Science and Software Development.
 
 The papers I enjoyed the most were the "hands on" development like Software Development Practice, where our team created a Full-Stack React app.
+
+<!-- more -->
 
 Here is a table of the skills I learnt from each paper.
 

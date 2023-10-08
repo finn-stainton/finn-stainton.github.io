@@ -1,10 +1,15 @@
 ---
+title: Motorised Ball Valve - Teardown
 date: 2019-10-13
+author:
+  - Finn Stainton
 ---
 
 # Motorised Ball Valve: Teardown
 
 Teardown of U.S. Solid USS-MSV00020 (1-inch, 25 mm NPT) purchased from Amazon. Unboxing it from a small white box which contains the valve(obviously) and an installation and wiring diagrams information sheet. 
+
+<!-- more -->
 
 **Who/ what is US Solid:** “Founded in 2011 U.S. Solid is new generation manufacturer of precision laboratory cuvettes, laboratory material and equipment. U.S. Solid is founded by four PhD. students with extensive experience in spectroscopy techniques but also mechanical and chemical engineering. We came to a conclusion that the today’s market is saturated with questionable quality, high cost and above all expensive laboratory equipment.”[^1]
 
@@ -24,13 +29,12 @@ If you navigate amazon for motorised valves there appears to be multiple compani
 - <100˚C medium temperature
 - ~5 second open/close time
 - <1MPa medium pressure
- 
+
 ## Physical Design
 
 ![Valve Design](../assets/valve_design.jpg)
 
 The valve is made from brass which can tarnish easily with high levels of bare skin handling. The valve mounding has DN25 which indicates it was made in a country which uses metric measurements. It uses a 1” female NP Thread 
-
 
 ### Electrical Design
 

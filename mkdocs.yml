@@ -48,14 +48,14 @@ theme:
     - navigation.indexes
   palette:
     - scheme: default
-      primary: deep orange
+      primary: teal
       accent: teal
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       primary: black
-      accent: deep orange
+      accent: teal
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -68,8 +68,8 @@ theme:
 # Plugins
 plugins:
   - search
-  - blog
-
+  - blog:
+      archive: false
 
 # Customization
 extra:
