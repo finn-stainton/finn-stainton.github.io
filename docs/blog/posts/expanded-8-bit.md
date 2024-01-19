@@ -1,12 +1,12 @@
 ---
-title: Discrete 8-bit Computer
+title: "Discrete Logic Computer: An Expansion"
 author: 
     - Finn Stainton
 date: 2021-12-20
 draft: true
 ---
 
-# Discrete 8-bit Computer
+# Discrete Logic Computer: An Expansion
 
 Inspired by Ben Eaters video series, I set out to construct a simple 8-bit computer from discrete 74 series chips. My aim was to To understand how software is executed.
 
