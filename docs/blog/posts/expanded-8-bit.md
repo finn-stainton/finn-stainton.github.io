@@ -14,40 +14,40 @@ Inspired by Ben Eaters video series, I set out to construct a simple 8-bit compu
 
 ## Instruction Set Architecture
 
-| Operation | Machine Code (HexDecimal) | Description |
+| Operation | Machine Code | Description |
 | --- | --- | --- |
-| NOP | 00 | No Operation |
-| HLT | 01 | Halt |
-| LD | 02 | Load |
-| LDI | 03 | Load immediately out |
-| MOV | 04 | Move |
-| IN | 05 | In |
-| ADD | 06 | Add A and B |
-| SUB | 07 | Subtract A and B |
-| COMA | 08 | Two's Compliment of A |
-| COMB | 09 | Two's Compliment of B |
-| NEGA | 0A | Negate A register |
-| NEGB | 0B | Negate B register |
-| AND | 0C | Bitwise AND |
-| OR | 0D | Bitwise OR |
-| XOR | 0E | Bitwise XOR |
-| ADDI | 0F | Addition with immediately out |
-| SUBI | 10 | Subtract with immediately out |
-| ANDI | 11 | Bitwise AND immediately |
-| ORI | 12 | Bitwise OR immediately |
-| ROR | 13 | Rotate Right |
-| ROL | 14 | Rotate Left |
-| RORC | 15 | Rotate Right with Carry |
-| ROLC | 16 | Rotate Left with Carry |
-| ST | 17 | Store |
-| OUT | 18 | Output |
-| JMP | 19 | Jump |
-| BRG |  | Branch if Greater than Flag set |
-| BRGE |  | Branch if Greater than or Equal Flag set |
-| BRNE |  | Branch if Negative or Equal Flag set |
-| BRLE |  | Branch if Less than or Equal Flag set |
-| BRL |  | Branch if Less than Flag set |
-| BRN |  | Branch if Negative Flag set |
+| NOP | 0x00 | No Operation |
+| HLT | 0x01 | Halt |
+| LD | 0x02 | Load |
+| LDI | 0x03 | Load immediately out |
+| MOV | 0x04 | Move |
+| IN | 0x05 | In |
+| ADD | 0x06 | Add A and B |
+| SUB | 0x07 | Subtract A and B |
+| COMA | 0x08 | Two's Compliment of A |
+| COMB | 0x09 | Two's Compliment of B |
+| NEGA | 0x0A | Negate A register |
+| NEGB | 0x0B | Negate B register |
+| AND | 0x0C | Bitwise AND |
+| OR | 0x0D | Bitwise OR |
+| XOR | 0x0E | Bitwise XOR |
+| ADDI | 0x0F | Addition with immediately out |
+| SUBI | 0x10 | Subtract with immediately out |
+| ANDI | 0x11 | Bitwise AND immediately |
+| ORI | 0x12 | Bitwise OR immediately |
+| ROR | 0x13 | Rotate Right |
+| ROL | 0x14 | Rotate Left |
+| RORC | 0x15 | Rotate Right with Carry |
+| ROLC | 0x16 | Rotate Left with Carry |
+| ST | 0x17 | Store |
+| OUT | 0x18 | Output |
+| JMP | 0x19 | Jump |
+| BRG | 0x1A | Branch if Greater than Flag set |
+| BRGE | 0x1B | Branch if Greater than or Equal Flag set |
+| BRNE | 0x1C | Branch if Negative or Equal Flag set |
+| BRLE | 0x1D | Branch if Less than or Equal Flag set |
+| BRL | 0x1E | Branch if Less than Flag set |
+| BRN | 0x1F | Branch if Negative Flag set |
 | BRP |  | Branch if Positive Flag set |
 | BRNC |  | Branch if Greater than Flag set |
 | BRZ |  | Branch if Zero Flag set |
