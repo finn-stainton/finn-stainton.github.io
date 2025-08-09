@@ -1,18 +1,4 @@
-<script>
-	const HOME_DIR = "/";
+<h1 class="text-3xl font-bold underline">Welcome to SvelteKit</h1>
+<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
 
-	let currentDir = HOME_DIR;
-	const commands = ["cd", "ls"];
-
-	const cd = (dir: string) => {};
-</script>
-
-<svelte:head>
-	<title>Finn Stainton</title>
-	<meta name="description" content="Svelte demo app" />
-</svelte:head>
-
-<section />
-
-<style>
-</style>
+<style lang="postcss">  @reference "tailwindcss";  :global(html) {    background-color: theme(--color-gray-100);  }</style>
