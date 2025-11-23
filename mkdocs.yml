@@ -25,12 +25,10 @@ site_author: Finn Stainton
 
 # Copyright
 copyright: >-
-  
 
 # Configuration
 theme:
   name: material
-  custom_dir: material/overrides
 
   # Static files
   static_templates:
@@ -48,14 +46,14 @@ theme:
     - navigation.indexes
   palette:
     - scheme: default
-      primary: teal
-      accent: teal
+      primary: orange
+      accent: orange
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       primary: black
-      accent: teal
+      accent: oragne
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -65,11 +63,14 @@ theme:
   icon:
     logo: material/library
 
+nav:
+  - index.md
+  - Blog:
+      - blog/index.md
+
 # Plugins
 plugins:
-  - search
-  - blog:
-      archive: false
+  - blog
 
 # Customization
 extra:
@@ -88,8 +89,6 @@ markdown_extensions:
   - footnotes
   - meta
   - md_in_html
-  - toc:
-      permalink: true
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
@@ -123,8 +122,6 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
-
-
 #  - pymdownx.highlight
 #   - pymdownx.superfences
 #   - footnotes
